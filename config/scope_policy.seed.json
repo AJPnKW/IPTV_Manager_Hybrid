@@ -1,0 +1,55 @@
+{
+  "version": "0.1",
+  "purpose": "Seed policy for deciding which IPTV channels should be kept, reviewed, or excluded before generating TiviMate-ready outputs.",
+  "target_countries": ["CA", "US", "UK", "AU"],
+  "default_language": "English",
+  "default_decision": "review",
+  "include_rules": [
+    {
+      "name": "target_country_provider_lineups",
+      "description": "Keep channels from subscribed XMLTV lineup pulls unless a later scope rule excludes the category.",
+      "countries": ["CA", "US"],
+      "decision": "keep"
+    },
+    {
+      "name": "target_country_reference_channels",
+      "description": "Keep or review channels extracted from curated UK/AU reference inputs.",
+      "countries": ["UK", "AU"],
+      "decision": "review"
+    }
+  ],
+  "exclude_rules": [
+    {
+      "name": "non_target_country",
+      "description": "Exclude channels outside CA, US, UK, and AU unless manually allowed.",
+      "decision": "exclude"
+    },
+    {
+      "name": "sports_default",
+      "description": "Exclude sports channels by default unless manually allowed.",
+      "keywords": ["sport", "sports", "espn", "tsn", "bein", "willow", "racing", "golf", "nfl", "nba", "mlb", "nhl"],
+      "decision": "exclude"
+    },
+    {
+      "name": "non_english_default",
+      "description": "Exclude channels that are clearly non-English by default unless manually allowed.",
+      "decision": "exclude"
+    },
+    {
+      "name": "adult_default",
+      "description": "Exclude adult channels.",
+      "keywords": ["adult", "xxx", "18+"],
+      "decision": "exclude"
+    }
+  ],
+  "dedupe_policy": {
+    "m3u_unique_key": ["stream_url"],
+    "xmltv_unique_key": ["source_lineup_id", "source_channel_id"],
+    "same_channel_different_source": "keep_as_alternate",
+    "same_stream_url_duplicate": "merge_metadata"
+  },
+  "alternate_label_policy": {
+    "style": "ALT01",
+    "examples": ["CTV Toronto", "CTV Toronto ALT01", "CTV Toronto ALT02"]
+  }
+}

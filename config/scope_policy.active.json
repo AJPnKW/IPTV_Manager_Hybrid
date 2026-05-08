@@ -1,0 +1,165 @@
+{
+  "version": "0.2-active",
+  "purpose": "Seed policy for deciding which IPTV channels should be kept, reviewed, or excluded before generating TiviMate-ready outputs.",
+  "target_countries": [
+    "CA",
+    "US",
+    "UK",
+    "AU"
+  ],
+  "default_language": "English",
+  "default_decision": "review",
+  "include_rules": [
+    {
+      "name": "target_country_provider_lineups",
+      "description": "Keep channels from subscribed XMLTV lineup pulls unless a later scope rule excludes the category.",
+      "countries": [
+        "CA",
+        "US"
+      ],
+      "decision": "keep"
+    },
+    {
+      "name": "target_country_reference_channels",
+      "description": "Keep or review channels extracted from curated UK/AU reference inputs.",
+      "countries": [
+        "UK",
+        "AU"
+      ],
+      "decision": "review"
+    }
+  ],
+  "exclude_rules": [
+    {
+      "name": "non_target_country",
+      "description": "Exclude channels outside CA, US, UK, and AU unless manually allowed.",
+      "decision": "exclude"
+    },
+    {
+      "name": "sports_default",
+      "description": "Exclude sports channels by default unless manually allowed.",
+      "keywords": [
+        "sport",
+        "sports",
+        "espn",
+        "tsn",
+        "bein",
+        "willow",
+        "racing",
+        "golf",
+        "nfl",
+        "nba",
+        "mlb",
+        "nhl"
+      ],
+      "decision": "exclude"
+    },
+    {
+      "name": "non_english_default",
+      "description": "Exclude channels that are clearly non-English by default unless manually allowed.",
+      "decision": "exclude"
+    },
+    {
+      "name": "adult_default",
+      "description": "Exclude adult channels.",
+      "keywords": [
+        "adult",
+        "xxx",
+        "18+"
+      ],
+      "decision": "exclude"
+    }
+  ],
+  "dedupe_policy": {
+    "m3u_unique_key": [
+      "stream_url"
+    ],
+    "xmltv_unique_key": [
+      "source_lineup_id",
+      "source_channel_id"
+    ],
+    "same_channel_different_source": "keep_as_alternate",
+    "same_stream_url_duplicate": "merge_metadata",
+    "answer": "same_url"
+  },
+  "alternate_label_policy": {
+    "style": "ALT01",
+    "first_alternate": "ALT01",
+    "examples": [
+      "CTV Toronto",
+      "CTV Toronto ALT01",
+      "CTV Toronto ALT02"
+    ]
+  },
+  "generated_at": "2026-04-11T00:46:57Z",
+  "generated_from": "input/iptv_decision_workbook_answers.json",
+  "workbook_exported_at": "2026-04-11T00:43:41.313Z",
+  "language_policy": {
+    "answer": "english_only",
+    "decision": "exclude_non_english_by_default"
+  },
+  "category_policy": {
+    "sports": "exclude_default",
+    "religion": "exclude_default",
+    "government": "exclude_default",
+    "adult": "exclude_default",
+    "foreign_content": "exclude_default",
+    "notes": "english only, no religion, no sports, no government, no forigien contents "
+  },
+  "fast_policy": {
+    "answer": "include_target_country",
+    "include_providers": [
+      "Pluto",
+      "Plex"
+    ],
+    "exclude_providers": [
+      "Samsung TV Plus",
+      "Rakuten"
+    ],
+    "notes": "include Pluto and Plex but not Samsung and Rakuten, some Pluto and Plex i sill exlude as i see the scope list of them."
+  },
+  "provider_lineup_policy": {
+    "answer": "keep_all",
+    "keep_source_files_intact": true,
+    "reason": "Daily subscribed pulls are source-of-truth inputs and should be filtered downstream."
+  },
+  "output_segmentation": {
+    "answer": "country_category",
+    "mode": "country_category",
+    "examples": [
+      "CA_Local.m3u",
+      "US_News.m3u",
+      "UK_General.m3u",
+      "AU_General.m3u"
+    ]
+  },
+  "exclude_keywords": [
+    "assembly",
+    "bein",
+    "bible",
+    "church",
+    "espn",
+    "faith",
+    "foreign",
+    "god",
+    "golf",
+    "gospel",
+    "government",
+    "international",
+    "legislature",
+    "mlb",
+    "nba",
+    "nfl",
+    "nhl",
+    "parliament",
+    "racing",
+    "religion",
+    "religious",
+    "senate",
+    "sport",
+    "sports",
+    "tsn",
+    "willow",
+    "world language"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "exported_at": "2026-04-11T00:43:41.313Z",
+  "answers": {
+    "target_countries": {
+      "answer": "ca_us_uk_au",
+      "notes": "english only, no religion, no sports, no government, no forigien contents "
+    },
+    "sports_policy": {
+      "answer": "exclude_default"
+    },
+    "language_policy": {
+      "answer": "english_only"
+    },
+    "alternate_suffix": {
+      "answer": "ALT01"
+    },
+    "duplicate_policy": {
+      "answer": "same_url"
+    },
+    "fast_policy": {
+      "notes": "include Pluto and Plex but not Samsung and Rakuten, some Pluto and Plex i sill exlude as i see the scope list of them.",
+      "answer": "include_target_country"
+    },
+    "provider_lineups": {
+      "answer": "keep_all"
+    },
+    "output_segmentation": {
+      "answer": "country_category"
+    }
+  }
+}

@@ -1,5 +1,7 @@
 ﻿
 # Emergency git sync stabilization
+.my_notes/
+
 # Python cache/runtime
 __pycache__/
 *.py[cod]
@@ -60,6 +62,7 @@ report/active_progress/
 *.rar
 *.tar
 *.gz
+ouput/
 
 # Generated IPTV workflow leftovers
 **/*step*.m3u

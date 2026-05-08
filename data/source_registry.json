@@ -1,0 +1,54 @@
+{
+  "version": "0.1",
+  "generated_at": "2026-04-11T00:46:57Z",
+  "source_groups": [
+    {
+      "source_group_id": "local_m3u_collection",
+      "type": "m3u_directory",
+      "path": "C:\\Users\\andrew\\PROJECTS\\iptv\\collections\\inputs_for_tivimate\\m3u",
+      "role": "candidate_stream_sources",
+      "policy": "inventory_then_scope_filter"
+    },
+    {
+      "source_group_id": "subscribed_xmltv_provider_pulls",
+      "type": "xmltv_files",
+      "path": "C:\\Users\\andrew\\PROJECTS\\GitHub\\get_xmltvlisting\\IPTV",
+      "role": "authoritative_epg_sources",
+      "policy": "keep_source_files_intact_filter_downstream",
+      "files": [
+        "Broadcast_LosAngeles_CA_US_xmltv_10272.xml",
+        "Rogers_Toronto_ON_CA_xmltv_10270.xml",
+        "Telus_Optik_Vancouver_BC_CA_xmltv_10269.xml",
+        "Verizon_FIOS_NewYork_NY_US_xmltv_10273.xml",
+        "Xfinity_Chicago_IL_US_xmltv_10271.xml"
+      ]
+    },
+    {
+      "source_group_id": "curated_extended_input_reference",
+      "type": "html_reference",
+      "path": "C:\\Users\\andrew\\PROJECTS\\iptv\\temp\\XTENDED IPTV MASTER SECTIONS.html",
+      "role": "curated_uk_au_scope_reference",
+      "policy": "parse_to_review_then_scope_outputs"
+    },
+    {
+      "source_group_id": "prior_scope_outputs",
+      "type": "generated_reference",
+      "path": "C:\\Users\\andrew\\PROJECTS\\GitHub\\get_xmltvlisting\\IPTV\\scope_outputs",
+      "role": "current_seeded_country_scope_outputs",
+      "policy": "use_as_seed_not_final_truth"
+    }
+  ],
+  "publish_targets": [
+    {
+      "target_id": "hp920_lan",
+      "base_url": "http://192.168.1.73:8011/iptv-epg/",
+      "role": "local_network_tivimate_access"
+    },
+    {
+      "target_id": "github",
+      "base_url": "https://github.com/AJPnKW/get_xmltvlisting/tree/main/IPTV",
+      "role": "versioned_remote_reference"
+    }
+  ],
+  "manager_repo": "C:\\Users\\andrew\\PROJECTS\\GitHub\\IPTV_Manager_Hybrid"
+}

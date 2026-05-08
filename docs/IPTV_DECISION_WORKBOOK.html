@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IPTV Decisions Workbook</title>
+  <style>
+    :root { --bg:#f4efe7; --panel:#fffdf8; --ink:#172126; --muted:#657177; --line:#d7cdbf; --accent:#0b617e; --rec:#0d735c; }
+    body { margin:0; font-family:"Segoe UI",Tahoma,sans-serif; background:linear-gradient(180deg,#fbf8f1,var(--bg)); color:var(--ink); }
+    .wrap { max-width:1220px; margin:0 auto; padding:24px 18px 44px; }
+    .panel { background:var(--panel); border:1px solid var(--line); border-radius:18px; padding:20px; margin:0 0 18px; box-shadow:0 16px 36px rgba(23,33,38,.08); }
+    h1,h2,h3 { margin:0 0 10px; line-height:1.12; }
+    p { margin:0 0 10px; color:var(--muted); }
+    .q { border:1px solid var(--line); border-radius:14px; padding:14px; margin:12px 0; background:#fff; }
+    .options { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:10px; margin-top:10px; }
+    label.option { display:block; border:1px solid var(--line); border-radius:12px; padding:12px; cursor:pointer; }
+    label.option.recommended { border-color:#86bda8; background:#f1faf6; }
+    .tag { display:inline-block; border-radius:999px; padding:3px 8px; background:var(--accent); color:#fff; font-size:.72rem; font-weight:700; }
+    .tag.rec { background:var(--rec); }
+    textarea { width:100%; min-height:72px; margin-top:10px; border:1px solid var(--line); border-radius:12px; padding:10px; font:inherit; }
+    button { border:1px solid var(--accent); border-radius:12px; padding:10px 12px; background:var(--accent); color:#fff; font-weight:700; cursor:pointer; }
+    pre { white-space:pre-wrap; background:#efe7dc; padding:12px; border-radius:12px; overflow:auto; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="panel">
+      <h1>IPTV Decisions Workbook</h1>
+      <p>Answer what you can. Every question includes an “I don’t know” option. Use Export JSON when done, then tell Codex the file is ready.</p>
+      <button id="exportBtn">Export Answers JSON</button>
+      <button id="showBtn">Show Current Answers</button>
+      <pre id="preview" hidden></pre>
+    </section>
+
+    <section class="panel" id="questions"></section>
+  </div>
+
+  <script>
+    const questions = [
+      {
+        id: "target_countries",
+        title: "Target countries for first production build",
+        prompt: "Which countries should the first production output include?",
+        recommended: "ca_us_uk_au",
+        options: [
+          ["ca_us_uk_au", "CA, US, UK, AU", "Recommended. Matches your stated scope and existing provider pulls."],
+          ["ca_us_only", "CA and US only", "Simpler first build, but delays UK/AU work."],
+          ["dont_know", "I don't know", "Codex will use CA, US, UK, AU."]
+        ]
+      },
+      {
+        id: "sports_policy",
+        title: "Sports channel policy",
+        prompt: "How should sports channels be handled?",
+        recommended: "exclude_default",
+        options: [
+          ["exclude_default", "Exclude by default", "Recommended based on your stated preference."],
+          ["review", "Put in review", "Keeps sports visible but not active."],
+          ["dont_know", "I don't know", "Codex will exclude by default."]
+        ]
+      },
+      {
+        id: "language_policy",
+        title: "Language policy",
+        prompt: "How should clearly non-English channels be handled?",
+        recommended: "english_only",
+        options: [
+          ["english_only", "English only", "Recommended. Reduces noise heavily."],
+          ["review_non_english", "Review non-English", "More complete but much more review work."],
+          ["dont_know", "I don't know", "Codex will use English-only default."]
+        ]
+      },
+      {
+        id: "alternate_suffix",
+        title: "Alternate channel naming",
+        prompt: "How should backup/alternate versions be labelled?",
+        recommended: "ALT01",
+        options: [
+          ["ALT01", "ALT01, ALT02", "Recommended. Sorts well and is clear in IPTV apps."],
+          ["B01", "B01, B02", "Shorter but less obvious."],
+          ["dont_know", "I don't know", "Codex will use ALT01, ALT02."]
+        ]
+      },
+      {
+        id: "duplicate_policy",
+        title: "Duplicate policy",
+        prompt: "What counts as a duplicate in M3U outputs?",
+        recommended: "same_url",
+        options: [
+          ["same_url", "Only same stream URL", "Recommended. Same channel with different URL stays as alternate."],
+          ["same_name", "Same channel name", "More aggressive and may delete useful backups."],
+          ["dont_know", "I don't know", "Codex will dedupe only same stream URL."]
+        ]
+      },
+      {
+        id: "fast_policy",
+        title: "FAST channel policy",
+        prompt: "How should Pluto/Samsung/Plex/Rakuten FAST channels be handled?",
+        recommended: "review_later",
+        options: [
+          ["review_later", "Review later", "Recommended. Prevents FAST channels from overwhelming the first build."],
+          ["include_target_country", "Include target-country FAST", "More content, more clutter."],
+          ["dont_know", "I don't know", "Codex will review later."]
+        ]
+      },
+      {
+        id: "provider_lineups",
+        title: "Provider XMLTV lineups",
+        prompt: "Should subscribed provider lineup channels be kept as authoritative EPG sources?",
+        recommended: "keep_all",
+        options: [
+          ["keep_all", "Keep all provider lineup channels", "Recommended. Scope later; do not damage source pulls."],
+          ["filter_now", "Filter provider files directly", "Risky because the daily pull is limited."],
+          ["dont_know", "I don't know", "Codex will keep all source provider pulls."]
+        ]
+      },
+      {
+        id: "output_segmentation",
+        title: "Output file segmentation",
+        prompt: "How should final TiviMate files be split?",
+        recommended: "country_category",
+        options: [
+          ["country_category", "By country and category", "Recommended. Easier to enable/disable in TiviMate."],
+          ["country_only", "By country only", "Simpler but less control."],
+          ["dont_know", "I don't know", "Codex will use country and category."]
+        ]
+      }
+    ];
+
+    const storageKey = "iptv_decision_workbook_answers_v1";
+    const answers = JSON.parse(localStorage.getItem(storageKey) || "{}");
+    const root = document.getElementById("questions");
+
+    function save() { localStorage.setItem(storageKey, JSON.stringify(answers, null, 2)); }
+    function render() {
+      root.innerHTML = "<h2>Questions</h2>" + questions.map(q => `
+        <div class="q">
+          <h3>${q.title}</h3>
+          <p>${q.prompt}</p>
+          <div class="options">
+            ${q.options.map(([value,label,impact]) => `
+              <label class="option ${value === q.recommended ? "recommended" : ""}">
+                <input type="radio" name="${q.id}" value="${value}" ${answers[q.id]?.answer === value ? "checked" : ""}>
+                <strong>${label}</strong> ${value === q.recommended ? '<span class="tag rec">Recommended</span>' : ""}
+                <p>${impact}</p>
+              </label>
+            `).join("")}
+          </div>
+          <textarea data-notes="${q.id}" placeholder="Optional notes or preference">${answers[q.id]?.notes || ""}</textarea>
+        </div>
+      `).join("");
+      root.querySelectorAll("input[type=radio]").forEach(input => input.addEventListener("change", e => {
+        answers[e.target.name] = answers[e.target.name] || {};
+        answers[e.target.name].answer = e.target.value;
+        save();
+      }));
+      root.querySelectorAll("textarea").forEach(area => area.addEventListener("input", e => {
+        const id = e.target.dataset.notes;
+        answers[id] = answers[id] || {};
+        answers[id].notes = e.target.value;
+        save();
+      }));
+    }
+    function payload() {
+      return { exported_at: new Date().toISOString(), answers };
+    }
+    document.getElementById("showBtn").addEventListener("click", () => {
+      const pre = document.getElementById("preview");
+      pre.hidden = !pre.hidden;
+      pre.textContent = JSON.stringify(payload(), null, 2);
+    });
+    document.getElementById("exportBtn").addEventListener("click", () => {
+      const blob = new Blob([JSON.stringify(payload(), null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "iptv_decision_workbook_answers.json";
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+    });
+    render();
+  </script>
+</body>
+</html>

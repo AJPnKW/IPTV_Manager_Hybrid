@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IPTV Production Pipeline Blueprint</title>
+  <style>
+    :root { --bg:#f3efe7; --panel:#fffdf8; --ink:#172126; --muted:#657177; --line:#d7cdbf; --accent:#0b617e; --good:#0d735c; --warn:#9a6500; }
+    body { margin:0; font-family:"Segoe UI",Tahoma,sans-serif; background:linear-gradient(180deg,#fbf8f1,var(--bg)); color:var(--ink); }
+    .wrap { max-width:1200px; margin:0 auto; padding:24px 18px 44px; }
+    .panel { background:var(--panel); border:1px solid var(--line); border-radius:18px; padding:20px; margin:0 0 18px; box-shadow:0 16px 36px rgba(23,33,38,.08); }
+    h1,h2,h3 { margin:0 0 10px; line-height:1.12; }
+    p { margin:0 0 10px; color:var(--muted); }
+    table { width:100%; border-collapse:collapse; }
+    th,td { text-align:left; vertical-align:top; padding:10px; border-bottom:1px solid var(--line); }
+    th { background:#ece4d8; text-transform:uppercase; letter-spacing:.05em; font-size:.78rem; }
+    code { background:#f0e8dc; padding:2px 5px; border-radius:6px; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px; }
+    .card { border:1px solid var(--line); border-radius:14px; padding:14px; background:#fff; }
+    .badge { display:inline-block; border-radius:999px; padding:4px 9px; color:#fff; font-size:.75rem; font-weight:700; background:var(--accent); }
+    .good { background:var(--good); }
+    .warn { background:var(--warn); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="panel">
+      <h1>IPTV Production Pipeline Blueprint</h1>
+      <p>This is the bridge between mixed input sources and TiviMate-ready M3U plus XMLTV/EPG outputs. It turns your current idea into a concrete production flow.</p>
+      <p><strong>Core principle:</strong> the stream URL and original XMLTV source/channel identity are source facts. They should not be rewritten. Names, groups, tvg-id, labels, scope, categories, and alternate suffixes can be normalized.</p>
+    </section>
+
+    <section class="panel">
+      <h2>Target End State</h2>
+      <div class="grid">
+        <div class="card"><span class="badge good">M3U</span><h3>Playable Inputs</h3><p>Country/category segmented playlists for TiviMate. Same channel may appear multiple times if the stream URL is different.</p></div>
+        <div class="card"><span class="badge good">XMLTV</span><h3>Guide Inputs</h3><p>Provider schedule pulls kept as authoritative EPG sources, with normalized channel IDs where final outputs require it.</p></div>
+        <div class="card"><span class="badge warn">Rosetta</span><h3>Mapping Layer</h3><p>A persistent translation table mapping raw input labels to canonical output naming and grouping.</p></div>
+        <div class="card"><span class="badge">Review</span><h3>Human Decisions</h3><p>HTML review pages for scope decisions, because the final scope cannot be trusted to raw playlists alone.</p></div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Pipeline Stages</h2>
+      <table>
+        <thead><tr><th>Stage</th><th>What Happens</th><th>Output</th></tr></thead>
+        <tbody>
+          <tr><td>1. Source Registry</td><td>Record every local file, internet URL, GitHub repo file, and subscribed XMLTV lineup pull as an input source.</td><td><code>data/source_registry.json</code></td></tr>
+          <tr><td>2. Raw Inventory</td><td>Parse M3U entries and XMLTV channels without changing meaning. Capture source file, URL, labels, group-title, tvg-id, channel ID, lineup ID.</td><td><code>reports/input_inventory.json</code></td></tr>
+          <tr><td>3. Scope Filter</td><td>Apply country/language/category rules. Default scope is CA, US, UK, AU; English; no sports; no adult; no non-English unless allowed.</td><td><code>data/scope_decisions.json</code></td></tr>
+          <tr><td>4. Rosetta Mapping</td><td>Translate raw channel names/groups into canonical names, groups, tvg-id values, and alternate numbering.</td><td><code>data/rosetta_mappings.json</code></td></tr>
+          <tr><td>5. Alternate Handling</td><td>Keep records with different stream URLs or different XMLTV source identities. Add ALT01/ALT02 labels for same canonical channel.</td><td><code>reports/alternates_report.html</code></td></tr>
+          <tr><td>6. Output Build</td><td>Emit segmented playlists and guide files.</td><td><code>output/tivimate/*.m3u</code> and <code>output/tivimate/*.xml</code></td></tr>
+          <tr><td>7. Publish</td><td>Copy production files to GitHub/HP920 hosted paths.</td><td>URLs for TiviMate</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="panel">
+      <h2>Important Validation Of Your Logic</h2>
+      <table>
+        <thead><tr><th>Question</th><th>Answer</th></tr></thead>
+        <tbody>
+          <tr><td>Can the same channel appear multiple times?</td><td>Yes, if the stream URL or schedule source identity is different. These are alternates/backups, not duplicates.</td></tr>
+          <tr><td>What is a duplicate M3U record?</td><td>Same target stream URL. If URL is the same, merge metadata and keep one active output record.</td></tr>
+          <tr><td>What is a duplicate XMLTV schedule record?</td><td>Same source lineup ID plus source channel ID. Different providers can carry similar channel names and should remain separate until mapped.</td></tr>
+          <tr><td>Can names/groups/tvg-id be transformed?</td><td>Yes. These are presentation and matching fields. The Rosetta file exists to make those transformations repeatable.</td></tr>
+          <tr><td>What cannot be transformed?</td><td>The actual stream URL and original provider/source identity should be preserved as source facts. Final output may reference them, but should not pretend they are different.</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="panel">
+      <h2>Recommended First Production Scope</h2>
+      <p>Do not try to normalize every public IPTV playlist at once. Start with a narrow build that proves the flow.</p>
+      <table>
+        <thead><tr><th>Include First</th><th>Review Later</th><th>Exclude By Default</th></tr></thead>
+        <tbody>
+          <tr><td>Subscribed provider XMLTV lineups for CA/US</td><td>UK/AU curated reference channels</td><td>Sports</td></tr>
+          <tr><td>Local M3U files clearly marked CA/US/UK/AU</td><td>FAST channels from Pluto/Samsung/Plex/Rakuten</td><td>Adult</td></tr>
+          <tr><td>English news/local/general entertainment</td><td>IPTV-org broad global files</td><td>Non-English and non-target countries</td></tr>
+        </tbody>
+      </table>
+    </section>
+  </div>
+</body>
+</html>

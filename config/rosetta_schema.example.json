@@ -1,0 +1,48 @@
+{
+  "version": "0.1",
+  "purpose": "Rosetta mapping structure for translating varied input playlist and XMLTV labels into normalized TiviMate output records.",
+  "mapping_key_rules": {
+    "m3u_record_identity": "stream_url",
+    "xmltv_schedule_identity": "source_lineup_id + source_channel_id",
+    "canonical_channel_identity": "normalized_country + normalized_network + normalized_callsign_or_channel_name + normalized_region"
+  },
+  "fields_that_must_not_be_changed": [
+    "source_stream_url",
+    "source_xmltv_url",
+    "source_lineup_id",
+    "source_channel_id"
+  ],
+  "fields_that_can_be_normalized": [
+    "output_channel_name",
+    "output_tvg_id",
+    "output_tvg_name",
+    "output_group_title",
+    "output_logo_url",
+    "output_country",
+    "output_language",
+    "output_category",
+    "output_sort_key"
+  ],
+  "example_mapping": {
+    "source": {
+      "source_id": "example_m3u_local_us",
+      "source_file_or_url": "C:\\Users\\andrew\\PROJECTS\\iptv\\collections\\inputs_for_tivimate\\m3u\\example.m3u",
+      "source_record_name": "US CTV CFTO Toronto Backup NO_1",
+      "source_tvg_id": "cfto.ca",
+      "source_group_title": "Canada Local",
+      "source_stream_url": "https://example.invalid/cfto/index.m3u8"
+    },
+    "normalized": {
+      "canonical_channel_id": "ca.ctv.cfto.toronto",
+      "output_channel_name": "CTV Toronto",
+      "output_tvg_id": "ca.ctv.cfto.toronto.alt01",
+      "output_tvg_name": "CTV Toronto ALT01",
+      "output_group_title": "CA | Local | CTV",
+      "output_country": "CA",
+      "output_language": "English",
+      "output_category": "Local",
+      "alternate_number": 1,
+      "scope_decision": "keep"
+    }
+  }
+}
