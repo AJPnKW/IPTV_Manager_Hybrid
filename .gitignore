@@ -1,0 +1,74 @@
+﻿
+# Emergency git sync stabilization
+# Python cache/runtime
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Node/frontend cache/runtime
+node_modules/
+.parcel-cache/
+.vite/
+.next/
+.nuxt/
+
+# Build/dist/temp
+build/
+dist/
+tmp/
+temp/
+.tmp/
+.temp/
+
+# Logs and local runtime files
+*.log
+*.log.txt
+*.tmp
+*.bak
+*.old
+*.orig
+*.sqlite-shm
+*.sqlite-wal
+.DS_Store
+Thumbs.db
+
+# Cleanup quarantine
+_cleanup_quarantine/
+
+# Generated report bundles
+reports/active_progress/bundles/**/*.zip
+reports/active_progress/bundles/
+reports/active_progress/exports/
+
+# Bulk copied/generated IPTV workspaces
+repos/
+report/active_progress/
+
+# Archive/compressed artifacts
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Generated IPTV workflow leftovers
+**/*step*.m3u
+**/*step*.m3u8
+**/*step*.xml
+**/*step*.xmltv
+**/*step*.xml.gz
+**/*steps*.m3u
+**/*steps*.m3u8
+**/*steps*.xml
+**/*steps*.xmltv
+**/*steps*.xml.gz
