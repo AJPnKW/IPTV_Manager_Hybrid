@@ -679,12 +679,12 @@ try {
         }
 
         $pullResult = Invoke-Git -Arguments @('pull', '--rebase', '--autostash') -OutputFile (Join-Path $RunRoot 'git_pull_result.txt') -IgnoreExitCode
-        if (-not $pullResult.Succeeded) {
+        if ($pullResult.ExitCode -ne 0) {
             throw ('Pull failed. No push attempted. See git_pull_result.txt. {0}' -f $pullResult.StdErr)
         }
 
         $pushResult = Invoke-Git -Arguments @('push', '-u', 'origin', 'main') -OutputFile (Join-Path $RunRoot 'git_push_result.txt') -IgnoreExitCode
-        if (-not $pushResult.Succeeded) {
+        if ($pushResult.ExitCode -ne 0) {
             throw ('Push failed. No force push attempted. See git_push_result.txt. {0}' -f $pushResult.StdErr)
         }
 
