@@ -75,3 +75,6 @@ ouput/
 **/*steps*.xml
 **/*steps*.xmltv
 **/*steps*.xml.gz
+
+# Generated review-scale data
+data/m3u_scope_candidates.records.json
