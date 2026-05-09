@@ -1,0 +1,2681 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\XML TV Listings\\xmltv-9329.xml",
+  "provider": "Xmltv9329",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "CNN (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNN",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10142_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "70.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "CNN",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10142_h15_aa.png",
+        "xmltv_categories": [
+          "News",
+          "Regular",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Food Network Usa Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Food Network USA - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s12574_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "1054.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Food Network USA - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s12574_h15_ab.png",
+        "xmltv_categories": [
+          "Christmas",
+          "Food",
+          "Game Shows",
+          "Paid Program",
+          "Reality TV",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Cooking Channel (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Cooking Channel",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s30156_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "4226.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "The Cooking Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s30156_h15_aa.png",
+        "xmltv_categories": [
+          "Christmas",
+          "Food",
+          "Paid Program",
+          "Reality TV",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bravo Usa Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bravo USA - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10057_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "646.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Bravo USA - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10057_h15_ab.png",
+        "xmltv_categories": [
+          "Movie",
+          "Reality TV",
+          "Talk Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hsn Home Shopping Network (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HSN  - Home Shopping Network",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10269_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "14985.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "HSN  - Home Shopping Network",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10269_h15_ab.png",
+        "xmltv_categories": [
+          "Fashion",
+          "Regular",
+          "Shopping",
+          "TBA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Usa Network Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA Network - East Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11207_h15_af.png",
+        "stream_url": null,
+        "xmltv_id": "640.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "USA Network - East Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11207_h15_af.png",
+        "xmltv_categories": [
+          "Documentary",
+          "Drama",
+          "Movie",
+          "News Magazine",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Syfy Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Syfy - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11097_h15_ae.png",
+        "stream_url": null,
+        "xmltv_id": "596.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Syfy - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11097_h15_ae.png",
+        "xmltv_categories": [
+          "Drama",
+          "Movie",
+          "Paid Program",
+          "Sci-Fi"
+        ]
+      }
+    },
+    {
+      "canonical_name": "TNT Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TNT - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11164_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "347.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "TNT - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11164_h15_ac.png",
+        "xmltv_categories": [
+          "Drama",
+          "Movie",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "TBS (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TBS - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11867_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "61.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "TBS - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11867_h15_ac.png",
+        "xmltv_categories": [
+          "Animated",
+          "Movie",
+          "Reality TV",
+          "Sitcom",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FX Networks Coast (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FX Networks East Coast",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s14321_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "652.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "FX Networks East Coast",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s14321_h15_aa.png",
+        "xmltv_categories": [
+          "Movie",
+          "Paid Program",
+          "Sitcom"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Comedy Central Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Comedy Central (US) - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10149_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "647.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Comedy Central (US) - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10149_h15_ab.png",
+        "xmltv_categories": [
+          "Animated",
+          "Movie",
+          "Sitcom",
+          "Talk Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Oxygen True Crime Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Oxygen True Crime - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s21484_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "659.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Oxygen True Crime - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s21484_h15_ac.png",
+        "xmltv_categories": [
+          "Docu-Series",
+          "Documentary",
+          "Legal",
+          "News Magazine",
+          "Reality TV",
+          "Regular"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lifetime Network Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Lifetime Network US - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10918_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "654.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Lifetime Network US - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10918_h15_ac.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Drama",
+          "Home",
+          "Movie",
+          "Paid Program",
+          "Religious",
+          "Talk Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lifetime Movies (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Lifetime Movies - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s18480_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "1333.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Lifetime Movies - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s18480_h15_ad.png",
+        "xmltv_categories": [
+          "Movie",
+          "Paid Program"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Amc Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10021_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "177.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "AMC - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10021_h15_ab.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Drama",
+          "Movie",
+          "Paid Program",
+          "Sitcom"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FX Movie Channel (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FX Movie Channel",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s70253_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "1308.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "FX Movie Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s70253_h15_aa.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FXX Usa (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FXX USA - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s17927_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "1952.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "FXX USA - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s17927_h15_aa.png",
+        "xmltv_categories": [
+          "Animated",
+          "Movie",
+          "Paid Program"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Discovery Life Channel (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Discovery Life Channel",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s16125_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "1273.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Discovery Life Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s16125_h15_ac.png",
+        "xmltv_categories": [
+          "Documentary",
+          "Health",
+          "Reality TV",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC America (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC America - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s18332_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "615.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "BBC America - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s18332_h15_aa.png",
+        "xmltv_categories": [
+          "Animals",
+          "Comedy",
+          "Documentary",
+          "Drama",
+          "Environmental",
+          "Miniseries",
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "A E Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "A&E US - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10035_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "2.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "A&E US - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10035_h15_ab.png",
+        "xmltv_categories": [
+          "Documentary",
+          "Home",
+          "Paid Program",
+          "Reality TV",
+          "Regular",
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fyi Usa (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FYI USA - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s58988_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "1971.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "FYI USA - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s58988_h15_aa.png",
+        "xmltv_categories": [
+          "Automotive",
+          "Food",
+          "Game Shows",
+          "Paid Program",
+          "Reality TV",
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "History Channel Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "History Channel US - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s14771_h15_af.png",
+        "stream_url": null,
+        "xmltv_id": "621.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "History Channel US - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s14771_h15_af.png",
+        "xmltv_categories": [
+          "Documentary",
+          "History",
+          "Paid Program",
+          "Paranormal",
+          "Reality TV",
+          "Religious",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vice (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "VICE",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s18822_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "624.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "VICE",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s18822_h15_ac.png",
+        "xmltv_categories": [
+          "Automotive",
+          "Docu-Series",
+          "Documentary",
+          "History",
+          "Movie",
+          "Paid Program",
+          "Reality TV",
+          "Specials",
+          "Sports",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Logo (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "LOGO - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s46762_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "2091.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "LOGO - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s46762_h15_aa.png",
+        "xmltv_categories": [
+          "Game Shows",
+          "Sitcom"
+        ]
+      }
+    },
+    {
+      "canonical_name": "National Geographic (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "National Geographic US - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s24959_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "657.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "National Geographic US - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s24959_h15_ab.png",
+        "xmltv_categories": [
+          "Animals",
+          "Documentary",
+          "History",
+          "Movie",
+          "Paid Program",
+          "Reality TV",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Discovery Channel Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Discovery Channel (US) - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11150_h15_af.png",
+        "stream_url": null,
+        "xmltv_id": "649.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Discovery Channel (US) - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11150_h15_af.png",
+        "xmltv_categories": [
+          "Automotive",
+          "Docu-Series",
+          "Documentary",
+          "History",
+          "Instructional",
+          "Reality TV",
+          "Regular",
+          "Sci-Fi",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Oprah Winfrey Network Usa (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Oprah Winfrey Network USA Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s70387_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "1159.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Oprah Winfrey Network USA Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s70387_h15_aa.png",
+        "xmltv_categories": [
+          "Home",
+          "News Magazine",
+          "Reality TV",
+          "Regular"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tlc Usa (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TLC USA - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11158_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "5005.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "TLC USA - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11158_h15_ad.png",
+        "xmltv_categories": [
+          "Documentary",
+          "Health",
+          "Miniseries",
+          "Reality TV",
+          "Talk Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Animal Planet (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Animal Planet US - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s16331_h9_ad.png",
+        "stream_url": null,
+        "xmltv_id": "645.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Animal Planet US - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s16331_h9_ad.png",
+        "xmltv_categories": [
+          "Animals",
+          "Documentary",
+          "Performing Arts",
+          "Reality TV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "National Geographic Wild (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "National Geographic Wild",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s66804_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "7537.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "National Geographic Wild",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s66804_h15_ab.png",
+        "xmltv_categories": [
+          "Animals",
+          "Documentary",
+          "Paid Program",
+          "Reality TV",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Science (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Science",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s16616_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "1960.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Science",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s16616_h15_ab.png",
+        "xmltv_categories": [
+          "Documentary",
+          "Game Shows",
+          "History",
+          "Reality TV",
+          "Science",
+          "Specials",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Investigation Discovery Usa (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Investigation Discovery USA - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s16615_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "2090.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Investigation Discovery USA - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s16615_h15_ad.png",
+        "xmltv_categories": [
+          "Biography",
+          "Docu-Series",
+          "Documentary",
+          "Miniseries",
+          "News Magazine",
+          "Reality TV",
+          "Regular",
+          "Specials",
+          "TBA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Disney Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Disney - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10171_h15_ae.png",
+        "stream_url": null,
+        "xmltv_id": "595.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Disney - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10171_h15_ae.png",
+        "xmltv_categories": [
+          "Animated",
+          "Children",
+          "Comedy",
+          "Movie",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Disney Pacific Feed (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Disney - Pacific Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10171_h15_ae.png",
+        "stream_url": null,
+        "xmltv_id": "1271.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Disney - Pacific Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10171_h15_ae.png",
+        "xmltv_categories": [
+          "Animated",
+          "Children",
+          "Comedy",
+          "Movie",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Discovery Family Channel (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Discovery Family Channel",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s16618_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "4225.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Discovery Family Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s16618_h15_ab.png",
+        "xmltv_categories": [
+          "Animals",
+          "Animated",
+          "Children",
+          "Christmas",
+          "Food",
+          "Movie",
+          "Reality TV",
+          "Regular",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Land (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV Land - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s16123_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "1252.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "TV Land - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s16123_h15_aa.png",
+        "xmltv_categories": [
+          "Drama",
+          "Sitcom",
+          "Talk Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ion Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ION  - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s18633_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "1274.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "ION  - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s18633_h15_ad.png",
+        "xmltv_categories": [
+          "Animals",
+          "Drama",
+          "Paid Program",
+          "Religious",
+          "Science"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cmt Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CMT US - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10138_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "1076.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "CMT US - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10138_h15_ab.png",
+        "xmltv_categories": [
+          "Movie",
+          "Music",
+          "Sitcom",
+          "TBA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtv Usa Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MTV USA - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10986_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "656.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "MTV USA - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10986_h15_aa.png",
+        "xmltv_categories": [
+          "Fashion",
+          "Game Shows",
+          "Movie",
+          "Performing Arts",
+          "Reality TV",
+          "Sitcom"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtv 2 (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MTV 2 - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s16361_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "1515.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "MTV 2 - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s16361_h15_aa.png",
+        "xmltv_categories": [
+          "Arts & Entertainment",
+          "Comedy",
+          "Reality TV",
+          "Sitcom"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vh1 Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "VH1 - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11218_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "663.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "VH1 - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11218_h15_ac.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Game Shows",
+          "Movie",
+          "Paid Program",
+          "Reality TV",
+          "Sitcom",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtv Classic (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MTV Classic - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s22561_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "2093.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "MTV Classic - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s22561_h15_ad.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC News North America (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC News - North America HD",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s36844_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "10294.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "BBC News - North America HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s36844_h15_ad.png",
+        "xmltv_categories": [
+          "Business",
+          "Documentary",
+          "News",
+          "Sports",
+          "Talk Shows",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cnbc Usa (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNBC USA",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v3/10139-4F36.png",
+        "stream_url": null,
+        "xmltv_id": "201.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "CNBC USA",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v3/10139-4F36.png",
+        "xmltv_categories": [
+          "Arts & Entertainment",
+          "Business",
+          "Documentary",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Reality TV",
+          "Specials",
+          "Sports",
+          "Talk Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ms Now Usa (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MS NOW USA",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v3/16300-7F58.png",
+        "stream_url": null,
+        "xmltv_id": "655.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "MS NOW USA",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v3/16300-7F58.png",
+        "xmltv_categories": [
+          "News",
+          "News Magazine"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cnbc World (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNBC World",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v3/26849-D1C2.png",
+        "stream_url": null,
+        "xmltv_id": "2664.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "CNBC World",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v3/26849-D1C2.png",
+        "xmltv_categories": [
+          "Business",
+          "Documentary",
+          "Environmental",
+          "Home",
+          "News",
+          "News Magazine",
+          "Reality TV",
+          "Regular",
+          "Specials",
+          "Talk Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Comedy Tv (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Comedy.TV",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s80740_h9_aa.png",
+        "stream_url": null,
+        "xmltv_id": "14995.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Comedy.TV",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s80740_h9_aa.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Environmental",
+          "Game Shows",
+          "Paid Program"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mbc Drama Korean (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MBC Drama (Korean)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": null,
+        "xmltv_id": "15014.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "MBC Drama (Korean)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Documentary",
+          "Drama",
+          "History",
+          "Local",
+          "Performing Arts",
+          "Variety"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Network (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "PBS - Network HD - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s33453_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "4259.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "PBS - Network HD - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s33453_h15_ad.png",
+        "xmltv_categories": [
+          "Animals",
+          "Animated",
+          "Automotive",
+          "Children",
+          "Discussion",
+          "Documentary",
+          "Drama",
+          "Food",
+          "History",
+          "Hobbies & Crafts",
+          "Home",
+          "Music",
+          "News",
+          "Reality TV",
+          "Regular",
+          "Science",
+          "Specials",
+          "Talk Shows",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS Wcbs Ny (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBS (WCBS) New York, NY",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10098_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "1766.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "CBS (WCBS) New York, NY",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10098_h15_ac.png",
+        "xmltv_categories": [
+          "Animals",
+          "Comedy",
+          "Drama",
+          "Environmental",
+          "Game Shows",
+          "Instructional",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Political",
+          "Reality TV",
+          "Regular",
+          "Religious",
+          "Science",
+          "Sitcom",
+          "Soaps",
+          "Specials",
+          "Sports",
+          "TBA",
+          "Talk Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS Kcbs (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBS (KCBS) Los Angeles, CA",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s28711_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "2172.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "CBS (KCBS) Los Angeles, CA",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s28711_h15_ab.png",
+        "xmltv_categories": [
+          "Animals",
+          "Comedy",
+          "Drama",
+          "Game Shows",
+          "Instructional",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Reality TV",
+          "Regular",
+          "Religious",
+          "Science",
+          "Sitcom",
+          "Soaps",
+          "Specials",
+          "Sports",
+          "TBA",
+          "Talk Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Wnbc Ny (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC (WNBC) New York, NY",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10991_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "1767.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "NBC (WNBC) New York, NY",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10991_h15_ad.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Documentary",
+          "Drama",
+          "Game Shows",
+          "Home",
+          "Instructional",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Reality TV",
+          "Religious",
+          "Sitcom",
+          "Specials",
+          "Sports",
+          "TBA",
+          "Talk Shows",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Knbc (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC (KNBC) Los Angeles, CA",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10991_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "2588.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "NBC (KNBC) Los Angeles, CA",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10991_h15_ad.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Documentary",
+          "Drama",
+          "Game Shows",
+          "Home",
+          "Instructional",
+          "Local",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Reality TV",
+          "Religious",
+          "Sitcom",
+          "Specials",
+          "Sports",
+          "Talk Shows",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CW Kfmb Tv2 (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CW (KFMB-TV2) San Diego, CA",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s51306_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "10264.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "CW (KFMB-TV2) San Diego, CA",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s51306_h15_ac.png",
+        "xmltv_categories": [
+          "Animals",
+          "Business",
+          "Documentary",
+          "Drama",
+          "Environmental",
+          "Game Shows",
+          "Home",
+          "Instructional",
+          "Legal",
+          "Local",
+          "Movie",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Performing Arts",
+          "Political",
+          "Reality TV",
+          "Regular",
+          "Religious",
+          "Sitcom",
+          "Specials",
+          "Sports",
+          "Talk Shows",
+          "Travel",
+          "Variety"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Wabc Ny (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABC (WABC) New York, NY",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10003_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "1769.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "ABC (WABC) New York, NY",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10003_h15_ac.png",
+        "xmltv_categories": [
+          "Animals",
+          "Drama",
+          "Environmental",
+          "Game Shows",
+          "Local",
+          "Movie",
+          "News",
+          "News Magazine",
+          "Reality TV",
+          "Regular",
+          "Sitcom",
+          "Soaps",
+          "Specials",
+          "Sports",
+          "Talk Shows",
+          "Travel",
+          "Variety"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Kabc (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABC (KABC) Los Angeles, CA",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s28708_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "2589.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "ABC (KABC) Los Angeles, CA",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s28708_h15_ac.png",
+        "xmltv_categories": [
+          "Animals",
+          "Drama",
+          "Game Shows",
+          "Movie",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Reality TV",
+          "Regular",
+          "Sitcom",
+          "Soaps",
+          "Specials",
+          "Sports",
+          "Talk Shows",
+          "Variety"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox Wnyw Ny (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FOX (WNYW) New York, NY",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "1638.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "FOX (WNYW) New York, NY",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+        "xmltv_categories": [
+          "Animals",
+          "Comedy",
+          "Drama",
+          "Food",
+          "Game Shows",
+          "Music",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Reality TV",
+          "Regular",
+          "Religious",
+          "Science",
+          "Specials",
+          "Sports",
+          "TBA",
+          "Talk Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox Kttv (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FOX (KTTV) Los Angeles, CA",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "1949.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "FOX (KTTV) Los Angeles, CA",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+        "xmltv_categories": [
+          "Animals",
+          "Animated",
+          "Comedy",
+          "Drama",
+          "Fashion",
+          "Food",
+          "Game Shows",
+          "Music",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Reality TV",
+          "Science",
+          "Specials",
+          "Sports",
+          "TBA",
+          "Talk Shows",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Univision Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Univision - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11118_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "1305.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Univision - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11118_h15_ab.png",
+        "xmltv_categories": [
+          "Animated",
+          "Children",
+          "Comedy",
+          "Drama",
+          "Game Shows",
+          "Miniseries",
+          "Music",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Performing Arts",
+          "Reality TV",
+          "Sitcom",
+          "Soaps",
+          "Sports",
+          "Talk Shows",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Univision Pacific Feed (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Univision - Pacific Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11118_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "1306.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Univision - Pacific Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11118_h15_ab.png",
+        "xmltv_categories": [
+          "Animated",
+          "Children",
+          "Comedy",
+          "Drama",
+          "Game Shows",
+          "Miniseries",
+          "Music",
+          "News",
+          "News Magazine",
+          "Paid Program",
+          "Performing Arts",
+          "Reality TV",
+          "Sitcom",
+          "Soaps",
+          "Sports",
+          "Talk Shows",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "History Channel Espanol (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "History Channel Espanol - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s105678_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "3252.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "History Channel Espanol - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s105678_h15_ab.png",
+        "xmltv_categories": [
+          "Documentary",
+          "Game Shows",
+          "History",
+          "News",
+          "Paranormal",
+          "Reality TV",
+          "Religious",
+          "Sci-Fi"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtv Tr3s (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MTV Tr3s - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s18715_h15_ao.png",
+        "stream_url": null,
+        "xmltv_id": "3808.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "MTV Tr3s - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s18715_h15_ao.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "HBO Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HBO - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10240_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "614.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "HBO - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10240_h15_aa.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Drama",
+          "Movie",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "HBO Hits Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HBO Hits - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v3/10241-5002.png",
+        "stream_url": null,
+        "xmltv_id": "626.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "HBO Hits - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v3/10241-5002.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Drama",
+          "Movie",
+          "Specials",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "HBO Drama HBO 3 (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HBO Drama (HBO 3) - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v3/10243-5006.png",
+        "stream_url": null,
+        "xmltv_id": "1651.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "HBO Drama (HBO 3) - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v3/10243-5006.png",
+        "xmltv_categories": [
+          "Drama",
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "HBO Pacific Feed (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HBO - Pacific Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10240_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "1472.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "HBO - Pacific Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10240_h15_aa.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Drama",
+          "Movie",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "HBO 2 Pacific Feed (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HBO 2 - Pacific Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v3/10242-5004.png",
+        "stream_url": null,
+        "xmltv_id": "2205.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "HBO 2 - Pacific Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v3/10242-5004.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Drama",
+          "Movie",
+          "Specials",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "HBO Comedy (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HBO Comedy HD - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s59839_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "7105.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "HBO Comedy HD - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s59839_h15_aa.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Movie",
+          "Sitcom",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "HBO Zone (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HBO Zone HD - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v3/59845-1D38A.png",
+        "stream_url": null,
+        "xmltv_id": "7102.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "HBO Zone HD - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v3/59845-1D38A.png",
+        "xmltv_categories": [
+          "Documentary",
+          "Movie",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinemax Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinemax - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10120_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "632.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Cinemax - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10120_h15_ab.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinemax Pacific Feed (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinemax - Pacific Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10120_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "1215.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Cinemax - Pacific Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10120_h15_ab.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinemax Hits (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinemax Hits Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v3/10121-4F12.png",
+        "stream_url": null,
+        "xmltv_id": "634.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Cinemax Hits Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v3/10121-4F12.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinemax Action (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinemax Action - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v3/18433-9002.png",
+        "stream_url": null,
+        "xmltv_id": "1377.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Cinemax Action - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v3/18433-9002.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinemax Classics (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinemax Classics - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v3/25620-C828.png",
+        "stream_url": null,
+        "xmltv_id": "636.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Cinemax Classics - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v3/25620-C828.png",
+        "xmltv_categories": [
+          "Comedy",
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Thrillermax (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ThrillerMax - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s18435_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "1652.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "ThrillerMax - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s18435_h15_ad.png",
+        "xmltv_categories": [
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinemax (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinemax - Eastern HD",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s34933_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "3567.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Cinemax - Eastern HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s34933_h15_ab.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s12719_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "583.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s12719_h15_ac.png",
+        "xmltv_categories": [
+          "Drama",
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Pacific (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz - Pacific",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s12719_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "1217.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz - Pacific",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s12719_h15_ac.png",
+        "xmltv_categories": [
+          "Drama",
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Kids Family (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Kids & Family - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s19635_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "1194.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz Kids & Family - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s19635_h15_ab.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Comedy (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Comedy HD - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s57569_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "7088.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz Comedy HD - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s57569_h15_ac.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Edge (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Edge - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s16311_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "2120.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz Edge - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s16311_h15_ab.png",
+        "xmltv_categories": [
+          "Drama",
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz In Black (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz In Black - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s16833_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "1957.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz In Black - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s16833_h15_ac.png",
+        "xmltv_categories": [
+          "Documentary",
+          "Drama",
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Cinema (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Cinema HD - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s67236_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "7087.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz Cinema HD - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s67236_h15_ac.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Encore (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Encore - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10178_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "667.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz Encore - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10178_h15_ac.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Encore Pacific (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Encore - Pacific",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s10178_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "1218.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz Encore - Pacific",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s10178_h15_ac.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Encore Suspense (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Encore Suspense - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s14766_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "1958.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz Encore Suspense - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s14766_h15_ab.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Encore Action (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Encore Action - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s14871_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "2078.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Starz Encore Action - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s14871_h15_ab.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount With Showtime Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount+ with Showtime - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11115_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "665.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Paramount+ with Showtime - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11115_h15_ad.png",
+        "xmltv_categories": [
+          "Movie",
+          "Regular"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount With Showtime (Xmltv9329) (West) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount+ with Showtime  West",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11115_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "10734.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Paramount+ with Showtime  West",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11115_h15_ad.png",
+        "xmltv_categories": [
+          "Movie",
+          "Regular"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Showtime 2 (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime 2 - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11116_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "1387.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Showtime 2 - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11116_h15_aa.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Shoxbet (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "SHOXBET - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s20622_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "2077.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "SHOXBET - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s20622_h15_ad.png",
+        "xmltv_categories": [
+          "Movie",
+          "Specials",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Showtime Extreme (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime Extreme - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s18086_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "1615.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Showtime Extreme - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s18086_h15_aa.png",
+        "xmltv_categories": [
+          "Movie",
+          "Specials",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Showtime Showcase (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime Showcase HD - East",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s64328_h9_aa.png",
+        "stream_url": null,
+        "xmltv_id": "7106.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Showtime Showcase HD - East",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s64328_h9_aa.png",
+        "xmltv_categories": [
+          "Regular"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Showtime Next (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime Next HD - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s68342_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "7109.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Showtime Next HD - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s68342_h15_aa.png",
+        "xmltv_categories": [
+          "Movie",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tmc Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TMC (US) - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11160_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "666.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "TMC (US) - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11160_h15_aa.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tmc Pacific Feed (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TMC (US) - Pacific Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11160_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "1222.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "TMC (US) - Pacific Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11160_h15_aa.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tmc Xtra (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TMC Xtra HD - Eastern",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s60951_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "7113.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "TMC Xtra HD - Eastern",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s60951_h15_aa.png",
+        "xmltv_categories": [
+          "Movie"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Amc (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC+",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s114759_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "35317.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "AMC+",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s114759_h15_aa.png",
+        "xmltv_categories": [
+          "Documentary",
+          "Drama",
+          "History",
+          "Miniseries",
+          "Movie",
+          "Performing Arts",
+          "Reality TV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mgm Usa (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MGM HD (USA)",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s58530_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "6107.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "MGM HD (USA)",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s58530_h15_aa.png",
+        "xmltv_categories": [
+          "Regular"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sony Movies (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sony Movies",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s69091_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "17063.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Sony Movies",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s69091_h15_ab.png",
+        "xmltv_categories": [
+          "Drama",
+          "Miniseries",
+          "Movie",
+          "Reality TV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Smithsonian Channel Usa (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Smithsonian Channel USA HD",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s58532_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "6237.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Smithsonian Channel USA HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s58532_h15_aa.png",
+        "xmltv_categories": [
+          "Documentary",
+          "History",
+          "Instructional",
+          "Science",
+          "Specials",
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crime Investigation Network Usa (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crime & Investigation Network USA HD",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s61469_h15_ab.png",
+        "stream_url": null,
+        "xmltv_id": "6216.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Crime & Investigation Network USA HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s61469_h15_ab.png",
+        "xmltv_categories": [
+          "Biography",
+          "Computers & Technologies",
+          "Documentary",
+          "Legal",
+          "Miniseries",
+          "Paid Program",
+          "Reality TV",
+          "Specials"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtv Live (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MTV Live HD",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s66419_h15_aa.png",
+        "stream_url": null,
+        "xmltv_id": "6081.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "MTV Live HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s66419_h15_aa.png",
+        "xmltv_categories": [
+          "Regular"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Msg Plus (Xmltv9329) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MSG Plus",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11105_h15_ac.png",
+        "stream_url": null,
+        "xmltv_id": "1088.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "MSG Plus",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11105_h15_ac.png",
+        "xmltv_categories": [
+          "Paid Program",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount With Showtime Feed (Xmltv9329) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount+ with Showtime - Eastern Feed",
+        "group_title_raw": null,
+        "logo_raw": "http://cdn.tvpassport.com/image/station/76x28/v2/s11115_h15_ad.png",
+        "stream_url": null,
+        "xmltv_id": "665.stations.xmltv.tvmedia.ca",
+        "xmltv_display_name": "Paramount+ with Showtime - Eastern Feed",
+        "xmltv_network": null,
+        "xmltv_logo": "http://cdn.tvpassport.com/image/station/76x28/v2/s11115_h15_ad.png",
+        "xmltv_categories": [
+          "Movie",
+          "Regular"
+        ]
+      }
+    }
+  ]
+}

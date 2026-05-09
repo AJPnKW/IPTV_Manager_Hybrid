@@ -1,0 +1,3144 @@
+{
+  "source_file": "C:\\Users\\andrew\\PROJECTS\\iptv\\temp\\XTENDED IPTV MASTER SECTIONS.html",
+  "source_uri": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html",
+  "nav_links": [
+    {
+      "label": "🏠 Overview",
+      "href": "#overview",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#overview"
+    },
+    {
+      "label": "🌐 Public IPTV sources",
+      "href": "#sources",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#sources"
+    },
+    {
+      "label": "📜 M3U templates (global/UK)",
+      "href": "#m3u-global",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#m3u-global"
+    },
+    {
+      "label": "📺 M3U templates (BBC / Sky / ITV / AU)",
+      "href": "#m3u-channel-sets",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#m3u-channel-sets"
+    },
+    {
+      "label": "🗂 EPG / XMLTV template",
+      "href": "#epg-xmltv",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#epg-xmltv"
+    },
+    {
+      "label": "⚙️ Usage & mapping notes",
+      "href": "#usage",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#usage"
+    },
+    {
+      "label": "🇬🇧 BBC / UK Freeview",
+      "href": "#uk-freeview",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+    },
+    {
+      "label": "📡 UK Freesat",
+      "href": "#uk-freesat",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+    },
+    {
+      "label": "🏴 UK Broadcasters",
+      "href": "#uk-broadcasters",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+    },
+    {
+      "label": "🇦🇺 AU Freeview",
+      "href": "#au-freeview",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+    },
+    {
+      "label": "🌍 Global FAST Channels",
+      "href": "#global-fast",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+    },
+    {
+      "label": "🧩 IPTV‑Org Deep Subsets",
+      "href": "#iptv-org-deep",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+    },
+    {
+      "label": "🧾 Expanded M3U Templates",
+      "href": "#expanded-m3u",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-m3u"
+    },
+    {
+      "label": "📘 Expanded XMLTV Templates",
+      "href": "#expanded-xmltv",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-xmltv"
+    },
+    {
+      "label": "🗄 Provider Manifests",
+      "href": "#provider-manifests",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#provider-manifests"
+    },
+    {
+      "label": "🔁 Fallback Chains",
+      "href": "#fallback-chains",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#fallback-chains"
+    },
+    {
+      "label": "⚡ Advanced Usage Notes",
+      "href": "#advanced-usage",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#advanced-usage"
+    },
+    {
+      "label": "Overview",
+      "href": "#overview",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#overview"
+    },
+    {
+      "label": "Public IPTV Sources",
+      "href": "#sources",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#sources"
+    },
+    {
+      "label": "M3U Templates (Global/UK)",
+      "href": "#m3u-global",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#m3u-global"
+    },
+    {
+      "label": "M3U Templates (BBC/Sky/ITV/AU)",
+      "href": "#m3u-channel-sets",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#m3u-channel-sets"
+    },
+    {
+      "label": "EPG / XMLTV",
+      "href": "#epg-xmltv",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#epg-xmltv"
+    },
+    {
+      "label": "Usage Notes",
+      "href": "#usage",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#usage"
+    },
+    {
+      "label": "UK Freeview",
+      "href": "#uk-freeview",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+    },
+    {
+      "label": "UK Freesat",
+      "href": "#uk-freesat",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+    },
+    {
+      "label": "UK Broadcasters",
+      "href": "#uk-broadcasters",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+    },
+    {
+      "label": "AU Freeview",
+      "href": "#au-freeview",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+    },
+    {
+      "label": "Global FAST",
+      "href": "#global-fast",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+    },
+    {
+      "label": "IPTV‑Org Deep Subsets",
+      "href": "#iptv-org-deep",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+    },
+    {
+      "label": "Expanded M3U Templates",
+      "href": "#expanded-m3u",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-m3u"
+    },
+    {
+      "label": "Expanded XMLTV Templates",
+      "href": "#expanded-xmltv",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-xmltv"
+    },
+    {
+      "label": "Provider Manifests",
+      "href": "#provider-manifests",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#provider-manifests"
+    },
+    {
+      "label": "Fallback Chains",
+      "href": "#fallback-chains",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#fallback-chains"
+    },
+    {
+      "label": "Advanced Usage Notes",
+      "href": "#advanced-usage",
+      "absolute_href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#advanced-usage"
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "uk-freeview",
+      "section_title": "BBC + UK Freeview (Complete Channel Set)",
+      "country": "UK",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview",
+      "channel_count": 18,
+      "article_count": 2,
+      "table_count": 2
+    },
+    {
+      "section_id": "uk-freesat",
+      "section_title": "UK Freesat (Complete Channel Set)",
+      "country": "UK",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat",
+      "channel_count": 10,
+      "article_count": 1,
+      "table_count": 1
+    },
+    {
+      "section_id": "uk-broadcasters",
+      "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+      "country": "UK",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters",
+      "channel_count": 19,
+      "article_count": 6,
+      "table_count": 6
+    },
+    {
+      "section_id": "au-freeview",
+      "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+      "country": "AU",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview",
+      "channel_count": 14,
+      "article_count": 5,
+      "table_count": 5
+    },
+    {
+      "section_id": "global-fast",
+      "section_title": "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)",
+      "country": "US",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast",
+      "channel_count": 9,
+      "article_count": 4,
+      "table_count": 4
+    },
+    {
+      "section_id": "iptv-org-deep",
+      "section_title": "IPTV‑Org Deep Subsets",
+      "country": "GLOBAL",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep",
+      "channel_count": 12,
+      "article_count": 6,
+      "table_count": 6
+    },
+    {
+      "section_id": "expanded-m3u",
+      "section_title": "Expanded M3U Templates",
+      "country": "GLOBAL",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-m3u",
+      "channel_count": 0,
+      "article_count": 6,
+      "table_count": 0
+    },
+    {
+      "section_id": "expanded-xmltv",
+      "section_title": "Expanded XMLTV Templates",
+      "country": "GLOBAL",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-xmltv",
+      "channel_count": 0,
+      "article_count": 6,
+      "table_count": 0
+    },
+    {
+      "section_id": "provider-manifests",
+      "section_title": "Provider Manifests",
+      "country": "GLOBAL",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#provider-manifests",
+      "channel_count": 0,
+      "article_count": 4,
+      "table_count": 0
+    },
+    {
+      "section_id": "fallback-chains",
+      "section_title": "Fallback Chains",
+      "country": "GLOBAL",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#fallback-chains",
+      "channel_count": 0,
+      "article_count": 6,
+      "table_count": 0
+    },
+    {
+      "section_id": "advanced-usage",
+      "section_title": "Advanced Usage Notes",
+      "country": "US",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#advanced-usage",
+      "channel_count": 0,
+      "article_count": 6,
+      "table_count": 0
+    }
+  ],
+  "channels": [
+    {
+      "channel_name": "ABC Kids",
+      "name": "ABC Kids",
+      "tvg_id": "abckids.au",
+      "call_sign": "ABCKIDS",
+      "channel_number": "",
+      "country": "AU",
+      "network": "ABC",
+      "broadcaster": "ABC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "ABC (Australian Broadcasting Corporation)"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "ABC (Australian Broadcasting Corporation)"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "ABC (Australian Broadcasting Corporation)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/5/5e/ABC_Kids_logo_2020.svg"
+      ],
+      "source_notes": [
+        "Children’s programming."
+      ],
+      "scope_hint": "optional",
+      "notes": "Children’s programming."
+    },
+    {
+      "channel_name": "ABC ME",
+      "name": "ABC ME",
+      "tvg_id": "abcme.au",
+      "call_sign": "ABCME",
+      "channel_number": "",
+      "country": "AU",
+      "network": "ABC",
+      "broadcaster": "ABC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "ABC (Australian Broadcasting Corporation)"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "ABC (Australian Broadcasting Corporation)"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "ABC (Australian Broadcasting Corporation)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/4/4d/ABC_Me_logo_2020.svg"
+      ],
+      "source_notes": [
+        "Youth programming."
+      ],
+      "scope_hint": "optional",
+      "notes": "Youth programming."
+    },
+    {
+      "channel_name": "ABC News",
+      "name": "ABC News",
+      "tvg_id": "abcnews.au",
+      "call_sign": "ABCNEWS",
+      "channel_number": "",
+      "country": "AU",
+      "network": "ABC",
+      "broadcaster": "ABC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "ABC (Australian Broadcasting Corporation)",
+        "News Subset"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "ABC (Australian Broadcasting Corporation)",
+        "News Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "ABC (Australian Broadcasting Corporation)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        },
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "News Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/2/2e/ABC_News_Australia_logo_2017.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/ABC_News_Australia_logo_2017.svg"
+      ],
+      "source_notes": [
+        "24‑hour news channel.",
+        "Australia"
+      ],
+      "scope_hint": "optional",
+      "notes": "24‑hour news channel. | Australia"
+    },
+    {
+      "channel_name": "ABC TV",
+      "name": "ABC TV",
+      "tvg_id": "abc.au",
+      "call_sign": "ABC",
+      "channel_number": "",
+      "country": "AU",
+      "network": "ABC",
+      "broadcaster": "ABC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "ABC (Australian Broadcasting Corporation)",
+        "AU Subset"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "ABC (Australian Broadcasting Corporation)",
+        "AU Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "ABC (Australian Broadcasting Corporation)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        },
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "AU Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/8/8f/ABC_TV_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Main ABC channel.",
+        "Australia"
+      ],
+      "scope_hint": "optional",
+      "notes": "Main ABC channel. | Australia"
+    },
+    {
+      "channel_name": "10",
+      "name": "10",
+      "tvg_id": "ten.au",
+      "call_sign": "TEN",
+      "channel_number": "",
+      "country": "AU",
+      "network": "Network 10",
+      "broadcaster": "Network 10",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "Network 10"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "Network 10"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "Network 10",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/3/3e/Network_10_logo_2018.svg"
+      ],
+      "source_notes": [
+        "Main Network 10 channel."
+      ],
+      "scope_hint": "core",
+      "notes": "Main Network 10 channel."
+    },
+    {
+      "channel_name": "10 Bold",
+      "name": "10 Bold",
+      "tvg_id": "10bold.au",
+      "call_sign": "10BOLD",
+      "channel_number": "",
+      "country": "AU",
+      "network": "Network 10",
+      "broadcaster": "Network 10",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "Network 10"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "Network 10"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "Network 10",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/8/8e/10_Bold_logo_2018.svg"
+      ],
+      "source_notes": [
+        "Drama & action."
+      ],
+      "scope_hint": "optional",
+      "notes": "Drama & action."
+    },
+    {
+      "channel_name": "9Gem",
+      "name": "9Gem",
+      "tvg_id": "9gem.au",
+      "call_sign": "9GEM",
+      "channel_number": "",
+      "country": "AU",
+      "network": "Nine Network",
+      "broadcaster": "Nine Network",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "Nine Network"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "Nine Network"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "Nine Network",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/3/3c/9Gem_logo_2015.svg"
+      ],
+      "source_notes": [
+        "Movies & entertainment."
+      ],
+      "scope_hint": "optional",
+      "notes": "Movies & entertainment."
+    },
+    {
+      "channel_name": "Nine",
+      "name": "Nine",
+      "tvg_id": "nine.au",
+      "call_sign": "NINE",
+      "channel_number": "",
+      "country": "AU",
+      "network": "Nine Network",
+      "broadcaster": "Nine Network",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "Nine Network"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "Nine Network"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "Nine Network",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/4/4e/Nine_Network_logo_2020.svg"
+      ],
+      "source_notes": [
+        "Main Nine Network channel."
+      ],
+      "scope_hint": "core",
+      "notes": "Main Nine Network channel."
+    },
+    {
+      "channel_name": "SBS",
+      "name": "SBS",
+      "tvg_id": "sbs.au",
+      "call_sign": "SBS",
+      "channel_number": "",
+      "country": "AU",
+      "network": "SBS",
+      "broadcaster": "SBS",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "SBS (Special Broadcasting Service)",
+        "AU Subset"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "SBS (Special Broadcasting Service)",
+        "AU Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "SBS (Special Broadcasting Service)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        },
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "AU Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/0/0a/SBS_Australia_logo_2019.svg"
+      ],
+      "source_notes": [
+        "Main multicultural channel.",
+        "Australia"
+      ],
+      "scope_hint": "optional",
+      "notes": "Main multicultural channel. | Australia"
+    },
+    {
+      "channel_name": "SBS Viceland",
+      "name": "SBS Viceland",
+      "tvg_id": "sbsviceland.au",
+      "call_sign": "SBSVICELAND",
+      "channel_number": "",
+      "country": "AU",
+      "network": "SBS",
+      "broadcaster": "SBS",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "SBS (Special Broadcasting Service)"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "SBS (Special Broadcasting Service)"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "SBS (Special Broadcasting Service)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/4/4e/SBS_Viceland_logo_2016.svg"
+      ],
+      "source_notes": [
+        "Youth & alternative programming."
+      ],
+      "scope_hint": "optional",
+      "notes": "Youth & alternative programming."
+    },
+    {
+      "channel_name": "SBS World Movies",
+      "name": "SBS World Movies",
+      "tvg_id": "sbsworldmovies.au",
+      "call_sign": "SBSWORLDMOVIES",
+      "channel_number": "",
+      "country": "AU",
+      "network": "SBS",
+      "broadcaster": "SBS",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "SBS (Special Broadcasting Service)"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "SBS (Special Broadcasting Service)"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "SBS (Special Broadcasting Service)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/3/3f/SBS_World_Movies_logo_2019.svg"
+      ],
+      "source_notes": [
+        "International films."
+      ],
+      "scope_hint": "core",
+      "notes": "International films."
+    },
+    {
+      "channel_name": "7mate",
+      "name": "7mate",
+      "tvg_id": "7mate.au",
+      "call_sign": "7MATE",
+      "channel_number": "",
+      "country": "AU",
+      "network": "Seven Network",
+      "broadcaster": "Seven Network",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "Seven Network"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "Seven Network"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "Seven Network",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/8/8c/7mate_logo_2016.svg"
+      ],
+      "source_notes": [
+        "Sports & male‑skewed programming."
+      ],
+      "scope_hint": "optional",
+      "notes": "Sports & male‑skewed programming."
+    },
+    {
+      "channel_name": "7TWO",
+      "name": "7TWO",
+      "tvg_id": "7two.au",
+      "call_sign": "7TWO",
+      "channel_number": "",
+      "country": "AU",
+      "network": "Seven Network",
+      "broadcaster": "Seven Network",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "Seven Network"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "Seven Network"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "Seven Network",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/1/1b/7TWO_logo_2016.svg"
+      ],
+      "source_notes": [
+        "Entertainment & lifestyle."
+      ],
+      "scope_hint": "optional",
+      "notes": "Entertainment & lifestyle."
+    },
+    {
+      "channel_name": "Seven",
+      "name": "Seven",
+      "tvg_id": "seven.au",
+      "call_sign": "SEVEN",
+      "channel_number": "",
+      "country": "AU",
+      "network": "Seven Network",
+      "broadcaster": "Seven Network",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "Seven Network"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "Seven Network"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "Seven Network",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/6/6b/Seven_Network_logo_2019.svg"
+      ],
+      "source_notes": [
+        "Main Seven Network channel."
+      ],
+      "scope_hint": "core",
+      "notes": "Main Seven Network channel."
+    },
+    {
+      "channel_name": "Retro TV",
+      "name": "Retro TV",
+      "tvg_id": "retrotv.us",
+      "call_sign": "RETROTV",
+      "channel_number": "",
+      "country": "GLOBAL",
+      "network": "Entertainment Subset",
+      "broadcaster": "Entertainment Subset",
+      "channel_type": "National",
+      "platforms": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "Entertainment Subset"
+      ],
+      "sections": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "Entertainment Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "Entertainment Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/8/8c/Retro_TV_logo.svg"
+      ],
+      "source_notes": [
+        "USA"
+      ],
+      "scope_hint": "optional",
+      "notes": "USA"
+    },
+    {
+      "channel_name": "True Crime Network",
+      "name": "True Crime Network",
+      "tvg_id": "truecrime.us",
+      "call_sign": "TRUECRIME",
+      "channel_number": "",
+      "country": "GLOBAL",
+      "network": "Entertainment Subset",
+      "broadcaster": "Entertainment Subset",
+      "channel_type": "National",
+      "platforms": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "Entertainment Subset"
+      ],
+      "sections": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "Entertainment Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "Entertainment Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/8/8e/True_Crime_Network_logo.svg"
+      ],
+      "source_notes": [
+        "USA"
+      ],
+      "scope_hint": "optional",
+      "notes": "USA"
+    },
+    {
+      "channel_name": "Al Jazeera English",
+      "name": "Al Jazeera English",
+      "tvg_id": "aljazeera.en",
+      "call_sign": "ALJAZEERA",
+      "channel_number": "",
+      "country": "GLOBAL",
+      "network": "News Subset",
+      "broadcaster": "News Subset",
+      "channel_type": "National",
+      "platforms": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "News Subset"
+      ],
+      "sections": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "News Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "News Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/Al_Jazeera_English_logo.svg"
+      ],
+      "source_notes": [
+        "Global"
+      ],
+      "scope_hint": "optional",
+      "notes": "Global"
+    },
+    {
+      "channel_name": "France 24 English",
+      "name": "France 24 English",
+      "tvg_id": "france24.en",
+      "call_sign": "FRANCE24",
+      "channel_number": "",
+      "country": "GLOBAL",
+      "network": "News Subset",
+      "broadcaster": "News Subset",
+      "channel_type": "National",
+      "platforms": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "News Subset"
+      ],
+      "sections": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "News Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "News Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/France_24_logo.svg"
+      ],
+      "source_notes": [
+        "Europe"
+      ],
+      "scope_hint": "optional",
+      "notes": "Europe"
+    },
+    {
+      "channel_name": "Edge Sport",
+      "name": "Edge Sport",
+      "tvg_id": "edgesport.uk",
+      "call_sign": "EDGESPORT",
+      "channel_number": "",
+      "country": "GLOBAL",
+      "network": "Sports Subset",
+      "broadcaster": "Sports Subset",
+      "channel_type": "National",
+      "platforms": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "Sports Subset"
+      ],
+      "sections": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "Sports Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "Sports Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/5/5a/Edge_Sport_logo.svg"
+      ],
+      "source_notes": [
+        "UK"
+      ],
+      "scope_hint": "optional",
+      "notes": "UK"
+    },
+    {
+      "channel_name": "SportsGrid",
+      "name": "SportsGrid",
+      "tvg_id": "sportsgrid.us",
+      "call_sign": "SPORTSGRID",
+      "channel_number": "",
+      "country": "GLOBAL",
+      "network": "Sports Subset",
+      "broadcaster": "Sports Subset",
+      "channel_type": "National",
+      "platforms": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "Sports Subset"
+      ],
+      "sections": [
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "Sports Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "Sports Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/0/0c/SportsGrid_logo.svg"
+      ],
+      "source_notes": [
+        "USA"
+      ],
+      "scope_hint": "optional",
+      "notes": "USA"
+    },
+    {
+      "channel_name": "BBC Four",
+      "name": "BBC Four",
+      "tvg_id": "bbcfour.uk",
+      "call_sign": "BBCFOUR",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7a/BBC_Four_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Arts, culture, world cinema."
+      ],
+      "scope_hint": "core",
+      "notes": "Arts, culture, world cinema."
+    },
+    {
+      "channel_name": "BBC News",
+      "name": "BBC News",
+      "tvg_id": "bbcnews.uk",
+      "call_sign": "BBCNEWS",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)",
+        "BBC (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)",
+        "BBC (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "BBC (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6f/BBC_News_2023.svg"
+      ],
+      "source_notes": [
+        "24‑hour news channel.",
+        "24‑hour news."
+      ],
+      "scope_hint": "optional",
+      "notes": "24‑hour news channel. | 24‑hour news."
+    },
+    {
+      "channel_name": "BBC One",
+      "name": "BBC One",
+      "tvg_id": "bbcone.uk",
+      "call_sign": "BBCONE",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)",
+        "BBC (Full Set)",
+        "UK Subset",
+        "BBC Subset"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)",
+        "BBC (Full Set)",
+        "UK Subset",
+        "BBC Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "BBC (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        },
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "UK Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        },
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "BBC Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/BBC_One_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Main BBC flagship channel.",
+        "Main national feed.",
+        "UK"
+      ],
+      "scope_hint": "optional",
+      "notes": "Main BBC flagship channel. | Main national feed. | UK"
+    },
+    {
+      "channel_name": "BBC Parliament",
+      "name": "BBC Parliament",
+      "tvg_id": "bbcparliament.uk",
+      "call_sign": "BBCPARLIAMENT",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/BBC_Parliament_logo_2022.svg"
+      ],
+      "source_notes": [
+        "UK parliamentary coverage."
+      ],
+      "scope_hint": "core",
+      "notes": "UK parliamentary coverage."
+    },
+    {
+      "channel_name": "BBC Three",
+      "name": "BBC Three",
+      "tvg_id": "bbcthree.uk",
+      "call_sign": "BBCTHREE",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/BBC_Three_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Youth‑focused entertainment."
+      ],
+      "scope_hint": "core",
+      "notes": "Youth‑focused entertainment."
+    },
+    {
+      "channel_name": "BBC Two",
+      "name": "BBC Two",
+      "tvg_id": "bbctwo.uk",
+      "call_sign": "BBCTWO",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)",
+        "BBC (Full Set)",
+        "BBC Subset"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)",
+        "BBC (Full Set)",
+        "BBC Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "BBC (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        },
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "BBC Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/BBC_Two_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Documentaries, factual, culture.",
+        "Factual & culture.",
+        "UK"
+      ],
+      "scope_hint": "optional",
+      "notes": "Documentaries, factual, culture. | Factual & culture. | UK"
+    },
+    {
+      "channel_name": "CBBC",
+      "name": "CBBC",
+      "tvg_id": "cbbc.uk",
+      "call_sign": "CBBC",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/CBBC_2023.svg"
+      ],
+      "source_notes": [
+        "Children’s programming (6–12)."
+      ],
+      "scope_hint": "core",
+      "notes": "Children’s programming (6–12)."
+    },
+    {
+      "channel_name": "CBeebies",
+      "name": "CBeebies",
+      "tvg_id": "cbeebies.uk",
+      "call_sign": "CBEEBIES",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/CBeebies_2023.svg"
+      ],
+      "source_notes": [
+        "Children’s programming (under 6)."
+      ],
+      "scope_hint": "core",
+      "notes": "Children’s programming (under 6)."
+    },
+    {
+      "channel_name": "Film4",
+      "name": "Film4",
+      "tvg_id": "film4.uk",
+      "call_sign": "FILM4",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Channel 4",
+      "broadcaster": "Channel 4",
+      "channel_type": "National",
+      "platforms": [
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "Channel 4 (Full Set)"
+      ],
+      "sections": [
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "Channel 4 (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "Channel 4 (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Film4_logo_2018.svg"
+      ],
+      "source_notes": [
+        "Movies."
+      ],
+      "scope_hint": "optional",
+      "notes": "Movies."
+    },
+    {
+      "channel_name": "5STAR",
+      "name": "5STAR",
+      "tvg_id": "5star.uk",
+      "call_sign": "5STAR",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Channel 5",
+      "broadcaster": "Channel 5",
+      "channel_type": "National",
+      "platforms": [
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "Channel 5 (Full Set)"
+      ],
+      "sections": [
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "Channel 5 (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "Channel 5 (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/5Star_logo_2016.svg"
+      ],
+      "source_notes": [
+        "Entertainment & reality."
+      ],
+      "scope_hint": "optional",
+      "notes": "Entertainment & reality."
+    },
+    {
+      "channel_name": "5USA",
+      "name": "5USA",
+      "tvg_id": "5usa.uk",
+      "call_sign": "5USA",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Channel 5",
+      "broadcaster": "Channel 5",
+      "channel_type": "National",
+      "platforms": [
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "Channel 5 (Full Set)"
+      ],
+      "sections": [
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "Channel 5 (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "Channel 5 (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/5USA_logo_2016.svg"
+      ],
+      "source_notes": [
+        "US dramas & crime."
+      ],
+      "scope_hint": "optional",
+      "notes": "US dramas & crime."
+    },
+    {
+      "channel_name": "BBC One London",
+      "name": "BBC One London",
+      "tvg_id": "bbcone.london",
+      "call_sign": "BBCONE",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Freesat",
+      "broadcaster": "Freesat",
+      "channel_type": "Regional",
+      "platforms": [
+        "UK Freesat"
+      ],
+      "lineups": [
+        "Freesat Channels"
+      ],
+      "sections": [
+        "UK Freesat (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "Freesat Channels"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freesat",
+          "section_title": "UK Freesat (Complete Channel Set)",
+          "article_title": "Freesat Channels",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/BBC_One_logo_2021.svg"
+      ],
+      "source_notes": [
+        "London regional feed."
+      ],
+      "scope_hint": "regional",
+      "notes": "London regional feed."
+    },
+    {
+      "channel_name": "BBC One Northern Ireland",
+      "name": "BBC One Northern Ireland",
+      "tvg_id": "bbcone.ni",
+      "call_sign": "BBCONE",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Freesat",
+      "broadcaster": "Freesat",
+      "channel_type": "Regional",
+      "platforms": [
+        "UK Freesat"
+      ],
+      "lineups": [
+        "Freesat Channels"
+      ],
+      "sections": [
+        "UK Freesat (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "Freesat Channels"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freesat",
+          "section_title": "UK Freesat (Complete Channel Set)",
+          "article_title": "Freesat Channels",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/BBC_One_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Northern Ireland regional feed."
+      ],
+      "scope_hint": "regional",
+      "notes": "Northern Ireland regional feed."
+    },
+    {
+      "channel_name": "BBC One Scotland",
+      "name": "BBC One Scotland",
+      "tvg_id": "bbcone.scotland",
+      "call_sign": "BBCONE",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Freesat",
+      "broadcaster": "Freesat",
+      "channel_type": "Regional",
+      "platforms": [
+        "UK Freesat"
+      ],
+      "lineups": [
+        "Freesat Channels"
+      ],
+      "sections": [
+        "UK Freesat (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "Freesat Channels"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freesat",
+          "section_title": "UK Freesat (Complete Channel Set)",
+          "article_title": "Freesat Channels",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/BBC_One_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Scottish regional feed."
+      ],
+      "scope_hint": "regional",
+      "notes": "Scottish regional feed."
+    },
+    {
+      "channel_name": "BBC One Wales",
+      "name": "BBC One Wales",
+      "tvg_id": "bbcone.wales",
+      "call_sign": "BBCONE",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Freesat",
+      "broadcaster": "Freesat",
+      "channel_type": "Regional",
+      "platforms": [
+        "UK Freesat"
+      ],
+      "lineups": [
+        "Freesat Channels"
+      ],
+      "sections": [
+        "UK Freesat (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "Freesat Channels"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freesat",
+          "section_title": "UK Freesat (Complete Channel Set)",
+          "article_title": "Freesat Channels",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/BBC_One_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Welsh regional feed."
+      ],
+      "scope_hint": "regional",
+      "notes": "Welsh regional feed."
+    },
+    {
+      "channel_name": "Channel 4 HD",
+      "name": "Channel 4 HD",
+      "tvg_id": "channel4.hd",
+      "call_sign": "CHANNEL4",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Freesat",
+      "broadcaster": "Freesat",
+      "channel_type": "FTA Satellite",
+      "platforms": [
+        "UK Freesat"
+      ],
+      "lineups": [
+        "Freesat Channels"
+      ],
+      "sections": [
+        "UK Freesat (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "Freesat Channels"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freesat",
+          "section_title": "UK Freesat (Complete Channel Set)",
+          "article_title": "Freesat Channels",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Channel_4_logo_2015.svg"
+      ],
+      "source_notes": [
+        "HD Freesat feed."
+      ],
+      "scope_hint": "optional",
+      "notes": "HD Freesat feed."
+    },
+    {
+      "channel_name": "Channel 5 HD",
+      "name": "Channel 5 HD",
+      "tvg_id": "channel5.hd",
+      "call_sign": "CHANNEL5",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Freesat",
+      "broadcaster": "Freesat",
+      "channel_type": "FTA Satellite",
+      "platforms": [
+        "UK Freesat"
+      ],
+      "lineups": [
+        "Freesat Channels"
+      ],
+      "sections": [
+        "UK Freesat (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "Freesat Channels"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freesat",
+          "section_title": "UK Freesat (Complete Channel Set)",
+          "article_title": "Freesat Channels",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Channel_5_logo_2016.svg"
+      ],
+      "source_notes": [
+        "HD Freesat feed."
+      ],
+      "scope_hint": "optional",
+      "notes": "HD Freesat feed."
+    },
+    {
+      "channel_name": "ITV1 Granada",
+      "name": "ITV1 Granada",
+      "tvg_id": "itv1.granada",
+      "call_sign": "ITV1",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Freesat",
+      "broadcaster": "Freesat",
+      "channel_type": "Regional",
+      "platforms": [
+        "UK Freesat"
+      ],
+      "lineups": [
+        "Freesat Channels"
+      ],
+      "sections": [
+        "UK Freesat (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "Freesat Channels"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freesat",
+          "section_title": "UK Freesat (Complete Channel Set)",
+          "article_title": "Freesat Channels",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2f/ITV1_logo_2022.svg"
+      ],
+      "source_notes": [
+        "North West regional feed."
+      ],
+      "scope_hint": "regional",
+      "notes": "North West regional feed."
+    },
+    {
+      "channel_name": "ITV1 London",
+      "name": "ITV1 London",
+      "tvg_id": "itv1.london",
+      "call_sign": "ITV1",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Freesat",
+      "broadcaster": "Freesat",
+      "channel_type": "Regional",
+      "platforms": [
+        "UK Freesat"
+      ],
+      "lineups": [
+        "Freesat Channels"
+      ],
+      "sections": [
+        "UK Freesat (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "Freesat Channels"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freesat",
+          "section_title": "UK Freesat (Complete Channel Set)",
+          "article_title": "Freesat Channels",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2f/ITV1_logo_2022.svg"
+      ],
+      "source_notes": [
+        "Main ITV London feed."
+      ],
+      "scope_hint": "regional",
+      "notes": "Main ITV London feed."
+    },
+    {
+      "channel_name": "ITV1 Wales",
+      "name": "ITV1 Wales",
+      "tvg_id": "itv1.wales",
+      "call_sign": "ITV1",
+      "channel_number": "",
+      "country": "UK",
+      "network": "Freesat",
+      "broadcaster": "Freesat",
+      "channel_type": "Regional",
+      "platforms": [
+        "UK Freesat"
+      ],
+      "lineups": [
+        "Freesat Channels"
+      ],
+      "sections": [
+        "UK Freesat (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "Freesat Channels"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freesat",
+          "section_title": "UK Freesat (Complete Channel Set)",
+          "article_title": "Freesat Channels",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2f/ITV1_logo_2022.svg"
+      ],
+      "source_notes": [
+        "Welsh regional feed."
+      ],
+      "scope_hint": "regional",
+      "notes": "Welsh regional feed."
+    },
+    {
+      "channel_name": "S4C",
+      "name": "S4C",
+      "tvg_id": "s4c.wales",
+      "call_sign": "S4C",
+      "channel_number": "",
+      "country": "UK",
+      "network": "STV, S4C, UTV",
+      "broadcaster": "STV, S4C, UTV",
+      "channel_type": "Regional",
+      "platforms": [
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "STV, S4C, UTV"
+      ],
+      "sections": [
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "STV, S4C, UTV"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "STV, S4C, UTV",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/S4C_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Welsh‑language broadcaster."
+      ],
+      "scope_hint": "regional",
+      "notes": "Welsh‑language broadcaster."
+    },
+    {
+      "channel_name": "STV",
+      "name": "STV",
+      "tvg_id": "stv.scotland",
+      "call_sign": "STV",
+      "channel_number": "",
+      "country": "UK",
+      "network": "STV, S4C, UTV",
+      "broadcaster": "STV, S4C, UTV",
+      "channel_type": "Regional",
+      "platforms": [
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "STV, S4C, UTV"
+      ],
+      "sections": [
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "STV, S4C, UTV"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "STV, S4C, UTV",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/STV_logo_2014.svg"
+      ],
+      "source_notes": [
+        "Scottish ITV affiliate."
+      ],
+      "scope_hint": "regional",
+      "notes": "Scottish ITV affiliate."
+    },
+    {
+      "channel_name": "UTV",
+      "name": "UTV",
+      "tvg_id": "utv.ni",
+      "call_sign": "UTV",
+      "channel_number": "",
+      "country": "UK",
+      "network": "STV, S4C, UTV",
+      "broadcaster": "STV, S4C, UTV",
+      "channel_type": "Regional",
+      "platforms": [
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "STV, S4C, UTV"
+      ],
+      "sections": [
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "STV, S4C, UTV"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "STV, S4C, UTV",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/UTV_logo_2016.svg"
+      ],
+      "source_notes": [
+        "Northern Ireland ITV affiliate."
+      ],
+      "scope_hint": "regional",
+      "notes": "Northern Ireland ITV affiliate."
+    },
+    {
+      "channel_name": "Channel 4",
+      "name": "Channel 4",
+      "tvg_id": "channel4.uk",
+      "call_sign": "CHANNEL4",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 4 (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 4 (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "Channel 4 (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Channel_4_logo_2015.svg"
+      ],
+      "source_notes": [
+        "Main Channel 4 service.",
+        "Main C4 service."
+      ],
+      "scope_hint": "core",
+      "notes": "Main Channel 4 service. | Main C4 service."
+    },
+    {
+      "channel_name": "Channel 5",
+      "name": "Channel 5",
+      "tvg_id": "channel5.uk",
+      "call_sign": "CHANNEL5",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 5 (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 5 (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "Channel 5 (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Channel_5_logo_2016.svg"
+      ],
+      "source_notes": [
+        "Main Channel 5 service.",
+        "Main C5 service."
+      ],
+      "scope_hint": "core",
+      "notes": "Main Channel 5 service. | Main C5 service."
+    },
+    {
+      "channel_name": "Dave",
+      "name": "Dave",
+      "tvg_id": "dave.uk",
+      "call_sign": "DAVE",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Satellite",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Freesat",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "Freesat Channels",
+        "UKTV (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Freesat (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "Freesat Channels",
+        "UKTV (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-freesat",
+          "section_title": "UK Freesat (Complete Channel Set)",
+          "article_title": "Freesat Channels",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freesat"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "UKTV (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Dave_logo_2022.svg"
+      ],
+      "source_notes": [
+        "Comedy & entertainment."
+      ],
+      "scope_hint": "optional",
+      "notes": "Comedy & entertainment."
+    },
+    {
+      "channel_name": "Drama",
+      "name": "Drama",
+      "tvg_id": "drama.uk",
+      "call_sign": "DRAMA",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "UKTV (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "UKTV (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "UKTV (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/Drama_logo_2022.svg"
+      ],
+      "source_notes": [
+        "Classic dramas."
+      ],
+      "scope_hint": "optional",
+      "notes": "Classic dramas."
+    },
+    {
+      "channel_name": "E4",
+      "name": "E4",
+      "tvg_id": "e4.uk",
+      "call_sign": "E4",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 4 (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 4 (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "Channel 4 (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/E4_2023.svg"
+      ],
+      "source_notes": [
+        "Youth entertainment."
+      ],
+      "scope_hint": "optional",
+      "notes": "Youth entertainment."
+    },
+    {
+      "channel_name": "ITV1",
+      "name": "ITV1",
+      "tvg_id": "itv1.uk",
+      "call_sign": "ITV1",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "ITV (Full Set)",
+        "UK Subset"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+        "IPTV‑Org Deep Subsets"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "ITV (Full Set)",
+        "UK Subset"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "ITV (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        },
+        {
+          "section_id": "iptv-org-deep",
+          "section_title": "IPTV‑Org Deep Subsets",
+          "article_title": "UK Subset",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#iptv-org-deep"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2f/ITV1_logo_2022.svg"
+      ],
+      "source_notes": [
+        "Main ITV channel.",
+        "UK"
+      ],
+      "scope_hint": "optional",
+      "notes": "Main ITV channel. | UK"
+    },
+    {
+      "channel_name": "ITV2",
+      "name": "ITV2",
+      "tvg_id": "itv2.uk",
+      "call_sign": "ITV2",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "ITV (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "ITV (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "ITV (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/ITV2_logo_2022.svg"
+      ],
+      "source_notes": [
+        "Entertainment & reality."
+      ],
+      "scope_hint": "optional",
+      "notes": "Entertainment & reality."
+    },
+    {
+      "channel_name": "ITV3",
+      "name": "ITV3",
+      "tvg_id": "itv3.uk",
+      "call_sign": "ITV3",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "ITV (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "ITV (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "ITV (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/ITV3_logo_2022.svg"
+      ],
+      "source_notes": [
+        "Dramas & classics."
+      ],
+      "scope_hint": "optional",
+      "notes": "Dramas & classics."
+    },
+    {
+      "channel_name": "ITV4",
+      "name": "ITV4",
+      "tvg_id": "itv4.uk",
+      "call_sign": "ITV4",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "ITV (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "ITV (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "ITV (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7c/ITV4_logo_2022.svg"
+      ],
+      "source_notes": [
+        "Sports & entertainment."
+      ],
+      "scope_hint": "optional",
+      "notes": "Sports & entertainment."
+    },
+    {
+      "channel_name": "More4",
+      "name": "More4",
+      "tvg_id": "more4.uk",
+      "call_sign": "MORE4",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 4 (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 4 (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "Channel 4 (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2f/More4_logo_2022.svg"
+      ],
+      "source_notes": [
+        "Documentaries & lifestyle."
+      ],
+      "scope_hint": "optional",
+      "notes": "Documentaries & lifestyle."
+    },
+    {
+      "channel_name": "Plex Movies",
+      "name": "Plex Movies",
+      "tvg_id": "plex.movies",
+      "call_sign": "PLEX",
+      "channel_number": "",
+      "country": "US",
+      "network": "Plex Live TV",
+      "broadcaster": "Plex Live TV",
+      "channel_type": "FAST",
+      "platforms": [
+        "Global FAST Channels"
+      ],
+      "lineups": [
+        "Plex Live TV"
+      ],
+      "sections": [
+        "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)"
+      ],
+      "article_titles": [
+        "Plex Live TV"
+      ],
+      "source_links": [
+        {
+          "section_id": "global-fast",
+          "section_title": "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)",
+          "article_title": "Plex Live TV",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Plex_logo_2022.svg"
+      ],
+      "source_notes": [
+        "Movies"
+      ],
+      "scope_hint": "optional",
+      "notes": "Movies"
+    },
+    {
+      "channel_name": "Plex News",
+      "name": "Plex News",
+      "tvg_id": "plex.news",
+      "call_sign": "PLEX",
+      "channel_number": "",
+      "country": "US",
+      "network": "Plex Live TV",
+      "broadcaster": "Plex Live TV",
+      "channel_type": "FAST",
+      "platforms": [
+        "Global FAST Channels"
+      ],
+      "lineups": [
+        "Plex Live TV"
+      ],
+      "sections": [
+        "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)"
+      ],
+      "article_titles": [
+        "Plex Live TV"
+      ],
+      "source_links": [
+        {
+          "section_id": "global-fast",
+          "section_title": "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)",
+          "article_title": "Plex Live TV",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Plex_logo_2022.svg"
+      ],
+      "source_notes": [
+        "News"
+      ],
+      "scope_hint": "optional",
+      "notes": "News"
+    },
+    {
+      "channel_name": "Pluto TV Action",
+      "name": "Pluto TV Action",
+      "tvg_id": "pluto.action",
+      "call_sign": "PLUTO",
+      "channel_number": "",
+      "country": "US",
+      "network": "Pluto TV",
+      "broadcaster": "Pluto TV",
+      "channel_type": "FAST",
+      "platforms": [
+        "Global FAST Channels"
+      ],
+      "lineups": [
+        "Pluto TV"
+      ],
+      "sections": [
+        "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)"
+      ],
+      "article_titles": [
+        "Pluto TV"
+      ],
+      "source_links": [
+        {
+          "section_id": "global-fast",
+          "section_title": "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)",
+          "article_title": "Pluto TV",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pluto_TV_2020_logo.svg"
+      ],
+      "source_notes": [
+        "Action"
+      ],
+      "scope_hint": "optional",
+      "notes": "Action"
+    },
+    {
+      "channel_name": "Pluto TV Drama",
+      "name": "Pluto TV Drama",
+      "tvg_id": "pluto.drama",
+      "call_sign": "PLUTO",
+      "channel_number": "",
+      "country": "US",
+      "network": "Pluto TV",
+      "broadcaster": "Pluto TV",
+      "channel_type": "FAST",
+      "platforms": [
+        "Global FAST Channels"
+      ],
+      "lineups": [
+        "Pluto TV"
+      ],
+      "sections": [
+        "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)"
+      ],
+      "article_titles": [
+        "Pluto TV"
+      ],
+      "source_links": [
+        {
+          "section_id": "global-fast",
+          "section_title": "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)",
+          "article_title": "Pluto TV",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pluto_TV_2020_logo.svg"
+      ],
+      "source_notes": [
+        "Drama"
+      ],
+      "scope_hint": "optional",
+      "notes": "Drama"
+    },
+    {
+      "channel_name": "Pluto TV Movies",
+      "name": "Pluto TV Movies",
+      "tvg_id": "pluto.movies",
+      "call_sign": "PLUTO",
+      "channel_number": "",
+      "country": "US",
+      "network": "Pluto TV",
+      "broadcaster": "Pluto TV",
+      "channel_type": "FAST",
+      "platforms": [
+        "Global FAST Channels"
+      ],
+      "lineups": [
+        "Pluto TV"
+      ],
+      "sections": [
+        "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)"
+      ],
+      "article_titles": [
+        "Pluto TV"
+      ],
+      "source_links": [
+        {
+          "section_id": "global-fast",
+          "section_title": "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)",
+          "article_title": "Pluto TV",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pluto_TV_2020_logo.svg"
+      ],
+      "source_notes": [
+        "Movies"
+      ],
+      "scope_hint": "optional",
+      "notes": "Movies"
+    },
+    {
+      "channel_name": "Rakuten Action",
+      "name": "Rakuten Action",
+      "tvg_id": "rakuten.action",
+      "call_sign": "RAKUTEN",
+      "channel_number": "",
+      "country": "US",
+      "network": "Rakuten TV",
+      "broadcaster": "Rakuten TV",
+      "channel_type": "FAST",
+      "platforms": [
+        "Global FAST Channels"
+      ],
+      "lineups": [
+        "Rakuten TV"
+      ],
+      "sections": [
+        "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)"
+      ],
+      "article_titles": [
+        "Rakuten TV"
+      ],
+      "source_links": [
+        {
+          "section_id": "global-fast",
+          "section_title": "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)",
+          "article_title": "Rakuten TV",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rakuten_TV_logo.svg"
+      ],
+      "source_notes": [
+        "Action"
+      ],
+      "scope_hint": "optional",
+      "notes": "Action"
+    },
+    {
+      "channel_name": "Rakuten Comedy",
+      "name": "Rakuten Comedy",
+      "tvg_id": "rakuten.comedy",
+      "call_sign": "RAKUTEN",
+      "channel_number": "",
+      "country": "US",
+      "network": "Rakuten TV",
+      "broadcaster": "Rakuten TV",
+      "channel_type": "FAST",
+      "platforms": [
+        "Global FAST Channels"
+      ],
+      "lineups": [
+        "Rakuten TV"
+      ],
+      "sections": [
+        "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)"
+      ],
+      "article_titles": [
+        "Rakuten TV"
+      ],
+      "source_links": [
+        {
+          "section_id": "global-fast",
+          "section_title": "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)",
+          "article_title": "Rakuten TV",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rakuten_TV_logo.svg"
+      ],
+      "source_notes": [
+        "Comedy"
+      ],
+      "scope_hint": "optional",
+      "notes": "Comedy"
+    },
+    {
+      "channel_name": "Samsung TV Plus Movies",
+      "name": "Samsung TV Plus Movies",
+      "tvg_id": "samsung.movies",
+      "call_sign": "SAMSUNG",
+      "channel_number": "",
+      "country": "US",
+      "network": "Samsung TV Plus",
+      "broadcaster": "Samsung TV Plus",
+      "channel_type": "FAST",
+      "platforms": [
+        "Global FAST Channels"
+      ],
+      "lineups": [
+        "Samsung TV Plus"
+      ],
+      "sections": [
+        "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)"
+      ],
+      "article_titles": [
+        "Samsung TV Plus"
+      ],
+      "source_links": [
+        {
+          "section_id": "global-fast",
+          "section_title": "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)",
+          "article_title": "Samsung TV Plus",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Samsung_TV_Plus_logo.svg"
+      ],
+      "source_notes": [
+        "Movies"
+      ],
+      "scope_hint": "optional",
+      "notes": "Movies"
+    },
+    {
+      "channel_name": "Samsung TV Plus News",
+      "name": "Samsung TV Plus News",
+      "tvg_id": "samsung.news",
+      "call_sign": "SAMSUNG",
+      "channel_number": "",
+      "country": "US",
+      "network": "Samsung TV Plus",
+      "broadcaster": "Samsung TV Plus",
+      "channel_type": "FAST",
+      "platforms": [
+        "Global FAST Channels"
+      ],
+      "lineups": [
+        "Samsung TV Plus"
+      ],
+      "sections": [
+        "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)"
+      ],
+      "article_titles": [
+        "Samsung TV Plus"
+      ],
+      "source_links": [
+        {
+          "section_id": "global-fast",
+          "section_title": "Global FAST Channels (Pluto TV, Samsung TV Plus, Plex Live TV, Rakuten TV)",
+          "article_title": "Samsung TV Plus",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#global-fast"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Samsung_TV_Plus_logo.svg"
+      ],
+      "source_notes": [
+        "News"
+      ],
+      "scope_hint": "optional",
+      "notes": "News"
+    }
+  ],
+  "code_blocks": [
+    {
+      "section_id": "expanded-m3u",
+      "section_title": "Expanded M3U Templates",
+      "article_title": "UK Master M3U Template",
+      "article_subtitle": "BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-m3u",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n########## BBC ##########\n#EXTINF:-1 tvg-id=\"bbcone.uk\" tvg-name=\"BBC One\" group-title=\"UK • BBC\",BBC One\nhttp://your-stream-source/uk/bbcone.m3u8\n#EXTINF:-1 tvg-id=\"bbctwo.uk\" tvg-name=\"BBC Two\" group-title=\"UK • BBC\",BBC Two\nhttp://your-stream-source/uk/bbctwo.m3u8\n#EXT",
+      "length": 1702
+    },
+    {
+      "section_id": "expanded-m3u",
+      "section_title": "Expanded M3U Templates",
+      "article_title": "AU Master M3U Template",
+      "article_subtitle": "ABC, SBS, Seven, Nine, Ten.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-m3u",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n########## ABC ##########\n#EXTINF:-1 tvg-id=\"abc.au\" tvg-name=\"ABC TV\" group-title=\"AU • ABC\",ABC TV\nhttp://your-stream-source/au/abc.m3u8\n#EXTINF:-1 tvg-id=\"abckids.au\" tvg-name=\"ABC Kids\" group-title=\"AU • ABC\",ABC Kids\nhttp://your-stream-source/au/abckids.m3u8\n########",
+      "length": 961
+    },
+    {
+      "section_id": "expanded-m3u",
+      "section_title": "Expanded M3U Templates",
+      "article_title": "BBC‑Only M3U Template",
+      "article_subtitle": "BBC One, Two, Three, Four, News, Parliament, CBBC, CBeebies.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-m3u",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n#EXTINF:-1 tvg-id=\"bbcone.uk\" tvg-name=\"BBC One\" group-title=\"BBC\",BBC One\nhttp://your-stream-source/bbc/bbcone.m3u8\n#EXTINF:-1 tvg-id=\"bbctwo.uk\" tvg-name=\"BBC Two\" group-title=\"BBC\",BBC Two\nhttp://your-stream-source/bbc/bbctwo.m3u8\n#EXTINF:-1 tvg-id=\"bbcnews.uk\" tvg-nam",
+      "length": 470
+    },
+    {
+      "section_id": "expanded-m3u",
+      "section_title": "Expanded M3U Templates",
+      "article_title": "Freeview M3U Template",
+      "article_subtitle": "BBC, ITV, C4, C5, UKTV.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-m3u",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n# BBC\n#EXTINF:-1 tvg-id=\"bbcone.uk\" group-title=\"Freeview • BBC\",BBC One\nhttp://your-stream-source/freeview/bbcone.m3u8\n# ITV\n#EXTINF:-1 tvg-id=\"itv1.uk\" group-title=\"Freeview • ITV\",ITV1\nhttp://your-stream-source/freeview/itv1.m3u8\n# Channel 4\n#EXTINF:-1 tvg-id=\"channel4",
+      "length": 503
+    },
+    {
+      "section_id": "expanded-m3u",
+      "section_title": "Expanded M3U Templates",
+      "article_title": "Freesat M3U Template",
+      "article_subtitle": "BBC + ITV regional variants.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-m3u",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n# BBC REGIONALS\n#EXTINF:-1 tvg-id=\"bbcone.london\" group-title=\"Freesat • BBC\",BBC One London\nhttp://your-stream-source/freesat/bbcone-london.m3u8\n#EXTINF:-1 tvg-id=\"bbcone.scotland\" group-title=\"Freesat • BBC\",BBC One Scotland\nhttp://your-stream-source/freesat/bbcone-scot",
+      "length": 555
+    },
+    {
+      "section_id": "expanded-m3u",
+      "section_title": "Expanded M3U Templates",
+      "article_title": "FAST M3U Template",
+      "article_subtitle": "Pluto, Samsung TV Plus, Plex, Rakuten.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-m3u",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n# Pluto\n#EXTINF:-1 tvg-id=\"pluto.movies\" group-title=\"FAST • Pluto\",Pluto TV Movies\nhttp://your-stream-source/fast/pluto-movies.m3u8\n# Samsung TV Plus\n#EXTINF:-1 tvg-id=\"samsung.movies\" group-title=\"FAST • Samsung\",Samsung TV Plus Movies\nhttp://your-stream-source/fast/sam",
+      "length": 562
+    },
+    {
+      "section_id": "expanded-xmltv",
+      "section_title": "Expanded XMLTV Templates",
+      "article_title": "UK XMLTV Template",
+      "article_subtitle": "BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-xmltv",
+      "kind": "xmltv",
+      "preview": "<tv generator-info-name=\"IPTV Master\">\n  <!-- BBC -->\n  <channel id=\"bbcone.uk\">\n    <display-name>BBC One</display-name>\n  </channel>\n  <channel id=\"bbctwo.uk\">\n    <display-name>BBC Two</display-name>\n  </channel>\n  <channel id=\"bbcnews.uk\">\n    <display-name>BBC News</display-",
+      "length": 1177
+    },
+    {
+      "section_id": "expanded-xmltv",
+      "section_title": "Expanded XMLTV Templates",
+      "article_title": "AU XMLTV Template",
+      "article_subtitle": "ABC, SBS, Seven, Nine, Ten.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-xmltv",
+      "kind": "xmltv",
+      "preview": "<tv generator-info-name=\"IPTV Master\">\n  <!-- ABC -->\n  <channel id=\"abc.au\">\n    <display-name>ABC TV</display-name>\n  </channel>\n  <channel id=\"abckids.au\">\n    <display-name>ABC Kids</display-name>\n  </channel>\n  <!-- SBS -->\n  <channel id=\"sbs.au\">\n    <display-name>SBS</disp",
+      "length": 675
+    },
+    {
+      "section_id": "expanded-xmltv",
+      "section_title": "Expanded XMLTV Templates",
+      "article_title": "BBC XMLTV Template",
+      "article_subtitle": "BBC One, Two, Three, Four, News, Parliament, CBBC, CBeebies.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-xmltv",
+      "kind": "xmltv",
+      "preview": "<tv generator-info-name=\"IPTV Master\">\n  <channel id=\"bbcone.uk\">\n    <display-name>BBC One</display-name>\n  </channel>\n  <channel id=\"bbctwo.uk\">\n    <display-name>BBC Two</display-name>\n  </channel>\n  <channel id=\"bbcnews.uk\">\n    <display-name>BBC News</display-name>\n  </chann",
+      "length": 366
+    },
+    {
+      "section_id": "expanded-xmltv",
+      "section_title": "Expanded XMLTV Templates",
+      "article_title": "Freeview XMLTV Template",
+      "article_subtitle": "BBC, ITV, C4, C5, UKTV.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-xmltv",
+      "kind": "xmltv",
+      "preview": "<tv generator-info-name=\"IPTV Master\">\n  <channel id=\"bbcone.uk\">\n    <display-name>BBC One</display-name>\n  </channel>\n  <channel id=\"itv1.uk\">\n    <display-name>ITV1</display-name>\n  </channel>\n  <channel id=\"channel4.uk\">\n    <display-name>Channel 4</display-name>\n  </channel>",
+      "length": 372
+    },
+    {
+      "section_id": "expanded-xmltv",
+      "section_title": "Expanded XMLTV Templates",
+      "article_title": "Freesat XMLTV Template",
+      "article_subtitle": "BBC + ITV regional variants.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-xmltv",
+      "kind": "xmltv",
+      "preview": "<tv generator-info-name=\"IPTV Master\">\n  <!-- BBC Regional -->\n  <channel id=\"bbcone.london\">\n    <display-name>BBC One London</display-name>\n  </channel>\n  <channel id=\"bbcone.scotland\">\n    <display-name>BBC One Scotland</display-name>\n  </channel>\n  <!-- ITV Regional -->\n  <ch",
+      "length": 457
+    },
+    {
+      "section_id": "expanded-xmltv",
+      "section_title": "Expanded XMLTV Templates",
+      "article_title": "FAST XMLTV Template",
+      "article_subtitle": "Pluto, Samsung TV Plus, Plex, Rakuten.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#expanded-xmltv",
+      "kind": "xmltv",
+      "preview": "<tv generator-info-name=\"IPTV Master\">\n  <channel id=\"pluto.movies\">\n    <display-name>Pluto TV Movies</display-name>\n  </channel>\n  <channel id=\"samsung.movies\">\n    <display-name>Samsung TV Plus Movies</display-name>\n  </channel>\n  <channel id=\"plex.movies\">\n    <display-name>P",
+      "length": 418
+    },
+    {
+      "section_id": "provider-manifests",
+      "section_title": "Provider Manifests",
+      "article_title": "UK Provider Manifest",
+      "article_subtitle": "BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#provider-manifests",
+      "kind": "json",
+      "preview": "{\n  \"provider\": \"uk-master\",\n  \"version\": \"1.0\",\n  \"channels\": [\n    {\n      \"id\": \"bbcone.uk\",\n      \"name\": \"BBC One\",\n      \"group\": \"UK • BBC\",\n      \"region\": \"National\",\n      \"logo\": \"https://upload.wikimedia.org/wikipedia/commons/5/5f/BBC_One_logo_2021.svg\"\n    },\n    {",
+      "length": 1320
+    },
+    {
+      "section_id": "provider-manifests",
+      "section_title": "Provider Manifests",
+      "article_title": "AU Provider Manifest",
+      "article_subtitle": "ABC, SBS, Seven, Nine, Ten.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#provider-manifests",
+      "kind": "json",
+      "preview": "{\n  \"provider\": \"au-master\",\n  \"version\": \"1.0\",\n  \"channels\": [\n    {\n      \"id\": \"abc.au\",\n      \"name\": \"ABC TV\",\n      \"group\": \"AU • ABC\",\n      \"region\": \"National\",\n      \"logo\": \"https://upload.wikimedia.org/wikipedia/en/8/8f/ABC_TV_logo_2021.svg\"\n    },\n    {\n      \"id\":",
+      "length": 1080
+    },
+    {
+      "section_id": "provider-manifests",
+      "section_title": "Provider Manifests",
+      "article_title": "FAST Provider Manifest",
+      "article_subtitle": "Pluto, Samsung TV Plus, Plex, Rakuten.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#provider-manifests",
+      "kind": "json",
+      "preview": "{\n  \"provider\": \"fast-master\",\n  \"version\": \"1.0\",\n  \"channels\": [\n    {\n      \"id\": \"pluto.movies\",\n      \"name\": \"Pluto TV Movies\",\n      \"group\": \"FAST • Pluto\",\n      \"region\": \"Global\",\n      \"logo\": \"https://upload.wikimedia.org/wikipedia/commons/0/0f/Pluto_TV_2020_logo.svg",
+      "length": 963
+    },
+    {
+      "section_id": "provider-manifests",
+      "section_title": "Provider Manifests",
+      "article_title": "BBC Provider Manifest",
+      "article_subtitle": "BBC One, Two, Three, Four, News, Parliament, CBBC, CBeebies.",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#provider-manifests",
+      "kind": "json",
+      "preview": "{\n  \"provider\": \"bbc-master\",\n  \"version\": \"1.0\",\n  \"channels\": [\n    {\n      \"id\": \"bbcone.uk\",\n      \"name\": \"BBC One\",\n      \"group\": \"BBC\",\n      \"region\": \"National\",\n      \"logo\": \"https://upload.wikimedia.org/wikipedia/commons/5/5f/BBC_One_logo_2021.svg\"\n    },\n    {",
+      "length": 678
+    },
+    {
+      "section_id": "fallback-chains",
+      "section_title": "Fallback Chains",
+      "article_title": "Basic Fallback Chain",
+      "article_subtitle": "Primary → Backup → Mirror",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#fallback-chains",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n#EXTINF:-1 tvg-id=\"bbcone.uk\" group-title=\"UK • BBC\",BBC One\n# Primary\nhttp://primary-source/bbcone.m3u8\n# Backup\nhttp://backup-source/bbcone.m3u8\n# Mirror\nhttp://mirror-source/bbcone.m3u8",
+      "length": 197
+    },
+    {
+      "section_id": "fallback-chains",
+      "section_title": "Fallback Chains",
+      "article_title": "Advanced Fallback Chain",
+      "article_subtitle": "Primary → Backup → Mirror → Failover CDN",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#fallback-chains",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n#EXTINF:-1 tvg-id=\"bbcnews.uk\" group-title=\"UK • BBC\",BBC News\n# Primary (Direct)\nhttp://primary-source/bbcnews.m3u8\n# Backup (Regional)\nhttp://backup-source/bbcnews.m3u8\n# Mirror (Cloud)\nhttp://mirror-source/bbcnews.m3u8\n# Failover CDN\nhttp://cdn-failover/bbcnews.m3u8",
+      "length": 278
+    },
+    {
+      "section_id": "fallback-chains",
+      "section_title": "Fallback Chains",
+      "article_title": "Geo‑Based Fallback Chain",
+      "article_subtitle": "UK → EU → Global",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#fallback-chains",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n#EXTINF:-1 tvg-id=\"channel4.uk\" group-title=\"UK • C4\",Channel 4\n# UK Node\nhttp://uk-node/channel4.m3u8\n# EU Node\nhttp://eu-node/channel4.m3u8\n# Global Node\nhttp://global-node/channel4.m3u8",
+      "length": 197
+    },
+    {
+      "section_id": "fallback-chains",
+      "section_title": "Fallback Chains",
+      "article_title": "Provider‑Based Failover",
+      "article_subtitle": "Provider A → Provider B → Provider C",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#fallback-chains",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n#EXTINF:-1 tvg-id=\"sbs.au\" group-title=\"AU • SBS\",SBS\n# Provider A\nhttp://provider-a/sbs.m3u8\n# Provider B\nhttp://provider-b/sbs.m3u8\n# Provider C\nhttp://provider-c/sbs.m3u8",
+      "length": 182
+    },
+    {
+      "section_id": "fallback-chains",
+      "section_title": "Fallback Chains",
+      "article_title": "FAST Failover Chain",
+      "article_subtitle": "Pluto → Samsung → Plex → Rakuten",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#fallback-chains",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n#EXTINF:-1 tvg-id=\"pluto.movies\" group-title=\"FAST • Movies\",FAST Movies\n# Pluto\nhttp://pluto/movies.m3u8\n# Samsung\nhttp://samsung/movies.m3u8\n# Plex\nhttp://plex/movies.m3u8\n# Rakuten\nhttp://rakuten/movies.m3u8",
+      "length": 219
+    },
+    {
+      "section_id": "fallback-chains",
+      "section_title": "Fallback Chains",
+      "article_title": "BBC Regional Failover",
+      "article_subtitle": "London → Scotland → Wales → NI",
+      "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#fallback-chains",
+      "kind": "m3u",
+      "preview": "#EXTM3U\n#EXTINF:-1 tvg-id=\"bbcone.uk\" group-title=\"BBC • Regional\",BBC One (Failover)\n# London\nhttp://bbc/london.m3u8\n# Scotland\nhttp://bbc/scotland.m3u8\n# Wales\nhttp://bbc/wales.m3u8\n# Northern Ireland\nhttp://bbc/ni.m3u8",
+      "length": 222
+    }
+  ],
+  "code_kind_counts": {
+    "m3u": 12,
+    "xmltv": 6,
+    "json": 4
+  }
+}

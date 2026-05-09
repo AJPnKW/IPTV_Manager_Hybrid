@@ -1,0 +1,34 @@
+﻿batch_review_capture
+run_ts=20260419_221006
+run_dir=C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006
+zip_file=C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006.zip
+artifact_index=C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006\artifact_index.csv
+
+headline_metrics
+source_inventory_total_relevant_files=10998
+source_inventory_total_relevant_bytes=28264246079
+promotion_parity_total_source_files=651
+promotion_parity_total_target_files=943
+promotion_parity_total_missing_in_target=12
+promotion_parity_total_extra_in_target=304
+canonical_input_overlap_total_overlap_rows=23
+canonical_input_overlap_total_overlap_names=11
+legacy_load_files_dedupe_duplicate_groups=0
+legacy_load_files_dedupe_review_duplicates=0
+
+included_artifacts
+
+category                 source                                                                                          bundled_as                                                                                                                                                  
+--------                 ------                                                                                          ----------                                                                                                                                                  
+source_inventory         C:\Users\andrew\PROJECTS\iptv\inventory\raw\source_inventory_20260419_221007\00_summary.txt     C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006\bundle\source_inventory\00_summary.txt                              
+promotion_parity         C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\promotion_parity_summary.txt         C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006\bundle\promotion_parity\promotion_parity_summary.txt                
+promotion_parity         C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\promotion_parity_details.csv         C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006\bundle\promotion_parity\promotion_parity_details.csv                
+canonical_input_overlap  C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\canonical_input_overlap_summary.txt  C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006\bundle\canonical_input_overlap\canonical_input_overlap_summary.txt  
+canonical_input_overlap  C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\canonical_input_overlap_details.csv  C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006\bundle\canonical_input_overlap\canonical_input_overlap_details.csv  
+legacy_load_files_dedupe C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\legacy_load_files_dedupe_summary.txt C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006\bundle\legacy_load_files_dedupe\legacy_load_files_dedupe_summary.txt
+legacy_load_files_dedupe C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\legacy_load_files_dedupe_details.csv C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006\bundle\legacy_load_files_dedupe\legacy_load_files_dedupe_details.csv
+promotion_plan           C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\promotion_move_plan_summary.txt      C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006\bundle\promotion_plan\promotion_move_plan_summary.txt               
+promotion_plan           C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\promotion_move_plan.csv              C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\batch_review_20260419_221006\bundle\promotion_plan\promotion_move_plan.csv                       
+
+
+

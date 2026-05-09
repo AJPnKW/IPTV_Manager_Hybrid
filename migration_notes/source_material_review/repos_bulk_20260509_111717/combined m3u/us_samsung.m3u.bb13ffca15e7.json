@@ -1,0 +1,749 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_samsung.m3u",
+  "provider": "Ussamsung",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Amc All Weddings (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC All Weddings",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8",
+        "xmltv_id": "AllWeddingsWEtv.us",
+        "xmltv_display_name": "AMC All Weddings",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Quicktake (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg Quicktake (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8",
+        "xmltv_id": "BloombergQuicktake.us",
+        "xmltv_display_name": "Bloomberg Quicktake (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv (Samsung) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV+ UHD (2160p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8",
+        "xmltv_id": "BloombergTVPlus.us",
+        "xmltv_display_name": "Bloomberg TV+ UHD (2160p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bon App Tit (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "bon appétit (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "bonappetit.us",
+        "xmltv_display_name": "bon appétit (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bounce Xl (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Bounce XL (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8",
+        "xmltv_id": "BounceXL.us",
+        "xmltv_display_name": "Bounce XL (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Brat Tv (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Brat TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://brat-samsung-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "BratTV.us",
+        "xmltv_display_name": "Brat TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Buzzr (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Buzzr (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://buzzr-samsungus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Buzzr.us",
+        "xmltv_display_name": "Buzzr (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Buzzr (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Buzzr (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8",
+        "xmltv_id": "Buzzr.us",
+        "xmltv_display_name": "Buzzr (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Circle (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Circle (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://circle-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Circle.us",
+        "xmltv_display_name": "Circle (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crime 360 (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Crime 360 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8",
+        "xmltv_id": "Crime360.us",
+        "xmltv_display_name": "Crime 360 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Degrassi The Next Generation (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Degrassi The Next Generation (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d365kok94jpr38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2xcmoue1get1c/playlist.m3u8",
+        "xmltv_id": "DegrassiTheNextGeneration.us",
+        "xmltv_display_name": "Degrassi The Next Generation (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Edgesport (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "EDGEsport (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EDGEsport.uk",
+        "xmltv_display_name": "EDGEsport (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estrella News (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Estrella News (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://estrellanews-samsung-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EstrellaNews.us",
+        "xmltv_display_name": "Estrella News (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estv (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ESTV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://estv-rakuten-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "ESTV.us",
+        "xmltv_display_name": "ESTV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fireplace Lounge (Samsung) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "Fireplace Lounge (2160p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d300k472vyqakg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aijrtvzii4xsm-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8",
+        "xmltv_id": "FireplaceLounge.us",
+        "xmltv_display_name": "Fireplace Lounge (2160p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox News Now (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX News Now (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "LiveNOWfromFOX.us",
+        "xmltv_display_name": "FOX News Now (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Soul (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Soul (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "FoxSoul.us",
+        "xmltv_display_name": "Fox Soul (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ign (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "IGN (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ign-samsungus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "IGN.us",
+        "xmltv_display_name": "IGN (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Insight Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Insight TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InsightTV.nl",
+        "xmltv_display_name": "Insight TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Insight Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Insight TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InsightTV.nl",
+        "xmltv_display_name": "Insight TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Introuble (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "InTrouble (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://introuble-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InTrouble.nl",
+        "xmltv_display_name": "InTrouble (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Inwonder (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "InWonder (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://inwonder-samsung-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InWonder.nl",
+        "xmltv_display_name": "InWonder (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ion (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ION",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8",
+        "xmltv_id": "IONTVEast.us",
+        "xmltv_display_name": "ION",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ion Plus (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ION Plus",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8",
+        "xmltv_id": "IONPlusEast.us",
+        "xmltv_display_name": "ION Plus",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Loupe (Samsung) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "Loupe 4K",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8",
+        "xmltv_id": "Loupe4K.us",
+        "xmltv_display_name": "Loupe 4K",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Love Nature (Samsung) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "Love Nature 4K",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8",
+        "xmltv_id": "LoveNature4K.ca",
+        "xmltv_display_name": "Love Nature 4K",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Midnight Pulp (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Midnight Pulp (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d3knca0xtk4ya9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sxenfkl27gw6/playlist.m3u8",
+        "xmltv_id": "MidnightPulp.us",
+        "xmltv_display_name": "Midnight Pulp (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviesphere (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MovieSphere.us",
+        "xmltv_display_name": "MovieSphere (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mytime Movie Network (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MyTime Movie Network (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MyTimeMovieNetworkEast.us",
+        "xmltv_display_name": "MyTime Movie Network (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Newsmax 2 (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Newsmax 2 (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Newsmax2.us",
+        "xmltv_display_name": "Newsmax 2 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pac 12 Insider (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Pac 12 Insider (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Pac12Insider.us",
+        "xmltv_display_name": "Pac 12 Insider (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Shout Factory Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Shout! Factory TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8",
+        "xmltv_id": "ShoutFactoryTV.us",
+        "xmltv_display_name": "Shout! Factory TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsgrid (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SportsGrid (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "SportsGrid.us",
+        "xmltv_display_name": "SportsGrid (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Super Simple Songs (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Super Simple Songs (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://app.viloud.tv/hls/channel/fb6891b829df2ea6dd6968b506a8c393.m3u8",
+        "xmltv_id": "SuperSimpleSongs.us",
+        "xmltv_display_name": "Super Simple Songs (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Young Turks Tyt (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Young Turks (TYT) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tyt-samsungus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TheYoungTurks.us",
+        "xmltv_display_name": "The Young Turks (TYT) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weatherspy (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WeatherSpy",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "WeatherSpy.us",
+        "xmltv_display_name": "WeatherSpy",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Xplore (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Xplore (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://xlpore-samsungus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "XploreTV.us",
+        "xmltv_display_name": "Xplore (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yahoo Finance (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Yahoo! Finance (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://yahoo-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "YahooFinance.us",
+        "xmltv_display_name": "Yahoo! Finance (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Young Hollywood (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Young Hollywood (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "YoungHollywood.us",
+        "xmltv_display_name": "Young Hollywood (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

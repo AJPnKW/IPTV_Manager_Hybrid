@@ -1,0 +1,4127 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_local_uk.m3u",
+  "provider": "Playlistlocal",
+  "country": "UK",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "4music Geo Blocked Music (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "4Music [Geo-blocked]",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png",
+        "stream_url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits",
+        "xmltv_id": "4Music.uk",
+        "xmltv_display_name": "4Music [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Aaj Tak 404p News (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Aaj Tak (404p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/RpIdCB3.png",
+        "stream_url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
+        "xmltv_id": "AajTak.in",
+        "xmltv_display_name": "Aaj Tak (404p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/RpIdCB3.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Acts Tv Religious (Playlistlocal) (360p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "ACTS TV (360p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/c1gnTho.jpg",
+        "stream_url": "https://mediagh.us:19360/deliverancetv/deliverancetv.m3u8",
+        "xmltv_id": "ACTSTV.uk",
+        "xmltv_display_name": "ACTS TV (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/c1gnTho.jpg",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Afrobeats Music (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Afrobeats (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/232ndRK.png",
+        "stream_url": "https://stream.ecable.tv/afrobeats/index.m3u8",
+        "xmltv_id": "AfrobeatTVEntertainment.uk",
+        "xmltv_display_name": "Afrobeats (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/232ndRK.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ahlulbayt Tv Not 24 7 Religious (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ahlulbayt TV (1080p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/lNGJGjy.png",
+        "stream_url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
+        "xmltv_id": "AhlulbaytTV.uk",
+        "xmltv_display_name": "Ahlulbayt TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lNGJGjy.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Akaal Channel 396p Geo Blocked Religious (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Akaal Channel (396p) [Geo-blocked]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/K81vNbk.png",
+        "stream_url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
+        "xmltv_id": "AkaalChannel.uk",
+        "xmltv_display_name": "Akaal Channel (396p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/K81vNbk.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Albuk Tv Not 24 7 Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "AlbUK TV (1080p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/TMg4Kxi.png",
+        "stream_url": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8",
+        "xmltv_id": "AlbUKTV.uk",
+        "xmltv_display_name": "AlbUK TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/TMg4Kxi.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Alhiwar Tv Not 24 7 Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Alhiwar TV (1080p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/UjOxwdd.png",
+        "stream_url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
+        "xmltv_id": "AlHiwarTV.uk",
+        "xmltv_display_name": "Alhiwar TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/UjOxwdd.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Almagharibia Tv Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Almagharibia TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/XE6OWcb.png",
+        "stream_url": "https://ythlsgo.onrender.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8",
+        "xmltv_id": "AlmagharibiaTV.uk",
+        "xmltv_display_name": "Almagharibia TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/XE6OWcb.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Anand Tv Not 24 7 General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Anand TV (720p) [Not 24/7]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/5VOPFzs.png",
+        "stream_url": "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8",
+        "xmltv_id": "AnandTV.uk",
+        "xmltv_display_name": "Anand TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/5VOPFzs.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Angel Tv Europe Religious (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Angel TV Europe (720p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/qKLEGU7.png",
+        "stream_url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8",
+        "xmltv_id": "AngelTVEurope.in",
+        "xmltv_display_name": "Angel TV Europe (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qKLEGU7.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Arise News 576p News (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Arise News (576p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/B5IXKIb.png",
+        "stream_url": "https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8",
+        "xmltv_id": "AriseNews.uk",
+        "xmltv_display_name": "Arise News (576p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/B5IXKIb.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Atn Bangla 576p General (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ATN Bangla UK (576p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/vFpjggf.png",
+        "stream_url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8",
+        "xmltv_id": "ATNBanglaUK.uk",
+        "xmltv_display_name": "ATN Bangla UK (576p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vFpjggf.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Alba Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Alba (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/36KDxLg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCAlba.uk",
+        "xmltv_display_name": "BBC Alba (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/36KDxLg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Four Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Four HD (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCFour.uk",
+        "xmltv_display_name": "BBC Four HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC News Geo Blocked News (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC News HD (720p) [Geo-blocked]",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/vSz2WEp.png",
+        "stream_url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCNews.uk",
+        "xmltv_display_name": "BBC News HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vSz2WEp.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Geo Blocked General (Playlistlocal) (East) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One East (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneEast.uk",
+        "xmltv_display_name": "BBC One East (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Midlands Geo Blocked General (Playlistlocal) (East) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One East Midlands (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneEastMidlands.uk",
+        "xmltv_display_name": "BBC One East Midlands (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Yorkshire Geo Blocked General (Playlistlocal) (East) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One East Yorkshire (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneYorkshire.uk",
+        "xmltv_display_name": "BBC One East Yorkshire (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Geo Blocked General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One HD (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCOneEngland.uk",
+        "xmltv_display_name": "BBC One HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Geo Blocked General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One London (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCOneLondon.uk",
+        "xmltv_display_name": "BBC One London (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One North Geo Blocked General (Playlistlocal) (East) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One North East (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneNorthEastCumbria.uk",
+        "xmltv_display_name": "BBC One North East (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One North Geo Blocked General (Playlistlocal) (West) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One North West (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneNorthWest.uk",
+        "xmltv_display_name": "BBC One North West (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Northern Ireland Geo Blocked General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One Northern Ireland HD (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_One_Northern_Ireland_2021.svg/512px-BBC_One_Northern_Ireland_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneNorthernIreland.uk",
+        "xmltv_display_name": "BBC One Northern Ireland HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/BBC_One_Northern_Ireland_2021.svg/512px-BBC_One_Northern_Ireland_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Scotland Geo Blocked General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One Scotland HD (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/c/c1/BBC_One_Scotland_2021.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneScotland.uk",
+        "xmltv_display_name": "BBC One Scotland HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/BBC_One_Scotland_2021.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One South Geo Blocked General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One South (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneSouth.uk",
+        "xmltv_display_name": "BBC One South (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One South Geo Blocked General (Playlistlocal) (East) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One South East (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneSouthEast.uk",
+        "xmltv_display_name": "BBC One South East (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One South Geo Blocked General (Playlistlocal) (West) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One South West (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneSouthWest.uk",
+        "xmltv_display_name": "BBC One South West (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Wales Geo Blocked General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One Wales (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BBC_One_Wales_2021.svg/512px-BBC_One_Wales_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneWales.uk",
+        "xmltv_display_name": "BBC One Wales (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BBC_One_Wales_2021.svg/512px-BBC_One_Wales_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Geo Blocked General (Playlistlocal) (West) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One West (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneWest.uk",
+        "xmltv_display_name": "BBC One West (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Midlands Geo Blocked General (Playlistlocal) (West) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One West Midlands (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneWestMidlands.uk",
+        "xmltv_display_name": "BBC One West Midlands (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Yorks Geo Blocked General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One Yorks (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOneYorksLincs.uk",
+        "xmltv_display_name": "BBC One Yorks (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Parliament Geo Blocked Legislative (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Parliament (720p) [Geo-blocked]",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCParliament.uk",
+        "xmltv_display_name": "BBC Parliament (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Persian News (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Persian (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/4uTMnPb.png",
+        "stream_url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd",
+        "xmltv_id": "BBCPersian.uk",
+        "xmltv_display_name": "BBC Persian (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/4uTMnPb.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 1 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 1 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/JX6txXq.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_01/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton1.uk",
+        "xmltv_display_name": "BBC Red Button 1 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/JX6txXq.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 2 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 2 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_02/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton2.uk",
+        "xmltv_display_name": "BBC Red Button 2 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 3 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 3 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_03/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton3.uk",
+        "xmltv_display_name": "BBC Red Button 3 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 4 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 4 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_04/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton4.uk",
+        "xmltv_display_name": "BBC Red Button 4 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 5 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 5 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_05/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton5.uk",
+        "xmltv_display_name": "BBC Red Button 5 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 6 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 6 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_06/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton6.uk",
+        "xmltv_display_name": "BBC Red Button 6 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 7 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 7 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_07/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton7.uk",
+        "xmltv_display_name": "BBC Red Button 7 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 8 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 8 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_08/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton8.uk",
+        "xmltv_display_name": "BBC Red Button 8 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 9 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 9 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_09/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton9.uk",
+        "xmltv_display_name": "BBC Red Button 9 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 10 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 10 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/lu1EaZo.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_10/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton10.uk",
+        "xmltv_display_name": "BBC Red Button 10 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lu1EaZo.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 11 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 11 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_11/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton11.uk",
+        "xmltv_display_name": "BBC Red Button 11 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 12 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 12 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_12/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton12.uk",
+        "xmltv_display_name": "BBC Red Button 12 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 13 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 13 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_13/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton13.uk",
+        "xmltv_display_name": "BBC Red Button 13 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 14 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 14 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_14/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton14.uk",
+        "xmltv_display_name": "BBC Red Button 14 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 15 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 15 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_15/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton15.uk",
+        "xmltv_display_name": "BBC Red Button 15 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 16 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 16 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_16/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton16.uk",
+        "xmltv_display_name": "BBC Red Button 16 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 17 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 17 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_17/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton17.uk",
+        "xmltv_display_name": "BBC Red Button 17 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 18 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 18 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_18/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton18.uk",
+        "xmltv_display_name": "BBC Red Button 18 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 19 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 19 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_19/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton19.uk",
+        "xmltv_display_name": "BBC Red Button 19 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 20 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 20 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_20/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton20.uk",
+        "xmltv_display_name": "BBC Red Button 20 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 21 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 21 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_21/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton21.uk",
+        "xmltv_display_name": "BBC Red Button 21 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 22 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 22 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_22/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton22.uk",
+        "xmltv_display_name": "BBC Red Button 22 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 23 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 23 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_23/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton23.uk",
+        "xmltv_display_name": "BBC Red Button 23 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button 24 Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button 24 (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/g2Aga13.png",
+        "stream_url": "https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_24/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCRedButton24.uk",
+        "xmltv_display_name": "BBC Red Button 24 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/g2Aga13.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Red Button One Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Red Button One (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Red Button One (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Scotland Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Scotland HD (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCScotland.uk",
+        "xmltv_display_name": "BBC Scotland HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Three Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Three HD (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCThree.uk",
+        "xmltv_display_name": "BBC Three HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Two Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Two HD (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCTwoEngland.uk",
+        "xmltv_display_name": "BBC Two HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Two Northern Ireland Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Two Northern Ireland HD (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCTwoNorthernIreland.uk",
+        "xmltv_display_name": "BBC Two Northern Ireland HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Two Wales Geo Blocked Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Two Wales (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "BBCTwoWales.uk",
+        "xmltv_display_name": "BBC Two Wales (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC 1 Geo Blocked Not 24 7 Undefined (Playlistlocal) (2160p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+        "stream_url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd",
+        "xmltv_id": "BBCUHD1.uk",
+        "xmltv_display_name": "BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC 2 Geo Blocked Not 24 7 Undefined (Playlistlocal) (2160p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+        "stream_url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd",
+        "xmltv_id": "BBCUHD2.uk",
+        "xmltv_display_name": "BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC 3 Geo Blocked Not 24 7 Undefined (Playlistlocal) (2160p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+        "stream_url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd",
+        "xmltv_id": "BBCUHD3.uk",
+        "xmltv_display_name": "BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC 4 Geo Blocked Not 24 7 Undefined (Playlistlocal) (2160p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+        "stream_url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd",
+        "xmltv_id": "BBCUHD4.uk",
+        "xmltv_display_name": "BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC 5 Geo Blocked Not 24 7 Undefined (Playlistlocal) (2160p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+        "stream_url": "https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd",
+        "xmltv_id": "BBCUHD5.uk",
+        "xmltv_display_name": "BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Beano Tv Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Beano TV",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/IKHFZDJ.png",
+        "stream_url": "https://a5b4bacecd47433dad06d3189fc7422e.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BeanoTV/b1f233d5-847c-437d-aa4f-f73e67a85323/2.m3u8",
+        "xmltv_id": "BeanoTV.uk",
+        "xmltv_display_name": "Beano TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/IKHFZDJ.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv Emea Live Event Business (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV EMEA Live Event (720p)",
+        "group_title_raw": "Business",
+        "logo_raw": "https://i.imgur.com/OuogLHx.png",
+        "stream_url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
+        "xmltv_id": "BloombergTVEMEALiveEvent.uk",
+        "xmltv_display_name": "Bloomberg TV EMEA Live Event (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OuogLHx.png",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv Europe Business (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV Europe (720p)",
+        "group_title_raw": "Business",
+        "logo_raw": "https://i.imgur.com/OuogLHx.png",
+        "stream_url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+        "xmltv_id": "BloombergTVEurope.uk",
+        "xmltv_display_name": "Bloomberg TV Europe (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OuogLHx.png",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Box Hits 576p Music (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Box Hits (576p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",
+        "stream_url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits",
+        "xmltv_id": "BoxHits.uk",
+        "xmltv_display_name": "Box Hits (576p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Brit Asia Live Not 24 7 Undefined (Playlistlocal) (East) (360p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Brit Asia Live (US Eastern) (360p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/ULm80XF.png",
+        "stream_url": "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8",
+        "xmltv_id": "BritAsiaTV.uk",
+        "xmltv_display_name": "Brit Asia Live (US Eastern) (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ULm80XF.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "British Muslim Tv 576p Not 24 7 Religious (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "British Muslim TV (576p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/9k7fsqw.png",
+        "stream_url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8",
+        "xmltv_id": "BritishMuslimTV.uk",
+        "xmltv_display_name": "British Muslim TV (576p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9k7fsqw.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cbbc Geo Blocked Kids (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBBC HD (720p) [Geo-blocked]",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/tk8G4CU.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "CBBC.uk",
+        "xmltv_display_name": "CBBC HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/tk8G4CU.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cbeebies Geo Blocked Kids (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBeebies HD (720p) [Geo-blocked]",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
+        "xmltv_id": "CBeebies.uk",
+        "xmltv_display_name": "CBeebies HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Channel S 576p Not 24 7 Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Channel S (576p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/hJxFLvF.png",
+        "stream_url": "https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8",
+        "xmltv_id": "ChannelS.uk",
+        "xmltv_display_name": "Channel S (576p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/hJxFLvF.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Like Gecko Mobile 15e148 Cnbc Europe Business (Playlistlocal) (480p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "like Gecko) Mobile/15E148\",CNBC Europe (480p)",
+        "group_title_raw": "Business",
+        "logo_raw": "https://i.imgur.com/B6sfpDa.png",
+        "stream_url": "http://ott-cdn.ucom.am/s65/index.m3u8",
+        "xmltv_id": "CNBCEurope.uk",
+        "xmltv_display_name": "like Gecko) Mobile/15E148\",CNBC Europe (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/B6sfpDa.png",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CNN International Europe News (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CNN International Europe (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/05S3yYZ.png",
+        "stream_url": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "CNNInternationalEurope.us",
+        "xmltv_display_name": "CNN International Europe (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/05S3yYZ.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Comedy Channel Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Comedy Channel (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Comedy Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cruise1st Tv Geo Blocked Shop (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cruise1st TV (1080p) [Geo-blocked]",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/L1bysJS.png",
+        "stream_url": "https://ythlsgo.onrender.com/channel/UC9r76Tzp5HxeQG7SqZwV3OA.m3u8",
+        "xmltv_id": "Cruise1stTV.uk",
+        "xmltv_display_name": "Cruise1st TV (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/L1bysJS.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Deen Tv 576p Not 24 7 General (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Deen TV (576p) [Not 24/7]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/Zp62Nbd.png",
+        "stream_url": "https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8",
+        "xmltv_id": "DeenTV.uk",
+        "xmltv_display_name": "Deen TV (576p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Zp62Nbd.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Discoverfilm Movies (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "DiscoverFilm",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/oMnpsQ5.png",
+        "stream_url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "DiscoverFilm.uk",
+        "xmltv_display_name": "DiscoverFilm",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/oMnpsQ5.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dunya News Feed Not 24 7 News (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Dunya News (UK Feed) (720p) [Not 24/7]",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/dtrTfZC.png",
+        "stream_url": "https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8",
+        "xmltv_id": "DunyaNewsUK.uk",
+        "xmltv_display_name": "Dunya News (UK Feed) (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/dtrTfZC.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ebs Live Europe By Satellite Legislative (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "EbS Live (Europe by Satellite) (1080p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/DIIRPNN.png",
+        "stream_url": "https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8",
+        "xmltv_id": "EbS.be",
+        "xmltv_display_name": "EbS Live (Europe by Satellite) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DIIRPNN.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ebs Live Europe By Satellite Legislative (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "EbS+ Live (Europe by Satellite) (1080p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/7V012zQ.png",
+        "stream_url": "https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8",
+        "xmltv_id": "EbSPlus.be",
+        "xmltv_display_name": "EbS+ Live (Europe by Satellite) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/7V012zQ.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Edgesport Sports (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "EDGEsport (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/bgQ6kz7.png",
+        "stream_url": "https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EDGEsport.uk",
+        "xmltv_display_name": "EDGEsport (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/bgQ6kz7.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Eman Channel 576p Religious (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Eman Channel (576p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/ugn0DWe.png",
+        "stream_url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
+        "xmltv_id": "EmanChannel.uk",
+        "xmltv_display_name": "Eman Channel (576p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ugn0DWe.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Like Gecko Mobile 15e148 English Club Tv Undefined (Playlistlocal) (480p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "like Gecko) Mobile/15E148\",English Club TV (480p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/9FMvaRK.png",
+        "stream_url": "http://ott-cdn.ucom.am/s37/index.m3u8",
+        "xmltv_id": "EnglishClubTV.uk",
+        "xmltv_display_name": "like Gecko) Mobile/15E148\",English Club TV (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9FMvaRK.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ewtn Europe Not 24 7 Religious (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "EWTN Europe (720p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",
+        "stream_url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
+        "xmltv_id": "EWTNEurope.us",
+        "xmltv_display_name": "EWTN Europe (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fadak Tv Not 24 7 Religious (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fadak TV (1080p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/MBZ4sSA.png",
+        "stream_url": "https://ythlsgo.onrender.com/channel/UC2ZoBzeCXrZcMz4f82eMe-g.m3u8",
+        "xmltv_id": "FadakTV.uk",
+        "xmltv_display_name": "Fadak TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/MBZ4sSA.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fashion Tv Lifestyle (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fashion TV (1080p)",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",
+        "stream_url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "FashionTVEurope.fr",
+        "xmltv_display_name": "Fashion TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fashion Tv England Not 24 7 Lifestyle (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fashion TV (England) (1080p) [Not 24/7]",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/b4KYkyd.png",
+        "stream_url": "https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "FashionTelevision.uk",
+        "xmltv_display_name": "Fashion TV (England) (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/b4KYkyd.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmstream Movies (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Filmstream",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/DTRPV6B.png",
+        "stream_url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "Filmstream.nl",
+        "xmltv_display_name": "Filmstream",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DTRPV6B.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Garshom Tv Not 24 7 Undefined (Playlistlocal) (360p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Garshom TV (360p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/KnbwUyb.png",
+        "stream_url": "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+        "xmltv_id": "GarshomTV.uk",
+        "xmltv_display_name": "Garshom TV (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KnbwUyb.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gb News News (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "GB News",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",
+        "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8",
+        "xmltv_id": "GBNews.uk",
+        "xmltv_display_name": "GB News",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gems Tv Shop (Playlistlocal) (360p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Gems TV (360p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/WgaJufI.png",
+        "stream_url": "http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8",
+        "xmltv_id": "GemsTV.uk",
+        "xmltv_display_name": "Gems TV (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/WgaJufI.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hadi Tv French Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hadi TV French (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hadi TV French (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hadi Tv Indonesian And Thai Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hadi TV Indonesian and Thai (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hadi TV Indonesian and Thai (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hadi Tv Turkish And Kurdish Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hadi TV Turkish and Kurdish (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hadi TV Turkish and Kurdish (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hala Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hala London (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/KbLb0AE.png",
+        "stream_url": "https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8",
+        "xmltv_id": "HalaLondon.uk",
+        "xmltv_display_name": "Hala London (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KbLb0AE.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Horse And Country Free Outdoor (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Horse and Country Free",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://i.imgur.com/1x6zYZr.png",
+        "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8",
+        "xmltv_id": "HorseCountryTV.uk",
+        "xmltv_display_name": "Horse and Country Free",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/1x6zYZr.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ideal World Tv Shop (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ideal World TV (1080p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/su6GH7i.png",
+        "stream_url": "https://ythlsgo.onrender.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8",
+        "xmltv_id": "IdealWorldTV.uk",
+        "xmltv_display_name": "Ideal World TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/su6GH7i.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ion Tv 576p General (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iON TV (576p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/E8VwnK7.png",
+        "stream_url": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8",
+        "xmltv_id": "IonTV.uk",
+        "xmltv_display_name": "iON TV (576p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/E8VwnK7.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Iqra Bangla Religious (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Iqra Bangla (720p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/BZBZAeC.png",
+        "stream_url": "https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8",
+        "xmltv_id": "IqraBangla.uk",
+        "xmltv_display_name": "Iqra Bangla (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/BZBZAeC.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Iqra Tv 576p Religious (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Iqra TV (576p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png",
+        "stream_url": "https://cdn5.iqsat.net/iqb/b5b9977ca31beabec903ba7b34e1c198.sdp/playlist.m3u8",
+        "xmltv_id": "IqraTV.uk",
+        "xmltv_display_name": "Iqra TV (576p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Islam Channel 576p Not 24 7 Religious (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Islam Channel (576p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/bJdFH7x.png",
+        "stream_url": "https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8",
+        "xmltv_id": "IslamChannel.uk",
+        "xmltv_display_name": "Islam Channel (576p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/bJdFH7x.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Islam Channel Urdu Religious (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Islam Channel Urdu",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/j1ZBAgg.png",
+        "stream_url": "https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8",
+        "xmltv_id": "IslamChannelUrdu.uk",
+        "xmltv_display_name": "Islam Channel Urdu",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/j1ZBAgg.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Jewelery Maker Lifestyle (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Jewelery Maker (1080p)",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/O7SdkBh.png",
+        "stream_url": "https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8",
+        "xmltv_id": "JewelleryMaker.uk",
+        "xmltv_display_name": "Jewelery Maker (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/O7SdkBh.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Jimjam 576p Not 24 7 Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "JimJam Россия (576p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "http://188.40.68.167/russia/jimjam/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "JimJam Россия (576p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kalsan Tv 576p Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Kalsan TV (576p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/AqyY1bR.png",
+        "stream_url": "https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8",
+        "xmltv_id": "KalsanTV.uk",
+        "xmltv_display_name": "Kalsan TV (576p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/AqyY1bR.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kanshi Tv Not 24 7 Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Kanshi TV (720p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/w6uXMrK.png",
+        "stream_url": "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8",
+        "xmltv_id": "KanshiTV.uk",
+        "xmltv_display_name": "Kanshi TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/w6uXMrK.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kerrang 576p Geo Blocked Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Kerrang (576p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/3mwf8Uq.png",
+        "stream_url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang",
+        "xmltv_id": "Kerrang.uk",
+        "xmltv_display_name": "Kerrang (576p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/3mwf8Uq.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kiss Tv Geo Blocked Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "KISS TV [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/cmwa5Wh.png",
+        "stream_url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss",
+        "xmltv_id": "KissTVUK.uk",
+        "xmltv_display_name": "KISS TV [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/cmwa5Wh.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kmtv 576p Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "KMTV (576p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/hRqX1wW.png",
+        "stream_url": "https://dk7psf0dh3v1r.cloudfront.net/KMTV/playlist.m3u8",
+        "xmltv_id": "KMTV.uk",
+        "xmltv_display_name": "KMTV (576p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/hRqX1wW.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kool Radio Music (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Kool London Radio (720p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/Jf7gydO.png",
+        "stream_url": "http://w10.streamgb.com:1935/kool/kool/playlist.m3u8",
+        "xmltv_id": "KoolLondonRadio.uk",
+        "xmltv_display_name": "Kool London Radio (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Jf7gydO.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kto 404p Not 24 7 Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "KTO (404p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/EY6TsdV.png",
+        "stream_url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
+        "xmltv_id": "KTO.fr",
+        "xmltv_display_name": "KTO (404p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/EY6TsdV.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Latest Tv Not 24 7 Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Latest TV [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Latest TV [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lolly Kids Kids (Playlistlocal) (480p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Lolly Kids (480p)",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/DOpgaBe.png",
+        "stream_url": "http://45.225.95.170:8000/play/a0ei/index.m3u8",
+        "xmltv_id": "LollyKids.uk",
+        "xmltv_display_name": "Lolly Kids (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DOpgaBe.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Loveworld Tv Not 24 7 Religious (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Loveworld TV (1080p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/3dPE3aw.png",
+        "stream_url": "https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8",
+        "xmltv_id": "LoveworldTV.uk",
+        "xmltv_display_name": "Loveworld TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/3dPE3aw.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Magna Vision Entertainment (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Magna Vision (1080p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/mUHixbi.png",
+        "stream_url": "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8",
+        "xmltv_id": "MagnavisionTV.uk",
+        "xmltv_display_name": "Magna Vision (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mUHixbi.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Moonbug Kids Kids (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Moonbug Kids (1080p)",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/vZHtxQb.png",
+        "stream_url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MoonbugKids.uk",
+        "xmltv_display_name": "Moonbug Kids (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vZHtxQb.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mta1 World Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MTA1 World (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/bYiRfAg.png",
+        "stream_url": "https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8",
+        "xmltv_id": "MTA1World.uk",
+        "xmltv_display_name": "MTA1 World (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/bYiRfAg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mta2 Europe Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MTA2 Europe (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/aVts0sz.png",
+        "stream_url": "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8",
+        "xmltv_id": "MTA2Europe.uk",
+        "xmltv_display_name": "MTA2 Europe (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/aVts0sz.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mta3 Al Arabia Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MTA3 Al-Arabia (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/m3PEldJ.png",
+        "stream_url": "https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8",
+        "xmltv_id": "MTA3AlArabia.uk",
+        "xmltv_display_name": "MTA3 Al-Arabia (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/m3PEldJ.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mta4 Africa Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MTA4 Africa (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/lmVeQQX.png",
+        "stream_url": "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8",
+        "xmltv_id": "MTA4Africa.uk",
+        "xmltv_display_name": "MTA4 Africa (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lmVeQQX.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mta5 Africa Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MTA5 Africa (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/9Cobb2i.png",
+        "stream_url": "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8",
+        "xmltv_id": "MTA5Africa.uk",
+        "xmltv_display_name": "MTA5 Africa (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9Cobb2i.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mta6 Asia Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MTA6 Asia (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/nhCNPJI.png",
+        "stream_url": "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8",
+        "xmltv_id": "MTA6Asia.uk",
+        "xmltv_display_name": "MTA6 Asia (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/nhCNPJI.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mta7 Asia Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MTA7 Asia (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/3Nl8Tpu.png",
+        "stream_url": "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8",
+        "xmltv_id": "MTA7Asia.uk",
+        "xmltv_display_name": "MTA7 Asia (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/3Nl8Tpu.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mta8 America Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MTA8 America (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/CF6X9wB.png",
+        "stream_url": "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8",
+        "xmltv_id": "MTA8America.uk",
+        "xmltv_display_name": "MTA8 America (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/CF6X9wB.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "N Tv Not 24 7 Undefined (Playlistlocal) (East) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "n TV (US Eastern) (720p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "n TV (US Eastern) (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC News Now News (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC News Now (1080p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/JZt2qh5.png",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
+        "xmltv_id": "NBCNewsNOW.us",
+        "xmltv_display_name": "NBC News Now (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/JZt2qh5.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Noor Tv Not 24 7 Religious (Playlistlocal) (480p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Noor TV (480p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/DlKgIuQ.png",
+        "stream_url": "http://45.76.186.114:8080/hls/noortv.m3u8",
+        "xmltv_id": "NoorTV.uk",
+        "xmltv_display_name": "Noor TV (480p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DlKgIuQ.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Now 70 S Music (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Now 70's",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/qiCCX5X.png",
+        "stream_url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Now70s.uk",
+        "xmltv_display_name": "Now 70's",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qiCCX5X.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Now 80 S Music (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Now 80's",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/YyPnMeB.png",
+        "stream_url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Now80s.uk",
+        "xmltv_display_name": "Now 80's",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/YyPnMeB.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Now 90 S Music (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Now 90's",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/yo8lEu1.png",
+        "stream_url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Now90s.uk",
+        "xmltv_display_name": "Now 90's",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/yo8lEu1.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ntv Europe Not 24 7 General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NTV Europe (720p) [Not 24/7]",
+        "group_title_raw": "General",
+        "logo_raw": "https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png",
+        "stream_url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8",
+        "xmltv_id": "NTVEurope.bd",
+        "xmltv_display_name": "NTV Europe (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pac12 Insider Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pac12 Insider (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://pac12-sportstribal.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pac12 Insider (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs America General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "PBS America (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png",
+        "stream_url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "PBSAmerica.uk",
+        "xmltv_display_name": "PBS America (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Animals England Documentary (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Animals (England) (720p)",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/KuPue6S.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=",
+        "xmltv_id": "PlutoTVAnimalsUK.uk",
+        "xmltv_display_name": "Pluto TV Animals (England) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KuPue6S.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Antiques Roadshow 240p Undefined (Pluto) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Antiques Roadshow UK (240p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce44810b421747ae467b7cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=621&terminate=false&userId=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pluto TV Antiques Roadshow UK (240p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Antiques Roadshow Not 24 7 Undefined (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Antiques Roadshow UK (720p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pluto TV Antiques Roadshow UK (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Food Undefined (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV BBC Food (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pluto TV BBC Food (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Home Undefined (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV BBC Home (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pluto TV BBC Home (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Biography Not 24 7 Documentary (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Biography (720p) [Not 24/7]",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/MwuIHbX.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "xmltv_id": "PlutoTVBiographyUK.uk",
+        "xmltv_display_name": "Pluto TV Biography (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/MwuIHbX.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Classic Movies England Undefined (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Classic Movies (England) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pluto TV Classic Movies (England) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Classic Tv Comedy (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Classic TV (720p)",
+        "group_title_raw": "Comedy",
+        "logo_raw": "https://i.imgur.com/hGdXRMd.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc",
+        "xmltv_id": "PlutoTVClassicTVUK.uk",
+        "xmltv_display_name": "Pluto TV Classic TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/hGdXRMd.png",
+        "xmltv_categories": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crime England Not 24 7 Documentary (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Crime (England) (720p) [Not 24/7]",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/QwEpDY9.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea18cd42ee5410007e349dc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=200&terminate=false&userId=",
+        "xmltv_id": "PlutoTVCrimeUK.uk",
+        "xmltv_display_name": "Pluto TV Crime (England) (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/QwEpDY9.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Drama England Movies (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Drama (England) (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/r4LVVQW.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf91149880d60009d35d27&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=402&terminate=false&userId=",
+        "xmltv_id": "PlutoTVDramaUK.uk",
+        "xmltv_display_name": "Pluto TV Drama (England) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/r4LVVQW.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Food England Lifestyle (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Food (England) (720p)",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/HTLo1GG.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf930548ff9b00090d5686&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=500&terminate=false&userId=",
+        "xmltv_id": "PlutoTVFoodUK.uk",
+        "xmltv_display_name": "Pluto TV Food (England) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/HTLo1GG.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Inside England Documentary (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Inside (England) (720p)",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/Tb4GNml.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767857f65029ce2385b217/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767857f65029ce2385b217&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=302&terminate=false&userId=",
+        "xmltv_id": "PlutoTVInsideUK.uk",
+        "xmltv_display_name": "Pluto TV Inside (England) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Tb4GNml.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Movies England 684p Movies (Pluto) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Movies (England) (684p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/i51xfAn.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=",
+        "xmltv_id": "PlutoTVMoviesUK.uk",
+        "xmltv_display_name": "Pluto TV Movies (England) (684p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/i51xfAn.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paranormal England Documentary (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Paranormal (England) (720p)",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/udxOeQJ.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4af2ffa9506ab29cf38c38&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=216&terminate=false&userId=",
+        "xmltv_id": "PlutoTVParanormalUK.uk",
+        "xmltv_display_name": "Pluto TV Paranormal (England) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/udxOeQJ.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Retro Drama England Series (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Retro Drama (England) (720p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/a2xIDMJ.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91f19c2c3300098ce961/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf91f19c2c3300098ce961&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=415&terminate=false&userId=",
+        "xmltv_id": "PlutoTVRetroDramaUK.uk",
+        "xmltv_display_name": "Pluto TV Retro Drama (England) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/a2xIDMJ.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Romance 684p Movies (Pluto) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Romance (684p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/0jHyTvu.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a66795ef91fef2c7031c599&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=70&terminate=false&userId=",
+        "xmltv_id": "PlutoTVRomanceUK.uk",
+        "xmltv_display_name": "Pluto TV Romance (684p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/0jHyTvu.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sherlock Series (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Sherlock (720p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/SL3FNcm.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "xmltv_id": "PlutoTVSherlockUK.uk",
+        "xmltv_display_name": "Pluto TV Sherlock (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/SL3FNcm.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sports Sports (Pluto) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Sports (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/LW77x7g.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bb941b95267e225e59c2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&terminate=false&userId=",
+        "xmltv_id": "PlutoTVSportsUK.uk",
+        "xmltv_display_name": "Pluto TV Sports (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/LW77x7g.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stand Up Comedy (Pluto) (360p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Stand Up (360p)",
+        "group_title_raw": "Comedy",
+        "logo_raw": "https://i.imgur.com/cZdUQDe.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5637d31f319573e26b64040b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=468&terminate=false&userId=",
+        "xmltv_id": "PlutoTVStandUpUK.uk",
+        "xmltv_display_name": "Pluto TV Stand Up (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/cZdUQDe.png",
+        "xmltv_categories": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pop Max 576p Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "POP Max (576p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/Z7XTTod.png",
+        "stream_url": "https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8",
+        "xmltv_id": "PopMax.uk",
+        "xmltv_display_name": "POP Max (576p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Z7XTTod.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qvc 540p Shop (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "QVC UK (540p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/6TWUVrh.png",
+        "stream_url": "http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8",
+        "xmltv_id": "QVCUK.uk",
+        "xmltv_display_name": "QVC UK (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/6TWUVrh.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qvc 1 540p Shop (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "QVC UK +1 (540p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/6TWUVrh.png",
+        "stream_url": "https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8",
+        "xmltv_id": "QVCUKPlus1.uk",
+        "xmltv_display_name": "QVC UK +1 (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/6TWUVrh.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qvc Beauty 540p Shop (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "QVC UK Beauty (540p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/ZBHtqk1.png",
+        "stream_url": "http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8",
+        "xmltv_id": "QVCBeautyUK.uk",
+        "xmltv_display_name": "QVC UK Beauty (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ZBHtqk1.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qvc Extra 540p Shop (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "QVC UK Extra (540p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/TIe5T9Z.png",
+        "stream_url": "https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8",
+        "xmltv_id": "QVCExtraUK.uk",
+        "xmltv_display_name": "QVC UK Extra (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/TIe5T9Z.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qvc Style 540p Shop (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "QVC UK Style (540p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/6HZlLL3.png",
+        "stream_url": "http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8",
+        "xmltv_id": "QVCStyleUK.uk",
+        "xmltv_display_name": "QVC UK Style (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/6HZlLL3.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qwest Tv Jazz Beyond Geo Blocked Music (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Qwest TV Jazz & Beyond (720p) [Geo-blocked]",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/89yWH5L.png",
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
+        "xmltv_id": "QwestTVJazzBeyond.fr",
+        "xmltv_display_name": "Qwest TV Jazz & Beyond (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/89yWH5L.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qwest Tv Mix Geo Blocked Music (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Qwest TV Mix (720p) [Geo-blocked]",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/lO22nwk.png",
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8",
+        "xmltv_id": "QwestTVMix.fr",
+        "xmltv_display_name": "Qwest TV Mix (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lO22nwk.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Action Movies Movies (Rakuten) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Action Movies UK (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/uMcwx2p.jpg",
+        "stream_url": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RakutenTVActionMoviesUK.uk",
+        "xmltv_display_name": "Rakuten Action Movies UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/uMcwx2p.jpg",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Comedy Movies Movies (Rakuten) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Comedy Movies UK (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/UrwA8Z3.png",
+        "stream_url": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RakutenTVComedyMoviesUK.uk",
+        "xmltv_display_name": "Rakuten Comedy Movies UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/UrwA8Z3.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Family Family Movies (Rakuten) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Family UK (720p)",
+        "group_title_raw": "Family;Movies",
+        "logo_raw": "https://i.imgur.com/hboiinD.jpg",
+        "stream_url": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RakutenTVFamilyMoviesUK.uk",
+        "xmltv_display_name": "Rakuten Family UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/hboiinD.jpg",
+        "xmltv_categories": [
+          "Family",
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Shows Undefined (Rakuten) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Shows UK (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rakuten Shows UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Spotlight Movies (Rakuten) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Spotlight UK (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/dWNxCqp.png",
+        "stream_url": "https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RakutenTVSpotlightUK.uk",
+        "xmltv_display_name": "Rakuten Spotlight UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/dWNxCqp.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Top Free Undefined (Rakuten) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Top Free UK (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rakuten Top Free UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Real Stories Documentary (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Real Stories",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/PG15QKA.png",
+        "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8",
+        "xmltv_id": "RealStories.uk",
+        "xmltv_display_name": "Real Stories",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/PG15QKA.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Rtv Diamant Not 24 7 General (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "RTV Diamant (1080p) [Not 24/7]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.ibb.co/XS9szYh/Cropped-logoq-1-1.png",
+        "stream_url": "https://vdo.delhost.eu:3472/stream/play.m3u8",
+        "xmltv_id": "RTVDiamant.uk",
+        "xmltv_display_name": "RTV Diamant (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/XS9szYh/Cropped-logoq-1-1.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "S4c Geo Blocked Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "S4C (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/vrcbnBv.png",
+        "stream_url": "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8",
+        "xmltv_id": "S4C.uk",
+        "xmltv_display_name": "S4C (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vrcbnBv.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sheffield Live Tv Not 24 7 Undefined (Playlistlocal) (360p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Sheffield Live TV (360p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/p0QzCFs.png",
+        "stream_url": "http://tv.sheffieldlive.org/hls/main.m3u8",
+        "xmltv_id": "SheffieldLiveTV.uk",
+        "xmltv_display_name": "Sheffield Live TV (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/p0QzCFs.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sportystuff Tv Sports (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SportyStuff TV (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/6s1YGSV.png",
+        "stream_url": "https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8",
+        "xmltv_id": "SportyStuffTV.uk",
+        "xmltv_display_name": "SportyStuff TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/6s1YGSV.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stv Geo Blocked Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "STV (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/KiOnQnD.png",
+        "stream_url": "https://csm-e-stv-eb.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3",
+        "xmltv_id": "STV.uk",
+        "xmltv_display_name": "STV (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KiOnQnD.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stv 1 Geo Blocked Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "STV+1 (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/XeSaypp.png",
+        "stream_url": "https://csm-e-stv-eb.tls1.yospace.com/csm/live/181023311.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3",
+        "xmltv_id": "STVPlus1.uk",
+        "xmltv_display_name": "STV+1 (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/XeSaypp.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Takbeer Tv Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Takbeer TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/Cvnps2J.jpg",
+        "stream_url": "https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8",
+        "xmltv_id": "TakbeerTV.uk",
+        "xmltv_display_name": "Takbeer TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Cvnps2J.jpg",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Talktv Undefined (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TalkTV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/KxHWpQB.png",
+        "stream_url": "https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8",
+        "xmltv_id": "TalkTV.uk",
+        "xmltv_display_name": "TalkTV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KxHWpQB.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Telekriti Not 24 7 General (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Telekriti (720p) [Not 24/7]",
+        "group_title_raw": "General",
+        "logo_raw": "https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png",
+        "stream_url": "https://neon.streams.gr:8081/telekriti/index.m3u8",
+        "xmltv_id": "Telekriti.gr",
+        "xmltv_display_name": "Telekriti (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-7c-300x50.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Teletubbies Kids (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Teletubbies (720p)",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/J9iWjWL.png",
+        "stream_url": "https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "Teletubbies.uk",
+        "xmltv_display_name": "Teletubbies (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/J9iWjWL.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Box 576p Not 24 7 Music (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Box UK (576p) [Not 24/7]",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/e1Cf4Li.png",
+        "stream_url": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox",
+        "xmltv_id": "TheBoxUK.uk",
+        "xmltv_display_name": "The Box UK (576p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/e1Cf4Li.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Craft Store Undefined (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Craft Store (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/Nf0vaAF.png",
+        "stream_url": "https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8",
+        "xmltv_id": "TheCraftStore.uk",
+        "xmltv_display_name": "The Craft Store (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Nf0vaAF.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Guardian Documentary News (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Guardian (720p)",
+        "group_title_raw": "Documentary;News",
+        "logo_raw": "https://i.imgur.com/o9AYq9V.png",
+        "stream_url": "https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8",
+        "xmltv_id": "TheGuardian.uk",
+        "xmltv_display_name": "The Guardian (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/o9AYq9V.png",
+        "xmltv_categories": [
+          "Documentary",
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tjc Shop (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TJC (1080p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/fk5rEje.png",
+        "stream_url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8",
+        "xmltv_id": "TJC.uk",
+        "xmltv_display_name": "TJC (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/fk5rEje.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Top Gear Auto Entertainment (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Top Gear (720p)",
+        "group_title_raw": "Auto;Entertainment",
+        "logo_raw": "https://i.imgur.com/S6Su6QH.png",
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "xmltv_id": "TopGear.uk",
+        "xmltv_display_name": "Top Gear (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/S6Su6QH.png",
+        "xmltv_categories": [
+          "Auto",
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv5monde Europe Geo Blocked General (Playlistlocal) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TV5Monde Europe (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/rPAbMSu.png",
+        "stream_url": "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8",
+        "xmltv_id": "TV5MondeEurope.fr",
+        "xmltv_display_name": "TV5Monde Europe (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/rPAbMSu.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv One 576p Not 24 7 Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV One (576p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/qkbRslf.png",
+        "stream_url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/playlist.m3u8",
+        "xmltv_id": "TVOne.uk",
+        "xmltv_display_name": "TV One (576p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qkbRslf.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "V2beat Not 24 7 Music (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "V2BEAT (720p) [Not 24/7]",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/PXGqyLn.png",
+        "stream_url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+        "xmltv_id": "V2BEATTV.uk",
+        "xmltv_display_name": "V2BEAT (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/PXGqyLn.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "V Rit Tv Not 24 7 Religious (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Vérité TV (720p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.ibb.co/mJWTxYL/verites.png",
+        "stream_url": "http://51.254.199.122:8080/veriteTV/index.m3u8",
+        "xmltv_id": "VeriteTV.uk",
+        "xmltv_display_name": "Vérité TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/mJWTxYL/verites.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Voxafrica Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "VoxAfrica",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/512px-Voxafrica-1.png",
+        "stream_url": "http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts",
+        "xmltv_id": "VoxAfrica.uk",
+        "xmltv_display_name": "VoxAfrica",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/512px-Voxafrica-1.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Weatherspy Europe Weather (Playlistlocal) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WeatherSpy Europe (720p)",
+        "group_title_raw": "Weather",
+        "logo_raw": "https://i.imgur.com/KIEKOt1.png",
+        "stream_url": "https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "WeatherSpyEurope.us",
+        "xmltv_display_name": "WeatherSpy Europe (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KIEKOt1.png",
+        "xmltv_categories": [
+          "Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wonder Undefined (Playlistlocal) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Wonder",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/LquGNbh.png",
+        "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
+        "xmltv_id": "Wonder.uk",
+        "xmltv_display_name": "Wonder",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/LquGNbh.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}

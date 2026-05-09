@@ -1,0 +1,12 @@
+epg_urls:
+  - https://epg.pw/xmltv/epg_US.xml.gz
+  - https://epg.pw/xmltv/epg_CA.xml.gz
+  - https://epg.pw/xmltv/epg_GB.xml.gz
+  - https://epg.pw/xmltv/epg_AU.xml.gz
+  - https://epg.pw/xmltv/epg_NZ.xml.gz
+countries: [US, CA, GB, AU, NZ]
+match:
+  fuzzy: true
+  fuzzy_threshold: 60.0
+registry:
+  db_path: data/processed/registry/channel_registry.db

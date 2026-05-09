@@ -1,0 +1,825 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_roku.m3u",
+  "provider": "Usroku",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Accuweather Now Geo Blocked (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "AccuWeather Now (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8",
+        "xmltv_id": "AccuWeatherNOW.us",
+        "xmltv_display_name": "AccuWeather Now (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Afv (Roku) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "AFV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8",
+        "xmltv_id": "AFV.us",
+        "xmltv_display_name": "AFV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Afv En Espa Ol Not 24 7 (Roku) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "AFV en Español (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8",
+        "xmltv_id": "AFVEspanol.us",
+        "xmltv_display_name": "AFV en Español (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "America S Voice (Roku) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "America's Voice (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "AmericasVoice.us",
+        "xmltv_display_name": "America's Voice (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloody Disgusting (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Bloody Disgusting (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
+        "xmltv_id": "BloodyDisgusting.us",
+        "xmltv_display_name": "Bloody Disgusting (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Buzzr (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Buzzr (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://buzzr-roku-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Buzzr.us",
+        "xmltv_display_name": "Buzzr (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cheddar News (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cheddar News (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "CheddarNews.us",
+        "xmltv_display_name": "Cheddar News (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cheddar News (Roku) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cheddar News (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cheddar.roku.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "CheddarNews.us",
+        "xmltv_display_name": "Cheddar News (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cine Sure O (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cine Sureño (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8",
+        "xmltv_id": "CineSureno.us",
+        "xmltv_display_name": "Cine Sureño (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cinevault Westerns 540p (Roku) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinevault Westerns (540p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8",
+        "xmltv_id": "CinevaultWesterns.us",
+        "xmltv_display_name": "Cinevault Westerns (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Circle (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Circle (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://circle-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Circle.us",
+        "xmltv_display_name": "Circle (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cocoro (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cocoro (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8",
+        "xmltv_id": "Cocoro.us",
+        "xmltv_display_name": "Cocoro (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Contv Anime (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CONtv Anime (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://contvanime-roku-ingest.cinedigm.com/master.m3u8",
+        "xmltv_id": "CONtvAnime.us",
+        "xmltv_display_name": "CONtv Anime (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dove Channel (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dove Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dovenow-roku-ingest.cinedigm.com/master.m3u8",
+        "xmltv_id": "DoveChannel.us",
+        "xmltv_display_name": "Dove Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estrella News (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Estrella News (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://estrellanews-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EstrellaNews.us",
+        "xmltv_display_name": "Estrella News (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estrella Tv (Roku) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Estrella TV East (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://estrellatv-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EstrellaTV.us",
+        "xmltv_display_name": "Estrella TV East (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Soul Not 24 7 (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Soul (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fox-foxsoul-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "FoxSoul.us",
+        "xmltv_display_name": "Fox Soul (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ftf (Roku) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FTF (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "FTF.us",
+        "xmltv_display_name": "FTF (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hi Yah (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hi-YAH! (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8",
+        "xmltv_id": "HiYAH.us",
+        "xmltv_display_name": "Hi-YAH! (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Horrify (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Horrify (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8",
+        "xmltv_id": "Horrify.us",
+        "xmltv_display_name": "Horrify (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ifood Tv (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "iFood.TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ft-ifood-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "iFoodTV.us",
+        "xmltv_display_name": "iFood.TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Iheart 80s (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "iHeart 80s (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": "IHeart80s.us",
+        "xmltv_display_name": "iHeart 80s (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Iheart 90s (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "iHeart 90s (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": "IHeart90s.us",
+        "xmltv_display_name": "iHeart 90s (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Juntos (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Juntos (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8",
+        "xmltv_id": "JuntosTV.us",
+        "xmltv_display_name": "Juntos (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moonbug Kids (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Moonbug Kids (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MoonbugKids.uk",
+        "xmltv_display_name": "Moonbug Kids (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviesphere (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8",
+        "xmltv_id": "MovieSphere.us",
+        "xmltv_display_name": "MovieSphere (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviesphere (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://moviesphere-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MovieSphere.us",
+        "xmltv_display_name": "MovieSphere (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mst3k (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MST3K (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://mst3k-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MST3K.us",
+        "xmltv_display_name": "MST3K (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mytime Movie Network (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MyTime Movie Network (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://mytime-roku-ingest.cinedigm.com/playlist.m3u8",
+        "xmltv_id": "MyTimeMovieNetworkEast.us",
+        "xmltv_display_name": "MyTime Movie Network (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "New Kid Tv (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "New Kid TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8",
+        "xmltv_id": "NewKidTV.us",
+        "xmltv_display_name": "New Kid TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Oan (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "OAN (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "OneAmericaNewsNetwork.us",
+        "xmltv_display_name": "OAN (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outside Tv (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Outside TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8",
+        "xmltv_id": "OutsideTV.us",
+        "xmltv_display_name": "Outside TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pac 12 Insider (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Pac 12 Insider (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://pac12-roku-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Pac12Insider.us",
+        "xmltv_display_name": "Pac 12 Insider (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Players Tv (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Players TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://playerstv-roku-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "PlayersTV.ca",
+        "xmltv_display_name": "Players TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Rcn Mas (Roku) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "RCN Mas",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RCNMas.co",
+        "xmltv_display_name": "RCN Mas",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade En Espa Ol (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Tastemade en Español (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TastemadeenEspanol.us",
+        "xmltv_display_name": "Tastemade en Español (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Carol Burnett Show (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Carol Burnett Show (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://carolburnett-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TheCarolBurnettShow.us",
+        "xmltv_display_name": "The Carol Burnett Show (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Craftistry (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Craftistry (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://studio71-craftistry-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TheCraftistry.us",
+        "xmltv_display_name": "The Craftistry (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Top Cine (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Top Cine (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8",
+        "xmltv_id": "TopCine.us",
+        "xmltv_display_name": "Top Cine (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weathernation Geo Blocked (Roku) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WeatherNation (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "WeatherNation.us",
+        "xmltv_display_name": "WeatherNation (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wra Canal 10 (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "WRA Canal 10 (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://streamtv.intervenhosting.net:3582/live/wadydelrosariolive.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WRA Canal 10 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Xplore (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Xplore (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://xplore-roku.amagi.tv/playlist.m3u8",
+        "xmltv_id": "XploreTV.us",
+        "xmltv_display_name": "Xplore (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yahoo Finance (Roku) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Yahoo! Finance (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://yahoo-roku-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "YahooFinance.us",
+        "xmltv_display_name": "Yahoo! Finance (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_vizio.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Vizio",
+  "channels": [
+    {
+      "canonical_name": "Ameritrade Not 24 7 Business (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Vizio",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ameritrade (1080p) [Not 24/7]",
+        "group_title_raw": "Business",
+        "logo_raw": "https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",
+        "stream_url": "https://tdameritrade-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Ameritrade.us",
+        "xmltv_display_name": "Ameritrade (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Black News Channel News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Vizio",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Black News Channel (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/oX5oR4d.png",
+        "stream_url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "BlackNewsChannel.us",
+        "xmltv_display_name": "Black News Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/oX5oR4d.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ifood Tv Cooking (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Vizio",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "iFood.TV (720p)",
+        "group_title_raw": "Cooking",
+        "logo_raw": "https://i.imgur.com/cBOkQtS.png",
+        "stream_url": "https://ifood-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "iFoodTV.us",
+        "xmltv_display_name": "iFood.TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/cBOkQtS.png",
+        "xmltv_categories": [
+          "Cooking"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mystery Science Theater 3000 Comedy (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Vizio",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Mystery Science Theater 3000 (1080p)",
+        "group_title_raw": "Comedy",
+        "logo_raw": "https://i.imgur.com/8KWjY4o.png",
+        "stream_url": "https://mst3k-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MysteryScienceTheater3000.us",
+        "xmltv_display_name": "Mystery Science Theater 3000 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/8KWjY4o.png",
+        "xmltv_categories": [
+          "Comedy"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_pbs.m3u",
+  "provider": "Uspbs",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Arkansas Pbs Geo Blocked (Uspbs) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Arkansas PBS [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8",
+        "xmltv_id": "KETSDT1.us",
+        "xmltv_display_name": "Arkansas PBS [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Honolulu Hi Khet Not 24 7 (Uspbs) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Honolulu HI (KHET) (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8",
+        "xmltv_id": "KHETDT1.us",
+        "xmltv_display_name": "PBS Honolulu HI (KHET) (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Ket2 (Uspbs) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "PBS KET2 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8",
+        "xmltv_id": "WKPCDT2.us",
+        "xmltv_display_name": "PBS KET2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Ket Ky (Uspbs) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "PBS KET KY (480p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8",
+        "xmltv_id": "WKPCDT3.us",
+        "xmltv_display_name": "PBS KET KY (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Ket Louisville Ky Wkmj Tv (Uspbs) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "PBS KET Louisville KY (WKMJ-TV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
+        "xmltv_id": "WKMJDT1.us",
+        "xmltv_display_name": "PBS KET Louisville KY (WKMJ-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Ket World (Uspbs) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "PBS KET World (480p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8",
+        "xmltv_id": "WKMJDT3.us",
+        "xmltv_display_name": "PBS KET World (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Kids Alaska (Uspbs) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Kids Alaska (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8",
+        "xmltv_id": "PBSKidsAlaska.us",
+        "xmltv_display_name": "PBS Kids Alaska (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Kids Central (Uspbs) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Kids Eastern/Central (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+        "xmltv_id": "PBSKidsEasternCentral.us",
+        "xmltv_display_name": "PBS Kids Eastern/Central (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Kids Mountain (Uspbs) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Kids Mountain (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8",
+        "xmltv_id": "PBSKidsMountain.us",
+        "xmltv_display_name": "PBS Kids Mountain (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Kids Pacific (Uspbs) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Kids Pacific (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8",
+        "xmltv_id": "PBSKidsPacific.us",
+        "xmltv_display_name": "PBS Kids Pacific (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Lincoln Ne Kuon Geo Blocked (Uspbs) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Lincoln NE (KUON) (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8",
+        "xmltv_id": "KUONDT1.us",
+        "xmltv_display_name": "PBS Lincoln NE (KUON) (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Mpt Baltimore Md Wmpb (Uspbs) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS MPT Baltimore MD (WMPB) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
+        "xmltv_id": "WMPTDT1.us",
+        "xmltv_display_name": "PBS MPT Baltimore MD (WMPB) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs National Geo Blocked (Uspbs) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS National East (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
+        "xmltv_id": "PBSEast.us",
+        "xmltv_display_name": "PBS National East (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs National Geo Blocked (Uspbs) (West) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS National West (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://pbs.lls.cdn.pbs.org/pst/index.m3u8",
+        "xmltv_id": "PBSWest.us",
+        "xmltv_display_name": "PBS National West (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs New Jersey Nj Wnjt Not 24 7 (Uspbs) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8",
+        "xmltv_id": "WNJTDT1.us",
+        "xmltv_display_name": "PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Ny Wnet Not 24 7 (Uspbs) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS New York NY (WNET) (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8",
+        "xmltv_id": "WNETDT1.us",
+        "xmltv_display_name": "PBS New York NY (WNET) (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs Sedalia British Columbia Mo Kmos Geo Blocked (Uspbs) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8",
+        "xmltv_id": "KMOSDT1.us",
+        "xmltv_display_name": "PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wmpt Dt2 Pbs Create (Uspbs) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WMPT-DT2 (PBS Create)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8",
+        "xmltv_id": "WMPTDT2.us",
+        "xmltv_display_name": "WMPT-DT2 (PBS Create)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,3056 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\additional_m3u\\curated.m3u",
+  "provider": "Curated",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "23 ABC Bakersfield Kero General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "23 ABC Bakersfield CA (KERO) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/CMANZWk.png",
+        "stream_url": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8",
+        "xmltv_id": "KERODT1.us@SD",
+        "xmltv_display_name": "23 ABC Bakersfield CA (KERO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/CMANZWk.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "A E Not 24 7 Entertainment (Curated) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "A&E East (720p) [Not 24/7]",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+        "stream_url": "https://tvpass.org/live/AEEast/hd",
+        "xmltv_id": "AE.us@East",
+        "xmltv_display_name": "A&E East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Wplg Dt1 Fl News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC (WPLG-DT1) Miami FL (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/884px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png",
+        "stream_url": "https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8",
+        "xmltv_id": "WPLGDT1.us@SD",
+        "xmltv_display_name": "ABC (WPLG-DT1) Miami FL (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/884px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 13 Nv Ktnv General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 13 Las Vegas NV (KTNV) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KTNV_2023.svg/512px-KTNV_2023.svg.png",
+        "stream_url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
+        "xmltv_id": "KTNVDT1.us@SD",
+        "xmltv_display_name": "ABC 13 Las Vegas NV (KTNV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/KTNV_2023.svg/512px-KTNV_2023.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 15 Az Knxv Tv General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 15 Phoenix AZ (KNXV-TV) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/43s7KXt.png",
+        "stream_url": "https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8",
+        "xmltv_id": "KNXVDT1.us@SD",
+        "xmltv_display_name": "ABC 15 Phoenix AZ (KNXV-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/43s7KXt.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 25 News Central Texas General (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABC 25 News Central Texas",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8",
+        "xmltv_id": "KXXVDT1.us@SD",
+        "xmltv_display_name": "ABC 25 News Central Texas",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 30 Fresno And Central Valley News Kfsn Dt1 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8",
+        "xmltv_id": "KFSNDT1247News.us@SD",
+        "xmltv_display_name": "ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 5 General (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABC 5",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8",
+        "xmltv_id": "KRGVDT1.us@SD",
+        "xmltv_display_name": "ABC 5",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Bay Area And News Kgo Dt1 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8",
+        "xmltv_id": "KGODT1247News.us@SD",
+        "xmltv_display_name": "ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Co Kmgh General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Denver CO (KMGH) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/MWvoICD.png",
+        "stream_url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
+        "xmltv_id": "KMGHDT1.us@SD",
+        "xmltv_display_name": "ABC 7 Denver CO (KMGH) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/MWvoICD.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Kabc Tv News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Los Angeles CA (KABC-TV) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png",
+        "stream_url": "https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8",
+        "xmltv_id": "KABCDT1247News.us@SD",
+        "xmltv_display_name": "ABC 7 Los Angeles CA (KABC-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 9 Fl Wftv News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Orlando FL (WFTV) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8",
+        "xmltv_id": "WFTVDT1.us@SD",
+        "xmltv_display_name": "ABC 9 Orlando FL (WFTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Australia General (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABC Australia",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/qQ33TVM.png",
+        "stream_url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+        "xmltv_id": "ABCAustralia.au@SD",
+        "xmltv_display_name": "ABC Australia",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qQ33TVM.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Wls Dt1 Undefined (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABC Chicago WLS-DT1",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8",
+        "xmltv_id": "WLSDT1.us@SD",
+        "xmltv_display_name": "ABC Chicago WLS-DT1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Entertains Education Kids (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC Entertains (720p)",
+        "group_title_raw": "Education;Kids",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/512px-ABC_Entertains_logo.svg.png",
+        "stream_url": "https://c.mjh.nz/abc-me.m3u8",
+        "xmltv_id": "ABCEntertains.au@Sydney",
+        "xmltv_display_name": "ABC Entertains (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/512px-ABC_Entertains_logo.svg.png",
+        "xmltv_categories": [
+          "Education",
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News News (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABC News",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/BrW7gk8.png",
+        "stream_url": "https://c.mjh.nz/abc-news.m3u8",
+        "xmltv_id": "ABCNews.au@Sydney",
+        "xmltv_display_name": "ABC News",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/BrW7gk8.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+        "xmltv_id": "ABCNewsLive.us@SD",
+        "xmltv_display_name": "ABC News (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 1 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 1 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8",
+        "xmltv_id": "ABCNewsLive1.us@SD",
+        "xmltv_display_name": "ABC News Live 1 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 10 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 10 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8",
+        "xmltv_id": "ABCNewsLive10.us@SD",
+        "xmltv_display_name": "ABC News Live 10 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 2 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 2 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8",
+        "xmltv_id": "ABCNewsLive2.us@SD",
+        "xmltv_display_name": "ABC News Live 2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 3 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 3 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8",
+        "xmltv_id": "ABCNewsLive3.us@SD",
+        "xmltv_display_name": "ABC News Live 3 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 4 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 4 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8",
+        "xmltv_id": "ABCNewsLive4.us@SD",
+        "xmltv_display_name": "ABC News Live 4 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 5 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 5 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8",
+        "xmltv_id": "ABCNewsLive5.us@SD",
+        "xmltv_display_name": "ABC News Live 5 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 6 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 6 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8",
+        "xmltv_id": "ABCNewsLive6.us@SD",
+        "xmltv_display_name": "ABC News Live 6 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 7 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 7 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8",
+        "xmltv_id": "ABCNewsLive7.us@SD",
+        "xmltv_display_name": "ABC News Live 7 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 8 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 8 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8",
+        "xmltv_id": "ABCNewsLive8.us@SD",
+        "xmltv_display_name": "ABC News Live 8 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 9 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 9 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8",
+        "xmltv_id": "ABCNewsLive9.us@SD",
+        "xmltv_display_name": "ABC News Live 9 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Ny Wabc Tv News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News New York NY (WABC-TV) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",
+        "stream_url": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8",
+        "xmltv_id": "WABCDT1247News.us@SD",
+        "xmltv_display_name": "ABC News New York NY (WABC-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Tallahassee Not 24 7 News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC Tallahassee (720p) [Not 24/7]",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8",
+        "xmltv_id": "WTXLDT1.us@SD",
+        "xmltv_display_name": "ABC Tallahassee (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Tv Act General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV ACT (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/DPVQSjM.png",
+        "stream_url": "https://c.mjh.nz/abc-act.m3u8",
+        "xmltv_id": "ABCTV.au@ACT",
+        "xmltv_display_name": "ABC TV ACT (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DPVQSjM.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Tv Nsw General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV NSW (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/DPVQSjM.png",
+        "stream_url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "xmltv_id": "ABCTV.au@NSW",
+        "xmltv_display_name": "ABC TV NSW (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DPVQSjM.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Tv Nt General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV NT (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/DPVQSjM.png",
+        "stream_url": "https://c.mjh.nz/abc-nt.m3u8",
+        "xmltv_id": "ABCTV.au@NT",
+        "xmltv_display_name": "ABC TV NT (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DPVQSjM.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Tv Plus Entertainment (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV Plus (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png",
+        "stream_url": "https://c.mjh.nz/abc-tv-plus.m3u8",
+        "xmltv_id": "ABCTVPlus.au@Sydney",
+        "xmltv_display_name": "ABC TV Plus (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Tv Qld General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV QLD (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/DPVQSjM.png",
+        "stream_url": "https://c.mjh.nz/abc-qld.m3u8",
+        "xmltv_id": "ABCTV.au@QLD",
+        "xmltv_display_name": "ABC TV QLD (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DPVQSjM.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Tv Sa General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV SA (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/DPVQSjM.png",
+        "stream_url": "https://c.mjh.nz/abc-sa.m3u8",
+        "xmltv_id": "ABCTV.au@SA",
+        "xmltv_display_name": "ABC TV SA (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DPVQSjM.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Tv Tas General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV TAS (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/DPVQSjM.png",
+        "stream_url": "https://c.mjh.nz/abc-tas.m3u8",
+        "xmltv_id": "ABCTV.au@TAS",
+        "xmltv_display_name": "ABC TV TAS (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DPVQSjM.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Tv Vic General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV VIC (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/DPVQSjM.png",
+        "stream_url": "https://c.mjh.nz/abc-vic.m3u8",
+        "xmltv_id": "ABCTV.au@VIC",
+        "xmltv_display_name": "ABC TV VIC (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DPVQSjM.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Tv Wa General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV WA (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/DPVQSjM.png",
+        "stream_url": "https://c.mjh.nz/abc-wa.m3u8",
+        "xmltv_id": "ABCTV.au@WA",
+        "xmltv_display_name": "ABC TV WA (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DPVQSjM.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Wway 3 News (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABC WWAY 3",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8",
+        "xmltv_id": "WWAYDT1.us@SD",
+        "xmltv_display_name": "ABC WWAY 3",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Acnn Religious (Curated) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "ACNN (480p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/91JLpxr.png",
+        "stream_url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8",
+        "xmltv_id": "ACNN.ng@SD",
+        "xmltv_display_name": "ACNN (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/91JLpxr.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Amc Absolute Reality Entertainment (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC Absolute Reality",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/Gtwk8ic.png",
+        "stream_url": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8",
+        "xmltv_id": "AbsoluteRealitybyWETV.us@SD",
+        "xmltv_display_name": "AMC Absolute Reality",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Gtwk8ic.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Amc Movies (Curated) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "AMC East (1080p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+        "stream_url": "https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8",
+        "xmltv_id": "AMC.us@East",
+        "xmltv_display_name": "AMC East (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Channel Islands Geo Blocked General (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One Channel Islands (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@ChannelIslands",
+        "xmltv_display_name": "BBC One Channel Islands (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Geo Blocked General (Curated) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One East (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOne.uk@YorkshireHD",
+        "xmltv_display_name": "BBC One East (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Midlands Geo Blocked General (Curated) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One East Midlands (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@EastMidlandsHD",
+        "xmltv_display_name": "BBC One East Midlands (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Midlands Geo Blocked General (Curated) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One East Midlands (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOne.uk@EastMidlands",
+        "xmltv_display_name": "BBC One East Midlands (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Yorkshire 540p Geo Blocked General (Curated) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC One East Yorkshire (540p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.m3u8",
+        "xmltv_id": "BBCOne.uk@Yorkshire",
+        "xmltv_display_name": "BBC One East Yorkshire (540p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One North Geo Blocked General (Curated) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One North East (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@NorthEastCumbriaHD",
+        "xmltv_display_name": "BBC One North East (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One North Geo Blocked General (Curated) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One North East (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOne.uk@NorthEastCumbria",
+        "xmltv_display_name": "BBC One North East (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One North Geo Blocked General (Curated) (West) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One North West (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@NorthWestHD",
+        "xmltv_display_name": "BBC One North West (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One North Geo Blocked General (Curated) (West) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One North West (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOne.uk@NorthWest",
+        "xmltv_display_name": "BBC One North West (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Northern Ireland Geo Blocked General (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One Northern Ireland HD (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@NorthernIrelandHD",
+        "xmltv_display_name": "BBC One Northern Ireland HD (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Northern Ireland Geo Blocked General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One Northern Ireland HD (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd",
+        "xmltv_id": "BBCOne.uk@NorthernIreland",
+        "xmltv_display_name": "BBC One Northern Ireland HD (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Scotland 540p Geo Blocked General (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC One Scotland (540p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8",
+        "xmltv_id": "BBCOne.uk@Scotland",
+        "xmltv_display_name": "BBC One Scotland (540p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Scotland Geo Blocked General (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One Scotland HD (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@ScotlandHD",
+        "xmltv_display_name": "BBC One Scotland HD (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One South Geo Blocked General (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One South (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@South",
+        "xmltv_display_name": "BBC One South (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One South Geo Blocked General (Curated) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One South East (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@SouthEast",
+        "xmltv_display_name": "BBC One South East (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One South Geo Blocked General (Curated) (West) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One South West (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@SouthWest",
+        "xmltv_display_name": "BBC One South West (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Wales Geo Blocked General (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One Wales (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@Wales",
+        "xmltv_display_name": "BBC One Wales (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Geo Blocked General (Curated) (West) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One West (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@West",
+        "xmltv_display_name": "BBC One West (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Midlands Geo Blocked General (Curated) (West) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One West Midlands (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCOne.uk@WestMidlands",
+        "xmltv_display_name": "BBC One West Midlands (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Two General (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC Two",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "stream_url": "https://x.canlitvapp.com/u-bbc2/index.m3u8",
+        "xmltv_id": "BBCTwo.uk@England",
+        "xmltv_display_name": "BBC Two",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Two General (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Two HD (1080p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "stream_url": "https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8",
+        "xmltv_id": "BBCTwo.uk@HD",
+        "xmltv_display_name": "BBC Two HD (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Two Northern Ireland 540p Geo Blocked General (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC Two Northern Ireland (540p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "stream_url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8",
+        "xmltv_id": "BBCTwo.uk@NorthernIreland",
+        "xmltv_display_name": "BBC Two Northern Ireland (540p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Two Northern Ireland Geo Blocked General (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Two Northern Ireland HD (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCTwo.uk@NorthernIrelandHD",
+        "xmltv_display_name": "BBC Two Northern Ireland HD (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Two Wales Geo Blocked General (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Two Wales (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "stream_url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_mse_v0_hevc.mpd",
+        "xmltv_id": "BBCTwo.uk@Wales",
+        "xmltv_display_name": "BBC Two Wales (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Big Ten Network Undefined (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Big Ten Network",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
+        "stream_url": "https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
+        "xmltv_id": "BigTenNetwork.us@SD",
+        "xmltv_display_name": "Big Ten Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 3 Omaha Ne Kmtv Tv General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 3 Omaha NE (KMTV-TV) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/E4PkyqN.png",
+        "stream_url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
+        "xmltv_id": "KMTVDT1.us@SD",
+        "xmltv_display_name": "CBS 3 Omaha NE (KMTV-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/E4PkyqN.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 9 Oklahoma City Ok Kwtv Dt1 Not 24 7 General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8",
+        "xmltv_id": "KWTVDT1.us@SD",
+        "xmltv_display_name": "CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS Wbbm Dt1 Undefined (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBS Chicago WBBM-DT1",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8",
+        "xmltv_id": "WBBMDT1.us@SD",
+        "xmltv_display_name": "CBS Chicago WBBM-DT1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News Baltimore News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Baltimore (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/jy3UfCe.png",
+        "stream_url": "https://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master.m3u8",
+        "xmltv_id": "CBSNewsBaltimore.us@SD",
+        "xmltv_display_name": "CBS News Baltimore (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/jy3UfCe.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News Bay Area News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Bay Area (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512",
+        "stream_url": "https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8",
+        "xmltv_id": "CBSNewsBayArea.us@SD",
+        "xmltv_display_name": "CBS News Bay Area (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Boston (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/9un7R3N.png",
+        "stream_url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
+        "xmltv_id": "CBSNewsBoston.us@SD",
+        "xmltv_display_name": "CBS News Boston (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9un7R3N.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Chicago (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/qGbVQir.png",
+        "stream_url": "https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8",
+        "xmltv_id": "CBSNewsChicago.us@SD",
+        "xmltv_display_name": "CBS News Chicago (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qGbVQir.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News Colorado News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Colorado (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/2oyYwBw.png",
+        "stream_url": "https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8",
+        "xmltv_id": "CBSNewsColorado.us@SD",
+        "xmltv_display_name": "CBS News Colorado (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/2oyYwBw.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Detroit (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/cMels2Y.png",
+        "stream_url": "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8",
+        "xmltv_id": "CBSNewsDetroit.us@SD",
+        "xmltv_display_name": "CBS News Detroit (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/cMels2Y.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Los Angeles (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/klULxMV.png",
+        "stream_url": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
+        "xmltv_id": "CBSNewsLosAngeles.us@SD",
+        "xmltv_display_name": "CBS News Los Angeles (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/klULxMV.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Miami (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/DExbVa9.png",
+        "stream_url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
+        "xmltv_id": "CBSNewsMiami.us@SD",
+        "xmltv_display_name": "CBS News Miami (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DExbVa9.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News Minnesota News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Minnesota (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/ubxwfMY.png",
+        "stream_url": "https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8",
+        "xmltv_id": "CBSNewsMinnesota.us@SD",
+        "xmltv_display_name": "CBS News Minnesota (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ubxwfMY.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News New York (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/bpc4v0u.png",
+        "stream_url": "https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
+        "xmltv_id": "CBSNewsNewYork.us@SD",
+        "xmltv_display_name": "CBS News New York (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/bpc4v0u.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Philadelphia (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/FmtTbNY.png",
+        "stream_url": "https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8",
+        "xmltv_id": "CBSNewsPhilly.us@SD",
+        "xmltv_display_name": "CBS News Philadelphia (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/FmtTbNY.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Pittsburgh (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/Un9IrUh.png",
+        "stream_url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8",
+        "xmltv_id": "CBSNewsPittsburgh.us@SD",
+        "xmltv_display_name": "CBS News Pittsburgh (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Un9IrUh.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News Sacramento News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS News Sacramento (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/0e1kSGX.png",
+        "stream_url": "https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8",
+        "xmltv_id": "CBSNewsSacramento.us@SD",
+        "xmltv_display_name": "CBS News Sacramento (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/0e1kSGX.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Channel 4 General (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Channel 4",
+        "group_title_raw": "General",
+        "logo_raw": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
+        "stream_url": "https://x.canlitvapp.com/u-channel-4/index.m3u8",
+        "xmltv_id": "Channel4.uk@UK",
+        "xmltv_display_name": "Channel 4",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Channel 4 General (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Channel 4 UK HD (1080p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
+        "stream_url": "https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8",
+        "xmltv_id": "Channel4.uk@UKHD",
+        "xmltv_display_name": "Channel 4 UK HD (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Channel 44 General (Curated) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Channel 44 (480p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/P2wUGh9.png",
+        "stream_url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8",
+        "xmltv_id": "Channel44.au@SD",
+        "xmltv_display_name": "Channel 44 (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/P2wUGh9.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Citytv Legislative (Curated) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "CityTV San Diego (360p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/OfNV6I7.png",
+        "stream_url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8",
+        "xmltv_id": "CityTVSanDiego.us@SD",
+        "xmltv_display_name": "CityTV San Diego (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OfNV6I7.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Classic Arts Showcase Culture Education (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Classic Arts Showcase",
+        "group_title_raw": "Culture;Education",
+        "logo_raw": "https://i.imgur.com/M6FFkc3.png",
+        "stream_url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
+        "xmltv_id": "ClassicArtsShowcase.us@SD",
+        "xmltv_display_name": "Classic Arts Showcase",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/M6FFkc3.png",
+        "xmltv_categories": [
+          "Culture",
+          "Education"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Collier Television CTV Naples Fl Legislative (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Collier Television CTV (Naples FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/dkpTHI9.png",
+        "stream_url": "https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8",
+        "xmltv_id": "CollierTV.us@SD",
+        "xmltv_display_name": "Collier Television CTV (Naples FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/dkpTHI9.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 1 Movies (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 1",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/ZkRQ0r1.png",
+        "stream_url": "https://fl1.moveonjoy.com/CRAVE_1/index.m3u8",
+        "xmltv_id": "Crave1.ca@SD",
+        "xmltv_display_name": "Crave 1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ZkRQ0r1.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 2 Movies (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 2",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/e1qJ5Bp.png",
+        "stream_url": "https://fl1.moveonjoy.com/CRAVE_2/index.m3u8",
+        "xmltv_id": "Crave2.ca@SD",
+        "xmltv_display_name": "Crave 2",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/e1qJ5Bp.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 3 Movies (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 3",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/kOi0Adn.png",
+        "stream_url": "https://fl1.moveonjoy.com/CRAVE_3/index.m3u8",
+        "xmltv_id": "Crave3.ca@SD",
+        "xmltv_display_name": "Crave 3",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/kOi0Adn.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 4 Movies (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 4",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/MyH3Q2p.png",
+        "stream_url": "https://fl1.moveonjoy.com/CRAVE_4/index.m3u8",
+        "xmltv_id": "Crave4.ca@SD",
+        "xmltv_display_name": "Crave 4",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/MyH3Q2p.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 23 Cape Girardeau Mo Kbsi Dt1 Not 24 7 General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]",
+        "group_title_raw": "General",
+        "logo_raw": "https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png",
+        "stream_url": "https://live.field59.com/kbsi/kbsi1/playlist.m3u8",
+        "xmltv_id": "KBSIDT1.us@SD",
+        "xmltv_display_name": "FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 25 Wfxt Tv Geo Blocked Undefined (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fox 25 Boston (WFXT-TV) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png",
+        "stream_url": "https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8",
+        "xmltv_id": "WFXTDT1.us@SD",
+        "xmltv_display_name": "Fox 25 Boston (WFXT-TV) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox Soul Culture (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fox Soul",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/YIamDGn.png",
+        "stream_url": "https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8",
+        "xmltv_id": "FoxSoul.us@SD",
+        "xmltv_display_name": "Fox Soul",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/YIamDGn.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox Weather Weather (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Weather (720p)",
+        "group_title_raw": "Weather",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png",
+        "stream_url": "https://247wlive.foxweather.com/stream/index.m3u8",
+        "xmltv_id": "FoxWeather.us@SD",
+        "xmltv_display_name": "Fox Weather (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png",
+        "xmltv_categories": [
+          "Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gbn Global Buddhist Network Religious (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "GBN Global Buddhist Network (1080p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/fU0ZhKD.png",
+        "stream_url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8",
+        "xmltv_id": "GlobalBuddhistNetwork.us@SD",
+        "xmltv_display_name": "GBN Global Buddhist Network (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/fU0ZhKD.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Fashion Channel Lifestyle (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Global Fashion Channel (1080p)",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/s4eGYEP.jpg",
+        "stream_url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
+        "xmltv_id": "GlobalFashionChannel.us@SD",
+        "xmltv_display_name": "Global Fashion Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/s4eGYEP.jpg",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global News News (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Global News (1080p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://yt3.googleusercontent.com/N017-8I-vc4i_gbztqHFzM9Bap8EWKmsfPBu0HBWM6O4zGX1HBFn5DdLuWcwQLlPQ7F4ej8Mlw=s512-c-k-c0x00ffffff-no-rj",
+        "stream_url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8",
+        "xmltv_id": "GlobalNews.tw@SD",
+        "xmltv_display_name": "Global News (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://yt3.googleusercontent.com/N017-8I-vc4i_gbztqHFzM9Bap8EWKmsfPBu0HBWM6O4zGX1HBFn5DdLuWcwQLlPQ7F4ej8Mlw=s512-c-k-c0x00ffffff-no-rj",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Iqraa Africa Europe Religious (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Iqraa Africa & Europe (1080p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/nUlZvSe.png",
+        "stream_url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
+        "xmltv_id": "IqraaAfricaEurope.sa@SD",
+        "xmltv_display_name": "Iqraa Africa & Europe (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/nUlZvSe.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ITV Afrobeats Music Music (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iTV Afrobeats Music",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "stream_url": "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8",
+        "xmltv_id": "iTVAfrobeatsMusic.ca@HD",
+        "xmltv_display_name": "iTV Afrobeats Music",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ITV Arabic Music Music (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iTV Arabic Music",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "stream_url": "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8",
+        "xmltv_id": "iTVArabicMusic.ca@HD",
+        "xmltv_display_name": "iTV Arabic Music",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ITV Indian Music Music (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iTV Indian Music",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "stream_url": "https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8",
+        "xmltv_id": "iTVIndianMusic.ca@HD",
+        "xmltv_display_name": "iTV Indian Music",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ITV Latin Music Music (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iTV Latin Music",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "stream_url": "https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8",
+        "xmltv_id": "iTVLatinMusic.ca@HD",
+        "xmltv_display_name": "iTV Latin Music",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ITV Turkish Music Music (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iTV Turkish Music",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "stream_url": "https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8",
+        "xmltv_id": "iTVTurkishMusic.ca@HD",
+        "xmltv_display_name": "iTV Turkish Music",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ITV Urban Music Music (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iTV Urban Music",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "stream_url": "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8",
+        "xmltv_id": "iTVUrbanMusic.ca@HD",
+        "xmltv_display_name": "iTV Urban Music",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/pvLQmQK7/itv.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ktrk Tv ABC 13 News News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "KTRK TV ABC 13 News (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
+        "xmltv_id": "KTRKDT1247News.us@SD",
+        "xmltv_display_name": "KTRK TV ABC 13 News (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lakewood Citytv General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Lakewood CityTV (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/e1shzv9.png",
+        "stream_url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8",
+        "xmltv_id": "CityTVLakewood.us@SD",
+        "xmltv_display_name": "Lakewood CityTV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/e1shzv9.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Livenow From Fox Geo Blocked News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "LiveNOW from FOX (720p) [Geo-blocked]",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/1JnyzHv.png",
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8",
+        "xmltv_id": "LiveNOWfromFOX.us@SD",
+        "xmltv_display_name": "LiveNOW from FOX (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/1JnyzHv.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC General (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8",
+        "xmltv_id": "NBC.us@East",
+        "xmltv_display_name": "NBC",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 10 Providence Ma Undefined (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 10 Providence MA (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/512px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png",
+        "stream_url": "https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8",
+        "xmltv_id": "WJARDT1.us@SD",
+        "xmltv_display_name": "NBC 10 Providence MA (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/512px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 26 Green Bay Wi Wgba Dt1 Undefined (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 26 Green Bay WI (WGBA-DT1) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/bzgfmRL.png",
+        "stream_url": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8",
+        "xmltv_id": "WGBADT1.us@SD",
+        "xmltv_display_name": "NBC 26 Green Bay WI (WGBA-DT1) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/bzgfmRL.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Wmaq Dt1 Undefined (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Chicago WMAQ-DT1",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/wblxisu.png",
+        "stream_url": "https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8",
+        "xmltv_id": "WMAQDT1.us@SD",
+        "xmltv_display_name": "NBC Chicago WMAQ-DT1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/wblxisu.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC News Now News (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC News NOW (1080p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/JZt2qh5.png",
+        "stream_url": "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8",
+        "xmltv_id": "NBCNewsNOW.us@SD",
+        "xmltv_display_name": "NBC News NOW (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/JZt2qh5.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Not 24 7 General (Curated) (West) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC West (San Diego) (1080p) [Not 24/7]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8",
+        "xmltv_id": "KNSDDT1.us@SD",
+        "xmltv_display_name": "NBC West (San Diego) (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Olelo Community Media Channel 49 Legislative (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Olelo Community Media Channel 49 (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/4C5Xp8M.png",
+        "stream_url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8",
+        "xmltv_id": "Olelo49.us@SD",
+        "xmltv_display_name": "Olelo Community Media Channel 49 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/4C5Xp8M.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount Network Movies Series (Curated) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount Network East",
+        "group_title_raw": "Movies;Series",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+        "stream_url": "https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+        "xmltv_id": "ParamountNetwork.us@East",
+        "xmltv_display_name": "Paramount Network East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+        "xmltv_categories": [
+          "Movies",
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Antiques Road Trip Lifestyle (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Antiques Road Trip (1080p)",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/kkm7VqV.png",
+        "stream_url": "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8",
+        "xmltv_id": "AntiquesRoadTrip.us@SD",
+        "xmltv_display_name": "PBS Antiques Road Trip (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/kkm7VqV.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Antiques Roadshow Geo Blocked Series (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Antiques Roadshow (1080p) [Geo-blocked]",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/U9CYaok.png",
+        "stream_url": "https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "PBSAntiquesRoadshow.us@SD",
+        "xmltv_display_name": "PBS Antiques Roadshow (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/U9CYaok.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Ket Ky Undefined (Curated) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "PBS KET KY (480p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+        "stream_url": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8",
+        "xmltv_id": "WKPCDT3.us@SD",
+        "xmltv_display_name": "PBS KET KY (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Ket World Undefined (Curated) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "PBS KET World (480p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",
+        "stream_url": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8",
+        "xmltv_id": "WKMJDT3.us@SD",
+        "xmltv_display_name": "PBS KET World (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Ket2 Undefined (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "PBS KET2 (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+        "stream_url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8",
+        "xmltv_id": "WKPCDT2.us@SD",
+        "xmltv_display_name": "PBS KET2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Mpt Baltimore Md Wmpb Undefined (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS MPT Baltimore MD (WMPB) (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+        "stream_url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8",
+        "xmltv_id": "WMPTDT1.us@SD",
+        "xmltv_display_name": "PBS MPT Baltimore MD (WMPB) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Nature Geo Blocked Series (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Nature (1080p) [Geo-blocked]",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/Brry7cZ.png",
+        "stream_url": "https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "PBSNature.us@SD",
+        "xmltv_display_name": "PBS Nature (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Brry7cZ.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs New Jersey Nj Wnjt Not 24 7 Undefined (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8",
+        "xmltv_id": "WNJTDT1.us@SD",
+        "xmltv_display_name": "PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sent Tv Global Network Sgtn 49 General (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Sent TV Global Network Atlanta (SGTN-49) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/4fbJRWW.png",
+        "stream_url": "https://rpn.bozztv.com/gusa/gusa-stgn/index.m3u8",
+        "xmltv_id": "SGTN49.us@SD",
+        "xmltv_display_name": "Sent TV Global Network Atlanta (SGTN-49) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/4fbJRWW.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Undefined (Curated) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz East",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/N7oSm4d.png",
+        "stream_url": "https://fl1.moveonjoy.com/STARZ/index.m3u8",
+        "xmltv_id": "Starz.us@East",
+        "xmltv_display_name": "Starz East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/N7oSm4d.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Encore Classic Classic (Curated) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Encore Classic East",
+        "group_title_raw": "Classic",
+        "logo_raw": "https://i.imgur.com/L6GjoS4.png",
+        "stream_url": "https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
+        "xmltv_id": "StarzEncoreClassic.us@East",
+        "xmltv_display_name": "Starz Encore Classic East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/L6GjoS4.png",
+        "xmltv_categories": [
+          "Classic"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Undefined (Curated) (West) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz West",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/N7oSm4d.png",
+        "stream_url": "https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8",
+        "xmltv_id": "Starz.us@West",
+        "xmltv_display_name": "Starz West",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/N7oSm4d.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Whittier Citytv Whittier Legislative (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Whittier CityTV (Whittier CA) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/68n7ifH.png",
+        "stream_url": "https://whittier.cablecast.tv/live/stream-1/live.m3u8",
+        "xmltv_id": "CityTVWhittier.us@SD",
+        "xmltv_display_name": "Whittier CityTV (Whittier CA) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/68n7ifH.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wls ABC 7 News Il News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WLS ABC 7 News (Chicago IL) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8",
+        "xmltv_id": "WLSDT1247News.us@SD",
+        "xmltv_display_name": "WLS ABC 7 News (Chicago IL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wmpt Dt2 Pbs Create Undefined (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WMPT-DT2 (PBS Create)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png",
+        "stream_url": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8",
+        "xmltv_id": "WMPTDT2.us@SD",
+        "xmltv_display_name": "WMPT-DT2 (PBS Create)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wpvi ABC 6 News Pa News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WPVI ABC 6 News (Philadelphia PA) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8",
+        "xmltv_id": "WPVIDT1247News.us@SD",
+        "xmltv_display_name": "WPVI ABC 6 News (Philadelphia PA) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wtvd ABC 11 News Raleigh Durham Nc News (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WTVD ABC 11 News (Raleigh-Durham NC) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8",
+        "xmltv_id": "WTVDDT1247News.us@SD",
+        "xmltv_display_name": "WTVD ABC 11 News (Raleigh-Durham NC) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wtvq ABC 36 News Lexington Ky Undefined (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WTVQ ABC 36 News (Lexington KY) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/XIoBeja.png",
+        "stream_url": "https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8",
+        "xmltv_id": "WTVQDT1.us@SD",
+        "xmltv_display_name": "WTVQ ABC 36 News (Lexington KY) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/XIoBeja.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Amc Movies (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+        "stream_url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8",
+        "xmltv_id": "AMC.us@EastHD",
+        "xmltv_display_name": "AMC",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC One Yorkshire Lincolnshire General (Curated) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC One Yorkshire & Lincolnshire (1080p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "stream_url": "http://92.114.85.72:8000/play/a0mp",
+        "xmltv_id": "BBCOne.uk@YorkshireLincolnshire",
+        "xmltv_display_name": "BBC One Yorkshire & Lincolnshire (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS News 24 7 News (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBS News 24/7",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23",
+        "xmltv_id": "CBSNews247.us@SD",
+        "xmltv_display_name": "CBS News 24/7",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Christian Network America Gcn Religious (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Global Christian Network America (GCN) (720p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/DWSWrtV.png",
+        "stream_url": "http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8",
+        "xmltv_id": "GCNAmerica.us@SD",
+        "xmltv_display_name": "Global Christian Network America (GCN) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DWSWrtV.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Universo Entertainment (Curated) (West) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC Universo West (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/RZ8pIKe.png",
+        "stream_url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+        "xmltv_id": "NBCUniverso.us@West",
+        "xmltv_display_name": "NBC Universo West (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/RZ8pIKe.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount Movie Channel Movies (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount Movie Channel",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/sj5h9bl.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74",
+        "xmltv_id": "ParamountMovieChannel.us@SD",
+        "xmltv_display_name": "Paramount Movie Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/sj5h9bl.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount Picks Movies (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount+ Picks",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b",
+        "xmltv_id": "ParamountPlusPicks.us@SD",
+        "xmltv_display_name": "Paramount+ Picks",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stories By Amc Entertainment (Curated) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Stories by AMC",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/QJtwJoS.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845",
+        "xmltv_id": "StoriesbyAMC.us@SD",
+        "xmltv_display_name": "Stories by AMC",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/QJtwJoS.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wolo Dt1 ABC 25 Columbia Sc Undefined (Curated) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WOLO-DT1 ABC 25 (Columbia SC) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "http://143.244.60.30/ABC_EAST/index.m3u8",
+        "xmltv_id": "WOLODT1.us@SD",
+        "xmltv_display_name": "WOLO-DT1 ABC 25 (Columbia SC) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}

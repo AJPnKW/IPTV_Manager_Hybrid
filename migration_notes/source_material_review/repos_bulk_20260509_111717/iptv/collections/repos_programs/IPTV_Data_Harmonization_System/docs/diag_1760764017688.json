@@ -1,0 +1,138 @@
+{
+  "build": "TBS-DARK-4.3",
+  "used": "https://raw.githubusercontent.com/AJPnKW/IPTV_Data_Harmonization_System/refs/heads/main/docs/show_and_movie_data.tile.txt",
+  "tried": [
+    "https://raw.githubusercontent.com/AJPnKW/IPTV_Data_Harmonization_System/refs/heads/main/docs/show_and_movie_data.tile.txt [200] (52 ms)"
+  ],
+  "fetchMs": 52,
+  "size": 17901,
+  "ok": true,
+  "stats": {
+    "showCount": 24,
+    "movieCount": 6,
+    "totalSeasons": 10,
+    "totalEpisodes": 79,
+    "perShow": [
+      {
+        "show": "Alien: Earth",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "Brilliant Minds",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "Canada's Drag Race",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "English Teacher",
+        "seasons": 1,
+        "episodes": 1
+      },
+      {
+        "show": "Gen V",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "High Potential",
+        "seasons": 2,
+        "episodes": 19
+      },
+      {
+        "show": "I'm a Celebrity Get Me Out of Here Now (UK)",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "I'm a Celebrity: Get Me Out of Here! AU",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "I'm a Celebrity...Get Me Out of Here! (US)",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "I'm a Celebrity...Get Me Out of Here! UK",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "Invasion",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "Loot",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "Only Murders in the Building",
+        "seasons": 5,
+        "episodes": 50
+      },
+      {
+        "show": "Reasonable Doubt",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "RuPaul's Drag Race",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "RuPaul's Drag Race All Stars",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "RuPaul's Drag Race All Stars: Untucked",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "RuPaul's Drag Race UK",
+        "seasons": 1,
+        "episodes": 1
+      },
+      {
+        "show": "RuPaul's Drag Race: Untucked!",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "Shifting Gears",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "The Diplomat",
+        "seasons": 1,
+        "episodes": 8
+      },
+      {
+        "show": "This Hour Has 22 Minutes",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "Tracker",
+        "seasons": 0,
+        "episodes": 0
+      },
+      {
+        "show": "Watson",
+        "seasons": 0,
+        "episodes": 0
+      }
+    ]
+  }
+}

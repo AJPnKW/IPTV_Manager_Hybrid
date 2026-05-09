@@ -1,0 +1,219 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_au_samsung.m3u",
+  "provider": "Playlistsrc",
+  "country": "AU",
+  "region": "Samsung",
+  "channels": [
+    {
+      "canonical_name": "Horse And Country Outdoor (Playlistsrc) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Horse and Country (720p)",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://i.imgur.com/1x6zYZr.png",
+        "stream_url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "HorseCountryTV.uk",
+        "xmltv_display_name": "Horse and Country (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/1x6zYZr.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Insight Tv Sports (Playlistsrc) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Insight TV (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/7xmaoL0.png",
+        "stream_url": "https://insighttv-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InsightTV.nl",
+        "xmltv_display_name": "Insight TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/7xmaoL0.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Inwild Outdoor Shop (Playlistsrc) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "InWild (720p)",
+        "group_title_raw": "Outdoor;Shop",
+        "logo_raw": "https://i.imgur.com/48atMgj.png",
+        "stream_url": "https://inwild-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InWild.it@SD",
+        "xmltv_display_name": "InWild (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/48atMgj.png",
+        "xmltv_categories": [
+          "Outdoor",
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Rialto Undefined (Playlistsrc) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rialto (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/wGw0sGu.png",
+        "stream_url": "https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Rialto.nz",
+        "xmltv_display_name": "Rialto (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/wGw0sGu.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ryan And Friends Kids (Playlistsrc) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ryan and Friends (1080p)",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/jcIprmt.png",
+        "stream_url": "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "RyanandFriends.us",
+        "xmltv_display_name": "Ryan and Friends (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/jcIprmt.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tastemade Australia Cooking (Playlistsrc) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Tastemade Australia (1080p)",
+        "group_title_raw": "Cooking",
+        "logo_raw": "https://i.imgur.com/xP7Ehn8.png",
+        "stream_url": "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Tastemade.us@Australia",
+        "xmltv_display_name": "Tastemade Australia (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/xP7Ehn8.png",
+        "xmltv_categories": [
+          "Cooking"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Trace Sport Stars Australia Sports (Playlistsrc) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Trace Sport Stars (Australia) (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/FabFP5A.png",
+        "stream_url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TraceSportStars.fr",
+        "xmltv_display_name": "Trace Sport Stars (Australia) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/FabFP5A.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Trace Urban Australia Music (Playlistsrc) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Trace Urban (Australia) (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/DLIbUMx.png",
+        "stream_url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TraceUrban.fr",
+        "xmltv_display_name": "Trace Urban (Australia) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DLIbUMx.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wonder Undefined (Playlistsrc) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Wonder (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/LquGNbh.png",
+        "stream_url": "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Wonder.uk",
+        "xmltv_display_name": "Wonder (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/LquGNbh.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Zoo Moo Australia Kids (Playlistsrc) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Zoo Moo (Australia) (1080p)",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/ciTJrnl.png",
+        "stream_url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "ZooMoo.sg",
+        "xmltv_display_name": "Zoo Moo (Australia) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ciTJrnl.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    }
+  ]
+}

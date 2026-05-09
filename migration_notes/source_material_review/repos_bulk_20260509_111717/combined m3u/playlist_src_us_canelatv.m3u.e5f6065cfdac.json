@@ -1,0 +1,575 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_canelatv.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Canelatv",
+  "channels": [
+    {
+      "canonical_name": "Accion Mexicana Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Accion Mexicana",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153",
+        "xmltv_id": null,
+        "xmltv_display_name": "Accion Mexicana",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canela Clasicos Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Canela Clasicos",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=652",
+        "xmltv_id": null,
+        "xmltv_display_name": "Canela Clasicos",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canela Hits Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Canela Hits",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058",
+        "xmltv_id": null,
+        "xmltv_display_name": "Canela Hits",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canela Kids Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Canela Kids",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=654",
+        "xmltv_id": null,
+        "xmltv_display_name": "Canela Kids",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canela Music Presents Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Canela Music Presents",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548",
+        "xmltv_id": null,
+        "xmltv_display_name": "Canela Music Presents",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canela Telenovelas Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Canela Telenovelas",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152",
+        "xmltv_id": null,
+        "xmltv_display_name": "Canela Telenovelas",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chill Latino Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Chill Latino",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085",
+        "xmltv_id": null,
+        "xmltv_display_name": "Chill Latino",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "El Talisman Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "El Talisman",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079",
+        "xmltv_id": null,
+        "xmltv_display_name": "El Talisman",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Flow Caribe Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Flow Caribe",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083",
+        "xmltv_id": null,
+        "xmltv_display_name": "Flow Caribe",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Haz Clic Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Haz Clic!",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310",
+        "xmltv_id": null,
+        "xmltv_display_name": "Haz Clic!",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ITV Deportes Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ITV Deportes",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010",
+        "xmltv_id": null,
+        "xmltv_display_name": "ITV Deportes",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mundo Peque O Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mundo Pequeño",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mundo Pequeño",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Novelas Turcas Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Novelas Turcas",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
+        "xmltv_id": null,
+        "xmltv_display_name": "Novelas Turcas",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Planeta De Aventuras Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Planeta de Aventuras",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311",
+        "xmltv_id": null,
+        "xmltv_display_name": "Planeta de Aventuras",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Puro Romance Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Puro Romance",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082",
+        "xmltv_id": null,
+        "xmltv_display_name": "Puro Romance",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Regional Mx Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Regional MX",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084",
+        "xmltv_id": null,
+        "xmltv_display_name": "Regional MX",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ritmos Inolvidables Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ritmos Inolvidables",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ritmos Inolvidables",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tierra De Amor Y Venganza Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tierra De Amor Y Venganza",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tierra De Amor Y Venganza",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tu Pop Favorito Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tu Pop Favorito",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tu Pop Favorito",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Zona De Acci N Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Zona de Acción",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312",
+        "xmltv_id": null,
+        "xmltv_display_name": "Zona de Acción",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canelatv Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CanelaTV",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/8Hllkpk.png",
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=119",
+        "xmltv_id": "CanelaTV.us",
+        "xmltv_display_name": "CanelaTV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/8Hllkpk.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cine Romantico Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cine Romantico",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/FUrrDrb.png",
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=656",
+        "xmltv_id": "CineRomantico.us",
+        "xmltv_display_name": "Cine Romantico",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/FUrrDrb.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Combate Global Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Combate Global",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/ZPYK5jr.png",
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=960",
+        "xmltv_id": "Combate.br",
+        "xmltv_display_name": "Combate Global",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ZPYK5jr.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "El Rey Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "El Rey",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/u8hbbij.png",
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544",
+        "xmltv_id": "ElRey.us",
+        "xmltv_display_name": "El Rey",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/u8hbbij.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Flou Cine Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Flou Cine",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/OM6BP37.png",
+        "stream_url": "https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8",
+        "xmltv_id": "FlouCine.us",
+        "xmltv_display_name": "Flou Cine",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OM6BP37.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Novelisima Series (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Novelisima",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/8dUS3Ih.png",
+        "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
+        "xmltv_id": "Novelisima.us",
+        "xmltv_display_name": "Novelisima",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/8dUS3Ih.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sony Canal Novelas Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Canelatv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sony Canal Novelas",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/yijitpa.png",
+        "stream_url": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8",
+        "xmltv_id": "SonyCanalNovelas.us",
+        "xmltv_display_name": "Sony Canal Novelas",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/yijitpa.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    }
+  ]
+}

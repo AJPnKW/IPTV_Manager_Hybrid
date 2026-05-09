@@ -1,0 +1,65 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_blocked.m3u",
+  "provider": "Usblocked",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Fox Sports 2 Asia Thai (Usblocked) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports 2 Asia (Thai) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://example.com/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fox Sports 2 Asia (Thai) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tvn (Usblocked) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TVN",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://example.com/playlist2.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TVN",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Everyday Heroes (Usblocked) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Everyday Heroes (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8",
+        "xmltv_id": "EverydayHeroes.us",
+        "xmltv_display_name": "Everyday Heroes (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

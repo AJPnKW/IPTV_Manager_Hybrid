@@ -1,0 +1,19 @@
+﻿{
+  "app_title": "IPTV ChannelStudio",
+  "buttons": {
+    "harvest": "1) Harvest to Registry",
+    "filter": "2) Filter & Dedupe",
+    "build": "3) Build Playlist",
+    "compare": "4) EPG Compare",
+    "pipeline": "Run Full Pipeline"
+  },
+  "labels": {
+    "playlist_out": "Playlist Out",
+    "preview_title": "Curated Preview (first rows)",
+    "log_title": "Log"
+  },
+  "menu": {
+    "group_manager": "Group Manager",
+    "name_normalizer": "Name Normalizer"
+  }
+}

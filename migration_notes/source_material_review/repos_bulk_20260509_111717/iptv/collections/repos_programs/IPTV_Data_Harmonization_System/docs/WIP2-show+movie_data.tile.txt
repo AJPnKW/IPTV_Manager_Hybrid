@@ -1,0 +1,135 @@
+# section header: show|tmdb_id|name|overview|#_of_seasons|date|status|source|schedule
+# Seasons header: season|tmdb_id|seasonNum|year|overview|watchStatus|||
+# Episodes header: episode|tmdb_id|sNum|epNum|name|date|desc|runtime|source
+show|107113|Only Murders in the Building|Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.|5|2021-08-31|Running|Hulu|Tuesdays
+season|107113|1|1|2021|The trio of Charles, Oliver, and Mabel investigate a murder in their Upper West Side apartment building, recording a podcast as they uncover secrets.|||
+episode|107113|1|1| True Crime | Charles, Oliver, and Mabel bond over true crime podcast after Tim Kono's suspicious death; start their own podcast while investigating clues. | Aug 31, 2021 | 33 min |Hulu
+episode|107113|1|2| Who Is Tim Kono? | Trio attends Tim's memorial, searches his apartment; Mabel reveals childhood connection to Tim and past mysteries. | Aug 31, 2021 | 29 min |Hulu
+episode|107113|1|3| How Well Do You Know Your Neighbors? | Suspect Howard after cat paw prints in blood; Oliver secures sponsorship; threats emerge including poisoned dog. | Sep 7, 2021 | 32 min |Hulu
+episode|107113|1|4| The Sting | Suspect Sting after consulting podcast host; Charles dates Jan; link jewelry to Oliver's son. | Sep 14, 2021 | 31 min |Hulu
+episode|107113|1|5| Twist | Mabel reunites with old friend Oscar; track victim's final days to tattoo parlor. | Sep 21, 2021 | 30 min |Hulu
+episode|107113|1|6| To Protect and Serve | Oscar and Mabel connect; Detective aids with phone; Teddy pays from suspicious account. | Sep 28, 2021 | 31 min |Hulu
+episode|107113|1|7| The Boy from 6B | Discover Dimas family crimes; Theo kidnaps Oliver and Mabel. | Oct 5, 2021 | 33 min |Hulu
+episode|107113|1|8| Fan Fiction | Accuse Dimases publicly; autopsy reveals poisoning, clearing them. | Oct 12, 2021 | 30 min |Hulu
+episode|107113|1|9| Double Time | Retract accusation; suspect secret girlfriend; find bassoon clue. | Oct 19, 2021 | 31 min |Hulu
+episode|107113|1|10| Open and Shut | Reveal Jan as killer; arrest her; discover Bunny's body. | Oct 19, 2021 | 34 min |Hulu
+season|107113|2|2|2022|The investigation continues with new mysteries and deeper secrets within the Arconia.|||
+episode|107113|2|1| Persons of Interest | Arrested for Bunny's murder; new podcast; find suspicious painting. | Jun 28, 2022 | 33 min |Hulu
+episode|107113|2|2| Framed | Painting fake; parrot knows killer's name. | Jun 28, 2022 | 32 min |Hulu
+episode|107113|2|3| The Last Day of Bunny Folger | Flashbacks to Bunny's last day; suspect Nina Lin. | Jul 5, 2022 | 31 min |Hulu
+episode|107113|2|4| Here's Looking at You | Explore secret tunnels; Lucy warns of danger. | Jul 12, 2022 | 30 min |Hulu
+episode|107113|2|5| The Tell | Suspect Alice; learn Bunny's diner meeting. | Jul 19, 2022 | 32 min |Hulu
+episode|107113|2|6| Performance Review | Glitter bomb fails; Mabel attacked, framed on video. | Jul 26, 2022 | 33 min |Hulu
+episode|107113|2|7| Flipping the Pieces | Flashbacks to Mabel's past; subway attack, blackout. | Aug 2, 2022 | 31 min |Hulu
+episode|107113|2|8| Hello, Darkness | Race to save Lucy; suspect Kreps after glitter clue. | Aug 9, 2022 | 30 min |Hulu
+episode|107113|2|9| Sparring Partners | Confront Kreps; reveal Rose Cooper connection. | Aug 16, 2022 | 32 min |Hulu
+episode|107113|2|10| I Know Who Did It | Expose Becky as killer at reveal party. | Aug 23, 2022 | 34 min |Hulu
+season|107113|3|2024|Season three finds Charles, Oliver & Mabel investigating a murder behind the scenes of a Broadway show. Ben Glenroy is a Hollywood action star whose Broadway debut is cut short by his untimely death. Aided by co-star Loretta Durkin, our trio embarks on their toughest case yet, all while director Oliver desperately attempts to put his show back together. Curtain up!||||
+episode|107113|3|1| The Show Must... | Ben collapses on stage, revives, then falls dead from elevator. | Aug 8, 2023 | 33 min |Hulu
+episode|107113|3|2| The Beat Goes On | Kidnapped by fan; restart podcast on Ben's murder. | Aug 8, 2023 | 32 min |Hulu
+episode|107113|3|3| Grab Your Hankies | Investigate handkerchief; footage from Ben's dressing room. | Aug 15, 2023 | 31 min |Hulu
+episode|107113|3|4| The White Room | Suspect Kimber; Charles proposes to Joy accidentally. | Aug 22, 2023 | 30 min |Hulu
+episode|107113|3|5| Ah, Love! | Loretta's secret fight with Ben; Joy breaks up with Charles. | Aug 29, 2023 | 32 min |Hulu
+episode|107113|3|6| Ghost Light | Ghost in theater; trio argues over investigation. | Sep 5, 2023 | 33 min |Hulu
+episode|107113|3|7| CoBro | Suspect Dickie; Mabel starts solo podcast. | Sep 12, 2023 | 31 min |Hulu
+episode|107113|3|8| Sitzprobe | Loretta confesses to save Dickie; Oliver has heart attack. | Sep 19, 2023 | 30 min |Hulu
+episode|107113|3|9| Thirty | Recreate timeline; suspect Donna and Cliff. | Sep 26, 2023 | 32 min |Hulu
+episode|107113|3|10| Opening Night | Expose Donna and Cliff; Sazz shot in Charles's apartment. | Oct 3, 2023 | 34 min |Hulu
+season|107113|4|4|2025|After their beloved doorman, Lester, dies under suspicious circumstances, Charles, Oliver, and Mabel refuse to believe it was an accident. Their investigation plunges them into the shadowy corners of New York and beyond - where the trio uncovers a dangerous web of secrets connecting powerful billionaires, old-school mobsters, and the mysterious residents of the Arconia. The trio discovers a deeper divide between their storied city they thought they knew and the new New York evolving around them - one where the old mob fights to hold on as newer, even more dangerous players emerge.|||
+episode|107113|4|1| Once Upon a Time in the West | Trio to LA for movie deal; discover Sazz murdered. | Aug 27, 2024 | 33 min |Hulu
+episode|107113|4|2| Gates of Heaven | Investigate west side residents; find "Oh Hell" code and ham radio. | Sep 3, 2024 | 32 min |Hulu
+episode|107113|4|3| Two for the Road | Pair with actors Eugene, Zach, Eva; contact via ham radio. | Sep 10, 2024 | 31 min |Hulu
+episode|107113|4|4| The Stunt Man | Delve into stunt world; encounter familiar-faced suspect. | Sep 17, 2024 | 30 min |Hulu
+episode|107113|4|5| Adaptation | Face off against deceptive Hollywood cast and crew. | Sep 24, 2024 | 32 min |Hulu
+episode|107113|4|6| Blow-Up | Documentary by The Brothers Sisters reveals clues. | Oct 1, 2024 | 33 min |Hulu
+episode|107113|4|7| Valley of the Dolls | Flee to safe house; family refuge proves unsafe. | Oct 8, 2024 | 31 min |Hulu
+episode|107113|4|8| Lifeboat | Epic showdown with Westies alongside film actors. | Oct 15, 2024 | 30 min |Hulu
+episode|107113|4|9| Escape From Planet Klongo | Infiltrate film set for Sazz murder background. | Oct 22, 2024 | 32 min |Hulu
+episode|107113|4|10| My Best Friend's Wedding | Reveal final answers amid mortal danger and Arconia wedding. | Oct 29, 2024 | 34 min |Hulu
+season|107113|4|2022|After their beloved doorman, Lester, dies under suspicious circumstances, Charles, Oliver, and Mabel refuse to believe it was an accident. Their investigation plunges them into the shadowy corners of New York and beyond - where the trio uncovers a dangerous web of secrets connecting powerful billionaires, old-school mobsters, and the mysterious residents of the Arconia. The trio discovers a deeper divide between their storied city they thought they knew and the new New York evolving around them - one where the old mob fights to hold on as newer, even more dangerous players emerge.||||
+episode|107113|5|1| Nail in the Coffin | Investigating Lester's death lures trio out of Manhattan into dangerous territory. | Sep 9, 2025 | 33 min | Nail in the Coffin 
+episode|107113|5|2| After You | Flashback to Lester's early days at Arconia, sacrificing future for building secrets. | Sep 9, 2025 | 32 min | After You 
+episode|107113|5|3| Rigor | Stumble on crucial evidence but compromise it; scramble before police close in. | Sep 9, 2025 | 31 min | Rigor 
+episode|107113|5|4| Dirty Birds | Snooping caught by billionaire suspects; invited to Oliver's for evening. | Sep 16, 2025 | 30 min | Dirty Birds 
+episode|107113|5|5| Tongue Tied | Thwarted podcast plans; seek help from staff; Charles dines with suspect. | Sep 23, 2025 | 32 min | Tongue Tied 
+episode|107113|5|6| Flatbush | Investigation takes Oliver and Loretta to childhood streets; break-in leads. | Sep 30, 2025 | 33 min | Flatbush 
+episode|107113|5|7| Silver Alert | Mayor warns of billionaires; investigate upstate lair; Oliver's escape attempt. | Oct 7, 2025 | 31 min | Silver Alert 
+episode|107113|5|8| Cuckoo Chicks | Mabel crashes ladies night; Charles and Oliver in couples therapy accidentally. | Oct 14, 2025 | 30 min | Cuckoo Chicks 
+episode|107113|5|9| LESTR | Told through annoying robot's lens; Arconia party reveals killer may remain. | Oct 21, 2025 | 32 min | LESTR 
+episode|107113|5|10| The House Always | Trio rushes to solve amid life-threatening peril. | Oct 28, 2025 | 34 min| The House Always 
+show|226637|High Potential|Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.|1|2024-09-17|Running|ABC
+CTV|
+season|226637|2|2|2025|Morgan and the LAPD tackle a series of complex crimes orchestrated by the Game Maker, testing their partnership and family dynamics.|Running||
+season|226637|3|3|2025|Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.|Running||
+episode|226637|3|1|Pawns|While working tirelessly to shield her family from the Game Maker's threats, another crime drags Morgan back into his game and the LAPD must decide whether to trust her instincts before the next move turns fatal.|2025-09-16|44m|ABC
+CTV
+episode|226637|3|1|Checkmate|As the Major Crimes team desperately seek answers amidst a string of unresolved crimes, Morgan suspects the Game Maker is responsible. Meanwhile, Daphne and Oz set out to find Roman, and Elliot prepares a surprise act for his school’s talent show.|23-Sep-25|44m|ABC
+CTV
+episode|226637|3|3|How Well Do You Know Your Neighbors? |Oliver employs his theater director skills to analyze the case. Charles & Mabel question an obsessive cat lover.|31-Aug-21|44m|ABC
+CTV
+episode|226637|3|4|The Sting |Believing the murderer might be a famous resident whom is difficult to access, the group seeks advice from a renowned podcasting host.|07-Sep-21|44m|ABC
+CTV
+episode|226637|3|5|||||ABC
+CTV
+episode|226637|3|6|||||ABC
+CTV
+episode|226637|3|7|Twist |Mabel slips away on a solo mission tracking the victim's final days. Suspicious, Charles & Oliver follow her.|14-Sep-21|44m|ABC
+CTV
+episode|226637|3|8|To Protect and Serve |Mabel brings her new friends (and an old one) to her childhood home to meet her mother. Meanwhile, Detective Williams starts to have her own doubts about the case as she prepares for motherhood.|21-Sep-21|44m|ABC
+CTV
+episode|226637|3|9|The Boy from 6B |With the investigation scratching at a web of old crimes originating inside the building, a mysterious young man turns the tables to spy on Charles, Oliver & Mabel.|28-Sep-21|44m|ABC
+CTV
+episode|226637|3|10|Placeholder |Placeholder |Placeholder |44m|ABC
+CTV
+episode|226637|3|11|Placeholder |Placeholder |Placeholder |44m|ABC
+CTV
+episode|226637|3|12|Placeholder |Placeholder |Placeholder |44m|ABC
+CTV
+episode|226637|3|13|Placeholder |Placeholder |Placeholder |44m|ABC
+CTV
+episode|226637|3|14|Placeholder |Placeholder |Placeholder |44m|ABC
+CTV
+episode|226637|3|15|Placeholder |Placeholder |Placeholder |44m|ABC
+CTV
+episode|226637|3|16|Placeholder |Placeholder |Placeholder |44m|ABC
+CTV
+episode|226637|3|17|Placeholder |Placeholder |Placeholder |44m|ABC
+CTV
+episode|226637|3|18|Placeholder |Placeholder |Placeholder |44m|ABC
+CTV
+episode|203857|3|1|Emperor Dead|Amid a growing constitutional crisis, the staff scrambles to stage an impromptu inauguration, while Hal exploits the chaos behind the scenes.|16-Oct-25|41m|Netflix
+episode|203857|3|2|Last Dance at the Country Club|Kate weighs a compelling offer. Eidra faces scrutiny over fallout from the Roylin debacle. Stuart pitches a proposal that goes far deeper than policy.|16-Oct-25|46m|Netflix
+episode|203857|3|3|The Riderless Horse|As the nation pauses to mourn, Grace considers the framework of her administration. Private strain threatens Kate and Hal's polished public image.|16-Oct-25|51m|Netflix
+episode|203857|3|4|Arden|Kate's unique role grants her access to anyone she wants — except the one person she needs. Dennison puts actionable intelligence to personal use.|16-Oct-25|50m|Netflix
+episode|203857|3|5|Birdwatchers|Forced to play the perfect couple, Kate and Hal confront a looming problem in international waters and a development that could torpedo U.S. credibility.|16-Oct-25|42m|Netflix
+episode|203857|3|6|Amagansett|At an emergency strategy session, Grace weighs unthinkable choices, while Kate rolls the dice on a gamble that could alter the course of history.|16-Oct-25|49m|Netflix
+episode|203857|3|7|PNG|Sequestered inside Winfield House as embassies go on alert and allies fall silent, Kate and Callum race to contain a potential disaster.|16-Oct-25|51m|Netflix
+episode|203857|3|8|Schrodinger's Wife (Season Finale)|Kate must use all her leverage and political instincts to avert a catastrophe at a high-stakes summit — with the fate of nations hanging in the balance.|16-Oct-25|54m|Netflix
+show|203857|The Diplomat|In the midst of an international crisis, a career diplomat lands in a high-profile job she’s unsuited for, with tectonic implications for her marriage and her political future.|2|2023-04-20|Running|Netflix|
+season|203857|3|3|2025|Ambassador Kate Wyler navigates the aftermath of the President's death and her husband’s potential involvement, aiming for the vice presidency.|||
+show|258902|English Teacher|A high school teacher in Austin tries to balance the competing demands of the students and their parents in a world where the rules seem to change every day.|1|2024-09-02|Running|FX|
+season|258902|2|2|2025|Evan faces new controversies at school, impacting his personal life with Malcolm.|||
+episode|258902|2|1|Covid in America|Evan pushes back against the students as they try to modernize the school play.|2025-09-25|22m|FX
+show|92611|RuPaul's Drag Race UK|RuPaul has made the trip across the pond in search of a queen with the most charisma, uniqueness, nerve and talent in all the land.|5|2019-10-03|Running|BBC iPlayer|
+season|92611|7|7|2025|A new cast of queens competes for RuPaul's approval and the crown.|||
+episode|92611|7|1|Episode 1|A hot new cast of queens enter the werk room as RuPaul kicks off his legendary race. Joel Dommett joins Michelle Visage and Alan Carr on the judging panel.|2025-09-25|1h 14m|BBC iPlayer
+show|8514|RuPaul's Drag Race|Drag queens compete in fashion, performance, and lip-sync challenges to be crowned America's next drag superstar.|16|2009-02-02|Returning Series|MTV / WOW Presents Plus|
+show|67482|RuPaul's Drag Race All Stars|Past contestants return to compete for a spot in the Drag Race Hall of Fame.|9|2012-10-22|Returning Series|Paramount+|
+show|67564|RuPaul's Drag Race All Stars: Untucked|Companion series to All Stars, offering behind-the-scenes drama.|1|2021|Ended|Paramount+|
+show|38409|RuPaul's Drag Race: Untucked!|Behind-the-scenes companion to the main Drag Race series.|15|2010-02-01|Returning Series|MTV / WOW Presents Plus|
+show|94038|Canada's Drag Race|Canadian queens compete to become Canada's next drag superstar.|5|2020-07-02|Returning Series|Crave / WOW Presents Plus|
+show|157239|Alien: Earth|After a space vessel crashes on Earth, a young woman and soldiers face a planetary threat.|1|2025-08-12|Returning Series|Hulu|
+show|18650|I'm a Celebrity...Get Me Out of Here! (US)|Celebrities face survival challenges in the jungle.|2|2003-02-19|Ended|ABC|
+show|27097|I'm a Celebrity Get Me Out of Here Now (UK)|Companion show with behind-the-scenes content and interviews.|1|2003|Ended|ITV2|
+show|30901|I'm a Celebrity...Get Me Out of Here! UK|British celebrities endure jungle trials for charity.|23|2002-08-25|Returning Series|ITV|
+show|61913|I'm a Celebrity: Get Me Out of Here! AU|Australian version of the jungle survival reality show.|10|2015-02-01|Returning Series|Network 10|
+show|70|This Hour Has 22 Minutes|Canadian satirical news show blending sketch comedy and current events.|31|1993-10-11|Returning Series|CBC|
+show|205715|Gen V|College-aged superheroes train at Godolkin University in this spinoff of The Boys.|1|2023-09-29|Returning Series|Prime Video|
+show|260471|Shifting Gears|A widowed car shop owner adjusts to life with his estranged daughter and grandkids.|1|2025-01-08|Returning Series|Hulu|
+show|237748|Brilliant Minds|A neurologist with face blindness leads a team solving psychological mysteries.|1|2024-09-23|Returning Series|NBC|
+show|197449|Loot|A billionaire divorcée rediscovers purpose through her charitable foundation.|2|2022-06-24|Returning Series|Apple TV+|
+show|205272|Reasonable Doubt|A brilliant but ethically flexible defense attorney navigates LA’s justice system.|2|2022-09-27|Returning Series|Hulu|
+show|211288|Tracker|A survivalist helps solve missing persons cases across the U.S.|1|2024-02-11|Returning Series|CBS|
+show|242867|Watson|After Holmes' death, Dr. Watson runs a rare disorders clinic while facing new mysteries.|1|2025|Returning Series|CBS|
+show|127235|Invasion|Multiple perspectives explore an alien invasion across the globe.|2|2021-10-22|Returning Series|Apple TV+|
+

@@ -1,0 +1,61 @@
+{
+  "focus_countries": ["CA", "UK", "AU", "US"],
+  "keep_keywords": [
+    "canada",
+    "uk",
+    "freeview",
+    "freesat",
+    "bbc",
+    "itv",
+    "channel 4",
+    "channel 5",
+    "uktv",
+    "stv",
+    "s4c",
+    "utv",
+    "australia",
+    "au",
+    "freeview au",
+    "abc",
+    "sbs",
+    "seven",
+    "nine",
+    "ten",
+    "provider manifest",
+    "mapping notes",
+    "tvg-id",
+    "xmltv"
+  ],
+  "reference_only_keywords": [
+    "regional",
+    "manifest",
+    "advanced usage",
+    "usage notes",
+    "player compatibility",
+    "epg merging",
+    "logo strategy"
+  ],
+  "scope_out_keywords": [
+    "global fast",
+    "pluto",
+    "samsung tv plus",
+    "plex",
+    "rakuten",
+    "iptv-org",
+    "deep subsets",
+    "sportsgrid",
+    "edge sport",
+    "fallback chain",
+    "fallback chains",
+    "provider-based failover",
+    "geo-based",
+    "mirror",
+    "failover cdn"
+  ],
+  "rules": {
+    "prefer_broadcasters_over_templates": true,
+    "prefer_country_specific_over_global": true,
+    "prefer_real_epg_assets_over_placeholder_stream_templates": true,
+    "treat_fast_and_open_playlist_material_as_out_of_scope_unless_explicitly_requested": true
+  }
+}

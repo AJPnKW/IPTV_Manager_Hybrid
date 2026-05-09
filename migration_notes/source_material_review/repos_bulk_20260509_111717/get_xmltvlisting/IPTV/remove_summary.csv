@@ -1,0 +1,6 @@
+group,lineup_label,lineup_id,channel_count,role
+CA,Rogers_Toronto_ON_CA,10270,227,PRIMARY
+CA,Telus_Optik_Vancouver_BC_CA,10269,132,
+US,Xfinity_Chicago_IL_US,10271,191,
+US,Verizon_FIOS_NewYork_NY_US,10273,666,PRIMARY
+US,Broadcast_LosAngeles_CA_US,10272,193,

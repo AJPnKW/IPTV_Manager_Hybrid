@@ -1,0 +1,2150 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_xumo.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Xumo",
+  "channels": [
+    {
+      "canonical_name": "Celebrity Name Game Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Celebrity Name Game [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Celebrity Name Game [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cook S Country Channel Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cook's Country Channel [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cook's Country Channel [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Designated Survivor Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Designated Survivor [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Designated Survivor [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dog Whisperer With Cesar Millan Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Dog Whisperer with Cesar Millan [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dog Whisperer with Cesar Millan [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ebony Tv Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ebony TV [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ebony TV [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox Sports Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FOX Sports [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "FOX Sports [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hallmark En Espanol Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Hallmark en Espanol [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hallmark en Espanol [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Jtv Jewelry Love Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "JTV Jewelry Love [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://jewelrytv-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "JTV Jewelry Love [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Latino Vibes Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Latino Vibes [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00375-fusemedia-latinovibes-xumo-qyjhw.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Latino Vibes [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Love The Planet Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Love The Planet [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love The Planet [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nash Bridges Channel Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Nash Bridges Channel [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nash Bridges Channel [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Outersphere Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "OuterSphere [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "OuterSphere [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Property Reno Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Property & Reno [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-476.frequency.stream/dist/xumo/476/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Property & Reno [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qvc S The Big Dish Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "QVC's The Big Dish [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01717-qvc-amg01717c3-xumo-us-2876.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "QVC's The Big Dish [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Real Disaster Channel Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Real Disaster Channel [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Real Disaster Channel [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Salem News Channel Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Salem News Channel [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc-xm/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Salem News Channel [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Supermarket Sweep Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Supermarket Sweep [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Supermarket Sweep [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Conners Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Conners [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Conners [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Alfred Hitchcock Presents Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Alfred Hitchcock Presents",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Alfred Hitchcock Presents",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Alien Nation Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Alien Nation",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Alien Nation",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "American Crimes Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "American Crimes",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "American Crimes",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "American Ninja Warrior Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "American Ninja Warrior",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "American Ninja Warrior",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bad Girls Club Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bad Girls Club",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bad Girls Club",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Barney And Friends Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Barney and Friends",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://cinedigm-barney-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Barney and Friends",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Impossible Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC Impossible",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Impossible",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Top Gear Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC Top Gear",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Top Gear",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Big 12 Studios Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Big 12 Studios",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Big 12 Studios",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bravo Vault Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bravo Vault",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bravo Vault",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Court Tv Legendary Trials Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Court TV Legendary Trials",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Court TV Legendary Trials",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Craftsytv Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CraftsyTV",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "CraftsyTV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "E Keeping Up Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "E! Keeping Up",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "E! Keeping Up",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Family Feud Classic Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Family Feud Classic",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Family Feud Classic",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fork Flight Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fork & Flight",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fork & Flight",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gardening With Monty Don Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Gardening with Monty Don",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Gardening with Monty Don",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Homeful Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Homeful",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Homeful",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Iheartradio Alternative Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iHeartRadio Alternative",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://iheart-iheartaltradio-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "iHeartRadio Alternative",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Iheartradio Beso Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iHeartRadio Beso",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://iheart-iheartlatinohits-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "iHeartRadio Beso",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Iheartradio Country Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iHeartRadio Country",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://iheart-iheartcountry-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "iHeartRadio Country",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Iheartradio Hip Hop Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iHeartRadio Hip-Hop",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "iHeartRadio Hip-Hop",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Investigation Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Investigation",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Investigation",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Joel Osteen Network Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Joel Osteen Network",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Joel Osteen Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Laff More Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Laff More",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://scripps-laffmore-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Laff More",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lassie Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Lassie",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Lassie",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Leave It To Beaver Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Leave It to Beaver",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Leave It to Beaver",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Little House On The Prairie Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Little House on the Prairie",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Little House on the Prairie",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Million Dollar Listing Vault Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Million Dollar Listing Vault",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Million Dollar Listing Vault",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Murder She Wrote Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Murder She Wrote",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Murder She Wrote",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Comedy Vault Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Comedy Vault",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Comedy Vault",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Sports Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Sports",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Sports",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nosey Confess Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Nosey Confess",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nosey Confess",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Real Housewives Vault Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Real Housewives Vault",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Real Housewives Vault",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Reelz Famous Infamous Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Reelz Famous & Infamous",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Reelz Famous & Infamous",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Rig Tv Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Rig TV",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rig TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Saved By The Bell Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Saved by the Bell",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Saved by the Bell",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Scares By Shudder Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Scares by Shudder",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amc-scaresbyshudder-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Scares by Shudder",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Shaun The Sheep Friends Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Shaun the Sheep & Friends",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Shaun the Sheep & Friends",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Snl Vault Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "SNL Vault",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "SNL Vault",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Telemundo Accion Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Telemundo Accion",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Telemundo Accion",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Telemundo Noticias Ahora Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Telemundo Noticias Ahora",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Telemundo Noticias Ahora",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Telemundo Noticias California Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Telemundo Noticias California",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Telemundo Noticias California",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Telemundo Noticias Florida Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Telemundo Noticias Florida",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Telemundo Noticias Florida",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Telemundo Noticias Noreste Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Telemundo Noticias Noreste",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Telemundo Noticias Noreste",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Telemundo Noticias Texas Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Telemundo Noticias Texas",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Telemundo Noticias Texas",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Telemundo Romance Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Telemundo Romance",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Telemundo Romance",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Lone Ranger Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Lone Ranger",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Lone Ranger",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Top Chef Vault Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Top Chef Vault",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Top Chef Vault",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Trinity Broadcast Network Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trinity Broadcast Network",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d7ge95bb03xsu.cloudfront.net/out/v1/7ed92615b64b46d6b01e61f17463346e/tbn-xumo.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trinity Broadcast Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "True History Channel Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "True History Channel",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "True History Channel",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv One Crime Justice Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV One Crime & Justice",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TV One Crime & Justice",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "UFC Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "UFC",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "UFC",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Universal Action Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Universal Action",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Universal Action",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Universal Monsters Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Universal Monsters",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Universal Monsters",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Universal Westerns Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Universal Westerns",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Universal Westerns",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wild Tv Undefined (Playlistsrc) (West) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": "West",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Wild West TV",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Wild West TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wmx Hip Hop Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WMX Hip-Hop",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://wmx-hiphop-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WMX Hip-Hop",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wmx Pop Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WMX Pop",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://wmx-pop-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WMX Pop",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wmx Rock Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WMX Rock",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://wmxrock-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WMX Rock",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "At Home With Family Handyman Series (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "At Home with Family Handyman",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/WfKlGbX.png",
+        "stream_url": "https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8",
+        "xmltv_id": "AtHomewithFamilyHandyman.us",
+        "xmltv_display_name": "At Home with Family Handyman",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/WfKlGbX.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Backstage Geo Blocked Documentary (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Backstage [Geo-blocked]",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/qcTNvNU.png",
+        "stream_url": "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Backstage.us",
+        "xmltv_display_name": "Backstage [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qcTNvNU.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dangertv Documentary (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "DangerTV",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/4aTk45R.png",
+        "stream_url": "https://dangertv-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": "DangerTV.us",
+        "xmltv_display_name": "DangerTV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/4aTk45R.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Demand Africa Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Demand Africa",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/usqoEug.png",
+        "stream_url": "https://demandafrica-xumo-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "DemandAfrica.us",
+        "xmltv_display_name": "Demand Africa",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/usqoEug.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmex Geo Blocked Movies (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Filmex (Xumo) (1080p) [Geo-blocked]",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/Hiz2OyC.png",
+        "stream_url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Filmex.mx",
+        "xmltv_display_name": "Filmex (Xumo) (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Hiz2OyC.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmex Cl Sico Geo Blocked Movies (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Filmex Clásico (1080p) [Geo-blocked]",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/D3dj4mv.png",
+        "stream_url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "FilmexClasico.mx",
+        "xmltv_display_name": "Filmex Clásico (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/D3dj4mv.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hungry Cooking (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Hungry",
+        "group_title_raw": "Cooking",
+        "logo_raw": "https://i.imgur.com/MIUDYh0.png",
+        "stream_url": "https://food-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": "Hungry.us",
+        "xmltv_display_name": "Hungry",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/MIUDYh0.png",
+        "xmltv_categories": [
+          "Cooking"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Iheartradio 90s Music (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "iHeartRadio 90s",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/Vo09eBa.png",
+        "stream_url": "https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": "IHeart90s.us",
+        "xmltv_display_name": "iHeartRadio 90s",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Vo09eBa.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 11 Kntv Geo Blocked General (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC 11 San Jose CA (KNTV) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://amg00884-nbcuniversal-nbcsf-pcr-xumo-xetsp.amagi.tv/playlist.m3u8",
+        "xmltv_id": "KNTVDT1.us",
+        "xmltv_display_name": "NBC 11 San Jose CA (KNTV) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 5 Fort Worth Tx Kxas Geo Blocked General (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8",
+        "xmltv_id": "KXASDT1.us",
+        "xmltv_display_name": "NBC 5 Dallas-Fort Worth TX (KXAS) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Love Nature En Espanol Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Love Nature en Espanol [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/7uNdcWB.png",
+        "stream_url": "https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8",
+        "xmltv_id": "LoveNatureenEspanol.us",
+        "xmltv_display_name": "Love Nature en Espanol [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/7uNdcWB.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ninja Kidz Tv Kids (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ninja Kidz TV",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/7EngqUi.png",
+        "stream_url": "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": "NinjaKidzTV.us",
+        "xmltv_display_name": "Ninja Kidz TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/7EngqUi.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Outdoor America Outdoor (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Outdoor America",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://i.imgur.com/UKfimFD.png",
+        "stream_url": "https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8",
+        "xmltv_id": "OutdoorAmerica.us",
+        "xmltv_display_name": "Outdoor America",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/UKfimFD.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Outside Tv Plus Outdoor (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Outside TV Plus (1080p)",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://i.imgur.com/8AEfKB8.png",
+        "stream_url": "https://outsidetvplus-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "OutsideTVPlus.us",
+        "xmltv_display_name": "Outside TV Plus (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/8AEfKB8.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Portlandia Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Portlandia",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/I4KDvu9.png",
+        "stream_url": "https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": "Portlandia.us",
+        "xmltv_display_name": "Portlandia",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/I4KDvu9.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tastemade En Espanol Geo Blocked Cooking (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tastemade en Espanol [Geo-blocked]",
+        "group_title_raw": "Cooking",
+        "logo_raw": "https://i.imgur.com/8s6aRwv.png",
+        "stream_url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TastemadeenEspanol.us",
+        "xmltv_display_name": "Tastemade en Espanol [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/8s6aRwv.png",
+        "xmltv_categories": [
+          "Cooking"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tribeca Channel Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tribeca Channel [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/JCpFAll.png",
+        "stream_url": "https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TribecaChannel.us",
+        "xmltv_display_name": "Tribeca Channel [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/JCpFAll.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Usa Today News Geo Blocked News (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA Today News [Geo-blocked]",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/37K0AZX.png",
+        "stream_url": "https://usatodaynews-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "USATODAY.us",
+        "xmltv_display_name": "USA Today News [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/37K0AZX.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 10 Nh Wbts Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC 10 Boston NH (WBTS) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png",
+        "stream_url": "https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8",
+        "xmltv_id": "WBTSCD1.us",
+        "xmltv_display_name": "NBC 10 Boston NH (WBTS) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/512px-WBTS-LD_NBC_10_Boston_logo.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 10 Pa Wcau Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC 10 Philadelphia PA (WCAU) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png",
+        "stream_url": "https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8",
+        "xmltv_id": "WCAUDT1.us",
+        "xmltv_display_name": "NBC 10 Philadelphia PA (WCAU) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/512px-WCAUlogo2.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ion Mystery Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ION Mystery (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png",
+        "stream_url": "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": "WFXTDT2.us",
+        "xmltv_display_name": "ION Mystery (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 5 Il Wmaq Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 Chicago IL (WMAQ) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/wblxisu.png",
+        "stream_url": "https://amg00884-nbcuniversal-nbcch-pcr-xumo-e9lcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "WMAQDT1.us",
+        "xmltv_display_name": "NBC 5 Chicago IL (WMAQ) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/wblxisu.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 4 Dc Wrc Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC 4 Washington DC (WRC) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/7JpMArM.png",
+        "stream_url": "https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8",
+        "xmltv_id": "WRCDT1.us",
+        "xmltv_display_name": "NBC 4 Washington DC (WRC) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/7JpMArM.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 6 Fl Wtvj Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC 6 Miami FL (WTVJ) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/p3HXpSv.png",
+        "stream_url": "https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8",
+        "xmltv_id": "WTVJDT1.us",
+        "xmltv_display_name": "NBC 6 Miami FL (WTVJ) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/p3HXpSv.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 30 Hartford Ct Wvit Geo Blocked Undefined (Playlistsrc) (West) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Xumo",
+      "canonical_feed_type": "West",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC 30 West Hartford CT (WVIT) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/512px-WVIT_Logo_2017.svg.png",
+        "stream_url": "https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8",
+        "xmltv_id": "WVITDT1.us",
+        "xmltv_display_name": "NBC 30 West Hartford CT (WVIT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/512px-WVIT_Logo_2017.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}

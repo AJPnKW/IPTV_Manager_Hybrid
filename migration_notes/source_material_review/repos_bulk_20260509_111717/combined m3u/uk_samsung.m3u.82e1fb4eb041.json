@@ -1,0 +1,502 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\uk_samsung.m3u",
+  "provider": "Uksamsung",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Beano Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Beano TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "BeanoTV.uk",
+        "xmltv_display_name": "Beano TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv (Samsung) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV+ UHD (2160p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8",
+        "xmltv_id": "BloombergTVPlus.us",
+        "xmltv_display_name": "Bloomberg TV+ UHD (2160p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv (Samsung) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV+ UHD (2160p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "BloombergTVPlus.us",
+        "xmltv_display_name": "Bloomberg TV+ UHD (2160p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Clubbing Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Clubbing TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "ClubbingTV.fr",
+        "xmltv_display_name": "Clubbing TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Comedy Channel (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Comedy Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Comedy Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Edgesport (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "EDGEsport (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EDGEsport.uk",
+        "xmltv_display_name": "EDGEsport (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Euronews English (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Euronews English (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8",
+        "xmltv_id": "EuronewsEnglish.fr",
+        "xmltv_display_name": "Euronews English (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fashion Tv England Not 24 7 (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fashion TV (England) (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fashiontv-fashiontv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8",
+        "xmltv_id": "FashionTelevision.uk",
+        "xmltv_display_name": "Fashion TV (England) (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Gusto Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Gusto TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Gusto TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Horse And Country (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Horse and Country (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "HorseCountryTV.uk",
+        "xmltv_display_name": "Horse and Country (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Insight Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Insight TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InsightTV.nl",
+        "xmltv_display_name": "Insight TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Inwild (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "InWild (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://inwild-samsung-uk.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "InWild (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Inwonder (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "InWonder (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://inwonder-samsung-uk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InWonder.nl",
+        "xmltv_display_name": "InWonder (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviesphere (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MovieSphere.us",
+        "xmltv_display_name": "MovieSphere (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs America (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "PBS America (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "PBSAmerica.uk",
+        "xmltv_display_name": "PBS America (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Qello Concerts By (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Qello Concerts by Stingray (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8",
+        "xmltv_id": "QelloConcertsbyStingray.ca",
+        "xmltv_display_name": "Qello Concerts by Stingray (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Qwest Tv Jazz Beyond Geo Blocked (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Qwest TV Jazz & Beyond (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
+        "xmltv_id": "QwestTVJazzBeyond.fr",
+        "xmltv_display_name": "Qwest TV Jazz & Beyond (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Qwest Tv Mix Geo Blocked (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Qwest TV Mix (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8",
+        "xmltv_id": "QwestTVMix.fr",
+        "xmltv_display_name": "Qwest TV Mix (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Real Stories (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Real Stories (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://realstories-samsung-uk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "RealStories.uk",
+        "xmltv_display_name": "Real Stories (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sofy Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Sofy TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://sofytv-samsunguk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "SofyTV.ch",
+        "xmltv_display_name": "Sofy TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Teletubbies (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Teletubbies (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "Teletubbies.uk",
+        "xmltv_display_name": "Teletubbies (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tennis Channel (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Tennis Channel (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TennisChannel.us",
+        "xmltv_display_name": "Tennis Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tennis Channel (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Tennis Channel (UK) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TennisChannel.us",
+        "xmltv_display_name": "Tennis Channel (UK) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Guardian (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Guardian (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8",
+        "xmltv_id": "TheGuardian.uk",
+        "xmltv_display_name": "The Guardian (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Time Line (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Time Line (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Timeline.us",
+        "xmltv_display_name": "Time Line (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wonder (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Wonder (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Wonder.uk",
+        "xmltv_display_name": "Wonder (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

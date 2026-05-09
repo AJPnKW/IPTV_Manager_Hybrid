@@ -1,0 +1,12 @@
+﻿# Alias Resolution — canonical channel mappings
+CBLT-DT:
+  network: CTV
+  station: CBLT
+  location: Toronto
+  country: CA
+
+WXYZ:
+  network: ABC
+  station: WXYZ
+  location: Detroit
+  country: US

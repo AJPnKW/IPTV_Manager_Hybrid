@@ -1,0 +1,29 @@
+﻿build_pass_04
+run_ts=20260419_225658
+m3u_input_files=351
+epg_input_files=97
+m3u_records_written=22615
+m3u_duplicate_urls_skipped=29627
+epg_fragments_written=42
+
+final_outputs
+tivimate_master_m3u=C:\Users\andrew\PROJECTS\iptv\publish\tivimate\final\master_playlist.m3u
+tivimate_master_epg_xml=C:\Users\andrew\PROJECTS\iptv\publish\tivimate\final\master_epg.xml
+tivimate_master_epg_gz=C:\Users\andrew\PROJECTS\iptv\publish\tivimate\final\master_epg.xml.gz
+runtime_master_m3u=C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\final\master_playlist.m3u
+runtime_master_epg_xml=C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\final\master_epg.xml
+runtime_master_epg_gz=C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\final\master_epg.xml.gz
+
+output_catalog
+
+output_type    target     path                                                                       size_bytes sha256                                                          
+-----------    ------     ----                                                                       ---------- ------                                                          
+master_m3u     tivimate   C:\Users\andrew\PROJECTS\iptv\publish\tivimate\final\master_playlist.m3u      5662343 F77C291D5F6987539B905A3E381ADCE10093372F62B6FDFCFA7633DC0B0D4E62
+master_epg_xml tivimate   C:\Users\andrew\PROJECTS\iptv\publish\tivimate\final\master_epg.xml         768615036 4230D3A8C7D05BAD43FBECFB2D8314FE9922FE13B84483EA3A7E38558DD66C31
+master_epg_gz  tivimate   C:\Users\andrew\PROJECTS\iptv\publish\tivimate\final\master_epg.xml.gz       92836155 11ED56BBEAD2DBC60E883E53CF903DE60395F9A320A09AEDBB813C6F71B6BD4E
+master_m3u     runtime_hp C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\final\master_playlist.m3u    5662343 F77C291D5F6987539B905A3E381ADCE10093372F62B6FDFCFA7633DC0B0D4E62
+master_epg_xml runtime_hp C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\final\master_epg.xml       768615036 4230D3A8C7D05BAD43FBECFB2D8314FE9922FE13B84483EA3A7E38558DD66C31
+master_epg_gz  runtime_hp C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\final\master_epg.xml.gz     92836155 11ED56BBEAD2DBC60E883E53CF903DE60395F9A320A09AEDBB813C6F71B6BD4E
+
+
+

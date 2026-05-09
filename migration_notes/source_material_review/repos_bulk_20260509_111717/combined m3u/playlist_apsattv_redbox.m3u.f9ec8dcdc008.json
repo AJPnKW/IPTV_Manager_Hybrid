@@ -1,0 +1,3872 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_apsattv_redbox.m3u",
+  "provider": "Playlistapsattvredbox",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Redbox Free Movies Redbox Summer Movies Showcase (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Redbox Free Movies",
+        "group_title_raw": "RedBox🇺🇸: Summer Movies Showcase",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/JanRbxChannel300x300.png",
+        "stream_url": "https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Redbox Free Movies",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/JanRbxChannel300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Summer Movies Showcase"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ifc Films Picks Redbox Summer Movies Showcase (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "IFC Films Picks",
+        "group_title_raw": "RedBox🇺🇸: Summer Movies Showcase",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_IFCFilmsPicks_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "stream_url": "https://e2bed9d41f6d48558d0b18cabbbf800c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_IFCFilmsPicks/playlist.m3u8?ads.wurl_channel=563&ads.wurl_name=IFCFilmsPicks&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "IFC Films Picks",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_IFCFilmsPicks_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Summer Movies Showcase"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Moviesphere Redbox Summer Movies Showcase (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Moviesphere",
+        "group_title_raw": "RedBox🇺🇸: Summer Movies Showcase",
+        "logo_raw": "https://db6iftd8li11q.cloudfront.net/MovieSphere_Redbox_ChannelLogo_Mono.png",
+        "stream_url": "https://moviesphere-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-moviesphere-redbox/CDN/playlist.m3u8?deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Moviesphere",
+        "xmltv_network": null,
+        "xmltv_logo": "https://db6iftd8li11q.cloudfront.net/MovieSphere_Redbox_ChannelLogo_Mono.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Summer Movies Showcase"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Free Movies Redbox Summer Movies Showcase (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Free Movies",
+        "group_title_raw": "RedBox🇺🇸: Summer Movies Showcase",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999901/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Free Movies",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999901/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Summer Movies Showcase"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cops Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "COPS",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/Langley_Productions_-_COPS_MetadataLogo.png",
+        "stream_url": "https://8e5a51fd84df4fd4bd64dd49cc9ccb75.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_COPS/playlist.m3u8?ads.wurl_channel=1095&ads.wurl_name=COPS&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "COPS",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/Langley_Productions_-_COPS_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Jail Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Jail",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/Jail_MetadataLogo.png",
+        "stream_url": "https://19132c0d3d424544a7d528a39b84e5de.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Redbox_Jail/playlist.m3u8?ads.wurl_channel=1201&ads.wurl_name=Jail&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Jail",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/Jail_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crackle Originals Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crackle Originals",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/Crackle_Originals_-_300x300__transparent_.png",
+        "stream_url": "https://cracklepg13-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-crackle-pg13-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crackle Originals",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/Crackle_Originals_-_300x300__transparent_.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sleuth Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sleuth",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://du1uztu2faexx.cloudfront.net/SLEUT/SLEUTH_Mono_Logo_300x300.png",
+        "stream_url": "https://sleuth-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-sleuth-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sleuth",
+        "xmltv_network": null,
+        "xmltv_logo": "https://du1uztu2faexx.cloudfront.net/SLEUT/SLEUTH_Mono_Logo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Forensic Files Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Forensic Files",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999906/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxforensicfiles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Forensic Files",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999906/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Unsolved Mysteries Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unsolved Mysteries",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999905/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Unsolved Mysteries",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999905/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "True Crime Now Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "True Crime Now",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/TrueCrimeNow_MetadataLogo.png",
+        "stream_url": "https://805a8dbf31c74c3e9fcd6bd4b1b09d51.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_TrueCrimeNow/playlist.m3u8?ads.wurl_channel=941&ads.wurl_name=TrueCrimeNow&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "True Crime Now",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/TrueCrimeNow_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Judge Nosey Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Judge Nosey",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/JudgeNosey_MetadataLogo_Tayler_Petrowski.png",
+        "stream_url": "https://632e7b0caa3746638fedf21c7f458fd8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_RealNosey/playlist.m3u8?ads.wurl_channel=349&ads.wurl_name=RealNosey&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Judge Nosey",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/JudgeNosey_MetadataLogo_Tayler_Petrowski.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Divorce Court Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Divorce Court",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999910/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdivorcecourt/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Divorce Court",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999910/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Court Tv Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Court TV",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991005/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcourttv/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Court TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991005/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Midsomer Murders Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Midsomer Murders",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/MidsomerMurders_MetadataLogo.png",
+        "stream_url": "https://74c54ddfb668499fab43327942fb60da.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Redbox_MidsomerMurders/playlist.m3u8?ads.wurl_channel=994&ads.wurl_name=MidsomerMurders&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Midsomer Murders",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/MidsomerMurders_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dr G Medical Examiner Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Dr. G: Medical Examiner",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/88883600/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdrgmedicalexaminer/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dr. G: Medical Examiner",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/88883600/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Caught In Providence Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Caught in Providence",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://db6iftd8li11q.cloudfront.net/Januray_22CGP_Logo_300x300.png",
+        "stream_url": "https://amg00353-lionsgate-caughtinprovidence-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-caughtinprovidence-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Caught in Providence",
+        "xmltv_network": null,
+        "xmltv_logo": "https://db6iftd8li11q.cloudfront.net/Januray_22CGP_Logo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Reelz Channel Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Reelz Channel",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999928/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Reelz Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999928/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Law Crime Redbox Crime Scandal (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Law & Crime",
+        "group_title_raw": "RedBox🇺🇸: Crime & Scandal",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991000/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlawandcrime/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Law & Crime",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991000/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Crime & Scandal"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Redbox Free Movies Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Redbox Free Movies",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/JanRbxChannel300x300.png",
+        "stream_url": "https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Redbox Free Movies",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/JanRbxChannel300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Redbox Romance Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Redbox Romance",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/FLTV-Channel_Romance_Ondine_300x300.png",
+        "stream_url": "https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Redbox Romance",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/FLTV-Channel_Romance_Ondine_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chicken Soup For The Soul Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Chicken Soup for the Soul",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/css/redbox/CSS_MetadataLogo_300x300_1.jpg",
+        "stream_url": "https://chickensoup-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-chickensoup-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Chicken Soup for the Soul",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/css/redbox/CSS_MetadataLogo_300x300_1.jpg",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hallmark Movies More Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Hallmark Movies & More",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/888883501/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcrownmediahallmarkmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hallmark Movies & More",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/888883501/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Moviesphere Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Moviesphere",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://db6iftd8li11q.cloudfront.net/MovieSphere_Redbox_ChannelLogo_Mono.png",
+        "stream_url": "https://moviesphere-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-moviesphere-redbox/CDN/playlist.m3u8?deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Moviesphere",
+        "xmltv_network": null,
+        "xmltv_logo": "https://db6iftd8li11q.cloudfront.net/MovieSphere_Redbox_ChannelLogo_Mono.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Free Movies Redbox Movies (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "XUMO FREE Movies",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991008/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumofreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "XUMO FREE Movies",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991008/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Free Movies Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Free Movies",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999901/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Free Movies",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999901/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stories By Amc Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Stories by AMC",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_StoriesbyAMC_Redbox_MetadataLogo_300x300_v01.png",
+        "stream_url": "https://713799f3464f4d13a46826211fd66cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_StoriesByAMC/playlist.m3u8?ads.wurl_channel=474&ads.wurl_name=StoriesByAMC&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Stories by AMC",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_StoriesbyAMC_Redbox_MetadataLogo_300x300_v01.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ifc Films Picks Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "IFC Films Picks",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_IFCFilmsPicks_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "stream_url": "https://e2bed9d41f6d48558d0b18cabbbf800c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_IFCFilmsPicks/playlist.m3u8?ads.wurl_channel=563&ads.wurl_name=IFCFilmsPicks&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "IFC Films Picks",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_IFCFilmsPicks_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cine Life Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cine Life",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/magnolia/CineLife_Logo_gray_300x300.png",
+        "stream_url": "https://magnolia-redbox.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cine Life",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/magnolia/CineLife_Logo_gray_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmhub Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Filmhub",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999913/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Filmhub",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999913/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gravitas Movies Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Gravitas Movies",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999911/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Gravitas Movies",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999911/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Allblk Gems Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AllBlk Gems",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AllBlkGems_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "stream_url": "https://f33ea23034334a979987e15c81446025.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_AllBlkGems/playlist.m3u8?ads.wurl_channel=1180&ads.wurl_name=AllBlkGems&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "AllBlk Gems",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AllBlkGems_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Maverick Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Maverick",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999914/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Maverick",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999914/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Made In Hollywood Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Made in Hollywood",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/MIH_Mono_Logo.png",
+        "stream_url": "https://13be15d3afd947ee922bc0f8a55f522d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_MadeInHollywood/playlist.m3u8?ads.wurl_channel=276&ads.wurl_name=MadeInHollywood&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Made in Hollywood",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/MIH_Mono_Logo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Magellantv Now Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MagellanTV Now",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999931/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "MagellanTV Now",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999931/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bnc Go Redbox Movies (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BNC GO",
+        "group_title_raw": "RedBox🇺🇸: Movies",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999960/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "BNC GO",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999960/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crackle Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CRACKLE",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/crackle_pg13/redbox/Crackle_FAST_June_2023_King_Solomon-368x210.png",
+        "stream_url": "https://crackle-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-crackle-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "CRACKLE",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/crackle_pg13/redbox/Crackle_FAST_June_2023_King_Solomon-368x210.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Walking Dead Universe Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Walking Dead Universe",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_TWDU-TVMA_Redbox_MetadataLogo_300x300_v01.png",
+        "stream_url": "https://ec431a2c5ef845158bdac41d47b37aa5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_TWDUniverseTV14/playlist.m3u8?ads.wurl_channel=1215&ads.wurl_name=TWDUniverseTV14&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Walking Dead Universe",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_TWDU-TVMA_Redbox_MetadataLogo_300x300_v01.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Amc Thrillers Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC Thrillers",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AMCThrillers_Redbox_MetadataLogo_300x300_v01.png",
+        "stream_url": "https://0d11c3107ff14abfb065fed01b52f1a4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "AMC Thrillers",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AMCThrillers_Redbox_MetadataLogo_300x300_v01.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dust Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "DUST",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://djd1sfig72gs6.cloudfront.net/DUST_300x300.jpg",
+        "stream_url": "https://gunpowder-dust-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-dust-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "DUST",
+        "xmltv_network": null,
+        "xmltv_logo": "https://djd1sfig72gs6.cloudfront.net/DUST_300x300.jpg",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paranormal Files Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paranormal Files",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/88883601/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxparanormalfiles/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Paranormal Files",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/88883601/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Farscape Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Farscape",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/Farscape_MetadataLogo.png",
+        "stream_url": "https://06cbbbf663bb4142916b1db724408129.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_Farscape/playlist.m3u8?ads.wurl_channel=1241&ads.wurl_name=Farscape&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Farscape",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/Farscape_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Anime X Hidive Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ANIME x HIDIVE",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AnimexHIDIVE_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "stream_url": "https://b92ce5e96c924931a49f2d97401db3a9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_ANIMExHIDIVE/playlist.m3u8?ads.wurl_channel=1398&ads.wurl_name=ANIMExHIDIVE&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "ANIME x HIDIVE",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AnimexHIDIVE_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wu Tang Collection Tv Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Wu Tang Collection TV",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991014/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgoldenmediawutangcollection/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Wu Tang Collection TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991014/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hi Yah Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Hi-Yah!",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999907/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hi-Yah!",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999907/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinevault Murder Mayhem Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CINEVAULT: Murder & Mayhem",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/cinevault_m_m_mono_channel_300x300_Alba_Navarro.png",
+        "stream_url": "https://3357912395d4453bb8e0e934e0b4f54a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault70s/playlist.m3u8?ads.wurl_channel=830&ads.wurl_name=Cinevault70s&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "CINEVAULT: Murder & Mayhem",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/cinevault_m_m_mono_channel_300x300_Alba_Navarro.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Sci Fi Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Sci-Fi",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999925/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Sci-Fi",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999925/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Alter Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ALTER",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://djd1sfig72gs6.cloudfront.net/ALTER__300x300.jpg",
+        "stream_url": "https://amg00219-gunpowder-alter-redbox.amagi.tv/hls/amagi_hls_data_gunpowder-alter-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "ALTER",
+        "xmltv_network": null,
+        "xmltv_logo": "https://djd1sfig72gs6.cloudfront.net/ALTER__300x300.jpg",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Scream Factory Tv Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Scream Factory TV",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/ScreamFactoryTV_MetadataLogo.png",
+        "stream_url": "https://4f87124ca4484862a02e3ce1687416b2.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_ScreamFactoryTV/playlist.m3u8?ads.wurl_channel=1154&ads.wurl_name=ScreamFactoryTV&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Scream Factory TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/ScreamFactoryTV_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Shout Cult Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Shout! Cult",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/ShoutCult_MetadataLogo.png",
+        "stream_url": "https://e1de00afde284547b713d99099312f17.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_ShoutCult/playlist.m3u8?ads.wurl_channel=1169&ads.wurl_name=ShoutCult&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Shout! Cult",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/ShoutCult_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Popcornflix Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Popcornflix",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/popcornflix/redbox/PCF_FAST_June_2023_Mercenary-368x210.png",
+        "stream_url": "https://popcornflix-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-popcornflix-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Popcornflix",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/popcornflix/redbox/PCF_FAST_June_2023_Mercenary-368x210.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Electricnow Redbox Action Sci Fi Horror (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ElectricNOW",
+        "group_title_raw": "RedBox🇺🇸: Action Sci-Fi & Horror",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/REDBOX-ElectricNow-ChannelChangeLogo-Horizontal300x300.png",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxelectricnow/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "ElectricNOW",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/REDBOX-ElectricNow-ChannelChangeLogo-Horizontal300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Action Sci-Fi & Horror"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Priceisright Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "PriceIsRight",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/buzzr/redbox_images/REDBOX_TPIR_MONO_LOGO_300X300.png",
+        "stream_url": "https://thepriceisright-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-thepriceisright-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "PriceIsRight",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/buzzr/redbox_images/REDBOX_TPIR_MONO_LOGO_300X300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nosey Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Nosey",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/Nosey_MetadataLogo_Tayler_Petrowski.png",
+        "stream_url": "https://72b83bcbd2204cdabbf4ffd7742d63fa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_Nosey/playlist.m3u8?ads.wurl_channel=319&ads.wurl_name=Nosey&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nosey",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/Nosey_MetadataLogo_Tayler_Petrowski.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Confess By Nosey Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Confess by Nosey",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/ConfessbyNosey_MetadataLogo_Tayler_Petrowski.png",
+        "stream_url": "https://9a319e0ee0694e24b1b08471b3145672.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_ConfessByNosey/playlist.m3u8?ads.wurl_channel=1445&ads.wurl_name=ConfessByNosey&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Confess by Nosey",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/ConfessbyNosey_MetadataLogo_Tayler_Petrowski.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fearfactor Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FearFactor",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://d2yv6y0n3qsl5c.cloudfront.net/FRFCT/FEAR_FACTOR_300x300.png",
+        "stream_url": "https://banijay-fearfactor-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-banijay-fearfactor-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "FearFactor",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d2yv6y0n3qsl5c.cloudfront.net/FRFCT/FEAR_FACTOR_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Game Show Central Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Game Show Central",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/GameShowCentral_MetadataLogo.jpg",
+        "stream_url": "https://890f34d0fe9b4c13b4fea89b53b849cf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_GameShowCentral/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Game Show Central",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/GameShowCentral_MetadataLogo.jpg",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Supermarket Sweep Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Supermarket Sweep",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://d1bypo3ryheeya.cloudfront.net/SMS_Mono_Logo_300x300.png",
+        "stream_url": "https://supermarketsweep-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-supermarketsweep-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Supermarket Sweep",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d1bypo3ryheeya.cloudfront.net/SMS_Mono_Logo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Family Feud Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Family Feud",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999916/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Family Feud",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999916/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Family Feud Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Family Feud",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://d2gkisgxcgea87.cloudfront.net/REDBOX_FF_CLASSIC_MonoLogo_300x300.png",
+        "stream_url": "https://familyfeud-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-familyfeud-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Family Feud",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d2gkisgxcgea87.cloudfront.net/REDBOX_FF_CLASSIC_MonoLogo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dealornodeal Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "DealorNoDeal",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://d2yv6y0n3qsl5c.cloudfront.net/DORNOD/DOND_300x300.png",
+        "stream_url": "https://banijay-dealornodeal-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-banijay-dealornodeal-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "DealorNoDeal",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d2yv6y0n3qsl5c.cloudfront.net/DORNOD/DOND_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Thebiggestloser Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TheBiggestLoser",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://d3qpxldmlb2hw1.cloudfront.net/BIGLO/THE_BIGGEST_LOSER_300x300.png",
+        "stream_url": "https://banijay-thebiggestloser-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-banijay-thebiggestloser-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "TheBiggestLoser",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3qpxldmlb2hw1.cloudfront.net/BIGLO/THE_BIGGEST_LOSER_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Buzzr Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Buzzr",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/buzzr/redbox_images/REDBOX_BUZZR_MONO_LOGO_300X300.png",
+        "stream_url": "https://buzzr-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-buzzr-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Buzzr",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/buzzr/redbox_images/REDBOX_BUZZR_MONO_LOGO_300X300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wipeoutxtra Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WipeoutXtra",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://d2yv6y0n3qsl5c.cloudfront.net/WIPOXT/WIPEOUT_XTRA_300x300.png",
+        "stream_url": "https://banijay-wipeoutxtra-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-banijay-wipeoutxtra-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "WipeoutXtra",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d2yv6y0n3qsl5c.cloudfront.net/WIPOXT/WIPEOUT_XTRA_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "All Reality We Tv Redbox Reality Game Shows (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "All Reality WE tv",
+        "group_title_raw": "RedBox🇺🇸: Reality & Game Shows",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AllRealityWEtv_Redbox_MetadataLogo_300x300_v01.png",
+        "stream_url": "https://49ae7dfd78e642cba00a192a5bea7c10.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_AllReality/playlist.m3u8?ads.wurl_channel=475&ads.wurl_name=AllReality&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "All Reality WE tv",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AllRealityWEtv_Redbox_MetadataLogo_300x300_v01.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Reality & Game Shows"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Redbox War Westerns Redbox Westerns (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Redbox War & Westerns",
+        "group_title_raw": "RedBox🇺🇸: Westerns",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/6737.8_NovRbxChannelTiles_HellorHighWater_MonoLogo_300x300.png",
+        "stream_url": "https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Redbox War & Westerns",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/6737.8_NovRbxChannelTiles_HellorHighWater_MonoLogo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Westerns"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinevault Westerns Redbox Westerns (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CINEVAULT: Westerns",
+        "group_title_raw": "RedBox🇺🇸: Westerns",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/Mono_grad_Westerns.png",
+        "stream_url": "https://7590bb52ed354228b7fafee823374cbd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "CINEVAULT: Westerns",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/Mono_grad_Westerns.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Westerns"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Snowy River The Mcgregor Saga Redbox Westerns (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Snowy River: The Mcgregor Saga",
+        "group_title_raw": "RedBox🇺🇸: Westerns",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/88883602/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-samuelgoldwynlicensed/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Snowy River: The Mcgregor Saga",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/88883602/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Westerns"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wanted Dead Or Alive Redbox Westerns (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Wanted: Dead or Alive",
+        "group_title_raw": "RedBox🇺🇸: Westerns",
+        "logo_raw": "https://db6iftd8li11q.cloudfront.net/Mono_logo_Wanted_2022_feb.png",
+        "stream_url": "https://amg00353-lionsgate-wanteddeadoralive-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-wanted-deadoralive-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Wanted: Dead or Alive",
+        "xmltv_network": null,
+        "xmltv_logo": "https://db6iftd8li11q.cloudfront.net/Mono_logo_Wanted_2022_feb.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Westerns"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Free Westerns Redbox Westerns (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "XUMO FREE Westerns",
+        "group_title_raw": "RedBox🇺🇸: Westerns",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991009/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumowesterns/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "XUMO FREE Westerns",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991009/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Westerns"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cowboy Way Redbox Westerns (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cowboy Way",
+        "group_title_raw": "RedBox🇺🇸: Westerns",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/22-FAST-2110_FCW_Redbox_Deliverables_300x300-MonoLogo-PNG.png",
+        "stream_url": "https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxcowboyway/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cowboy Way",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/22-FAST-2110_FCW_Redbox_Deliverables_300x300-MonoLogo-PNG.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Westerns"
+        ]
+      }
+    },
+    {
+      "canonical_name": "World Poker Tour Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "World Poker Tour",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999923/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "World Poker Tour",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999923/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Speedvision Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "SPEEDVISION",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/Speedvision_MetadataLogo.png",
+        "stream_url": "https://e72dfa6f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmVkYm94X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8?ads.wurl_channel=1325&ads.wurl_name=Speedvision&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "SPEEDVISION",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/Speedvision_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Billiardtv Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BilliardTV",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/88883597/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbilliardtv/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "BilliardTV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/88883597/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Glory Kickboxing Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "GLORY Kickboxing",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999957/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "GLORY Kickboxing",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999957/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Impact Wrestling Channel Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "IMPACT Wrestling Channel",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991011/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxanthemsportsimpactwrestling/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "IMPACT Wrestling Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991011/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Acl Cornhole Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ACL Cornhole",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/88883598/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxaclcornhole/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "ACL Cornhole",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/88883598/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nitro Circus Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Nitro Circus",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999938/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nitro Circus",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999938/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fight Network Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fight Network",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991013/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfightnetwork/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fight Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991013/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Unbeaten Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unbeaten",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://d1hj79gnft8hfg.cloudfront.net/Unbeaten February 300x300.jpeg",
+        "stream_url": "https://inverleigh-unbeaten-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-inverleigh-unbeaten-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Unbeaten",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d1hj79gnft8hfg.cloudfront.net/Unbeaten February 300x300.jpeg",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hard Knocks Fighting Championship Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Hard Knocks Fighting Championship",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999958/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hard Knocks Fighting Championship",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999958/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bein Sports Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "beIN Sports",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999956/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "beIN Sports",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999956/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Outdoor America Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Outdoor America",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999962/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Outdoor America",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999962/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Outside Tv Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Outside TV",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999933/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Outside TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999933/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Msg Sportszone Redbox Sports Gaming (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MSG SportsZone",
+        "group_title_raw": "RedBox🇺🇸: Sports & Gaming",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/MSG_SPORTZONE_Mono_Logo_300x300_Bill_Watts.png",
+        "stream_url": "https://dd73d784.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmVkYm94X01TR1Nwb3J0c1pvbmVfSExT/playlist.m3u8?ads.wurl_channel=1386&ads.wurl_name=MSGSportsZone&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "MSG SportsZone",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/MSG_SPORTZONE_Mono_Logo_300x300_Bill_Watts.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Sports & Gaming"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Redbox Rewind Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Redbox Rewind",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/6800.2_DecRbxChannelTiles_MuppetsTakeManhattan_MonoLogo_300x300.png",
+        "stream_url": "https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Redbox Rewind",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/6800.2_DecRbxChannelTiles_MuppetsTakeManhattan_MonoLogo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Baywatch Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Baywatch",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/buzzr/redbox_images/REDBOX_BATWATCH_LOGO-300X30.png",
+        "stream_url": "https://baywatch-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-baywatch-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Baywatch",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/buzzr/redbox_images/REDBOX_BATWATCH_LOGO-300X30.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crackle Classics Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crackle Classics",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/Crackle_Classics_Logo__Transparent__300x300.png",
+        "stream_url": "https://crackleclassics-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-crackleclassics-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crackle Classics",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/Crackle_Classics_Logo__Transparent__300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Alf Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ALF",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/ALF_MetadataLogo.png",
+        "stream_url": "https://6962cced8042497f86bd17ca6f91d963.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Redbox_ALF/playlist.m3u8?ads.wurl_channel=1183&ads.wurl_name=ALF&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "ALF",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/ALF_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Its Showtime At The Apollo Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Its Showtime At The Apollo",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999985/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Its Showtime At The Apollo",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999985/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinevault 80s Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CINEVAULT: 80s",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/Mono_grad_80s.png",
+        "stream_url": "https://974e6936323b42fcb0553ebb0a9f3e52.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault80s/playlist.m3u8?ads.wurl_channel=691&ads.wurl_name=Cinevault80s&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "CINEVAULT: 80s",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/Mono_grad_80s.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Classic Tv Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Classic TV",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999924/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Classic TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999924/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Bob Ross Channel Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Bob Ross Channel",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999964/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Bob Ross Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999964/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Johnny Carson Tv Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Johnny Carson TV",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/johnycarson/JCARTV_16x9_300x300_ChannelTile_V2.png",
+        "stream_url": "https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Johnny Carson TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/johnycarson/JCARTV_16x9_300x300_ChannelTile_V2.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Shout Factory Tv Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Shout! Factory TV",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/SFTV_16x9_300x300_R.png",
+        "stream_url": "https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Shout! Factory TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/SFTV_16x9_300x300_R.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "American Classics Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "American Classics",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999912/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "American Classics",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999912/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Archive Redbox Classics Nostalgia (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Archive",
+        "group_title_raw": "RedBox🇺🇸: Classics & Nostalgia",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999936/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8??p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Archive",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999936/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Classics & Nostalgia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Redbox Faith Family Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Redbox Faith & Family",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/6792.10_FLTV-Channel_Faith-Family_300x300.png",
+        "stream_url": "https://sci-fi-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-sci-fi/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Redbox Faith & Family",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/6792.10_FLTV-Channel_Faith-Family_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Family Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Family",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999929/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Family",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999929/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dove Channel Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Dove Channel",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999943/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdovenow/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dove Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999943/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Lego Channel Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The LEGO Channel",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/TheLegoChannel_MetadataLogo.png",
+        "stream_url": "https://d4e4b47f05724d05814819ba38a5408a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_TheLEGOChannel/playlist.m3u8?ads.wurl_channel=791&ads.wurl_name=TheLEGOChannel&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "The LEGO Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/TheLegoChannel_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Heartland Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Heartland",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/88883599/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxheartland/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Heartland",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/88883599/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Baby Shark Tv Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BABY SHARK TV",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/BabySharkTV_MetadataLogo.png",
+        "stream_url": "https://7a730d80a1554e0b9c0bd604f276c552.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_BabySharkTV/playlist.m3u8?ads.wurl_channel=696&ads.wurl_name=BabySharkTV&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "BABY SHARK TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/BabySharkTV_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Toon Goggles Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Toon Goggles",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999926/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Toon Goggles",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999926/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pocket Watch Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "pocket.watch",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999980/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "pocket.watch",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999980/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Batterypop Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "batteryPop",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999909/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "batteryPop",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999909/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Happykids Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Happykids",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/HappyKids_MetadataLogo.png",
+        "stream_url": "https://6490c4f30f3848f78e657d20f022d6ed.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_HappyKidsTV/playlist.m3u8?ads.wurl_channel=876&ads.wurl_name=HappyKidsTV&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Happykids",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/HappyKids_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Trinity Broadcasting Network Redbox Kids Family (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trinity Broadcasting Network",
+        "group_title_raw": "RedBox🇺🇸: Kids & Family",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/88883500/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtrinitybroadcastingnetwork/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trinity Broadcasting Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/88883500/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Kids & Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lol Network Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "LOL Network",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999981/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlolcomedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "LOL Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999981/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Portlandia Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Portlandia",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_PortlandiaIFC_Redbox_MetadataLogo_300x300_v01.png",
+        "stream_url": "https://244ea2bf58804131938b09e260de0576.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_Portlandia/playlist.m3u8?ads.wurl_channel=928&ads.wurl_name=Portlandia&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Portlandia",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_PortlandiaIFC_Redbox_MetadataLogo_300x300_v01.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Are We There Yet Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Are We There Yet",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://db6iftd8li11q.cloudfront.net/AreWeThereYet_RedboxLogoPackage_300x300px.png",
+        "stream_url": "https://lionsgate-arewethereyet-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-arewethereyet-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Are We There Yet",
+        "xmltv_network": null,
+        "xmltv_logo": "https://db6iftd8li11q.cloudfront.net/AreWeThereYet_RedboxLogoPackage_300x300px.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Red Green Channel Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Red Green Channel",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/TheRedGreenChannel_MetadataLogo.png",
+        "stream_url": "https://446b4f00568042eea80eda81ad95595b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_TheRedGreenChannel/playlist.m3u8?ads.wurl_channel=949&ads.wurl_name=TheRedGreenChannel&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Red Green Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/TheRedGreenChannel_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mst3k Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MST3K",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/MST3K_16x9_300x300_R.png",
+        "stream_url": "https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "MST3K",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/MST3K_16x9_300x300_R.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fail Army Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fail Army",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999903/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fail Army",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999903/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Pet Collective Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Pet Collective",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999904/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Pet Collective",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999904/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Funny Or Die Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Funny or Die",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999934/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Funny or Die",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999934/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Quip Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Quip",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://d2lmyg0rz940l6.cloudfront.net/QUIPB/QUIP_Mono_Logo_300x300.png",
+        "stream_url": "https://quip-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-quip-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Quip",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d2lmyg0rz940l6.cloudfront.net/QUIPB/QUIP_Mono_Logo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Comedy Dynamics Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Comedy Dynamics",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999944/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomedydynamics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Comedy Dynamics",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999944/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Slightly Off Ifc Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Slightly Off IFC",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_SlightlyOffIFC_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "stream_url": "https://6a4f448e48194a9ea3a16a39105eb0eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_SlightlyOffIFC/playlist.m3u8?ads.wurl_channel=564&ads.wurl_name=SlightlyOffIFC&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Slightly Off IFC",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_SlightlyOffIFC_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Just For Laughs Gags Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Just For Laughs Gags",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999935/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Just For Laughs Gags",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999935/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dry Bar Comedy Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Dry Bar Comedy",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999959/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdrybar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dry Bar Comedy",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999959/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chive Tv Redbox Comedy (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CHIVE TV",
+        "group_title_raw": "RedBox🇺🇸: Comedy",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999932/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "CHIVE TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999932/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Jamie Oliver Redbox Food Home (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Jamie Oliver",
+        "group_title_raw": "RedBox🇺🇸: Food & Home",
+        "logo_raw": "https://d2reqfs9bseq7i.cloudfront.net/JO_Mono_Logo_300x300.png",
+        "stream_url": "https://jamieoliver-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-jamieoliver-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Jamie Oliver",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d2reqfs9bseq7i.cloudfront.net/JO_Mono_Logo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Food & Home"
+        ]
+      }
+    },
+    {
+      "canonical_name": "America S Test Kitchen Redbox Food Home (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "America's Test Kitchen",
+        "group_title_raw": "RedBox🇺🇸: Food & Home",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999930/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "America's Test Kitchen",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999930/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Food & Home"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tastemade Redbox Food Home (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tastemade",
+        "group_title_raw": "RedBox🇺🇸: Food & Home",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade/TM-Logo-Redbox-Black-300x300-010721.png",
+        "stream_url": "https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=Redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tastemade",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade/TM-Logo-Redbox-Black-300x300-010721.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Food & Home"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Food52 Redbox Food Home (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Food52",
+        "group_title_raw": "RedBox🇺🇸: Food & Home",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999900/300x300.png?type=color_onBlack_cropped",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Food52",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999900/300x300.png?type=color_onBlack_cropped",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Food & Home"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bon Appetit Redbox Food Home (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bon Appetit",
+        "group_title_raw": "RedBox🇺🇸: Food & Home",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999963/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bon Appetit",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999963/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Food & Home"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cookchopchat Redbox Food Home (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CookChopChat",
+        "group_title_raw": "RedBox🇺🇸: Food & Home",
+        "logo_raw": "https://de429yntk7imc.cloudfront.net/BUCCC/CCC_Mono_Logo_300x300.png",
+        "stream_url": "https://cookchopchat-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-cookchopchat-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "CookChopChat",
+        "xmltv_network": null,
+        "xmltv_logo": "https://de429yntk7imc.cloudfront.net/BUCCC/CCC_Mono_Logo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Food & Home"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hungry Redbox Food Home (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Hungry",
+        "group_title_raw": "RedBox🇺🇸: Food & Home",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999954/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hungry",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999954/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Food & Home"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Places And Spaces Redbox Food Home (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Places and Spaces",
+        "group_title_raw": "RedBox🇺🇸: Food & Home",
+        "logo_raw": "https://d8pcmqd7sjyf2.cloudfront.net/P&S_Mono_Logo_300x300.png",
+        "stream_url": "https://placesandspaces-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-placesandspaces-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Places and Spaces",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d8pcmqd7sjyf2.cloudfront.net/P&S_Mono_Logo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Food & Home"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Design Network Redbox Food Home (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Design Network",
+        "group_title_raw": "RedBox🇺🇸: Food & Home",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999949/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Design Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999949/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Food & Home"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Architectural Digest Redbox Food Home (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Architectural Digest",
+        "group_title_raw": "RedBox🇺🇸: Food & Home",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999953/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Architectural Digest",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999953/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Food & Home"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vevo Redbox Music (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Vevo",
+        "group_title_raw": "RedBox🇺🇸: Music",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999967/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Vevo",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999967/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vevo 80 S Redbox Music (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Vevo 80's",
+        "group_title_raw": "RedBox🇺🇸: Music",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991007/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Vevo 80's",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991007/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Everything 80s Redbox Music (Stingray) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Stingray Everything 80s",
+        "group_title_raw": "RedBox🇺🇸: Music",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991015/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayeverything80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Stingray Everything 80s",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991015/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Classic Rock Redbox Music (Stingray) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Stingray Classic Rock",
+        "group_title_raw": "RedBox🇺🇸: Music",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999969/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Stingray Classic Rock",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999969/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hitlist Redbox Music (Stingray) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Stingray Hitlist",
+        "group_title_raw": "RedBox🇺🇸: Music",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999971/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Stingray Hitlist",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999971/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Greatest Hits Redbox Music (Stingray) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Stingray Greatest Hits",
+        "group_title_raw": "RedBox🇺🇸: Music",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/5783_SM_Holidays-2021_Redbox_300x300_V01.png",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Stingray Greatest Hits",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/5783_SM_Holidays-2021_Redbox_300x300_V01.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hot Country Christmas Redbox Music (Stingray) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Stingray Hot Country Christmas",
+        "group_title_raw": "RedBox🇺🇸: Music",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/5783_SM_Holidays-2021_Redbox_300x300_V01.png",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Stingray Hot Country Christmas",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/5783_SM_Holidays-2021_Redbox_300x300_V01.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Soul Storm Redbox Music (Stingray) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Stingray Soul Storm",
+        "group_title_raw": "RedBox🇺🇸: Music",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999972/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Stingray Soul Storm",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999972/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Naturescape Redbox Music (Stingray) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Stingray Naturescape",
+        "group_title_raw": "RedBox🇺🇸: Music",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/5783_SN_Holidays-2021_Redbox_300x300_V01.png",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Stingray Naturescape",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/5783_SN_Holidays-2021_Redbox_300x300_V01.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Accu Weather Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Accu Weather",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/accuweather/AW-Now-Redbox-MonoLogo.png",
+        "stream_url": "https://accuweather-redbox.amagi.tv/hls/amagi_hls_data_accuweath-accuweather-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "Accu Weather",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/accuweather/AW-Now-Redbox-MonoLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cheddar Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cheddar",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999945/300x300.png?type=color_onBlack_cropped",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cheddar",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999945/300x300.png?type=color_onBlack_cropped",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Usa Today Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA Today",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999921/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "USA Today",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999921/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Television Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg Television",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999927/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bloomberg Television",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999927/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Yahoofinance Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "YahooFinance",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://d2p2xilyz9exol.cloudfront.net/YF_Logo_300x300_white.png",
+        "stream_url": "https://yahoo-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-yahoofinance/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "YahooFinance",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d2p2xilyz9exol.cloudfront.net/YF_Logo_300x300_white.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Newsy Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Newsy",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999986/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Newsy",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999986/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC News Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC News",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999961/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC News",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999961/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nowthis Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NowThis",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999918/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "NowThis",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999918/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wired Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Wired",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999946/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Wired",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999946/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wsb Breaking News Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WSB Breaking News",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://d269bga69qlkhx.cloudfront.net/wsb-channel-poster-horizontal.png",
+        "stream_url": "https://cmg-wsbbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wsbbreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "WSB Breaking News",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d269bga69qlkhx.cloudfront.net/wsb-channel-poster-horizontal.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wftv Breaking News Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WFTV Breaking News",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://d269bga69qlkhx.cloudfront.net/wftv-channel-poster-horizontal-1.png",
+        "stream_url": "https://cmg-wftvbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wftvbreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "WFTV Breaking News",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d269bga69qlkhx.cloudfront.net/wftv-channel-poster-horizontal-1.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wsoc Breaking News Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WSOC Breaking News",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://d269bga69qlkhx.cloudfront.net/wsoc-channel-poster-horizontal.png",
+        "stream_url": "https://cmg-wsocbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wsocbreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "WSOC Breaking News",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d269bga69qlkhx.cloudfront.net/wsoc-channel-poster-horizontal.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kiro Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "KIRO Seattle",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://dz27grhkjaenj.cloudfront.net/Redbox_Images/KIRO/kiro_logo_mono_300x300.png",
+        "stream_url": "https://cmg-kirobreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-kirobreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "KIRO Seattle",
+        "xmltv_network": null,
+        "xmltv_logo": "https://dz27grhkjaenj.cloudfront.net/Redbox_Images/KIRO/kiro_logo_mono_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "25 Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Boston 25",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://dz27grhkjaenj.cloudfront.net/Redbox_Images/WFXT/wfxt_logo_mono_300x300.png",
+        "stream_url": "https://cmg-wfxtbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wfxtbreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Boston 25",
+        "xmltv_network": null,
+        "xmltv_logo": "https://dz27grhkjaenj.cloudfront.net/Redbox_Images/WFXT/wfxt_logo_mono_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wpxi Breaking News Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WPXI Breaking News",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://d269bga69qlkhx.cloudfront.net/wpxi-channel-poster-horizontal.png",
+        "stream_url": "https://cmg-wpxibreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wpxibreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "WPXI Breaking News",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d269bga69qlkhx.cloudfront.net/wpxi-channel-poster-horizontal.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Action News Jax Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Action News Jax",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://dz27grhkjaenj.cloudfront.net/Redbox_Images/WJAX/wjax_mono_logo_300x300.png",
+        "stream_url": "https://cmg-wjaxbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wjaxbreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Action News Jax",
+        "xmltv_network": null,
+        "xmltv_logo": "https://dz27grhkjaenj.cloudfront.net/Redbox_Images/WJAX/wjax_mono_logo_300x300.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Whio Breaking News Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WHIO Breaking News",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://d269bga69qlkhx.cloudfront.net/whio-channel-poster-horizontal.png",
+        "stream_url": "https://cmg-whiobreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-whiobreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "WHIO Breaking News",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d269bga69qlkhx.cloudfront.net/whio-channel-poster-horizontal.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pattrn Redbox News Weather (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pattrn",
+        "group_title_raw": "RedBox🇺🇸: News & Weather",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/88883604/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpattrn/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pattrn",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/88883604/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: News & Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Amc En Espa Ol Redbox En Espanol (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC en Español",
+        "group_title_raw": "RedBox🇺🇸: En Espanol",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AMCenEspanol_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "stream_url": "https://cde171496b99407db0035623d184a562.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_AMCenEspanol/playlist.m3u8?ads.wurl_channel=1228&ads.wurl_name=AMCenEspanol&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "AMC en Español",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AMCenEspanol_RedboxFLTV_ChannelMonoLogo_300x300_v01_Bill_Watts.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: En Espanol"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Weather Channel En Espa Ol Redbox En Espanol (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Weather Channel En Español",
+        "group_title_raw": "RedBox🇺🇸: En Espanol",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/88883605/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtheweatherchannelespanol/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Weather Channel En Español",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/88883605/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: En Espanol"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Es16us Redbox En Espanol (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ES16US",
+        "group_title_raw": "RedBox🇺🇸: En Espanol",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/tastemade_espanol_redbox1/Redbox_MonoChannelLogo.jpg",
+        "stream_url": "https://tm-es16us-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tm-es16us-redbox/CDN/playlist.m3u8?p=redbox",
+        "xmltv_id": null,
+        "xmltv_display_name": "ES16US",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/tastemade_espanol_redbox1/Redbox_MonoChannelLogo.jpg",
+        "xmltv_categories": [
+          "RedBox🇺🇸: En Espanol"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sony Canal Novelas Redbox En Espanol (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sony Canal Novelas",
+        "group_title_raw": "RedBox🇺🇸: En Espanol",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/SonyCanalNovelas_MetadataLogo_Fullcolor.png",
+        "stream_url": "https://8111cdb914be41de9a96651a8a8d5a5c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalNovelas/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sony Canal Novelas",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/SonyCanalNovelas_MetadataLogo_Fullcolor.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: En Espanol"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sony Canal Competencias Redbox En Espanol (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sony Canal Competencias",
+        "group_title_raw": "RedBox🇺🇸: En Espanol",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/SonyCanalCompetencias_MetadataLogo_Fullcolor.png",
+        "stream_url": "https://21f068bc92c4408289525b6d95c9e053.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalCompetencias/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sony Canal Competencias",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/SonyCanalCompetencias_MetadataLogo_Fullcolor.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: En Espanol"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sony Canal Comedias Redbox En Espanol (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sony Canal Comedias",
+        "group_title_raw": "RedBox🇺🇸: En Espanol",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/SonyCanalComedias_MetadataLogo_Fullcolor.png",
+        "stream_url": "https://b987e5dd92fa4a0cb7c2f7d3f266b6c3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalComedias/playlist.m3u8?ads.wurl_channel=693&ads.wurl_name=SonyCanalComedias&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sony Canal Comedias",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/SonyCanalComedias_MetadataLogo_Fullcolor.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: En Espanol"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cine Romantico Redbox En Espanol (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cine Romantico",
+        "group_title_raw": "RedBox🇺🇸: En Espanol",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991016/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxuptvcineromantico/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cine Romantico",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991016/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: En Espanol"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hsn Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HSN",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/HSN_RedBox_300x300_MonoLogo_Matthew_Lund.png",
+        "stream_url": "https://qvchsn-hsn-2-us.redbox.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "HSN",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/HSN_RedBox_300x300_MonoLogo_Matthew_Lund.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qvc Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "QVC",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/QVC_Redbox_300x300_MonoLogo_Matthew_Lund__1_.png",
+        "stream_url": "https://qvchsn-qvc-2-us.redbox.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "QVC",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/QVC_Redbox_300x300_MonoLogo_Matthew_Lund__1_.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "All Weddings We Tv Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "All Weddings WE tv",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AllWeddingsWEtv_Redbox_MetadataLogo_300x300_v01.png",
+        "stream_url": "https://138c87d932d843fba278cb698a90e08c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "All Weddings WE tv",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/AMCN_AllWeddingsWEtv_Redbox_MetadataLogo_300x300_v01.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Love Stories Tv Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Love Stories TV",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://images.redbox.com/images/reels/fltv/Mono/TheLoveStoriesTVChannel_MetadataLogo.png",
+        "stream_url": "https://2a99b69896764d8f99233b0bc3560a51.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_LoveStoriesTV/playlist.m3u8?ads.wurl_channel=1061&ads.wurl_name=LoveStoriesTV&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love Stories TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.redbox.com/images/reels/fltv/Mono/TheLoveStoriesTVChannel_MetadataLogo.png",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "People Are Awesome Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "People Are Awesome",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999908/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "People Are Awesome",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999908/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tastemade Travel Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tastemade Travel",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade-travel/300x300_redbox.jpg",
+        "stream_url": "https://tastemadetravel-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-tarvel-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tastemade Travel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade-travel/300x300_redbox.jpg",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Go Traveler Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Go Traveler",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999955/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Go Traveler",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999955/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Travel Lifestyle Redbox Travel Lifestyle (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "XUMO Travel & Lifestyle",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991010/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumotravellifestyle/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "XUMO Travel & Lifestyle",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991010/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Complex Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Complex",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999947/300x300.png?type=color_onBlack_cropped",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Complex",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999947/300x300.png?type=color_onBlack_cropped",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fuse Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FUSE",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999939/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "FUSE",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999939/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Circle Tv Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Circle TV",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991002/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Circle TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991002/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Axs Tv Now Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AXS TV NOW",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9991012/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxaxstv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "AXS TV NOW",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9991012/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Journy Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Journy",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999902/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Journy",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999902/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Weatherspy Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Weatherspy",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999965/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Weatherspy",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999965/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gq Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "GQ",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999975/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "GQ",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999975/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Glamour Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Glamour",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999976/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Glamour",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999976/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vanity Fair Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Vanity Fair",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999978/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Vanity Fair",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999978/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vogue Redbox Travel Lifestyle (Playlistapsattvredbox) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Vogue",
+        "group_title_raw": "RedBox🇺🇸: Travel & Lifestyle",
+        "logo_raw": "https://image.xumo.com/v1/channels/channel/9999977/300x300.png?type=color_onBlack",
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=",
+        "xmltv_id": null,
+        "xmltv_display_name": "Vogue",
+        "xmltv_network": null,
+        "xmltv_logo": "https://image.xumo.com/v1/channels/channel/9999977/300x300.png?type=color_onBlack",
+        "xmltv_categories": [
+          "RedBox🇺🇸: Travel & Lifestyle"
+        ]
+      }
+    }
+  ]
+}

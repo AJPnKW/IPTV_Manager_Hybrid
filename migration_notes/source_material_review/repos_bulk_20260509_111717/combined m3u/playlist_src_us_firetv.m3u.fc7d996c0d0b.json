@@ -1,0 +1,890 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_firetv.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Firetv",
+  "channels": [
+    {
+      "canonical_name": "NBC News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Boston News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Boston News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Chicago News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Chicago News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Connecticut News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Connecticut News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcconnecticutnews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Connecticut News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Fortworth News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Dallas Fortworth News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcdallasfortworthnews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Dallas Fortworth News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Los Angeles News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Los Angeles News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC New York News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC New York News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Philadelphia News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Philadelphia News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC San Diego News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcsandiegonews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC San Diego News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC San Francisco News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC San Francisco News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC South Florida News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC South Florida News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcsouthfloridanews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC South Florida News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC News Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Washington News",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Washington News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nbcu Telemundo Florida Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBCU Telemundo Florida",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBCU Telemundo Florida",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nbcu Telemundo North Undefined (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBCU Telemundo North East",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBCU Telemundo North East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nbcu Telemundo Texas Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBCU Telemundo Texas",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBCU Telemundo Texas",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nbcu Telemundo Undefined (Playlistsrc) (West) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": "West",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBCU Telemundo West",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBCU Telemundo West",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Top Gear Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Top Gear (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Top Gear (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dungeons Dragons Adventures Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dungeons & Dragons Adventures (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dungeons & Dragons Adventures (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fgteev Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "FGTEEV (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "FGTEEV (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Intravel Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "INTRAVEL (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "INTRAVEL (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Naturaleza Salvaje Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Naturaleza Salvaje (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Naturaleza Salvaje (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Retro Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Retro (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "PBS Retro (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Power Rangers Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Power Rangers (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Power Rangers (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Transformers Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Transformers (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00461-eone-amg00461c1-firetv-us-5209.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Transformers (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "True Crime Network Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "True Crime Network+ (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "True Crime Network+ (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Willow Sports Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Willow Sports (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Willow Sports (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Origin Sports Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Origin Sports (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://raycom-originsports-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Origin Sports (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "T2 Tennis Channel Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "T2 Tennis Channel (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "T2 Tennis Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Team Usa Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Team USA (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Team USA (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Blossom Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TV Blossom (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TV Blossom (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Accdn Sports (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ACCDN (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/V6Kaqha.png",
+        "stream_url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": "ACCDigitalNetwork.us",
+        "xmltv_display_name": "ACCDN (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/V6Kaqha.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Antiques Road Trip Geo Blocked Lifestyle (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Antiques Road Trip (1080p) [Geo-blocked]",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/kkm7VqV.png",
+        "stream_url": "https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "AntiquesRoadTrip.us",
+        "xmltv_display_name": "Antiques Road Trip (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/kkm7VqV.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Earth Geo Blocked Documentary (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Earth (1080p) [Geo-blocked]",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/nGSsUd4.png",
+        "stream_url": "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "BBCEarth.uk@US",
+        "xmltv_display_name": "BBC Earth (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/nGSsUd4.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Byu Tv Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BYU TV (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/mruGyuu.png",
+        "stream_url": "https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "BYUTV.us",
+        "xmltv_display_name": "BYU TV (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mruGyuu.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nba Tv Geo Blocked Sports (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBA TV (1080p) [Geo-blocked]",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",
+        "stream_url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "NBATV.us",
+        "xmltv_display_name": "NBA TV (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nhl Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NHL",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/UNZ8bef.png",
+        "stream_url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": "NHLNetwork.us",
+        "xmltv_display_name": "NHL",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/UNZ8bef.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Outside Tv Outdoor (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Outside TV",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://i.imgur.com/0UMmG41.png",
+        "stream_url": "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": "OutsideTV.us",
+        "xmltv_display_name": "Outside TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/0UMmG41.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Antiques Roadshow Geo Blocked Series (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Antiques Roadshow (1080p) [Geo-blocked]",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/U9CYaok.png",
+        "stream_url": "https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "PBSAntiquesRoadshow.us",
+        "xmltv_display_name": "PBS Antiques Roadshow (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/U9CYaok.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbs Nature Geo Blocked Series (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PBS Nature (1080p) [Geo-blocked]",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/Brry7cZ.png",
+        "stream_url": "https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "PBSNature.us",
+        "xmltv_display_name": "PBS Nature (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Brry7cZ.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Young Turks Geo Blocked News (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Young Turks (1080p) [Geo-blocked]",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/XDNXJCl.png",
+        "stream_url": "https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TheYoungTurks.us",
+        "xmltv_display_name": "The Young Turks (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/XDNXJCl.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vice News Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Vice News (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/QWPJQnr.png",
+        "stream_url": "https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": "ViceNews.us",
+        "xmltv_display_name": "Vice News (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/QWPJQnr.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vice Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Vice TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png",
+        "stream_url": "https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": "VICETV.us",
+        "xmltv_display_name": "Vice TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Waypoint Tv Outdoor (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Firetv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Waypoint TV (1080p)",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://i.imgur.com/9vvlJN9.png",
+        "stream_url": "https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": "WaypointTV.us",
+        "xmltv_display_name": "Waypoint TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9vvlJN9.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    }
+  ]
+}

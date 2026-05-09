@@ -1,0 +1,36 @@
+﻿TiviMate inputs extract summary
+run_stamp: 20251217_212313
+src_root:  C:\Users\andrew\PROJECTS\iptv\collections\repos_programs
+dst_m3u:   C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u
+dst_epg:   C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg
+
+Counts
+playlists_copied: 200
+epg_copied:       200
+
+Top playlists (size/newest)
+21/08/25 1:04:10 AM | 4796911 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u\6F7D3F9101__my.custom.m3u
+11/08/25 2:55:26 AM | 2608760 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u\B0F7CACD49__playlist_iptv-org_index.m3u
+21/08/25 12:29:55 AM | 959372 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u\ABA2F79718__localnow.m3u
+11/08/25 2:55:30 AM | 959372 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u\ABA2F79718__playlist_apsattv_localnow.m3u
+11/08/25 2:55:36 AM | 542127 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u\2E7743AA88__playlist_local_us.m3u
+10/08/25 10:30:34 PM | 542127 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u\2E7743AA88__us.m3u
+11/08/25 2:55:34 AM | 412987 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u\F9A948F0D6__playlist_apsattv_distro.m3u
+11/08/25 2:55:21 AM | 406232 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u\9E32F8BC73__playlist_iptv-org_us.m3u
+21/08/25 12:11:03 AM | 210629 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u\25D62BBA2D__raw.m3u8
+20/11/24 3:31:29 PM | 183319 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u\943DE6F051__us_pluto.m3u
+
+Top EPG (size/newest)
+30/11/25 3:17:37 PM | 38731400 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg\AD62A8200E__open-epg-us.xml
+30/11/25 3:17:37 PM | 38731400 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg\AD62A8200E__open-epg-us.xml
+30/11/25 12:00:24 PM | 37323357 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg\BAE85F5C5B__open-epg-us.xml
+11/08/25 2:55:39 AM | 30787662 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg\47E15D3924__epg_epgshare_us_locals2.xml.gz
+30/11/25 3:17:25 PM | 26402632 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg\E6A4307FC6__open-epg-uk.xml
+30/11/25 3:17:25 PM | 26402632 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg\E6A4307FC6__open-epg-uk.xml
+30/11/25 12:00:07 PM | 26402632 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg\E6A4307FC6__open-epg-uk.xml
+30/11/25 3:17:17 PM | 23409316 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg\1F231E49EE__open-epg-ca.xml
+30/11/25 3:17:17 PM | 23409316 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg\1F231E49EE__open-epg-ca.xml
+30/11/25 11:59:56 AM | 23409316 | C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg\1F231E49EE__open-epg-ca.xml
+
+CSV: C:\Users\andrew\PROJECTS\iptv\scripts\reports\iptv_tivimate_inputs_20251217_212313.csv
+LOG: C:\Users\andrew\PROJECTS\iptv\scripts\logs\iptv_extract_tivimate_inputs_20251217_212313.log.txt

@@ -1,0 +1,3625 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_iptv-org_ca.m3u",
+  "provider": "Playlistiptvorg",
+  "country": "CA",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "5aab Tv Not 24 7 Entertainment (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "5AAB TV (720p) [Not 24/7]",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/jrGrfof.png",
+        "stream_url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+        "xmltv_id": "5AABTV.ca",
+        "xmltv_display_name": "5AAB TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/jrGrfof.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "24 Horas Internacional Geo Blocked News (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "24 Horas Internacional [Geo-blocked]",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/IUVRm5L.png",
+        "stream_url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
+        "xmltv_id": "24HorasInternacional.es",
+        "xmltv_display_name": "24 Horas Internacional [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/IUVRm5L.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "A E Entertainment (Playlistiptvorg) (East) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "A&E East (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+        "stream_url": "https://tvpass.org/live/AEEast/hd",
+        "xmltv_id": "AE.us@East",
+        "xmltv_display_name": "A&E East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Afghan Nobel Movies Movies (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Afghan Nobel Movies (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.ibb.co/zfdbVSm/logo-1.png",
+        "stream_url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
+        "xmltv_id": "AfghanNobelMovies.ca",
+        "xmltv_display_name": "Afghan Nobel Movies (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/zfdbVSm/logo-1.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Afghan Nobel Tv General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Afghan Nobel TV (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg",
+        "stream_url": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
+        "xmltv_id": "AfghanNobelTV.ca",
+        "xmltv_display_name": "Afghan Nobel TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/0Mb1ZQC/IMG-20230628-133738.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Alerte Malibu Series (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Alerte à Malibu",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/hBiB6uk.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90db65e8e770007382a50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c21-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c070d939-44e0-419b-b958-d26935b903d0",
+        "xmltv_id": "AlerteaMalibu.us@Canada",
+        "xmltv_display_name": "Alerte à Malibu",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/hBiB6uk.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Amazing Discoveries Tv Religious (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Amazing Discoveries TV (720p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/I0oPFTj.png",
+        "stream_url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+        "xmltv_id": "AmazingDiscoveriesTV.ca",
+        "xmltv_display_name": "Amazing Discoveries TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/I0oPFTj.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Angel Tv America Religious (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Angel TV America (720p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/qKLEGU7.png",
+        "stream_url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelamerica_all/playlist.m3u8",
+        "xmltv_id": "AngelTV.in@America",
+        "xmltv_display_name": "Angel TV America (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qKLEGU7.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Assembl E Nationale Du Qu Bec Undefined (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Assemblée Nationale du Québec",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/jAtq0U8.png",
+        "stream_url": "https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8",
+        "xmltv_id": "CanaldelAssemblee.ca",
+        "xmltv_display_name": "Assemblée Nationale du Québec",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/jAtq0U8.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Az Star Tv General (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Az Star TV (1080p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/di3XX5L.png",
+        "stream_url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
+        "xmltv_id": "AzStarTV.ca",
+        "xmltv_display_name": "Az Star TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/di3XX5L.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC News North America News (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC News (North America) (1080p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/vSz2WEp.png",
+        "stream_url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+        "xmltv_id": "BBCNews.uk@NorthAmerica",
+        "xmltv_display_name": "BBC News (North America) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vSz2WEp.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bnn Bloomberg Business (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BNN Bloomberg",
+        "group_title_raw": "Business",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png",
+        "stream_url": "https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd",
+        "xmltv_id": "BNNBloomberg.ca",
+        "xmltv_display_name": "BNN Bloomberg",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bob L Ponge Kids (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bob l'éponge",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/ITwU1yZ.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f93-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eb72cd85-f8e2-414a-99d0-c0cd8a98518d",
+        "xmltv_id": "Bobleponge.us@France",
+        "xmltv_display_name": "Bob l'éponge",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ITwU1yZ.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "C Malayalam Tv Culture (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "C Malayalam TV (1080p)",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/rpg0bQA.png",
+        "stream_url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
+        "xmltv_id": "CMalayalamTV.ca",
+        "xmltv_display_name": "C Malayalam TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/rpg0bQA.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cable 14 Undefined (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cable 14 Hamilton",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/bJ7ygTq.png",
+        "stream_url": "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720",
+        "xmltv_id": "Cable14Hamilton.ca",
+        "xmltv_display_name": "Cable 14 Hamilton",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/bJ7ygTq.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canada One Not 24 7 Undefined (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Canada One (720p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/zr6KoiS.jpg",
+        "stream_url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8",
+        "xmltv_id": "CanadaOne.ca",
+        "xmltv_display_name": "Canada One (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/zr6KoiS.jpg",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canada Star Tv Undefined (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Canada Star TV (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/57iXCDh.png",
+        "stream_url": "https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8",
+        "xmltv_id": "CanadaStarTV.ca",
+        "xmltv_display_name": "Canada Star TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/57iXCDh.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canal Savoir Education (Playlistiptvorg) (360p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Canal Savoir (360p)",
+        "group_title_raw": "Education",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png",
+        "stream_url": "https://hls.savoir.media/live/stream.m3u8",
+        "xmltv_id": "CFTUDT.ca",
+        "xmltv_display_name": "Canal Savoir (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png",
+        "xmltv_categories": [
+          "Education"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Caribbean Advantage Tv Not 24 7 General (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Caribbean Advantage TV (1080p) [Not 24/7]",
+        "group_title_raw": "General",
+        "logo_raw": "https://caribbeanadvantage.com/images/CAtv-logo-512.png",
+        "stream_url": "https://video2.getstreamhosting.com:19360/8216/8216.m3u8",
+        "xmltv_id": "CAtv.pr",
+        "xmltv_display_name": "Caribbean Advantage TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://caribbeanadvantage.com/images/CAtv-logo-512.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Cbrt Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Calgary (CBRT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8",
+        "xmltv_id": "CBRTDT.ca",
+        "xmltv_display_name": "CBC Calgary (CBRT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Cbxt Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8",
+        "xmltv_id": "CBXTDT.ca",
+        "xmltv_display_name": "CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Manitoba Cbwt Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/aWNHg5z.png",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8",
+        "xmltv_id": "CBWTDT.ca",
+        "xmltv_display_name": "CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/aWNHg5z.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Montr Al Cbmt Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Montréal (CBMT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/OiiM6Mz.png",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8",
+        "xmltv_id": "CBMTDT.ca",
+        "xmltv_display_name": "CBC Montréal (CBMT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OiiM6Mz.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC New Brunswick Cbat Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/xflShTG.png",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8",
+        "xmltv_id": "CBATDT.ca",
+        "xmltv_display_name": "CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/xflShTG.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Newfoundland And Labrador Cbnt Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8",
+        "xmltv_id": "CBNTDT.ca",
+        "xmltv_display_name": "CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC News Network Geo Blocked News (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC News Network (720p) [Geo-blocked]",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/SjTdhvJ.png",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8",
+        "xmltv_id": "CBCNewsNetwork.ca",
+        "xmltv_display_name": "CBC News Network (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/SjTdhvJ.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC North Cfyk Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC North (CFYK-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/EHGOQhj.png",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8",
+        "xmltv_id": "CFYKDT.ca",
+        "xmltv_display_name": "CBC North (CFYK-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/EHGOQhj.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Nova Scotia Cbht Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/6/6b/CBHT-DT_Logo.jpg",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8",
+        "xmltv_id": "CBHTDT.ca",
+        "xmltv_display_name": "CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/6/6b/CBHT-DT_Logo.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Cbot Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/v3DJUa8.png",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8",
+        "xmltv_id": "CBOTDT.ca",
+        "xmltv_display_name": "CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/v3DJUa8.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Prince Edward Island Cbct Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8",
+        "xmltv_id": "CBCTDT.ca",
+        "xmltv_display_name": "CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Saskatchewan Cbkt Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/PWGVjsg.png",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8",
+        "xmltv_id": "CBKTDT.ca",
+        "xmltv_display_name": "CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/PWGVjsg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Cblt Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Toronto (CBLT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8",
+        "xmltv_id": "CBLTDT.ca",
+        "xmltv_display_name": "CBC Toronto (CBLT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Cbut Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8",
+        "xmltv_id": "CBUTDT.ca",
+        "xmltv_display_name": "CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Cbet Dt Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC Windsor (CBET-DT) (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/NFts1uU.png",
+        "stream_url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8",
+        "xmltv_id": "CBETDT.ca",
+        "xmltv_display_name": "CBC Windsor (CBET-DT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/NFts1uU.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cctv 4 America General (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CCTV-4 America (1080p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/gBbLyqh.png",
+        "stream_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+        "xmltv_id": "CCTV4America.cn",
+        "xmltv_display_name": "CCTV-4 America (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/gBbLyqh.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Channel Y Not 24 7 News (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Channel Y (720p) [Not 24/7]",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/OqSl2Qf.png",
+        "stream_url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+        "xmltv_id": "ChannelY.ca@SD",
+        "xmltv_display_name": "Channel Y (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OqSl2Qf.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chbl Tv Undefined (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CHBL-TV",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/512px-Global_Television_Network_Logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/CA_GLOBAL/index.m3u8",
+        "xmltv_id": "CHBLTV.ca",
+        "xmltv_display_name": "CHBL-TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/512px-Global_Television_Network_Logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chco Tv Geo Blocked General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CHCO-TV (720p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/EpMawIy.png",
+        "stream_url": "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8",
+        "xmltv_id": "CHCOTV.ca",
+        "xmltv_display_name": "CHCO-TV (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/EpMawIy.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Citynews News (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CityNews Calgary (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "stream_url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
+        "xmltv_id": "CityNewsCalgary.ca",
+        "xmltv_display_name": "CityNews Calgary (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Citynews News (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CityNews Toronto (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "stream_url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+        "xmltv_id": "CityNewsToronto.ca",
+        "xmltv_display_name": "CityNews Toronto (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Citynews News (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CityNews Vancouver (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "stream_url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8",
+        "xmltv_id": "CityNewsVancouver.ca",
+        "xmltv_display_name": "CityNews Vancouver (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cmusic Music (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CMusic",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/3UppN5P.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799158-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=591a5510-6f0c-4769-9f52-fb2ec0e8a3ea",
+        "xmltv_id": "StingrayCMusic.ca@SD",
+        "xmltv_display_name": "CMusic",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/3UppN5P.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Corporation De T L Vision Brandon Ctb Tv General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Corporation de Télévision Brandon (CTB TV)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/G3g62Td.png",
+        "stream_url": "https://fl001.elpcinc.com/CTB-TV/index.m3u8",
+        "xmltv_id": "CTBTV.ca",
+        "xmltv_display_name": "Corporation de Télévision Brandon (CTB TV)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/G3g62Td.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cpac Legislative (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CPAC (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png",
+        "stream_url": "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8",
+        "xmltv_id": "CPACEnglish.ca",
+        "xmltv_display_name": "CPAC (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 1 Movies (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 1",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/ZkRQ0r1.png",
+        "stream_url": "https://fl3.moveonjoy.com/CRAVE_1/index.m3u8",
+        "xmltv_id": "Crave1.ca",
+        "xmltv_display_name": "Crave 1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ZkRQ0r1.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 2 Movies (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 2",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/e1qJ5Bp.png",
+        "stream_url": "https://fl3.moveonjoy.com/CRAVE_2/index.m3u8",
+        "xmltv_id": "Crave2.ca",
+        "xmltv_display_name": "Crave 2",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/e1qJ5Bp.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 3 Movies (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 3",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/kOi0Adn.png",
+        "stream_url": "https://fl3.moveonjoy.com/CRAVE_3/index.m3u8",
+        "xmltv_id": "Crave3.ca",
+        "xmltv_display_name": "Crave 3",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/kOi0Adn.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 4 Movies (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 4",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/MyH3Q2p.png",
+        "stream_url": "https://fl3.moveonjoy.com/CRAVE_4/index.m3u8",
+        "xmltv_id": "Crave4.ca",
+        "xmltv_display_name": "Crave 4",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/MyH3Q2p.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV News (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CTV (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/pRscvrp.png",
+        "stream_url": "https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8",
+        "xmltv_id": "CTVNewsChannel.ca",
+        "xmltv_display_name": "CTV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/pRscvrp.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Deshi Tv General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Deshi TV (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/PzqzgMm.png",
+        "stream_url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+        "xmltv_id": "DeshiTV.ca",
+        "xmltv_display_name": "Deshi TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/PzqzgMm.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Djazz Music (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Djazz",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1",
+        "xmltv_id": "StingrayDJAZZ.ca@SD",
+        "xmltv_display_name": "Djazz",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dukh Nivaran Not 24 7 Culture (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Dukh Nivaran (720p) [Not 24/7]",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/Zh60l1x.png",
+        "stream_url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
+        "xmltv_id": "DukhNivaran.ca",
+        "xmltv_display_name": "Dukh Nivaran (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Zh60l1x.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Eawaz Tv Not 24 7 Culture (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Eawaz TV (720p) [Not 24/7]",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/vB4yzen.png",
+        "stream_url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8",
+        "xmltv_id": "EawazTV.ca",
+        "xmltv_display_name": "Eawaz TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vB4yzen.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Eet Tv Not 24 7 Culture (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "EET TV (1080p) [Not 24/7]",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/rntSEDZ.png",
+        "stream_url": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+        "xmltv_id": "EETTV.ca",
+        "xmltv_display_name": "EET TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/rntSEDZ.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Erfan Halgheh Tv Religious (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Erfan Halgheh TV (720p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+        "stream_url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
+        "xmltv_id": "ErfanHalghehTV.ca",
+        "xmltv_display_name": "Erfan Halgheh TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ewtn Canada Not 24 7 Religious (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "EWTN Canada (720p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/sua70RO.png",
+        "stream_url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8",
+        "xmltv_id": "EWTN.us@Canada",
+        "xmltv_display_name": "EWTN Canada (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/sua70RO.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Feva Tv Entertainment (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Feva TV (1080p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/QSi0YTS.png",
+        "stream_url": "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8",
+        "xmltv_id": "FEVATV.ca",
+        "xmltv_display_name": "Feva TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/QSi0YTS.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fight Network Sports (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fight Network (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/vlKPZHR.png",
+        "stream_url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
+        "xmltv_id": "FightNetwork.ca",
+        "xmltv_display_name": "Fight Network (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vlKPZHR.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Frasier Series (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Frasier",
+        "group_title_raw": "Series",
+        "logo_raw": "https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f90e39183b000769f12b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=385f93fc-8e79-4ac3-9478-5758ce4a3181",
+        "xmltv_id": "Frasier.us@Canada",
+        "xmltv_display_name": "Frasier",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Galicia Tv Am Rica General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Galicia TV América (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/s59AaqG.png",
+        "stream_url": "https://america-crtvg.flumotion.com/playlist.m3u8",
+        "xmltv_id": "GaliciaTVAmerica.es",
+        "xmltv_display_name": "Galicia TV América (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/s59AaqG.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Game Sports (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Game+ (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/Lj69WbR.png",
+        "stream_url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
+        "xmltv_id": "GamePlus.ca",
+        "xmltv_display_name": "Game+ (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Lj69WbR.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gaunda Punjab Tv General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Gaunda Punjab TV",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/ArRZRM3.png",
+        "stream_url": "http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8",
+        "xmltv_id": "GaundaPunjabTV.ca",
+        "xmltv_display_name": "Gaunda Punjab TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ArRZRM3.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gh Canada Tv General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "GH Canada TV",
+        "group_title_raw": "General",
+        "logo_raw": "https://www.lyngsat.com/logo/tv/gg/gh-canada-tv-ca.png",
+        "stream_url": "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8",
+        "xmltv_id": "GHCanadaTV.ca",
+        "xmltv_display_name": "GH Canada TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://www.lyngsat.com/logo/tv/gg/gh-canada-tv-ca.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Golf Channel Sports (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Golf Channel",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/Lgux6Ik.png",
+        "stream_url": "https://fl3.moveonjoy.com/GOLF/index.m3u8",
+        "xmltv_id": "GolfChannel.us@SD",
+        "xmltv_display_name": "Golf Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Lgux6Ik.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gursikh Sabha Tv Not 24 7 Religious (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "GurSikh Sabha TV (720p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/2EKCtQm.png",
+        "stream_url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8",
+        "xmltv_id": "GurSikhSabhaTV.ca",
+        "xmltv_display_name": "GurSikh Sabha TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/2EKCtQm.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hamdard Tv News (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hamdard TV (1080p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.ibb.co/JcD2xck/logo-hamda.png",
+        "stream_url": "https://tv.hamdardtv.com/hamdard/index.m3u8",
+        "xmltv_id": "HamdardTV.ca",
+        "xmltv_display_name": "Hamdard TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hard Knocks Not 24 7 Sports (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hard Knocks (1080p) [Not 24/7]",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/nt9B6jx.png",
+        "stream_url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8",
+        "xmltv_id": "HardKnocks.ca",
+        "xmltv_display_name": "Hard Knocks (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/nt9B6jx.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hulchul Tv Not 24 7 Culture (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hulchul TV (720p) [Not 24/7]",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/LvkdhRw.png",
+        "stream_url": "http://cdn12.henico.net:8080/live/jbani/index.m3u8",
+        "xmltv_id": "HulchulTVCanada.ca@SD",
+        "xmltv_display_name": "Hulchul TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/LvkdhRw.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hyder Tv Culture (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Hyder TV",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/reHjjRZ.png",
+        "stream_url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
+        "xmltv_id": "HyderTV.ca",
+        "xmltv_display_name": "Hyder TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/reHjjRZ.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ICI Montreal (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/x0vLIWr.png",
+        "stream_url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
+        "xmltv_id": "CFHDDT.ca",
+        "xmltv_display_name": "ICI Montreal (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/x0vLIWr.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Geo Blocked General (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé (1080p) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/pFCJGj4.png",
+        "stream_url": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8",
+        "xmltv_id": "CBFTDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/pFCJGj4.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Alberta Cbxft Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/xN4Valg.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8",
+        "xmltv_id": "CBXFTDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/xN4Valg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Colombie Britannique Yukon Cbuft Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8",
+        "xmltv_id": "CBUFTDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Est Du Qu Bec Cjbr Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/1B3d8Jc.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8",
+        "xmltv_id": "CJBRDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/1B3d8Jc.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Estrie Cksh Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8",
+        "xmltv_id": "CKSHDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Manitoba Cbwft Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ici_Manitoba_logo.jpg/512px-Ici_Manitoba_logo.jpg",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8",
+        "xmltv_id": "CBWFTDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ici_Manitoba_logo.jpg/512px-Ici_Manitoba_logo.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Mauricie Centre Du Qu Bec Cktm Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8",
+        "xmltv_id": "CKTMDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Ontario Cblft Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/1f798e8.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8",
+        "xmltv_id": "CBLFTDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/1f798e8.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Gatineau Cboft Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/373Y8Py.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8",
+        "xmltv_id": "CBOFTDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/373Y8Py.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Qu Bec Cbvt Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8",
+        "xmltv_id": "CBVTDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Saguenay Lac St Jean Cktv Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8",
+        "xmltv_id": "CKTVDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Saskatchewan Cbkft Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Ici_Saskatchewan_logo.png/512px-Ici_Saskatchewan_logo.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8",
+        "xmltv_id": "CBKFTDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Ici_Saskatchewan_logo.png/512px-Ici_Saskatchewan_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Radio Canada T L Terre Neuve Et Labrador Cbaft Dt Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Ici_Acadie_logo.png/512px-Ici_Acadie_logo.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8",
+        "xmltv_id": "CBAFTDT.ca",
+        "xmltv_display_name": "Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Ici_Acadie_logo.png/512px-Ici_Acadie_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ici Rdi News (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ICI RDI (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",
+        "stream_url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+        "xmltv_id": "IciRDI.ca",
+        "xmltv_display_name": "ICI RDI (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Icnet 1 Religious (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "icnet 1",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/aeS4Sjv.png",
+        "stream_url": "https://icnet1hls.wns.live/hls/stream.m3u8",
+        "xmltv_id": "ICnet1.ca",
+        "xmltv_display_name": "icnet 1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/aeS4Sjv.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Iipc Tv Geo Blocked Religious (Playlistiptvorg) (480p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "IIPC TV (480p) [Geo-blocked]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/mIih39Y.png",
+        "stream_url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+        "xmltv_id": "IIPCTV.ca",
+        "xmltv_display_name": "IIPC TV (480p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mIih39Y.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lcn Geo Blocked News (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "LCN [Geo-blocked]",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/iKDLgOG.png",
+        "stream_url": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8",
+        "xmltv_id": "LCN.ca",
+        "xmltv_display_name": "LCN [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/iKDLgOG.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Legislative Assembly Of British Columbia Legislative (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Legislative Assembly of British Columbia",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/5QGxHhh.png",
+        "stream_url": "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8",
+        "xmltv_id": "LegislativeAssemblyofBritishColumbia.ca",
+        "xmltv_display_name": "Legislative Assembly of British Columbia",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/5QGxHhh.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Legislative Assembly Of British Columbia Committee A Legislative (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Legislative Assembly of British Columbia Committee A",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://www.lyngsat.com/logo/tv/ll/legislative-assembly-of-british-columbia-ca.png",
+        "stream_url": "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8",
+        "xmltv_id": "LegislativeAssemblyofBritishColumbiaCommitteeA.ca",
+        "xmltv_display_name": "Legislative Assembly of British Columbia Committee A",
+        "xmltv_network": null,
+        "xmltv_logo": "https://www.lyngsat.com/logo/tv/ll/legislative-assembly-of-british-columbia-ca.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Legislative Assembly Of Ontario Legislative (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Legislative Assembly of Ontario",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/n24MrsX.png",
+        "stream_url": "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+        "xmltv_id": "LegislativeAssemblyofOntario.ca",
+        "xmltv_display_name": "Legislative Assembly of Ontario",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/n24MrsX.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Legislative Assembly Tv Nunavut Legislative (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Legislative Assembly TV Nunavut",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/wY9WhYS.png",
+        "stream_url": "http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8",
+        "xmltv_id": "LegislativeAssemblyTVNunavut.ca",
+        "xmltv_display_name": "Legislative Assembly TV Nunavut",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/wY9WhYS.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Love Nature Geo Blocked Outdoor (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Love Nature (720p) [Geo-blocked]",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",
+        "stream_url": "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
+        "xmltv_id": "LoveNature.ca",
+        "xmltv_display_name": "Love Nature (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Love Nature 1080i Outdoor (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Love Nature HD (1080i)",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",
+        "stream_url": "http://78.130.250.2:8023/play/a02m/index.m3u8",
+        "xmltv_id": "LoveNature.ca@HD",
+        "xmltv_display_name": "Love Nature HD (1080i)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mad World Music (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Mad World (720p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg",
+        "stream_url": "https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8",
+        "xmltv_id": "MadWorld.gr",
+        "xmltv_display_name": "Mad World (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mhz Entertainment (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MHZ",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/a5fw83n.jpg",
+        "stream_url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "MHZ.ca",
+        "xmltv_display_name": "MHZ",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/a5fw83n.jpg",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Greek Tv Culture (Playlistiptvorg) (480p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Montreal Greek TV (480p)",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/Y5YnUit.png",
+        "stream_url": "http://live.greektv.ca/hls1/greektv.m3u8",
+        "xmltv_id": "MontrealGreekTV.ca",
+        "xmltv_display_name": "Montreal Greek TV (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Y5YnUit.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Much Music (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Much (720p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/JjYki5V.png",
+        "stream_url": "https://fl1.moveonjoy.com/MUCH/index.m3u8",
+        "xmltv_id": "Much.ca",
+        "xmltv_display_name": "Much (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/JjYki5V.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nactv General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NACTV",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/FzM95rH.png",
+        "stream_url": "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8",
+        "xmltv_id": "NACTV.ca@SD",
+        "xmltv_display_name": "NACTV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/FzM95rH.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Naturescape Music (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Naturescape",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/882kd90.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a5760903-3730-493d-a240-f38538ed67ca",
+        "xmltv_id": "StingrayNaturescape.ca@SD",
+        "xmltv_display_name": "Naturescape",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/882kd90.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nba Tv Canada Sports (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBA TV Canada (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png",
+        "stream_url": "http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8",
+        "xmltv_id": "NBATVCanada.ca@SD",
+        "xmltv_display_name": "NBA TV Canada (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Netv Movies (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NETV Toronto (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/WXRBuOW.png",
+        "stream_url": "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8",
+        "xmltv_id": "NETVToronto.ca",
+        "xmltv_display_name": "NETV Toronto (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/WXRBuOW.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Newfoundland Television General (Playlistiptvorg) (480p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Newfoundland Television (480p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
+        "stream_url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8",
+        "xmltv_id": "CJONDT.ca",
+        "xmltv_display_name": "Newfoundland Television (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Now Tv 102 3fm Ckno Fm Music (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Now TV 102.3FM Edmonton (CKNO-FM)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/sF2g7KE.png",
+        "stream_url": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
+        "xmltv_id": "CKNOFM.ca",
+        "xmltv_display_name": "Now TV 102.3FM Edmonton (CKNO-FM)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/sF2g7KE.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ntv Undefined (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NTV+",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/YEUhPBv.png",
+        "stream_url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8",
+        "xmltv_id": "NTVPlus.ca",
+        "xmltv_display_name": "NTV+",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/YEUhPBv.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ontario Parliamentary Network Legislative (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Ontario Parliamentary Network (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/xKXs6ER.png",
+        "stream_url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+        "xmltv_id": "OntarioParliamentaryNetwork.ca",
+        "xmltv_display_name": "Ontario Parliamentary Network (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/xKXs6ER.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Outdoor Channel Outdoor (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Outdoor Channel",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://i.imgur.com/Kh4MWaY.png",
+        "stream_url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
+        "xmltv_id": "OutdoorChannel.us",
+        "xmltv_display_name": "Outdoor Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Kh4MWaY.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pamir Tv Not 24 7 Culture Music (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Pamir TV (1080p) [Not 24/7]",
+        "group_title_raw": "Culture;Music",
+        "logo_raw": "https://i.imgur.com/sCBbBOj.png",
+        "stream_url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+        "xmltv_id": "PamirTV.ca",
+        "xmltv_display_name": "Pamir TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/sCBbBOj.png",
+        "xmltv_categories": [
+          "Culture",
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount Network Movies Series (Playlistiptvorg) (East) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount Network East",
+        "group_title_raw": "Movies;Series",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+        "xmltv_id": "ParamountNetwork.us@East",
+        "xmltv_display_name": "Paramount Network East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+        "xmltv_categories": [
+          "Movies",
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pardesi Tv Culture (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pardesi TV (720p)",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/CwAdPpZ.jpg",
+        "stream_url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+        "xmltv_id": "PardesiTV.ca",
+        "xmltv_display_name": "Pardesi TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/CwAdPpZ.jpg",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Parnian Tv General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Parnian TV (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/J8ejADF.png",
+        "stream_url": "https://live2.parnian.tv/hls/.m3u8",
+        "xmltv_id": "ParnianTV.ca",
+        "xmltv_display_name": "Parnian TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/J8ejADF.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pbc Tapesh Tv General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "PBC Tapesh TV (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/50JzsmH.png",
+        "stream_url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
+        "xmltv_id": "PBCTapeshTV.us",
+        "xmltv_display_name": "PBC Tapesh TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/50JzsmH.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Plymouth Rock Tv Undefined (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Plymouth Rock TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/KO3cVav.png",
+        "stream_url": "https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8",
+        "xmltv_id": "PlymouthRockTV.ca",
+        "xmltv_display_name": "Plymouth Rock TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KO3cVav.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Prime Asia Tv Undefined (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Prime Asia TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/LdGWsGj.png",
+        "stream_url": "http://primeasia.selfip.net/Samsung/index.m3u8",
+        "xmltv_id": "PrimeAsiaTV.ca",
+        "xmltv_display_name": "Prime Asia TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/LdGWsGj.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Prime Canada Tv Not 24 7 Entertainment (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Prime Canada TV (720p) [Not 24/7]",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/Vji81jB.png",
+        "stream_url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
+        "xmltv_id": "PrimeCanadaTV.ca",
+        "xmltv_display_name": "Prime Canada TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Vji81jB.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Probashi Tv News News (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Probashi TV News (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/7oTsfQ4.png",
+        "stream_url": "http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8",
+        "xmltv_id": "ProbashiTVNews.ca",
+        "xmltv_display_name": "Probashi TV News (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/7oTsfQ4.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qello Concerts Music (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Qello Concerts",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/IRyFTWq.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba",
+        "xmltv_id": "QelloConcertsbyStingray.ca@SD",
+        "xmltv_display_name": "Qello Concerts",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/IRyFTWq.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Quo Vadis Ministry Tv Religious (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Quo Vadis Ministry TV (720p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/pEqDDHl.png",
+        "stream_url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
+        "xmltv_id": "QuoVadisTV.ca",
+        "xmltv_display_name": "Quo Vadis Ministry TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/pEqDDHl.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Radio Tele Evangile Sans Limite Religious (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Radio Tele Evangile Sans Limite",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/CL32kFA.png",
+        "stream_url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8",
+        "xmltv_id": "RadioTeleEvangileSansLimite.ca",
+        "xmltv_display_name": "Radio Tele Evangile Sans Limite",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/CL32kFA.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Rt France Geo Blocked News (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "RT France (1080p) [Geo-blocked]",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",
+        "stream_url": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+        "xmltv_id": "RTFrance.fr",
+        "xmltv_display_name": "RT France (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sardari Tv Not 24 7 Undefined (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sardari TV (1080p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/AhbJjPL.jpg",
+        "stream_url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
+        "xmltv_id": "SardariTV.ca",
+        "xmltv_display_name": "Sardari TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/AhbJjPL.jpg",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sikh Spiritual Centre Rexdale Undefined (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Sikh Spiritual Centre Rexdale (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/YKXoIsr.png",
+        "stream_url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8",
+        "xmltv_id": "SikhSpiritualCentreRexdale.ca",
+        "xmltv_display_name": "Sikh Spiritual Centre Rexdale (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/YKXoIsr.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sohail Tv General (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sohail TV (1080p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
+        "stream_url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8",
+        "xmltv_id": "SohailTV.ca",
+        "xmltv_display_name": "Sohail TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sooriyan Tv Entertainment (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sooriyan TV",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+        "stream_url": "https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8",
+        "xmltv_id": "SooriyanTV.ca",
+        "xmltv_display_name": "Sooriyan TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Star International Entertainment (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "STAR International (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/6NUpxhr.png",
+        "stream_url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+        "xmltv_id": "StarChannelInternational.gr",
+        "xmltv_display_name": "STAR International (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/6NUpxhr.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Classic Rock Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Classic Rock (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/FBgu8yB.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayClassicRock.ca",
+        "xmltv_display_name": "Stingray Classic Rock (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/FBgu8yB.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Classica Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Classica (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/nh1k5RC.png",
+        "stream_url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayClassica.ca",
+        "xmltv_display_name": "Stingray Classica (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/nh1k5RC.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Easy Listening Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Easy Listening (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayEasyListening.ca",
+        "xmltv_display_name": "Stingray Easy Listening (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Flashback 70s Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Flashback 70s (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/jf5C9QF.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayFlashback70s.ca",
+        "xmltv_display_name": "Stingray Flashback 70s (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/jf5C9QF.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hit List Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Hit List (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/lgpIwId.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayHitList.ca",
+        "xmltv_display_name": "Stingray Hit List (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lgpIwId.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Holiday Hits Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Holiday Hits (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/4xVVKH8.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayHolidayHits.ca",
+        "xmltv_display_name": "Stingray Holiday Hits (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/4xVVKH8.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hot Country Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Hot Country (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/PZhxyIT.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayHotCountry.ca",
+        "xmltv_display_name": "Stingray Hot Country (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/PZhxyIT.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Karaoke Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Karaoke (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/9TLTLS3.png",
+        "stream_url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayKaraoke.ca",
+        "xmltv_display_name": "Stingray Karaoke (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9TLTLS3.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nothin But 90s Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Nothin' But 90s (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/Tq3I0po.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayNothinBut90s.ca",
+        "xmltv_display_name": "Stingray Nothin' But 90s (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Tq3I0po.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pop Adult Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Pop Adult (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/H2ugC9L.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayPopAdult.ca",
+        "xmltv_display_name": "Stingray Pop Adult (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/H2ugC9L.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Remember The 80s Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Remember the 80s (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/6E3wYrb.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayEverything80s.ca",
+        "xmltv_display_name": "Stingray Remember the 80s (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/6E3wYrb.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Rock Alternative Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Rock Alternative (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/mt8ulVX.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayRockAlternative.ca",
+        "xmltv_display_name": "Stingray Rock Alternative (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mt8ulVX.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Romance Latino Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Romance Latino (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayRomanceLatino.ca",
+        "xmltv_display_name": "Stingray Romance Latino (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Smooth Jazz Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Smooth Jazz (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/h1DsOzH.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingraySmoothJazz.ca",
+        "xmltv_display_name": "Stingray Smooth Jazz (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/h1DsOzH.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Soul Storm Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Soul Storm (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/dU1KC3f.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingraySoulStorm.ca",
+        "xmltv_display_name": "Stingray Soul Storm (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/dU1KC3f.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Spa Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray The Spa (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/ywAN923.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayTheSpa.ca",
+        "xmltv_display_name": "Stingray The Spa (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ywAN923.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Today S Kpop Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Today's KPOP (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/mMbntB5.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayTodaysKPop.ca",
+        "xmltv_display_name": "Stingray Today's KPOP (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mMbntB5.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Today S Latin Pop Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Today's Latin Pop (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/Os3kRRP.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayTodaysLatinPop.ca",
+        "xmltv_display_name": "Stingray Today's Latin Pop (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Os3kRRP.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Urban Beat Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Urban Beat (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/Os3kRRP.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayUrbanBeat.ca",
+        "xmltv_display_name": "Stingray Urban Beat (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Os3kRRP.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Svbc 2 Religious (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SVBC 2 (1080p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/NtmRt1A.png",
+        "stream_url": "http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8",
+        "xmltv_id": "SVBC2.in",
+        "xmltv_display_name": "SVBC 2 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/NtmRt1A.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Svbc 3 Religious (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "SVBC 3 (720p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/Ae2PMTu.png",
+        "stream_url": "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8",
+        "xmltv_id": "SVBC3.in",
+        "xmltv_display_name": "SVBC 3 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Ae2PMTu.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Svbc 4 Religious (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SVBC 4 (1080p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/vCFdZny.png",
+        "stream_url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+        "xmltv_id": "SVBC4.in",
+        "xmltv_display_name": "SVBC 4 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vCFdZny.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Svbc Sri Venkateswara Bhakti Channel Religious (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SVBC Sri Venkateswara Bhakti Channel (1080p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/LSMvXAl.png",
+        "stream_url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8",
+        "xmltv_id": "SVBC.in",
+        "xmltv_display_name": "SVBC Sri Venkateswara Bhakti Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/LSMvXAl.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tag Tv Not 24 7 Undefined (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TAG TV (1080p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/4PA2adF.png",
+        "stream_url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
+        "xmltv_id": "TAGTV.ca",
+        "xmltv_display_name": "TAG TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/4PA2adF.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tamil Vision Tv Undefined (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Tamil Vision TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/DodsLuW.png",
+        "stream_url": "http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8",
+        "xmltv_id": "TamilVisionTV.ca",
+        "xmltv_display_name": "Tamil Vision TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DodsLuW.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tcf Tv Culture General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TCF TV",
+        "group_title_raw": "Culture;General",
+        "logo_raw": "https://i.imgur.com/lHsS6Lj.png",
+        "stream_url": "http://66.11.33.44:8081/live/TCF/playlist.m3u8",
+        "xmltv_id": "TCFTV.ca",
+        "xmltv_display_name": "TCF TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lHsS6Lj.png",
+        "xmltv_categories": [
+          "Culture",
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "T L Qu Bec Education (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Télé-Québec (720p)",
+        "group_title_raw": "Education",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",
+        "stream_url": "https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8",
+        "xmltv_id": "CIVMDT.ca",
+        "xmltv_display_name": "Télé-Québec (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png",
+        "xmltv_categories": [
+          "Education"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Temiscaming Kipawa Community Television General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Temiscaming-Kipawa Community Television",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/rq1YhVH.png",
+        "stream_url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u8",
+        "xmltv_id": "tvcTK.ca",
+        "xmltv_display_name": "Temiscaming-Kipawa Community Television",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/rq1YhVH.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Weather Network Weather (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Weather Network",
+        "group_title_raw": "Weather",
+        "logo_raw": "https://i.imgur.com/V6ZUwUY.png",
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75",
+        "xmltv_id": "TheWeatherNetwork.ca",
+        "xmltv_display_name": "The Weather Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/V6ZUwUY.png",
+        "xmltv_categories": [
+          "Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Today S Shopping Choice Tsc Shop (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Today's Shopping Choice (TSC) (720p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/9w9SSIC.png",
+        "stream_url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+        "xmltv_id": "TSC.ca",
+        "xmltv_display_name": "Today's Shopping Choice (TSC) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9w9SSIC.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "360 Tv Not 24 7 Undefined (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Toronto 360 TV (720p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/YJYdHKO.png",
+        "stream_url": "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8",
+        "xmltv_id": "Toronto360TV.ca",
+        "xmltv_display_name": "Toronto 360 TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/YJYdHKO.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tsn1 Sports (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TSN1 (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/eRFE0jZ.png",
+        "stream_url": "https://fl5.moveonjoy.com/TSN_1/index.m3u8",
+        "xmltv_id": "TSN1.ca",
+        "xmltv_display_name": "TSN1 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/eRFE0jZ.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tsn2 Sports (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN2",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png",
+        "stream_url": "https://fl5.moveonjoy.com/TSN_2/index.m3u8",
+        "xmltv_id": "TSN2.ca",
+        "xmltv_display_name": "TSN2",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tsn3 Sports (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN3",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/AYza8KO.png",
+        "stream_url": "https://fl5.moveonjoy.com/TSN_3/index.m3u8",
+        "xmltv_id": "TSN3.ca",
+        "xmltv_display_name": "TSN3",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/AYza8KO.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tsn4 Sports (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN4",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/qJyAWU8.png",
+        "stream_url": "https://fl5.moveonjoy.com/TSN_4/index.m3u8",
+        "xmltv_id": "TSN4.ca",
+        "xmltv_display_name": "TSN4",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qJyAWU8.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tsn5 Sports (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN5",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/HEzHpzz.png",
+        "stream_url": "https://fl5.moveonjoy.com/TSN_5/index.m3u8",
+        "xmltv_id": "TSN5.ca",
+        "xmltv_display_name": "TSN5",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/HEzHpzz.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "TSN The Ocho Sports (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN The Ocho",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
+        "stream_url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+        "xmltv_id": "TSNTheOcho.ca@SD",
+        "xmltv_display_name": "TSN The Ocho",
+        "xmltv_network": null,
+        "xmltv_logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv 16 Not 24 7 Undefined (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "TV 16 Toronto (720p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/c4lLchb.png",
+        "stream_url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+        "xmltv_id": "TV16Toronto.ca",
+        "xmltv_display_name": "TV 16 Toronto (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/c4lLchb.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Punjab News (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "TV Punjab (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.ibb.co/JnxNMNq/logo-2022.png",
+        "stream_url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+        "xmltv_id": "TVPunjab.ca",
+        "xmltv_display_name": "TV Punjab (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/JnxNMNq/logo-2022.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "TVA Geo Blocked General (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TVA [Geo-blocked]",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png",
+        "stream_url": "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8",
+        "xmltv_id": "CFTMDT.ca",
+        "xmltv_display_name": "TVA [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tve Internacional America Undefined (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "TVE Internacional America (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/iODADvi.png",
+        "stream_url": "http://190.11.225.124:5000/live/tve_hd/playlist.m3u8",
+        "xmltv_id": "TVEInternacionalAmerica.es@SD",
+        "xmltv_display_name": "TVE Internacional America (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/iODADvi.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tvokids Kids (Playlistiptvorg) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TVOKids",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/512px-Tvokids-logo.svg.png",
+        "stream_url": "https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8",
+        "xmltv_id": "TVOKids.ca",
+        "xmltv_display_name": "TVOKids",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/512px-Tvokids-logo.svg.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Umsa Tvu Internacional Documentary Education Science (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "UMSA TVU Internacional (720p)",
+        "group_title_raw": "Documentary;Education;Science",
+        "logo_raw": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
+        "stream_url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+        "xmltv_id": "UMSATVUInternacional.bo@HD",
+        "xmltv_display_name": "UMSA TVU Internacional (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493",
+        "xmltv_categories": [
+          "Documentary",
+          "Education",
+          "Science"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Uvagut Tv Undefined (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Uvagut TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/RR7ATr2.png",
+        "stream_url": "https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
+        "xmltv_id": "UvagutTV.ca",
+        "xmltv_display_name": "Uvagut TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/RR7ATr2.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "W Network Undefined (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "W Network (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/t7XdBh8.png",
+        "stream_url": "https://fl3.moveonjoy.com/W_NETWORK/index.m3u8",
+        "xmltv_id": "WNetwork.ca@East",
+        "xmltv_display_name": "W Network (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/t7XdBh8.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Watan E Maa Tv General (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Watan-e-Maa TV (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png",
+        "stream_url": "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8",
+        "xmltv_id": "WataneMaaTV.ca",
+        "xmltv_display_name": "Watan-e-Maa TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wcgtv Public Undefined (Playlistiptvorg) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WCGtv Public (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/q7UPbEG.png",
+        "stream_url": "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8",
+        "xmltv_id": "WCGtv.ca",
+        "xmltv_display_name": "WCGtv Public (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/q7UPbEG.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wild Tv Undefined (Playlistiptvorg) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Wild TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png",
+        "stream_url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+        "xmltv_id": "WildTV.ca@SD",
+        "xmltv_display_name": "Wild TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}

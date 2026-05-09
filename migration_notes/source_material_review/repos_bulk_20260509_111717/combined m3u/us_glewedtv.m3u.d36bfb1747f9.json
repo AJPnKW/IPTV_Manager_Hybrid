@@ -1,0 +1,160 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_glewedtv.m3u",
+  "provider": "Usglewedtv",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Campuslore (Usglewedtv) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CampusLore (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8",
+        "xmltv_id": "CampusLore.us",
+        "xmltv_display_name": "CampusLore (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Choppertown (Usglewedtv) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Choppertown (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8",
+        "xmltv_id": "Choppertown.us",
+        "xmltv_display_name": "Choppertown (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Defiance Media (Usglewedtv) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "DeFiance Media (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
+        "xmltv_id": "DeFianceMedia.pr",
+        "xmltv_display_name": "DeFiance Media (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estrella News (Usglewedtv) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Estrella News (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://estrellanews-glewed.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EstrellaNews.us",
+        "xmltv_display_name": "Estrella News (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estrella Tv (Usglewedtv) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Estrella TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EstrellaTV.us",
+        "xmltv_display_name": "Estrella TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pursuit Up (Usglewedtv) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pursuit UP (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
+        "xmltv_id": "PursuitUP.us",
+        "xmltv_display_name": "Pursuit UP (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Swerve Sports (Usglewedtv) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Swerve Sports (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8",
+        "xmltv_id": "SwerveSports.us",
+        "xmltv_display_name": "Swerve Sports (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "True History (Usglewedtv) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "True History (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8",
+        "xmltv_id": "TrueHistory.us",
+        "xmltv_display_name": "True History (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

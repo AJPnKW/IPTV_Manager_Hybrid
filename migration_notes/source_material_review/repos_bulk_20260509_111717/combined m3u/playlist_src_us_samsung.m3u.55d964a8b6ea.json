@@ -1,0 +1,92 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_samsung.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Samsung",
+  "channels": [
+    {
+      "canonical_name": "Amc All Weddings Series (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC All Weddings",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/OjLCew5.png",
+        "stream_url": "https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8",
+        "xmltv_id": "AllWeddingsWEtv.us",
+        "xmltv_display_name": "AMC All Weddings",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OjLCew5.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bon App Tit Cooking (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "bon appétit (1080p)",
+        "group_title_raw": "Cooking",
+        "logo_raw": "https://i.imgur.com/YhFFxlE.png",
+        "stream_url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
+        "xmltv_id": "bonappetit.us",
+        "xmltv_display_name": "bon appétit (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/YhFFxlE.png",
+        "xmltv_categories": [
+          "Cooking"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Degrassi The Next Generation Series (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Degrassi The Next Generation (720p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/zjV1KzO.png",
+        "stream_url": "https://d365kok94jpr38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2xcmoue1get1c/playlist.m3u8",
+        "xmltv_id": "DegrassiTheNextGeneration.us",
+        "xmltv_display_name": "Degrassi The Next Generation (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/zjV1KzO.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Shout Factory Tv General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Shout! Factory TV (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/AgoGr6y.png",
+        "stream_url": "https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8",
+        "xmltv_id": "ShoutFactoryTV.us",
+        "xmltv_display_name": "Shout! Factory TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/AgoGr6y.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿quarantine_review
+total_candidate_files=80388
+total_candidate_bytes=4577459159
+
+by_root
+
+candidate_root                                                             file_count total_bytes oldest_last_write   newest_last_write  
+--------------                                                             ---------- ----------- -----------------   -----------------  
+C:\Users\andrew\PROJECTS\iptv\temp\Collections-IPTV-files\copied_from_repo      56151  2557165460 2006-07-23 21:21:28 2025-12-08 17:57:18
+C:\X1_Share\Tivimate\archived\epg_inventory_non_channels                        22270  1856170308 2015-07-30 04:26:52 2025-11-30 15:17:37
+C:\X1_Share\Tivimate\archived\epg_inventory_non_region                           1400    30650560 2024-11-04 14:47:09 2025-11-24 13:35:51
+C:\X1_Share\Tivimate\archived\Other_Countries                                     366    76123301 2018-03-25 18:05:06 2025-11-04 23:40:44
+C:\X1_Share\Tivimate\m3u temp files                                               201    57349530 2024-11-08 22:52:58 2026-01-06 12:26:55
+
+
+
+
+by_extension
+
+Count Name 
+----- ---- 
+78859 .xml 
+ 1240 .m3u 
+  182 .gz  
+  106 .m3u8
+    1 .ini 
+
+
+

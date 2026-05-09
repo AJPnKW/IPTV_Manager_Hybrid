@@ -1,0 +1,13 @@
+﻿IPTV collect summary
+run_stamp: 20251217_214550
+scan_root: F:\Users
+dest_root: C:\Users\andrew\PROJECTS\iptv\temp\Collections-IPTV-files
+
+Counts
+candidates_total: 64015
+copied_from_repo: 64005
+moved_orphan:     10
+failed:          0
+
+Report CSV: C:\Users\andrew\PROJECTS\iptv\scripts\reports\iptv_collect_m3u_epg_20251217_214550.csv
+Log:       C:\Users\andrew\PROJECTS\iptv\scripts\logs\iptv_collect_m3u_epg_20251217_214550.log.txt

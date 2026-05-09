@@ -1,0 +1,49 @@
+﻿pipeline_pack
+run_ts=20260419_222320
+total_files=691
+total_bytes=918250845
+active_m3u_count=504
+active_epg_count=102
+review_m3u_count=27
+reference_xmltv_count=34
+reference_metadata_count=24
+
+by_source
+
+source_label          file_count total_bytes
+------------          ---------- -----------
+canonical_m3u_sources        504    17491335
+canonical_free_epg           102   254744512
+paid_xmltv_reference          53   509148524
+legacy_review_input           32   136866474
+
+
+
+
+by_category
+
+Count Name              
+----- ----              
+  504 active_m3u        
+  102 active_epg        
+   34 reference_xmltv   
+   27 review_m3u        
+   24 reference_metadata
+
+
+
+
+by_extension
+
+Count Name 
+----- ---- 
+  521 .m3u 
+  106 .xml 
+   35 .gz  
+   10 .m3u8
+    9 .json
+    7 .csv 
+    3 .txt 
+
+
+

@@ -1,0 +1,27 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_fubo.m3u",
+  "provider": "Usfubo",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Fubo Sports Network (Usfubo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "fubo Sports Network (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8",
+        "xmltv_id": "FuboSportsNetwork.us",
+        "xmltv_display_name": "fubo Sports Network (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

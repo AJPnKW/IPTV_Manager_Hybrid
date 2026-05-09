@@ -1,0 +1,54 @@
+﻿second_tier_candidates
+total_candidate_files=11821
+total_candidate_bytes=979454417
+
+by_root
+
+candidate_root                                                                                                     file_count total_bytes
+--------------                                                                                                     ---------- -----------
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__69B40A25                                                   2459   158637449
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__C88298A5                                                   2459   158637449
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg\sites                                                       1659   122837218
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\AJPs-custom-epg-master\sites                                    1645   122610469
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__CEF6D209                                                   1226    74471031
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__BE5F3E8D                                                   1226    74471031
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\iptv__C42511BE\streams                                           304     2304026
+C:\X1_Share\Tivimate\get_all_channels\pre-processed_data\stage5_outputs\providers                                         282    97762879
+C:\X1_Share\Tivimate\get_all_channels\pre-processed_data\stage2_normalized                                                220    52028817
+C:\X1_Share\Tivimate\get_all_channels\pre-processed_data\stage1_raw_parsed                                                220    32642756
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\IPTV-ChannelStudio\data\raw\Processed\08-21-2025_00-06-45        121    83051292
+
+
+
+
+by_extension
+
+Count Name      
+----- ----      
+ 3299 .js       
+ 3171 .xml      
+ 1743 .json     
+ 1657 .md       
+  899 .html     
+  455 .m3u      
+  168 .ts       
+   94 .tsv      
+   84 .sample   
+   82           
+   42 .gz       
+   36 .yml      
+   34 .txt      
+   18 .gitignore
+   14 .pdf      
+    7 .m3u8     
+    6 .lock     
+    2 .rev      
+    2 .pack     
+    2 .idx      
+    2 .py       
+    2 .bat      
+    1 .bak      
+    1 .csv      
+
+
+

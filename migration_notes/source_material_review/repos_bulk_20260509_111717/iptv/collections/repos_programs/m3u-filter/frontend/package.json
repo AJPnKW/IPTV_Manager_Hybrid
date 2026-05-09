@@ -1,0 +1,75 @@
+{
+  "name": "m3u-filter",
+  "description": "m3u-filter",
+  "author": "euzu",
+  "version": "2.0.7",
+  "private": true,
+  "homepage": "./",
+  "scripts": {
+    "react-start": "react-scripts start",
+    "react-build": "react-scripts build",
+    "react-test": "react-scripts test --env=jsdom",
+    "react-eject": "react-scripts eject",
+    "build": "cross-env REACT_APP_STAGE=production PUBLIC_URL= yarn react-build",
+    "start": "yarn react-start",
+    "lint": "eslint --config eslintrc.json src/** --no-error-on-unmatched-pattern --quiet",
+    "upgr": "yarn upgrade-interactive --latest",
+    "analyze": "source-map-explorer 'build/static/js/*.js'"
+  },
+  "dependencies": {
+    "file-saver": "2.0.5",
+    "notistack": "3.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-tagsinput": "3.20.3",
+    "rxjs": "7.8.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "7.21.11",
+    "@babel/runtime": "7.23.2",
+    "@types/file-saver": "2.0.7",
+    "@types/react": "18.2.37",
+    "@types/react-dom": "18.2.15",
+    "@types/react-tagsinput": "^3.20.4",
+    "@types/video.js": "7.3.56",
+    "@typescript-eslint/eslint-plugin": "6.11.0",
+    "@typescript-eslint/parser": "6.11.0",
+    "babel-eslint": "10.1.0",
+    "concurrently": "8.2.2",
+    "cross-env": "7.0.3",
+    "eslint": "8.53.0",
+    "eslint-config-prettier": "9.0.0",
+    "eslint-config-react-app": "7.0.1",
+    "eslint-plugin-flowtype": "8.0.3",
+    "eslint-plugin-import": "2.29.0",
+    "eslint-plugin-jest": "27.6.0",
+    "eslint-plugin-jsx-a11y": "6.8.0",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-react": "7.33.2",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "prettier": "3.1.0",
+    "react-scripts": "5.0.1",
+    "sass": "1.69.5",
+    "source-map-explorer": "2.5.3",
+    "typescript": "5.2.2",
+    "wait-on": "7.2.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  }
+}

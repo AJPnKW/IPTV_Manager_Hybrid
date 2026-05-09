@@ -1,0 +1,29 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\CA030Food Network HD_alliptvlinks.com.m3u",
+  "provider": "Ca030foodnetworkhdalliptvlinkscom",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Ca030 Food Network Alliptvlinks Com General (Ca030foodnetworkhdalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA030:Food Network HD alliptvlinks.com",
+        "group_title_raw": "CA General",
+        "logo_raw": null,
+        "stream_url": "http://abcnew.site:8880/JH12M3D196/fRV363z8kz/3039?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA030:Food Network HD alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CA General"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2392 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\Canadian_Local_Stations_alliptvlinks.com.m3u",
+  "provider": "Canadianlocalstationsalliptvlinkscom",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "City News On Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City News Toronto ON alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Rme2Fg/183926/216100?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City News Toronto ON alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weather Network Backup No 5 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Weather Network Toronto Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/753468/894568/57470?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Weather Network Toronto Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv D Backup No 3 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City TV Toronto D Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/57394?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City TV Toronto D Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv D Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City TV Toronto D alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/57394?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City TV Toronto D alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV R Backup No 2 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Toronto HD R Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/47296?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Toronto HD R Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 5 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57435?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ca116 Discovery Velocity Alliptvlinks Com Doc (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA116 Discovery Velocity alliptvlinks.com",
+        "group_title_raw": "CA Doc",
+        "logo_raw": null,
+        "stream_url": "http://152.89.62.76:8880/29ca10313n11/asdf23r23/30198?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA116 Discovery Velocity alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CA Doc"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv Backup No 1 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CITY TV TORONTO HD Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/753468/894568/57307?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CITY TV TORONTO HD Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "|CA| CHCH FHD alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/42012?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "|CA| CHCH FHD alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch R Backup No 1 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH R Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/753468/894568/57259?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH R Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv D Backup No 5 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City TV Toronto D Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57394?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City TV Toronto D Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 8 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC TORONTO Backup NO_8 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/57306?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC TORONTO Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Citynews Alliptvlinks Com Canada Github (Canadianlocalstationsalliptvlinkscom) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CityNews (720p) alliptvlinks.com",
+        "group_title_raw": "Canada github",
+        "logo_raw": null,
+        "stream_url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CityNews (720p) alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Canada github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV Backup No 7 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Kitchener Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/58557?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Kitchener Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch E Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH E alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/57393?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH E alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 16 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: CBC TORONTO Backup NO_16 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57306?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: CBC TORONTO Backup NO_16 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City News On Backup No 1 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City News Toronto ON Backup NO_1 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/6SHyY6/595088/216100?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City News Toronto ON Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 7 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto Backup NO_7 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/vNay0H/219352/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Backup No 2 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "CA CTV TORONTO alliptvlinks.com",
+        "group_title_raw": "CA | 4K CANADA",
+        "logo_raw": null,
+        "stream_url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=19901&extension=ts&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV TORONTO alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CA",
+          "4K CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Backup No 8 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD Backup NO_8 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City News On Backup No 2 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City News Toronto ON Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/216100?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City News Toronto ON Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch R Backup No 6 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH (R) Backup NO_6 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/100576652/100576652/57259?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH (R) Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Weather Network Backup No 1 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Weather Network Toronto Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57470?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Weather Network Toronto Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch E Backup No 6 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH (E) Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57393?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH (E) Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weather Network Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Weather Network Toronto alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/57470?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Weather Network Toronto alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 19 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto Backup NO_19 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto Backup NO_19 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV R Backup No 1 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Toronto HD R Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/753468/894568/47296?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Toronto HD R Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Kitchener alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/58557?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Kitchener alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Backup No 6 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Kitchener Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/58557?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Kitchener Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 4 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/753468/894568/57302?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv D Backup No 7 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City TV Toronto (D) Backup NO_7 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/100576652/100576652/57394?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City TV Toronto (D) Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 2 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57302?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weather Network Backup No 4 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Weather Network Toronto Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/25464931/30585186/57470?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Weather Network Toronto Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV R Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Toronto HD R alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/47296?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Toronto HD R alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/57302?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City News On Backup No 3 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City News Toronto ON Backup NO_3 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/vNay0H/219352/216100?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City News Toronto ON Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Weather Network Backup No 3 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Weather Network Toronto Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Rme2Fg/183926/57470?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Weather Network Toronto Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv Backup No 6 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: CITY TV TORONTO HD Backup NO_6 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/100576652/100576652/57307?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: CITY TV TORONTO HD Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Backup No 6 Alliptvlinks Com Usa (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD Backup NO_6 alliptvlinks.com",
+        "group_title_raw": "USA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "USA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 17 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto Backup NO_17 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto Backup NO_17 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 11 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto Backup NO_11 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/6SHyY6/595088/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto Backup NO_11 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chch R Backup No 2 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH R Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/57259?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH R Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 8 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_8 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/57302?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 10 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto Backup NO_10 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto Backup NO_10 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 14 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_14 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/6SHyY6/595088/57302?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_14 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "City Tv Backup No 2 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CITY TV TORONTO HD Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/57307?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CITY TV TORONTO HD Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Netv Alliptvlinks Com Canada Github (Canadianlocalstationsalliptvlinkscom) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NETV Toronto (720p) alliptvlinks.com",
+        "group_title_raw": "Canada github",
+        "logo_raw": "https://i.imgur.com/WXRBuOW.png",
+        "stream_url": "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "NETV Toronto (720p) alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/WXRBuOW.png",
+        "xmltv_categories": [
+          "Canada github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "City Tv Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CITY TV TORONTO HD alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57307?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CITY TV TORONTO HD alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch R Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH R alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/57259?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH R alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Alliptvlinks Com Undefined (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Global Toronto alliptvlinks.com",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https:///wlqYdqN.png",
+        "stream_url": "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Global Toronto alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": "https:///wlqYdqN.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV Backup No 5 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Kitchener Backup NO_5 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/6SHyY6/595088/58557?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Kitchener Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 3 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/753468/894568/57435?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 17 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_17 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/100576652/100576652/57435?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_17 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Backup No 5 Alliptvlinks Com Usa (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD Backup NO_5 alliptvlinks.com",
+        "group_title_raw": "USA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/100576652/100576652/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "USA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Weather Network Backup No 2 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Weather Network Toronto Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/57470?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Weather Network Toronto Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 4 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC TORONTO Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57306?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC TORONTO Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch E Backup No 4 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH E Backup NO_4 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/6SHyY6/595088/57393?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH E Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chch R Backup No 4 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH R Backup NO_4 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/6SHyY6/595088/57259?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH R Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ca106 City Alliptvlinks Com General (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA106:City Toronto alliptvlinks.com",
+        "group_title_raw": "CA General",
+        "logo_raw": null,
+        "stream_url": "http://abcnew.site:8880/JH12M3D196/fRV363z8kz/30208?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA106:City Toronto alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CA General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV R Backup No 4 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Toronto HD R Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/47296?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Toronto HD R Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV R Backup No 3 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Toronto HD R Backup NO_3 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/47296?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Toronto HD R Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV R Backup No 5 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Toronto HD R Backup NO_5 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/6SHyY6/595088/47296?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Toronto HD R Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 11 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_11 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/57302?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_11 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch E Backup No 1 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH E Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/753468/894568/57393?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH E Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 13 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto Backup NO_13 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto Backup NO_13 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV Backup No 8 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Kitchener Backup NO_8 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/100576652/100576652/58557?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Kitchener Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV Backup No 1 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Kitchener Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/753468/894568/58557?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Kitchener Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Backup No 2 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Kitchener Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/58557?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Kitchener Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV R Backup No 8 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Toronto HD (R) Backup NO_8 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/100576652/100576652/47296?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Toronto HD (R) Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chch Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH alliptvlinks.com",
+        "group_title_raw": "CA | 4K CANADA",
+        "logo_raw": null,
+        "stream_url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=19922&extension=ts&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CA",
+          "4K CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV R Backup No 7 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Toronto HD (R) Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/47296?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Toronto HD (R) Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 18 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: CBC TORONTO Backup NO_18 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/100576652/100576652/57306?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: CBC TORONTO Backup NO_18 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "City Tv D Backup No 1 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City TV Toronto D Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/753468/894568/57394?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City TV Toronto D Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 13 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_13 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/6SHyY6/595088/57435?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_13 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "City Tv Backup No 3 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CITY TV TORONTO HD Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/57307?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CITY TV TORONTO HD Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 18 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: GLOBAL TORONTO Backup NO_18 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/100576652/100576652/57302?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: GLOBAL TORONTO Backup NO_18 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 12 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_12 alliptvlinks.com",
+        "group_title_raw": "CA | 4K CANADA",
+        "logo_raw": null,
+        "stream_url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=147242&extension=ts&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_12 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CA",
+          "4K CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 7 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_7 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/57435?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/57435?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 16 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: GLOBAL TORONTO Backup NO_16 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57302?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: GLOBAL TORONTO Backup NO_16 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV R Backup No 6 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Toronto HD R Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/47296?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Toronto HD R Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 6 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57302?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch E Backup No 7 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH (E) Backup NO_7 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/100576652/100576652/57393?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH (E) Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 6 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC TORONTO Backup NO_6 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/57306?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC TORONTO Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "City Tv Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CITY TV TORONTO HD alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/57307?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CITY TV TORONTO HD alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Canada Niagara Falls 1 Alliptvlinks Com Live Webcam World (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Canada Toronto (Niagara) Falls 1 alliptvlinks.com",
+        "group_title_raw": "Live webcam world",
+        "logo_raw": null,
+        "stream_url": "https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Canada Toronto (Niagara) Falls 1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Live webcam world"
+        ]
+      }
+    },
+    {
+      "canonical_name": "City Tv D Backup No 6 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City TV Toronto (D) Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57394?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City TV Toronto (D) Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weather Network Backup No 7 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: Weather Network Toronto Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/57470?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: Weather Network Toronto Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch E Backup No 5 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH E Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57393?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH E Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Backup No 1 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch E Backup No 2 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH E Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/57393?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH E Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chch R Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH R alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57259?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH R alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Backup No 7 Alliptvlinks Com Usa (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD Backup NO_7 alliptvlinks.com",
+        "group_title_raw": "USA",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/vNay0H/219352/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "USA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "City Tv Backup No 4 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CITY TV TORONTO HD Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57307?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CITY TV TORONTO HD Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global News Alliptvlinks Com Canada Github (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Global News Toronto alliptvlinks.com",
+        "group_title_raw": "Canada github",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c77ab85b-1b15-4a76-bcb6-d0e12396d41a&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Global News Toronto alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Canada github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 3 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/X5xRz0/944877/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv D Backup No 4 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City TV Toronto D Backup NO_4 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/6SHyY6/595088/57394?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City TV Toronto D Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 1 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57435?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 15 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC TORONTO Backup NO_15 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57306?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC TORONTO Backup NO_15 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch E Backup No 3 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH E Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/57393?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH E Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ca168 CTV2 Alliptvlinks Com General (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA168 CTV2 London alliptvlinks.com",
+        "group_title_raw": "CA General",
+        "logo_raw": null,
+        "stream_url": "http://yesimes.oknirvana.club:8880/3ca7283n08/asdf23e3/30146?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA168 CTV2 London alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CA General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "City Tv D Backup No 2 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City TV Toronto D Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/5ybSS2/616430/57394?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City TV Toronto D Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 9 Alliptvlinks Com News (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC TORONTO Backup NO_9 alliptvlinks.com",
+        "group_title_raw": "CA | NEWS",
+        "logo_raw": null,
+        "stream_url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=225489&extension=ts&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC TORONTO Backup NO_9 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CA",
+          "NEWS"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chch E Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH E alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57393?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH E alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ca106 City Alliptvlinks Com General (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA106 City Toronto alliptvlinks.com",
+        "group_title_raw": "CA General",
+        "logo_raw": null,
+        "stream_url": "http://yesimes.oknirvana.club:8880/3ca7283n08/asdf23e3/30208?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA106 City Toronto alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CA General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 5 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Backup No 15 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA GLOBAL TORONTO Backup NO_15 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57435?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA GLOBAL TORONTO Backup NO_15 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weather Network Backup No 6 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Weather Network Toronto Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/57470?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Weather Network Toronto Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch R Backup No 3 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH R Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/57259?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH R Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "BBC Gaunda Punjab Not 24 7 Alliptvlinks Com Canada Github (Canadianlocalstationsalliptvlinkscom) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Toronto Gaunda Punjab (720p) [Not] [24/7] alliptvlinks.com",
+        "group_title_raw": "Canada github",
+        "logo_raw": "https://i.imgur.com/uSX4YXL.png",
+        "stream_url": "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Toronto Gaunda Punjab (720p) [Not] [24/7] alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/uSX4YXL.png",
+        "xmltv_categories": [
+          "Canada github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chch R Backup No 5 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH R Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57259?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH R Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv Backup No 5 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: CITY TV TORONTO HD Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57307?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: CITY TV TORONTO HD Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Backup No 4 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Kitchener Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/zcJ8BG/214917/58557?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Kitchener Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 1 Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Backup No 4 Alliptvlinks Com Usa (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD Backup NO_4 alliptvlinks.com",
+        "group_title_raw": "USA",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/nCqH8t/631017/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "USA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 14 Alliptvlinks Com Canada (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC TORONTO Backup NO_14 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://fortv.cc:8080/6SHyY6/595088/57306?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC TORONTO Backup NO_14 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "City Tv D Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City TV Toronto D alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57394?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City TV Toronto D alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Alliptvlinks Com (Canadianlocalstationsalliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Kitchener alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/58557?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Kitchener alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

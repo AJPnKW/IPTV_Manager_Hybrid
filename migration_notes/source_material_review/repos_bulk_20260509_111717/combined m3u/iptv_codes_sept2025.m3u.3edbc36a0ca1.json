@@ -1,0 +1,260 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\iptv_codes_sept2025.m3u",
+  "provider": "Iptvcodessept2025",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Xtream Global Iptv Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Xtream Global IPTV",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://www.luckonline.eu:80",
+        "xmltv_id": null,
+        "xmltv_display_name": "Xtream Global IPTV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Optimustv Canada A0 E1 F4 Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "OptimusTV Canada (A0:E1:F4)",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://optimus-tv.org:8080/c",
+        "xmltv_id": null,
+        "xmltv_display_name": "OptimusTV Canada (A0:E1:F4)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Optimustv Canada 6b Bf 79 Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "OptimusTV Canada (6B:BF:79)",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://optimus-tv.org:8080/c",
+        "xmltv_id": null,
+        "xmltv_display_name": "OptimusTV Canada (6B:BF:79)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hdmiclub Canada A3 8e 70 Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HDMIClub Canada (A3:8E:70)",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://hdmiclub.online:8080/c",
+        "xmltv_id": null,
+        "xmltv_display_name": "HDMIClub Canada (A3:8E:70)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hdmiclub Canada B6 Dc 08 Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HDMIClub Canada (B6:DC:08)",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://hdmiclub.online:8080/c",
+        "xmltv_id": null,
+        "xmltv_display_name": "HDMIClub Canada (B6:DC:08)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Netherlands Iptv B6 E0 7b Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Netherlands IPTV (B6:E0:7B)",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://45.139.122.199:8080/c",
+        "xmltv_id": null,
+        "xmltv_display_name": "Netherlands IPTV (B6:E0:7B)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Germany Iptv 41 Ce F9 Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Germany IPTV (41:CE:F9)",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://drks.info:8080/c",
+        "xmltv_id": null,
+        "xmltv_display_name": "Germany IPTV (41:CE:F9)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ultrabox Iptv Multi Mac Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "UltraBox IPTV (Multi-MAC)",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://ultra-box.club/c/",
+        "xmltv_id": null,
+        "xmltv_display_name": "UltraBox IPTV (Multi-MAC)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Danita Iptv 64 03 E2 Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Danita IPTV (64:03:E2)",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://danita.xyz/c/",
+        "xmltv_id": null,
+        "xmltv_display_name": "Danita IPTV (64:03:E2)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Trythisone Iptv 43 5c 2b Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TryThisOne IPTV (43:5C:2B)",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://ya.trythisone.cc/c/",
+        "xmltv_id": null,
+        "xmltv_display_name": "TryThisOne IPTV (43:5C:2B)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gfr5 Netherlands Iptv Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "GFR5 Netherlands IPTV",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://gfr5.mi20.cc/stalker_portal/c",
+        "xmltv_id": null,
+        "xmltv_display_name": "GFR5 Netherlands IPTV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wtc05 Netherlands Iptv Iptv (Iptvcodessept2025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WTC05 Netherlands IPTV",
+        "group_title_raw": "IPTV",
+        "logo_raw": null,
+        "stream_url": "http://wtc05.mi20.cc/stalker_portal/c",
+        "xmltv_id": null,
+        "xmltv_display_name": "WTC05 Netherlands IPTV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "IPTV"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2808 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\merged_example.m3u",
+  "provider": "Mergedexample",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Usa Britbox Mysteries Alliptvlinks Com (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA BRITBOX MYSTERIES alliptvlinks.com",
+        "group_title_raw": "PLUTO",
+        "logo_raw": null,
+        "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5d389985a0c0007357304/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "USA BRITBOX MYSTERIES alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "PLUTO"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS Kpix Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBS CA SAN FRANCISCO KPIX Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/120657?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBS CA SAN FRANCISCO KPIX Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Peachtree Tv R Backup No 8 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Peachtree TV HD (R) Backup NO_8 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/47362?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Peachtree TV HD (R) Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Sci Fi Channel B Backup No 7 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Sci Fi Channel (B) Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57253?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Sci Fi Channel (B) Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crave 1 Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CRAVE 1 HD Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57309?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CRAVE 1 HD Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Ontario Backup No 5 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Barrie Ontario HD Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57373?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Barrie Ontario HD Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV2 Island E Backup No 4 Alliptvlinks Com Canada (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV2 VANCOUVER ISLAND E Backup NO_4 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/nCqH8t/631017/136612?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV2 VANCOUVER ISLAND E Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV Life E Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV LIFE E alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/116506?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV LIFE E alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv D Backup No 6 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA City TV Toronto D Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57394?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA City TV Toronto D Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Msnbc R Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA MSNBC R Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/47332?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA MSNBC R Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Amc Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA AMC alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57376?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA AMC alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Backup No 7 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Sci Fi Channel B Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Sci Fi Channel B Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57253?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Sci Fi Channel B Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crimetime Alliptvlinks Com Canada Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CrimeTime alliptvlinks.com",
+        "group_title_raw": "Canada github",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e93b8eb8e02600071f8b1d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b866-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f6712973-8faa-4699-8910-6209c1b7a19d&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CrimeTime alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Canada github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Msnbc R Backup No 3 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA MSNBC R Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/47332?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA MSNBC R Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviesphere By Lionsgate Alliptvlinks Com Canada Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere by Lionsgate alliptvlinks.com",
+        "group_title_raw": "Canada github",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41f0c8e5-55e6-4740-a854-15ac608b8c65&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "MovieSphere by Lionsgate alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Canada github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Jack Hannah Channel Alliptvlinks Com Undefined Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Jack Hannah Channel alliptvlinks.com",
+        "group_title_raw": "Undefined github",
+        "logo_raw": null,
+        "stream_url": "https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Jack Hannah Channel alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 3 Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CRAVE 3 Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57322?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CRAVE 3 Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Diy Network Backup No 7 Alliptvlinks Com (Mergedexample) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CA: DIY NETWORK FHD Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/47258?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: DIY NETWORK FHD Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Life E Backup No 8 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV LIFE E Backup NO_8 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Rme2Fg/183926/116506?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV LIFE E Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dejaview B Backup No 6 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Dejaview HD B Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Rme2Fg/183926/122001?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Dejaview HD B Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mytime Movies Alliptvlinks Com Undefined Github (Mergedexample) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Mytime Movies (1080p) alliptvlinks.com",
+        "group_title_raw": "Undefined github",
+        "logo_raw": null,
+        "stream_url": "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mytime Movies (1080p) alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 13 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto Backup NO_13 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto Backup NO_13 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CNN Backup No 3 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CNN Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/47213?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CNN Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "HBO 1 Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA HBO 1 Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57437?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA HBO 1 Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Peachtree Tv R Backup No 7 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Peachtree TV HD (R) Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/47362?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Peachtree TV HD (R) Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Slice Tv Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Slice TV alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57274?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Slice TV alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CITY TV TORONTO HD Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57307?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CITY TV TORONTO HD Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV2 Backup No 6 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV2 Vancouver Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57316?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV2 Vancouver Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Showcase Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Showcase HD alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/47366?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Showcase HD alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Life E Backup No 2 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV LIFE E Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/116506?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV LIFE E Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS Kpix Backup No 5 Alliptvlinks Com Usa News Regionals (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBS CA SAN FRANCISCO KPIX Backup NO_5 alliptvlinks.com",
+        "group_title_raw": "USA | NEWS | REGIONALS",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/nCqH8t/631017/120657?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBS CA SAN FRANCISCO KPIX Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "USA",
+          "NEWS",
+          "REGIONALS"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV News Channel Backup No 7 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: CTV NEWS CHANNEL HD Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57350?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: CTV NEWS CHANNEL HD Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Msnbc R Backup No 5 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA MSNBC (R) Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/47332?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA MSNBC (R) Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Sci Fi Channel B Backup No 6 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Sci Fi Channel B Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57253?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Sci Fi Channel B Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CNN Backup No 13 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CNN Backup NO_13 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/47213?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CNN Backup NO_13 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Peachtree Tv R Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Peachtree TV HD R alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/47362?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Peachtree TV HD R alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Movietime Backup No 7 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: MOVIETIME HD Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/47331?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: MOVIETIME HD Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV2 Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV2 Vancouver Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57316?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV2 Vancouver Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Beyond History Alliptvlinks Com Undefined (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Beyond History alliptvlinks.com",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb9844db5a4a0007ebc2a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a42-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3e7f565-b65d-418f-9f3a-1da5e2c255f3&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Beyond History alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV Life E Backup No 4 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV LIFE E Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/116506?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV LIFE E Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv Backup No 5 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CITY TV TORONTO HD Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57307?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CITY TV TORONTO HD Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Haunttv Alliptvlinks Com Canada Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HauntTV alliptvlinks.com",
+        "group_title_raw": "Canada github",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63934c218ef524000757b122/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=25722e97-3227-46ed-84fd-718e848f28de&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "HauntTV alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Canada github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV Sci Fi Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV SCI FI alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57464?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV SCI FI alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FX Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA FX HD Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57268?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA FX HD Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Showcase Backup No 2 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Showcase HD Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/47366?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Showcase HD Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch E Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CHCH E Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57393?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CHCH E Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crave 2 Backup No 6 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: CRAVE 2 HD Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57310?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: CRAVE 2 HD Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Sci Fi Backup No 2 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV SCI FI Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57464?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV SCI FI Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Amc Backup No 2 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA AMC Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57376?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA AMC Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Amc Backup No 7 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: AMC Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57376?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: AMC Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Wild R Backup No 3 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA National Geographic Wild R Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57450?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA National Geographic Wild R Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Slice Tv Backup No 2 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Slice TV Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57274?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Slice TV Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Backup No 3 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA NATIONAL GEOGRAPHIC Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/47339?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA NATIONAL GEOGRAPHIC Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tv Ontario Backup No 5 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA TV Ontario HD Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/25464931/30585186/57369?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA TV Ontario HD Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Beyond History Backup No 1 Alliptvlinks Com Undefined Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Beyond History Backup NO_1 alliptvlinks.com",
+        "group_title_raw": "Undefined github",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb9844db5a4a0007ebc2a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a42-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3e7f565-b65d-418f-9f3a-1da5e2c255f3&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Beyond History Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox Wnyw F Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US FOX (WNYW) New York F Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/120750?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US FOX (WNYW) New York F Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Starz Cinema Alliptvlinks Com (Mergedexample) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Starz Cinema (East) alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/17775?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Starz Cinema (East) alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cbsn D Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CBSN New York D alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/46754?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CBSN New York D alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Alliptvlinks Com Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AU ABC alliptvlinks.com",
+        "group_title_raw": "github",
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-nsw.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "AU ABC alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FXX Backup No 5 Alliptvlinks Com Usa (Mergedexample) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US FXX (East) Backup NO_5 alliptvlinks.com",
+        "group_title_raw": "USA",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/nCqH8t/631017/46699?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US FXX (East) Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "USA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CW Pix11 Wpix Backup No 6 Alliptvlinks Com Usa News Regionals (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CW PIX11 (WPIX) New York Backup NO_6 alliptvlinks.com",
+        "group_title_raw": "USA | NEWS | REGIONALS",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/nCqH8t/631017/120897?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CW PIX11 (WPIX) New York Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "USA",
+          "NEWS",
+          "REGIONALS"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Movie Channel Alliptvlinks Com Movies (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV MOVIE CHANNEL alliptvlinks.com",
+        "group_title_raw": "Movies",
+        "logo_raw": null,
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pluto TV MOVIE CHANNEL alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Channel 44 Alliptvlinks Com Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AU Channel 44 alliptvlinks.com",
+        "group_title_raw": "github",
+        "logo_raw": null,
+        "stream_url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "AU Channel 44 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 3 Backup No 5 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CRAVE 3 Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57322?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CRAVE 3 Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Starz S Backup No 4 Alliptvlinks Com (Mergedexample) (West) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Starz West S Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/21091?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Starz West S Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 16 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: CBC TORONTO Backup NO_16 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57306?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: CBC TORONTO Backup NO_16 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Kabc Tv Alliptvlinks Com General Github (Mergedexample) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Los Angeles CA (KABC-TV) (720p) alliptvlinks.com",
+        "group_title_raw": "General github",
+        "logo_raw": null,
+        "stream_url": "https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "ABC 7 Los Angeles CA (KABC-TV) (720p) alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "General github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Wabc A Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US abc 7 (WABC) New York A Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/121139?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US abc 7 (WABC) New York A Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dejaview B Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Dejaview HD B alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/122001?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Dejaview HD B alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Knbc F Backup No 2 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US NBC (KNBC) Los Angeles F Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/120656?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US NBC (KNBC) Los Angeles F Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CNN Backup No 2 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CNN Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/1817?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CNN Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Syfy Alliptvlinks Com Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Syfy alliptvlinks.com",
+        "group_title_raw": "github",
+        "logo_raw": null,
+        "stream_url": "http://212.102.60.231/SYFY/index.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Syfy alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Channel 7 Two Alliptvlinks Com Aus Australia (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AU Channel 7 TWO alliptvlinks.com",
+        "group_title_raw": "AUS | AUSTRALIA",
+        "logo_raw": null,
+        "stream_url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=269463&extension=ts&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "AU Channel 7 TWO alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "AUS",
+          "AUSTRALIA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount Network Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Paramount Network alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/46694?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Paramount Network alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 3 Backup No 10 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA TSN 3 HD Backup NO_10 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/25464931/30585186/47444?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA TSN 3 HD Backup NO_10 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Paramount Network Backup No 5 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Paramount Network Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/16201?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Paramount Network Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cinemax Backup No 1 Alliptvlinks Com (Mergedexample) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Cinemax (East) Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/13380?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Cinemax (East) Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "BBC Earth Backup No 10 Alliptvlinks Com Canada (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA | BBC EARTH Backup NO_10 alliptvlinks.com",
+        "group_title_raw": "CANADA",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/nCqH8t/631017/99621?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA | BBC EARTH Backup NO_10 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FXX Alliptvlinks Com (Mergedexample) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US FXX (East) alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/46699?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US FXX (East) alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Wnyw F Backup No 4 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US FOX (WNYW) New York F Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Rme2Fg/183926/120750?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US FOX (WNYW) New York F Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Amc Backup No 7 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US AMC Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/18925?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US AMC Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Knbc F Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US NBC (KNBC) Los Angeles F alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/120656?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US NBC (KNBC) Los Angeles F alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CNN Backup No 17 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CNN Backup NO_17 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/104884?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CNN Backup NO_17 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CNN Backup No 16 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CNN Backup NO_16 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/1817?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CNN Backup NO_16 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Epix Drive In S Backup No 8 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Epix Drive IN S Backup NO_8 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/14193?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Epix Drive IN S Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Discovery Channel Backup No 18 Alliptvlinks Com (Mergedexample) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Discovery Channel (East) Backup NO_18 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Rme2Fg/183926/46720?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Discovery Channel (East) Backup NO_18 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 2 Wcbs Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CBS 2 (WCBS) NEW YORK Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/120749?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CBS 2 (WCBS) NEW YORK Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Ontario Backup No 6 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Barrie Ontario HD Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57373?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Barrie Ontario HD Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Investigation Discovery Alliptvlinks Com Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Investigation Discovery alliptvlinks.com",
+        "group_title_raw": "github",
+        "logo_raw": null,
+        "stream_url": "http://thevdm.xyz:25461/timmadden/timmad4765/31434?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Investigation Discovery alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Moviesphere By Lionsgate Backup No 1 Alliptvlinks Com Undefined Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere by Lionsgate Backup NO_1 alliptvlinks.com",
+        "group_title_raw": "Undefined github",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "MovieSphere by Lionsgate Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FX Backup No 6 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: FX HD Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57268?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: FX HD Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA National Geographic HD Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/47338?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA National Geographic HD Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Syfy Backup No 6 Alliptvlinks Com (Mergedexample) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Syfy (East) Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Rme2Fg/183926/46685?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Syfy (East) Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dejaview B Backup No 4 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Dejaview HD B Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/122001?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Dejaview HD B Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Wild R Backup No 6 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA National Geographic Wild (R) Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57450?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA National Geographic Wild (R) Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global Alliptvlinks Com Undefined (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Global Toronto alliptvlinks.com",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Global Toronto alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Food Network Backup No 2 Alliptvlinks Com General (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "|UK| FOOD NETWORK HD Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "UK | GENERAL",
+        "logo_raw": null,
+        "stream_url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=339631&extension=ts&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "|UK| FOOD NETWORK HD Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "UK",
+          "GENERAL"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount Picks Backup No 2 Alliptvlinks Com Undefined (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount+ Picks Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86df5336-6268-4928-9b7d-3af618ca807b&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Paramount+ Picks Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBC Backup No 3 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC TORONTO Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57306?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC TORONTO Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Paramount Network Backup No 6 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Paramount Network Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/46694?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Paramount Network Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crave 4 Backup No 8 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA: CRAVE 4 HD Backup NO_8 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/57311?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA: CRAVE 4 HD Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FXX Backup No 10 Alliptvlinks Com (Mergedexample) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US FXX (East) Backup NO_10 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/46699?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US FXX (East) Backup NO_10 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Movies Alliptvlinks Com Movies (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Movies alliptvlinks.com",
+        "group_title_raw": "Movies",
+        "logo_raw": null,
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=eddfafe3-0584-11eb-82fe-0242ac110002&deviceId=5c5c3b948002db3c3e0b262e&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pluto TV Movies alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtv2 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US MTV2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/9308?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US MTV2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mtv Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US MTV alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/9818?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US MTV alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Usa America S Test Kitchen Alliptvlinks Com (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA AMERICA'S TEST KITCHEN alliptvlinks.com",
+        "group_title_raw": "PLUTO",
+        "logo_raw": null,
+        "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "USA AMERICA'S TEST KITCHEN alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "PLUTO"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Entertains Alliptvlinks Com Github (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AU ABC Entertains alliptvlinks.com",
+        "group_title_raw": "github",
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-me.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "AU ABC Entertains alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Moviesphere By Lionsgate Backup No 2 Alliptvlinks Com Undefined (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere by Lionsgate Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "MovieSphere by Lionsgate Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz S Backup No 1 Alliptvlinks Com (Mergedexample) (West) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Starz West S Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/21091?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Starz West S Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cbsn D Backup No 2 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CBSN New York D Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/46754?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CBSN New York D Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 3 Backup No 9 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA TSN 3 HD Backup NO_9 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/25464931/30585186/10389?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA TSN 3 HD Backup NO_9 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "10 Shake D Backup No 4 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AU 10 Shake Perth D Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/25464931/30585186/121002?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "AU 10 Shake Perth D Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CW Pix11 Wpix Backup No 5 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CW PIX11 (WPIX) New York Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/120897?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CW PIX11 (WPIX) New York Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Syfy Backup No 1 Alliptvlinks Com (Mergedexample) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Syfy (East) Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/46685?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Syfy (East) Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Usa Cbsn Alliptvlinks Com (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA CBSN LOS ANGELES alliptvlinks.com",
+        "group_title_raw": "PLUTO",
+        "logo_raw": null,
+        "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "USA CBSN LOS ANGELES alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "PLUTO"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Usa British Drama Alliptvlinks Com (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA BRITISH DRAMA alliptvlinks.com",
+        "group_title_raw": "PLUTO",
+        "logo_raw": null,
+        "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "USA BRITISH DRAMA alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "PLUTO"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nat Geo Wild Alliptvlinks Com Documentary (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "UK NAT GEO WILD alliptvlinks.com",
+        "group_title_raw": "UK | DOCUMENTARY",
+        "logo_raw": null,
+        "stream_url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=12512&extension=ts&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "UK NAT GEO WILD alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "UK",
+          "DOCUMENTARY"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ion Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US ION alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/9297?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US ION alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Intv Australia Alliptvlinks Com Music Github (Mergedexample) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "INTV Australia (720p) alliptvlinks.com",
+        "group_title_raw": "Music github",
+        "logo_raw": null,
+        "stream_url": "http://tv1.intv.mk:1935/live/intv/index.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "INTV Australia (720p) alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Music github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 8 Kfmb Tv Alliptvlinks Com Worldwide Github (Mergedexample) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 8 San Diego (KFMB-TV) (1080p) alliptvlinks.com",
+        "group_title_raw": "Worldwide github",
+        "logo_raw": null,
+        "stream_url": "https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBS 8 San Diego (KFMB-TV) (1080p) alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Worldwide github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "National Geographic Wild R Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA National Geographic Wild R Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57450?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA National Geographic Wild R Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Backup No 3 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA National Geographic HD Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/47338?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA National Geographic HD Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Sci Fi Backup No 5 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV SCI FI Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/25464931/30585186/57464?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV SCI FI Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CNN Backup No 3 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CNN Backup NO_3 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/104884?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CNN Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Antenna Tv Backup No 8 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Antenna TV Backup NO_8 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/20180?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Antenna TV Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "10 Shake D Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AU 10 Shake Perth D Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/121002?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "AU 10 Shake Perth D Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Wabc Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US abc 7 (WABC) New York alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/121139?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US abc 7 (WABC) New York alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Starz Cinema H Alliptvlinks Com (Mergedexample) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Starz Cinema (East) H alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/9301?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Starz Cinema (East) H alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Knbc F Backup No 8 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US NBC (KNBC) Los Angeles (F) Backup NO_8 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/120656?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US NBC (KNBC) Los Angeles (F) Backup NO_8 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Britbox Mysteries Backup No 1 Alliptvlinks Com Undefined (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BritBox Mysteries Backup NO_1 alliptvlinks.com",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f5d389985a0c0007357304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7df7400e-1d21-4d2c-9534-db1c6d847a42&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "BritBox Mysteries Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "10 Shake D Backup No 5 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AU 10 Shake Perth D Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/121002?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "AU 10 Shake Perth D Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tv Ontario Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA TV Ontario HD alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57369?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA TV Ontario HD alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cbsn D Backup No 5 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CBSN New York D Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/25464931/30585186/46754?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CBSN New York D Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CW Pix11 Wpix Backup No 7 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CW PIX11 (WPIX) New York Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/120897?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CW PIX11 (WPIX) New York Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "10 Shake D Backup No 7 Alliptvlinks Com Australia (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AU 10 Shake Perth D Backup NO_7 alliptvlinks.com",
+        "group_title_raw": "Australia",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/nCqH8t/631017/121002?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "AU 10 Shake Perth D Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Australia"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Abc10 Kgtv Backup No 4 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US abc10 (KGTV) San Diego Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/hq3y4G/234247/121176?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US abc10 (KGTV) San Diego Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Knbc F Backup No 6 Alliptvlinks Com Usa News Regionals (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US NBC (KNBC) Los Angeles F Backup NO_6 alliptvlinks.com",
+        "group_title_raw": "USA | NEWS | REGIONALS",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/nCqH8t/631017/120656?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US NBC (KNBC) Los Angeles F Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "USA",
+          "NEWS",
+          "REGIONALS"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FXX Backup No 4 Alliptvlinks Com (Mergedexample) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US FXX (East) Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/46699?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US FXX (East) Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CBC Toronto alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57260?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CBC Toronto alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Discovery Velocity Backup No 3 Alliptvlinks Com Usa (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Discovery Velocity HD Backup NO_3 alliptvlinks.com",
+        "group_title_raw": "USA",
+        "logo_raw": null,
+        "stream_url": "http://tvmate.icu:8080/nCqH8t/631017/46212?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Discovery Velocity HD Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "USA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Wabc Backup No 1 Alliptvlinks Com (Mergedexample) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US abc 7 (WABC) New York Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/Rme2Fg/183926/121139?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US abc 7 (WABC) New York Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

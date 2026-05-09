@@ -1,0 +1,37 @@
+﻿promotion_candidates
+total_candidate_files=837
+total_candidate_bytes=1009995857
+
+by_root
+
+candidate_root                                                                                                     file_count total_bytes
+--------------                                                                                                     ---------- -----------
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\iptv__C42511BE\streams                                           304     2304026
+C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u                                                         200    15187309
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\IPTV-ChannelStudio\data\raw\Processed\08-21-2025_00-06-45        121    83051292
+C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg                                                         102   254744512
+C:\Users\andrew\PROJECTS\GitHub\get_xmltvlisting\IPTV                                                                      65   510262695
+C:\X1_Share\IPTV_load_files                                                                                                45   144446023
+
+
+
+
+by_extension
+
+Count Name 
+----- ---- 
+  592 .m3u 
+  126 .xml 
+   67 .gz  
+   17 .m3u8
+   10 .json
+    8 .csv 
+    6 .html
+    3 .bak 
+    3 .txt 
+    2 .xlsx
+    2 .py  
+    1 .ini 
+
+
+

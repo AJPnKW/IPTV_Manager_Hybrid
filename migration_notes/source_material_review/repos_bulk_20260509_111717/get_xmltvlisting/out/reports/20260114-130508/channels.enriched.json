@@ -1,0 +1,7219 @@
+[
+  {
+    "channel_id": "10011.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NYC Life (WNYE-DT1) New York, NY",
+      "WNYE-TV",
+      "25"
+    ],
+    "full_name": "NYC Life (WNYE-DT1) New York, NY",
+    "call_sign": "WNYE-TV",
+    "channel_number": "25",
+    "url": "WWW.WNYE.NYCENET.EDU",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26196_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "10026.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FX Networks Canada",
+      "FX",
+      "331"
+    ],
+    "full_name": "FX Networks Canada",
+    "call_sign": "FX",
+    "channel_number": "331",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s73681_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10027.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FX Networks Canada HD",
+      "FXHD",
+      "1331"
+    ],
+    "full_name": "FX Networks Canada HD",
+    "call_sign": "FXHD",
+    "channel_number": "1331",
+    "url": "www.fxcanada.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s73682_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10042.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Sci-Fi HD",
+      "CTVSc-HD",
+      "1627"
+    ],
+    "full_name": "CTV Sci-Fi HD",
+    "call_sign": "",
+    "channel_number": "1627",
+    "url": "WWW.SPACECAST.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s72484_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10043.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "BNN Bloomberg HD",
+      "BNNB-HD",
+      "1504"
+    ],
+    "full_name": "BNN Bloomberg HD",
+    "call_sign": "BNNB-HD",
+    "channel_number": "1504",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s73963_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10044.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Wild Canada HD",
+      "CTVWLD-HD",
+      "1525"
+    ],
+    "full_name": "CTV Wild Canada HD",
+    "call_sign": "CTVWLD-HD",
+    "channel_number": "1525",
+    "url": "https://www.ctv.ca/wild",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s74041_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1011.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Freeform - East Feed",
+      "FREE",
+      "122"
+    ],
+    "full_name": "Freeform - East Feed",
+    "call_sign": "FREE",
+    "channel_number": "122",
+    "url": "www.freeform.go.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10093_h15_ae.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1019.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Comedy - West",
+      "CTVComW",
+      "626"
+    ],
+    "full_name": "CTV Comedy - West",
+    "call_sign": "",
+    "channel_number": "626",
+    "url": "WWW.COMCENTRAL.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17595_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10264.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CW (KFMB-TV2) San Diego, CA",
+      "KFMB-TV2",
+      "395"
+    ],
+    "full_name": "CW (KFMB-TV2) San Diego, CA",
+    "call_sign": "KFMB-TV2",
+    "channel_number": "395",
+    "url": "WWW.KFMB.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s51306_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "10294.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "BBC News - North America HD",
+      "BBCWHD",
+      "346",
+      "1510"
+    ],
+    "full_name": "BBC News - North America HD",
+    "call_sign": "BBCWHD",
+    "channel_number": "346",
+    "url": "www.bbcworld.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s36844_h15_ad.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10299.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Explora HD",
+      "EXPLHD",
+      "1126"
+    ],
+    "full_name": "Explora HD",
+    "call_sign": "EXPLHD",
+    "channel_number": "1126",
+    "url": "www.artv.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s75054_h9_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1030.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Paramount Network USA - Eastern Feed",
+      "PRMT",
+      "116"
+    ],
+    "full_name": "Paramount Network USA - Eastern Feed",
+    "call_sign": "PRMT",
+    "channel_number": "116",
+    "url": "www.spiketv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11163_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "10331.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cartoon Network Canada - East HD",
+      "CRTN-HD",
+      "1554"
+    ],
+    "full_name": "Cartoon Network Canada - East HD",
+    "call_sign": "CRTN-HD",
+    "channel_number": "1554",
+    "url": "www.teletoon.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s75456_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10497.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Localish (WABC-DT2) New York, NY",
+      "WABC-TV2",
+      "1240"
+    ],
+    "full_name": "Localish (WABC-DT2) New York, NY",
+    "call_sign": "WABC-TV2",
+    "channel_number": "1240",
+    "url": "www.abc7ny.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s70938_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1053.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Disney XD USA - Eastern Feed",
+      "DISNXD",
+      "60"
+    ],
+    "full_name": "Disney XD USA - Eastern Feed",
+    "call_sign": "DISNXD",
+    "channel_number": "60",
+    "url": "disneyxd.disney.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18279_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1054.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Food Network USA - Eastern Feed",
+      "FOOD",
+      "50"
+    ],
+    "full_name": "Food Network USA - Eastern Feed",
+    "call_sign": "FOOD",
+    "channel_number": "50",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s12574_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "10643.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "WLNY TV10/55, Riverhead, NY HD",
+      "WLNYHD",
+      "1232"
+    ],
+    "full_name": "WLNY TV10/55, Riverhead, NY HD",
+    "call_sign": "WLNYHD",
+    "channel_number": "1232",
+    "url": "www.wlnytv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s12492_h9_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1066.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MOVIEplex - Eastern",
+      "PLEX",
+      "620"
+    ],
+    "full_name": "MOVIEplex - Eastern",
+    "call_sign": "PLEX",
+    "channel_number": "620",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s15295_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "10686.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS (KCTS) Seattle, WA HD",
+      "KCTS-HD",
+      "1289"
+    ],
+    "full_name": "PBS (KCTS) Seattle, WA HD",
+    "call_sign": "KCTS-HD",
+    "channel_number": "1289",
+    "url": "www.kcts.org/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11039_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10691.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Boomerang Canada HD",
+      "BOOMH",
+      "1567"
+    ],
+    "full_name": "Boomerang Canada HD",
+    "call_sign": "BOOMH",
+    "channel_number": "1567",
+    "url": "www.teletoon.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s76222_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "107.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBMT) Montreal, QC",
+      "CBMT",
+      "268"
+    ],
+    "full_name": "CBC (CBMT) Montreal, QC",
+    "call_sign": "CBMT",
+    "channel_number": "268",
+    "url": "www.montreal.cbc.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10745.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Antenna (WPIX2) New York, NY",
+      "WPIX2",
+      "1260"
+    ],
+    "full_name": "Antenna (WPIX2) New York, NY",
+    "call_sign": "WPIX2",
+    "channel_number": "1260",
+    "url": "WWW.WB11.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/50777-18CB2.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "10749.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TeleXitos (WNJU2) Teterboro, NJ",
+      "WNJU2",
+      "1288"
+    ],
+    "full_name": "TeleXitos (WNJU2) Teterboro, NJ",
+    "call_sign": "WNJU2",
+    "channel_number": "1288",
+    "url": "WWW.NOTICIERO47.NET",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s74299_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "10750.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Buzzr TV (WWOR-TV3) New York, NY",
+      "WWOR-TV3",
+      "1265"
+    ],
+    "full_name": "Buzzr TV (WWOR-TV3) New York, NY",
+    "call_sign": "WWOR-TV3",
+    "channel_number": "1265",
+    "url": "WWW.UPN9.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s93430_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1076.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CMT US - Eastern Feed",
+      "CMTUS",
+      "327",
+      "293"
+    ],
+    "full_name": "CMT US - Eastern Feed",
+    "call_sign": "CMTUS",
+    "channel_number": "327",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10138_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "10769.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Nature Canada HD",
+      "NATHD",
+      "1523"
+    ],
+    "full_name": "CTV Nature Canada HD",
+    "call_sign": "NATHD",
+    "channel_number": "1523",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s76887_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10770.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV News Channel HD",
+      "CTVN-HD",
+      "1501"
+    ],
+    "full_name": "CTV News Channel HD",
+    "call_sign": "CTVN-HD",
+    "channel_number": "1501",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s76921_h9_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10771.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Comedy - East HD",
+      "CTVCom-HD",
+      "1625"
+    ],
+    "full_name": "CTV Comedy - East HD",
+    "call_sign": "",
+    "channel_number": "1625",
+    "url": "THECOMEDYNETWORK.CA/PROG.ASP",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s76863_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10772.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Comedy - West HD",
+      "CTVComW-HD",
+      "1626"
+    ],
+    "full_name": "CTV Comedy - West HD",
+    "call_sign": "",
+    "channel_number": "1626",
+    "url": "WWW.COMCENTRAL.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s80637_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10781.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crave4 HD",
+      "CRVM4HD",
+      "1303"
+    ],
+    "full_name": "Crave4 HD",
+    "call_sign": "CRVM4HD",
+    "channel_number": "1303",
+    "url": "www.themovienetwork.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/crave4.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10783.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "STARZ2 - East HD",
+      "STARZ2EHD",
+      "1305"
+    ],
+    "full_name": "STARZ2 - East HD",
+    "call_sign": "",
+    "channel_number": "1305",
+    "url": "www.starz.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s77045_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10809.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CP24 (CablePulse 24) HD",
+      "CP24-HD",
+      "1503"
+    ],
+    "full_name": "CP24 (CablePulse 24) HD",
+    "call_sign": "CP24-HD",
+    "channel_number": "1503",
+    "url": "www.cp24.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s94289_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1083.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Fox News",
+      "FNC",
+      "44"
+    ],
+    "full_name": "Fox News",
+    "call_sign": "FNC",
+    "channel_number": "44",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16374_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ],
+    "canonical_name": "Fox News",
+    "mapping_type": "specialty",
+    "mapping_country": "",
+    "mapping_feed": ""
+  },
+  {
+    "channel_id": "1088.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MSG Plus",
+      "MSG+",
+      "635",
+      "48"
+    ],
+    "full_name": "MSG Plus",
+    "call_sign": "",
+    "channel_number": "635",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11105_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "10881.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "American Heroes Channel HD",
+      "AHC-HD",
+      "1631"
+    ],
+    "full_name": "American Heroes Channel HD",
+    "call_sign": "AHC-HD",
+    "channel_number": "1631",
+    "url": "www.ahctv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s78808_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10893.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Super Channel Vault HD",
+      "VAULT-HD",
+      "1328"
+    ],
+    "full_name": "Super Channel Vault HD",
+    "call_sign": "VAULT-HD",
+    "channel_number": "1328",
+    "url": "www.superchannel.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s80167_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10894.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Super Channel Quest HD",
+      "SCGNX",
+      "1329"
+    ],
+    "full_name": "Super Channel Quest HD",
+    "call_sign": "SCGNX",
+    "channel_number": "1329",
+    "url": "www.superchannel.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s80168_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "10919.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cozi (WNBC-DT2) New York, NY",
+      "WNBC2",
+      "1245"
+    ],
+    "full_name": "Cozi (WNBC-DT2) New York, NY",
+    "call_sign": "WNBC2",
+    "channel_number": "1245",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s78851_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "110.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBWT) Winnipeg, MB",
+      "CBWT",
+      "270"
+    ],
+    "full_name": "CBC (CBWT) Winnipeg, MB",
+    "call_sign": "CBWT",
+    "channel_number": "270",
+    "url": "www.cbc.ca/manitoba",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "11012.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "National Geographic Wild Canada HD",
+      "NGWILD",
+      "1530"
+    ],
+    "full_name": "National Geographic Wild Canada HD",
+    "call_sign": "NGWILD",
+    "channel_number": "1530",
+    "url": "WWW.NATGEOCHANNEL.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s75451_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "11044.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Lifetime TV - Canada HD",
+      "LIFE",
+      "1335"
+    ],
+    "full_name": "Lifetime TV - Canada HD",
+    "call_sign": "LIFE",
+    "channel_number": "1335",
+    "url": "www.showcase.ca/diva",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s81202_h15_af.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "11045.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Start TV (WCBS-TV2) New York, NY",
+      "WCBS-TV2",
+      "1255"
+    ],
+    "full_name": "Start TV (WCBS-TV2) New York, NY",
+    "call_sign": "WCBS-TV2",
+    "channel_number": "1255",
+    "url": "https://www.cbsnews.com/newyork/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s109454_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "11048.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Movies! (WNYW2) New York, NY",
+      "WNYW2",
+      "1250"
+    ],
+    "full_name": "Movies! (WNYW2) New York, NY",
+    "call_sign": "WNYW2",
+    "channel_number": "1250",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s81275_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "11074.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NYC Gov (WNYE-DT2) New York, NY",
+      "WNYE-TV2",
+      "74"
+    ],
+    "full_name": "NYC Gov (WNYE-DT2) New York, NY",
+    "call_sign": "WNYE-TV2",
+    "channel_number": "74",
+    "url": "WWW.WNYE.NYCENET.EDU",
+    "icon_src": "",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "11143.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "DTOUR",
+      "618"
+    ],
+    "full_name": "DTOUR",
+    "call_sign": "DTOUR",
+    "channel_number": "618",
+    "url": "corusent.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17693_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1120.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Oxygen True Crime Canada",
+      "OXYG",
+      "528"
+    ],
+    "full_name": "Oxygen True Crime Canada",
+    "call_sign": "OXYG",
+    "channel_number": "528",
+    "url": "https://www.ctv.ca/oxygen-true-crime",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26884_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "11285.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Treehouse HD",
+      "TREEHD",
+      "1560"
+    ],
+    "full_name": "Treehouse HD",
+    "call_sign": "TREEHD",
+    "channel_number": "1560",
+    "url": "treehousetv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s80173_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "11293.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Life HD",
+      "CTVLife HD",
+      "1604"
+    ],
+    "full_name": "CTV Life HD",
+    "call_sign": "",
+    "channel_number": "1604",
+    "url": "www.gustotv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s82984_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "11320.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Hollywood Suite On Demand",
+      "HSOD",
+      "1314"
+    ],
+    "full_name": "Hollywood Suite On Demand",
+    "call_sign": "HSOD",
+    "channel_number": "1314",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/73572-23EC8.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "11325.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CMT Canada HD",
+      "CMTHD",
+      "1575"
+    ],
+    "full_name": "CMT Canada HD",
+    "call_sign": "CMTHD",
+    "channel_number": "1575",
+    "url": "www.cmtcanada.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s80176_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "11335.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS (WNET) New York, NY HD",
+      "WNET-HD",
+      "1221"
+    ],
+    "full_name": "PBS (WNET) New York, NY HD",
+    "call_sign": "WNET-HD",
+    "channel_number": "1221",
+    "url": "www.wnet.org/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11039_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "11345.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Investigation HD",
+      "INVESHD",
+      "1127"
+    ],
+    "full_name": "Investigation HD",
+    "call_sign": "INVESHD",
+    "channel_number": "1127",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s88753_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "114.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBAT) Fredericton, NB",
+      "CBAT",
+      "266"
+    ],
+    "full_name": "CBC (CBAT) Fredericton, NB",
+    "call_sign": "CBAT",
+    "channel_number": "266",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "11405.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Smithsonian Channel Canada HD",
+      "SMITHHD",
+      "1663"
+    ],
+    "full_name": "Smithsonian Channel Canada HD",
+    "call_sign": "SMITHHD",
+    "channel_number": "1663",
+    "url": "www.smithsonianchannel.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s53121_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1148.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Lifetime TV - Canada",
+      "LIFE",
+      "335"
+    ],
+    "full_name": "Lifetime TV - Canada",
+    "call_sign": "LIFE",
+    "channel_number": "335",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26768_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "11485.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MGM+ Hits- East",
+      "MGMHIT",
+      "597"
+    ],
+    "full_name": "MGM+ Hits- East",
+    "call_sign": "MGMHIT",
+    "channel_number": "597",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s73075_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "11486.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MGM+ Marquee",
+      "MGMMAR",
+      "598"
+    ],
+    "full_name": "MGM+ Marquee",
+    "call_sign": "MGMMAR",
+    "channel_number": "598",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s74320_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "11487.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MGM+ Drive-In",
+      "MGMDRV",
+      "599"
+    ],
+    "full_name": "MGM+ Drive-In",
+    "call_sign": "MGMDRV",
+    "channel_number": "599",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s68409_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "115.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CIHF) Dartmouth",
+      "CIHF",
+      "275"
+    ],
+    "full_name": "Global (CIHF) Dartmouth",
+    "call_sign": "CIHF",
+    "channel_number": "275",
+    "url": "www.canada.com/globaltv/maritimes.html",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s110839_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1159.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Oprah Winfrey Network USA Eastern",
+      "OWN",
+      "22"
+    ],
+    "full_name": "Oprah Winfrey Network USA Eastern",
+    "call_sign": "OWN",
+    "channel_number": "22",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s70387_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "116.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV2 Atlantic Region",
+      "CTV2A",
+      "258"
+    ],
+    "full_name": "CTV2 Atlantic Region",
+    "call_sign": "CTV2A",
+    "channel_number": "258",
+    "url": "www.ctv.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10135_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1171.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CITY Montreal, QC",
+      "CJNT",
+      "280"
+    ],
+    "full_name": "CITY Montreal, QC",
+    "call_sign": "CJNT",
+    "channel_number": "280",
+    "url": "www.canada.com/globaltv/index.html",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10125_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1174.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "OMNI Vancouver",
+      "OMNI",
+      "1278"
+    ],
+    "full_name": "OMNI Vancouver",
+    "call_sign": "OMNI",
+    "channel_number": "1278",
+    "url": "www.omnitv.ca/bc/en/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s33725_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ],
+    "canonical_name": "OMNI",
+    "mapping_type": "specialty",
+    "mapping_country": "",
+    "mapping_feed": ""
+  },
+  {
+    "channel_id": "118.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ICI (CBAFT) Moncton, NB",
+      "CBAFT",
+      "175"
+    ],
+    "full_name": "ICI (CBAFT) Moncton, NB",
+    "call_sign": "CBAFT",
+    "channel_number": "175",
+    "url": "radio-canada.ca/regions/atlantique/index.shtml",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16371_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1188.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Nature Canada",
+      "NAT",
+      "523"
+    ],
+    "full_name": "CTV Nature Canada",
+    "call_sign": "NAT",
+    "channel_number": "523",
+    "url": "https://www.ctv.ca/nature",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26883_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1194.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Kids & Family - Eastern",
+      "SRZK",
+      "527"
+    ],
+    "full_name": "Starz Kids & Family - Eastern",
+    "call_sign": "SRZK",
+    "channel_number": "527",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s19635_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "120.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CMT Canada",
+      "CMT",
+      "575"
+    ],
+    "full_name": "CMT Canada",
+    "call_sign": "CMT",
+    "channel_number": "575",
+    "url": "www.cmt.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s15072_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1204.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TLC Canada",
+      "TLC",
+      "521"
+    ],
+    "full_name": "TLC Canada",
+    "call_sign": "TLC",
+    "channel_number": "521",
+    "url": "tlc.discovery.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s60734_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1215.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cinemax - Pacific Feed",
+      "MAX1",
+      "516"
+    ],
+    "full_name": "Cinemax - Pacific Feed",
+    "call_sign": "MAX1",
+    "channel_number": "516",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10120_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1217.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz - Pacific",
+      "STARZ",
+      "526"
+    ],
+    "full_name": "Starz - Pacific",
+    "call_sign": "STARZ",
+    "channel_number": "526",
+    "url": "www.starzencore.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s12719_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1218.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Encore - Pacific",
+      "STZENw",
+      "536"
+    ],
+    "full_name": "Starz Encore - Pacific",
+    "call_sign": "",
+    "channel_number": "536",
+    "url": "www.encoremedia.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10178_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1222.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TMC (US) - Pacific Feed",
+      "TMC",
+      "554"
+    ],
+    "full_name": "TMC (US) - Pacific Feed",
+    "call_sign": "TMC",
+    "channel_number": "554",
+    "url": "https://www.paramountpluswithshowtime.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11160_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1252.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TV Land - Eastern",
+      "TVLAND",
+      "304",
+      "121"
+    ],
+    "full_name": "TV Land - Eastern",
+    "call_sign": "TVLAND",
+    "channel_number": "304",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16123_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "12609.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ION (WPXN) New York, NY HD",
+      "WPXN-HD",
+      "1218"
+    ],
+    "full_name": "ION (WPXN) New York, NY HD",
+    "call_sign": "WPXN-HD",
+    "channel_number": "1218",
+    "url": "www.iontelevision.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18633_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "12662.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TSC HD",
+      "TSC-HD",
+      "1614"
+    ],
+    "full_name": "TSC HD",
+    "call_sign": "TSC-HD",
+    "channel_number": "1614",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s90941_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1271.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Disney - Pacific Feed",
+      "DISN",
+      "291"
+    ],
+    "full_name": "Disney - Pacific Feed",
+    "call_sign": "DISN",
+    "channel_number": "291",
+    "url": "www.disneychannel.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10171_h15_ae.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1273.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Discovery Life Channel",
+      "DLC",
+      "180"
+    ],
+    "full_name": "Discovery Life Channel",
+    "call_sign": "DLC",
+    "channel_number": "180",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16125_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1274.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ION  - Eastern Feed",
+      "ION",
+      "305"
+    ],
+    "full_name": "ION  - Eastern Feed",
+    "call_sign": "ION",
+    "channel_number": "305",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18633_h15_ad.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1305.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Univision - Eastern Feed",
+      "UNI",
+      "402"
+    ],
+    "full_name": "Univision - Eastern Feed",
+    "call_sign": "UNI",
+    "channel_number": "402",
+    "url": "www.univision.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11118_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1306.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Univision - Pacific Feed",
+      "UNI",
+      "403"
+    ],
+    "full_name": "Univision - Pacific Feed",
+    "call_sign": "UNI",
+    "channel_number": "403",
+    "url": "www.univision.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11118_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1308.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FX Movie Channel",
+      "FXM",
+      "632"
+    ],
+    "full_name": "FX Movie Channel",
+    "call_sign": "FXM",
+    "channel_number": "632",
+    "url": "www.fxnetworks.com/fxm",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s70253_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1333.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Lifetime Movies - East",
+      "LifeMov",
+      "80"
+    ],
+    "full_name": "Lifetime Movies - East",
+    "call_sign": "",
+    "channel_number": "80",
+    "url": "www.mylifetime.com/lmn",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18480_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "13400.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FXX Canada",
+      "FXX",
+      "332"
+    ],
+    "full_name": "FXX Canada",
+    "call_sign": "FXX",
+    "channel_number": "332",
+    "url": "www.fxnowcanada.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s90948_h9_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "13401.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FXX Canada HD",
+      "FXX-HD",
+      "1332"
+    ],
+    "full_name": "FXX Canada HD",
+    "call_sign": "FXX-HD",
+    "channel_number": "1332",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s87894_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "13572.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "OMNI.1 (CFMT-DT-1) London",
+      "OMNI1",
+      "206"
+    ],
+    "full_name": "OMNI.1 (CFMT-DT-1) London",
+    "call_sign": "OMNI1",
+    "channel_number": "206",
+    "url": "www.omnitv.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10105_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "13585.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CIII-DT-41) Toronto",
+      "CIII-DT-41",
+      "203"
+    ],
+    "full_name": "Global (CIII-DT-41) Toronto",
+    "call_sign": "",
+    "channel_number": "203",
+    "url": "www.canada.com/globaltv/ontario",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s73281_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "13625.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Univision Canada",
+      "UNI",
+      "867"
+    ],
+    "full_name": "Univision Canada",
+    "call_sign": "UNI",
+    "channel_number": "867",
+    "url": "www.tlntv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s88279_h9_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1377.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cinemax Action - Eastern",
+      "MAXACT",
+      "519",
+      "533"
+    ],
+    "full_name": "Cinemax Action - Eastern",
+    "call_sign": "MAXACT",
+    "channel_number": "519",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/18433-9002.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "13784.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crime + Investigation Canada HD",
+      "CI-HD",
+      "1638"
+    ],
+    "full_name": "Crime + Investigation Canada HD",
+    "call_sign": "CI-HD",
+    "channel_number": "1638",
+    "url": "www.canwest.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26773_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "13841.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV2 (CIVI-DT2) Vancouver, BC",
+      "CIVI-DT-2",
+      "260"
+    ],
+    "full_name": "CTV2 (CIVI-DT2) Vancouver, BC",
+    "call_sign": "",
+    "channel_number": "260",
+    "url": "www.achannel.ca/victoria",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10135_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1387.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Showtime 2 - Eastern",
+      "SHO2",
+      "552"
+    ],
+    "full_name": "Showtime 2 - Eastern",
+    "call_sign": "SHO2",
+    "channel_number": "552",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11116_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "13887.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TVO (CICA-DT) Toronto, ON",
+      "CICA-DT",
+      "209"
+    ],
+    "full_name": "TVO (CICA-DT) Toronto, ON",
+    "call_sign": "CICA-DT",
+    "channel_number": "209",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s70583_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "14.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ICI (CBLFT) Toronto",
+      "CBLFT",
+      "101"
+    ],
+    "full_name": "ICI (CBLFT) Toronto",
+    "call_sign": "CBLFT",
+    "channel_number": "101",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s45864_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "14229.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV2 Barrie, ON (CKVR)",
+      "CKVR",
+      "202"
+    ],
+    "full_name": "CTV2 Barrie, ON (CKVR)",
+    "call_sign": "CKVR",
+    "channel_number": "202",
+    "url": "WWW.THENEWVR.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10135_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "143.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CKY) Winnipeg, MB",
+      "CKY",
+      "261"
+    ],
+    "full_name": "CTV (CKY) Winnipeg, MB",
+    "call_sign": "CKY",
+    "channel_number": "261",
+    "url": "www.cky.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "146.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBXT) Edmonton, AB",
+      "CBXT",
+      "273"
+    ],
+    "full_name": "CBC (CBXT) Edmonton, AB",
+    "call_sign": "CBXT",
+    "channel_number": "273",
+    "url": "www.cbc.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "147.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBRT) Calgary, AB",
+      "CBRT",
+      "271"
+    ],
+    "full_name": "CBC (CBRT) Calgary, AB",
+    "call_sign": "CBRT",
+    "channel_number": "271",
+    "url": "www.cbc.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s15939_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1472.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO - Pacific Feed",
+      "HBOP",
+      "504"
+    ],
+    "full_name": "HBO - Pacific Feed",
+    "call_sign": "HBOP",
+    "channel_number": "504",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10240_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1486.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FUSE TV - Eastern feed",
+      "FUSE",
+      "169"
+    ],
+    "full_name": "FUSE TV - Eastern feed",
+    "call_sign": "FUSE",
+    "channel_number": "169",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14929_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "14995.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Comedy.TV",
+      "COMEDY",
+      "382"
+    ],
+    "full_name": "Comedy.TV",
+    "call_sign": "COMEDY",
+    "channel_number": "382",
+    "url": "www.comedy.tv",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s80740_h9_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "15014.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MBC Drama (Korean)",
+      "MBC-Drama",
+      "385"
+    ],
+    "full_name": "MBC Drama (Korean)",
+    "call_sign": "",
+    "channel_number": "385",
+    "url": "",
+    "icon_src": "",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1515.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MTV 2 - East",
+      "MTV2",
+      "332",
+      "119"
+    ],
+    "full_name": "MTV 2 - East",
+    "call_sign": "MTV2",
+    "channel_number": "332",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16361_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "153.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Sci-Fi",
+      "CTVSc",
+      "627"
+    ],
+    "full_name": "CTV Sci-Fi",
+    "call_sign": "",
+    "channel_number": "627",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17609_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "159.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Comedy - East",
+      "CTVCom",
+      "625"
+    ],
+    "full_name": "CTV Comedy - East",
+    "call_sign": "",
+    "channel_number": "625",
+    "url": "THECOMEDYNETWORK.CA/PROG.ASP",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17595_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1615.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Showtime Extreme - Eastern",
+      "SHOWEX",
+      "549",
+      "554"
+    ],
+    "full_name": "Showtime Extreme - Eastern",
+    "call_sign": "SHOWEX",
+    "channel_number": "549",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18086_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1632.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CKNY) North Bay, ON",
+      "CKNY",
+      "1282"
+    ],
+    "full_name": "CTV (CKNY) North Bay, ON",
+    "call_sign": "CKNY",
+    "channel_number": "1282",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1633.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CITO) Timmins, ON",
+      "CITO",
+      "1284"
+    ],
+    "full_name": "CTV (CITO) Timmins, ON",
+    "call_sign": "CITO",
+    "channel_number": "1284",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1634.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CHBX) Sault Ste. Marie, ON",
+      "CHBX",
+      "1283"
+    ],
+    "full_name": "CTV (CHBX) Sault Ste. Marie, ON",
+    "call_sign": "CHBX",
+    "channel_number": "1283",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1635.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CICI) Sudbury, ON",
+      "CICI",
+      "265"
+    ],
+    "full_name": "CTV (CICI) Sudbury, ON",
+    "call_sign": "CICI",
+    "channel_number": "265",
+    "url": "WWW.BATON.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1638.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FOX (WNYW) New York, NY",
+      "WNYW",
+      "398",
+      "5"
+    ],
+    "full_name": "FOX (WNYW) New York, NY",
+    "call_sign": "WNYW",
+    "channel_number": "398",
+    "url": "www.fox5ny.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "164.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "History Canada East",
+      "HIST",
+      "522"
+    ],
+    "full_name": "History Canada East",
+    "call_sign": "HIST",
+    "channel_number": "522",
+    "url": "www.history.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17593_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "16429.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "GetTV (WFUT-DT3) Newark, NJ",
+      "WFUT-DT3",
+      "1284"
+    ],
+    "full_name": "GetTV (WFUT-DT3) Newark, NJ",
+    "call_sign": "WFUT-DT3",
+    "channel_number": "1284",
+    "url": "www.univision.com/content/channel.jhtml?chid=6&schid=1611",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s82563_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "16450.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Twist (WXTV-DT3) Paterson, NJ",
+      "WXTV-DT3",
+      "1280"
+    ],
+    "full_name": "Twist (WXTV-DT3) Paterson, NJ",
+    "call_sign": "WXTV-DT3",
+    "channel_number": "1280",
+    "url": "www.univision.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s183061_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1649.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MSG (Madison Square Gardens)",
+      "MSG",
+      "27"
+    ],
+    "full_name": "MSG (Madison Square Gardens)",
+    "call_sign": "MSG",
+    "channel_number": "27",
+    "url": "www.msgnetwork.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10979_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1651.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO Drama (HBO 3) - Eastern",
+      "HBODRMA",
+      "503",
+      "513"
+    ],
+    "full_name": "HBO Drama (HBO 3) - Eastern",
+    "call_sign": "HBODRMA",
+    "channel_number": "503",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/10243-5006.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1652.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ThrillerMax - East",
+      "HBO4",
+      "522",
+      "534"
+    ],
+    "full_name": "ThrillerMax - East",
+    "call_sign": "HBO4",
+    "channel_number": "522",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18435_h15_ad.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "16683.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Disney Channel Canada HD - East",
+      "DISNC-HD",
+      "1568"
+    ],
+    "full_name": "Disney Channel Canada HD - East",
+    "call_sign": "DISNC-HD",
+    "channel_number": "1568",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s96507_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "167.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Home Network",
+      "HOME",
+      "600"
+    ],
+    "full_name": "Home Network",
+    "call_sign": "HOME",
+    "channel_number": "600",
+    "url": "https://www.homenetwork.ca/?redirect=home",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17638_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "169.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Flavour Network",
+      "FLAV",
+      "603"
+    ],
+    "full_name": "Flavour Network",
+    "call_sign": "FLAV",
+    "channel_number": "603",
+    "url": "https://www.flavournetwork.ca/?redirect=flavour/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s24525_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1716.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Peachtree TV (WPCH-TV) Atlanta, GA",
+      "WPCH-TV",
+      "1294"
+    ],
+    "full_name": "Peachtree TV (WPCH-TV) Atlanta, GA",
+    "call_sign": "WPCH-TV",
+    "channel_number": "1294",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s51306_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "176.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Turner Classic Movies USA",
+      "TCM",
+      "82"
+    ],
+    "full_name": "Turner Classic Movies USA",
+    "call_sign": "TCM",
+    "channel_number": "82",
+    "url": "www.tcm.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s12852_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1766.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBS (WCBS) New York, NY",
+      "WCBS-TV",
+      "390",
+      "2"
+    ],
+    "full_name": "CBS (WCBS) New York, NY",
+    "call_sign": "WCBS-TV",
+    "channel_number": "390",
+    "url": "https://www.cbsnews.com/newyork/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10098_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1767.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NBC (WNBC) New York, NY",
+      "WNBC",
+      "392",
+      "4"
+    ],
+    "full_name": "NBC (WNBC) New York, NY",
+    "call_sign": "WNBC",
+    "channel_number": "392",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10991_h15_ad.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1769.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ABC (WABC) New York, NY",
+      "WABC-TV",
+      "396",
+      "7"
+    ],
+    "full_name": "ABC (WABC) New York, NY",
+    "call_sign": "WABC-TV",
+    "channel_number": "396",
+    "url": "www.abc7ny.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10003_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "177.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "AMC - Eastern Feed",
+      "AMC",
+      "105"
+    ],
+    "full_name": "AMC - Eastern Feed",
+    "call_sign": "AMC",
+    "channel_number": "105",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10021_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1774.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS (WNET) New York, NY",
+      "WNET",
+      "13"
+    ],
+    "full_name": "PBS (WNET) New York, NY",
+    "call_sign": "WNET",
+    "channel_number": "13",
+    "url": "www.wnet.org/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11039_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1775.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS (WLIW) Long Island, NY",
+      "WLIW",
+      "21"
+    ],
+    "full_name": "PBS (WLIW) Long Island, NY",
+    "call_sign": "WLIW",
+    "channel_number": "21",
+    "url": "www.wliw.org",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11039_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1778.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ION (WPXN) New York, NY",
+      "WPXN-TV",
+      "31"
+    ],
+    "full_name": "ION (WPXN) New York, NY",
+    "call_sign": "WPXN-TV",
+    "channel_number": "31",
+    "url": "www.iontelevision.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18633_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1797.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NBC Universo - Eastern feed",
+      "NBCUN",
+      "42"
+    ],
+    "full_name": "NBC Universo - Eastern feed",
+    "call_sign": "NBCUN",
+    "channel_number": "42",
+    "url": "www.holamun2.com/grid",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14791_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "180.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBUT) Vancouver, BC",
+      "CBUT",
+      "272"
+    ],
+    "full_name": "CBC (CBUT) Vancouver, BC",
+    "call_sign": "CBUT",
+    "channel_number": "272",
+    "url": "www.vancouver.cbc.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "181.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ABC (KOMO) Seattle, WA",
+      "KOMO-TV",
+      "286"
+    ],
+    "full_name": "ABC (KOMO) Seattle, WA",
+    "call_sign": "KOMO-TV",
+    "channel_number": "286",
+    "url": "WWW.KOMOTV.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s28708_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "182.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NBC (KING) Seattle, WA",
+      "KING-TV",
+      "285"
+    ],
+    "full_name": "NBC (KING) Seattle, WA",
+    "call_sign": "KING-TV",
+    "channel_number": "285",
+    "url": "WWW.KING5.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s28717_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "183.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CHEK Vancouver Island, BC",
+      "CHEK",
+      "210"
+    ],
+    "full_name": "CHEK Vancouver Island, BC",
+    "call_sign": "CHEK",
+    "channel_number": "210",
+    "url": "www.chektv.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s72765_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "184.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBS (KIRO) Seattle, WA",
+      "KIRO-TV",
+      "287"
+    ],
+    "full_name": "CBS (KIRO) Seattle, WA",
+    "call_sign": "KIRO-TV",
+    "channel_number": "287",
+    "url": "www.kiro7.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s28711_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1848.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "SundanceTV USA - East",
+      "SUND",
+      "625"
+    ],
+    "full_name": "SundanceTV USA - East",
+    "call_sign": "SUND",
+    "channel_number": "625",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16108_h9_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "185.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Vancouver, BC",
+      "CIVT",
+      "253"
+    ],
+    "full_name": "CTV Vancouver, BC",
+    "call_sign": "CIVT",
+    "channel_number": "253",
+    "url": "www.vancouvertelevision.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "187.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CITY Vancouver, BC",
+      "CKVU",
+      "281"
+    ],
+    "full_name": "CITY Vancouver, BC",
+    "call_sign": "CKVU",
+    "channel_number": "281",
+    "url": "www.citytv.com/vancouver",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10136_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "188.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ICI (CBUFT) Vancouver, BC",
+      "CBUFT",
+      "178"
+    ],
+    "full_name": "ICI (CBUFT) Vancouver, BC",
+    "call_sign": "CBUFT",
+    "channel_number": "178",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16371_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1882.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CHEX-TV-2) Durham, ON",
+      "CHEX2",
+      "235"
+    ],
+    "full_name": "Global (CHEX-TV-2) Durham, ON",
+    "call_sign": "CHEX2",
+    "channel_number": "235",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s110839_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "189.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FOX (KCPQ) Tacoma, WA - Canada",
+      "KCPQ",
+      "288"
+    ],
+    "full_name": "FOX (KCPQ) Tacoma, WA - Canada",
+    "call_sign": "KCPQ",
+    "channel_number": "288",
+    "url": "q13.trb.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "190.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS (KCTS) Seattle, WA",
+      "KCTS-TV",
+      "289"
+    ],
+    "full_name": "PBS (KCTS) Seattle, WA",
+    "call_sign": "KCTS-TV",
+    "channel_number": "289",
+    "url": "www.kcts.org/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11039_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "19107.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NYC Life (WNYE-DT1) New York, NY HD",
+      "WNYE-HD",
+      "1231"
+    ],
+    "full_name": "NYC Life (WNYE-DT1) New York, NY HD",
+    "call_sign": "WNYE-HD",
+    "channel_number": "1231",
+    "url": "www.wnye.nycenet.edu/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11744_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "19168.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS (WLIW) Long Island, NY HD",
+      "WLIW-HD",
+      "1222"
+    ],
+    "full_name": "PBS (WLIW) Long Island, NY HD",
+    "call_sign": "WLIW-HD",
+    "channel_number": "1222",
+    "url": "www.wliw.org",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11039_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1949.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FOX (KTTV) Los Angeles, CA",
+      "KTTV",
+      "399"
+    ],
+    "full_name": "FOX (KTTV) Los Angeles, CA",
+    "call_sign": "KTTV",
+    "channel_number": "399",
+    "url": "www.myfoxla.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1952.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FXX USA - Eastern",
+      "FXX",
+      "109"
+    ],
+    "full_name": "FXX USA - Eastern",
+    "call_sign": "FXX",
+    "channel_number": "109",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17927_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1957.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz In Black - Eastern",
+      "BSTZ",
+      "530"
+    ],
+    "full_name": "Starz In Black - Eastern",
+    "call_sign": "BSTZ",
+    "channel_number": "530",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16833_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "1958.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Encore Suspense - Eastern",
+      "STZESU",
+      "606"
+    ],
+    "full_name": "Starz Encore Suspense - Eastern",
+    "call_sign": "STZESU",
+    "channel_number": "606",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14766_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "196.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ICI (CBFT) Montreal, QC",
+      "CBFT",
+      "1176"
+    ],
+    "full_name": "ICI (CBFT) Montreal, QC",
+    "call_sign": "CBFT",
+    "channel_number": "1176",
+    "url": "radio-canada.ca/regions/montreal/index.shtml",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16371_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "1960.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Science",
+      "SCI",
+      "284",
+      "136"
+    ],
+    "full_name": "Science",
+    "call_sign": "SCI",
+    "channel_number": "284",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16616_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "1971.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FYI USA - Eastern",
+      "FYI",
+      "134"
+    ],
+    "full_name": "FYI USA - Eastern",
+    "call_sign": "FYI",
+    "channel_number": "134",
+    "url": "www.fyi.tv",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58988_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "199.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CJON (NTV) St-John, NL",
+      "CJON",
+      "212"
+    ],
+    "full_name": "CJON (NTV) St-John, NL",
+    "call_sign": "CJON",
+    "channel_number": "212",
+    "url": "WWW.NTV.CA",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s72728_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "A&E US - Eastern Feed",
+      "A&E",
+      "102"
+    ],
+    "full_name": "A&E US - Eastern Feed",
+    "call_sign": "",
+    "channel_number": "102",
+    "url": "www.AETV.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10035_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "20016.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Hollywood Suite 2010s+ HD",
+      "HS10s-HD",
+      "1318"
+    ],
+    "full_name": "Hollywood Suite 2010s+ HD",
+    "call_sign": "",
+    "channel_number": "1318",
+    "url": "hollywoodsuite.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/73578-23ED4.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "20017.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Hollywood Suite 70s+ HD",
+      "HS70s-HD",
+      "1315"
+    ],
+    "full_name": "Hollywood Suite 70s+ HD",
+    "call_sign": "",
+    "channel_number": "1315",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/73572-23EC8.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "20018.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Hollywood Suite 80s & 90s HD",
+      "HS80s-HD",
+      "1316"
+    ],
+    "full_name": "Hollywood Suite 80s & 90s HD",
+    "call_sign": "",
+    "channel_number": "1316",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/73574-23ECC.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "20019.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Hollywood Suite 2000s HD",
+      "HS00s-HD",
+      "1317"
+    ],
+    "full_name": "Hollywood Suite 2000s HD",
+    "call_sign": "",
+    "channel_number": "1317",
+    "url": "hollywoodsuite.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/73571-23EC6.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "201.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CNBC USA",
+      "CNBC",
+      "355",
+      "205"
+    ],
+    "full_name": "CNBC USA",
+    "call_sign": "CNBC",
+    "channel_number": "355",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/10139-4F36.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2035.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "American Heroes Channel",
+      "AHC",
+      "140",
+      "631"
+    ],
+    "full_name": "American Heroes Channel",
+    "call_sign": "AHC",
+    "channel_number": "140",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18284_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]",
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2077.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "SHOXBET - Eastern",
+      "SHOBET",
+      "548"
+    ],
+    "full_name": "SHOXBET - Eastern",
+    "call_sign": "SHOBET",
+    "channel_number": "548",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s20622_h15_ad.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "2078.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Encore Action - Eastern",
+      "STZEAC",
+      "541",
+      "603"
+    ],
+    "full_name": "Starz Encore Action - Eastern",
+    "call_sign": "STZEAC",
+    "channel_number": "541",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14871_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2088.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS Kids (WNET-DT2) New York, NY",
+      "WNET2",
+      "1275"
+    ],
+    "full_name": "PBS Kids (WNET-DT2) New York, NY",
+    "call_sign": "WNET2",
+    "channel_number": "1275",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s101364_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2090.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Investigation Discovery USA - Eastern",
+      "ID",
+      "285",
+      "138"
+    ],
+    "full_name": "Investigation Discovery USA - Eastern",
+    "call_sign": "ID",
+    "channel_number": "285",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16615_h15_ad.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2091.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "LOGO - East",
+      "LOGO",
+      "272"
+    ],
+    "full_name": "LOGO - East",
+    "call_sign": "LOGO",
+    "channel_number": "272",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s46762_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "2093.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MTV Classic - East",
+      "MTV-C",
+      "337",
+      "120"
+    ],
+    "full_name": "MTV Classic - East",
+    "call_sign": "MTV-C",
+    "channel_number": "337",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s22561_h15_ad.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2120.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Edge - Eastern",
+      "EDGE",
+      "529",
+      "582"
+    ],
+    "full_name": "Starz Edge - Eastern",
+    "call_sign": "EDGE",
+    "channel_number": "529",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16311_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2128.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Encore Family - Eastern",
+      "STZEFM",
+      "608"
+    ],
+    "full_name": "Starz Encore Family - Eastern",
+    "call_sign": "STZEFM",
+    "channel_number": "608",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14886_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2172.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBS (KCBS) Los Angeles, CA",
+      "KCBS-TV",
+      "391"
+    ],
+    "full_name": "CBS (KCBS) Los Angeles, CA",
+    "call_sign": "KCBS-TV",
+    "channel_number": "391",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s28711_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "2205.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO 2 - Pacific Feed",
+      "HBO2P",
+      "505"
+    ],
+    "full_name": "HBO 2 - Pacific Feed",
+    "call_sign": "HBO2P",
+    "channel_number": "505",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/10242-5004.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "2268.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Boomerang",
+      "BOOM",
+      "253"
+    ],
+    "full_name": "Boomerang",
+    "call_sign": "BOOM",
+    "channel_number": "253",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s21883_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2270.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "OuterMax - Eastern",
+      "MAX7",
+      "535"
+    ],
+    "full_name": "OuterMax - Eastern",
+    "call_sign": "MAX7",
+    "channel_number": "535",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s25622_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2271.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Showtime Showcase - Eastern",
+      "SHO3",
+      "555"
+    ],
+    "full_name": "Showtime Showcase - Eastern",
+    "call_sign": "SHO3",
+    "channel_number": "555",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16153_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2272.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Showtime Next - Eastern",
+      "NEXT",
+      "556"
+    ],
+    "full_name": "Showtime Next - Eastern",
+    "call_sign": "NEXT",
+    "channel_number": "556",
+    "url": "https://www.paramountpluswithshowtime.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s25270_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "24.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CKWS) Kingston, ON",
+      "CKWS",
+      "237"
+    ],
+    "full_name": "Global (CKWS) Kingston, ON",
+    "call_sign": "CKWS",
+    "channel_number": "237",
+    "url": "www.ckwstv.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10137_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2561.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "WMBC-Newton, NJ",
+      "WMBC-TV",
+      "63"
+    ],
+    "full_name": "WMBC-Newton, NJ",
+    "call_sign": "WMBC-TV",
+    "channel_number": "63",
+    "url": "www.wmbctv.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s65064_h15_af.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2574.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NJ PBS (WNJN) Montclair, NJ",
+      "WNJN",
+      "1223"
+    ],
+    "full_name": "NJ PBS (WNJN) Montclair, NJ",
+    "call_sign": "WNJN",
+    "channel_number": "1223",
+    "url": "www.njn.net/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11723_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2575.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TBN (WTBY) New York, NY",
+      "WTBY-TV",
+      "98"
+    ],
+    "full_name": "TBN (WTBY) New York, NY",
+    "call_sign": "WTBY-TV",
+    "channel_number": "98",
+    "url": "",
+    "icon_src": "",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "258.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CFCN) Calgary, AB",
+      "CFCN",
+      "256"
+    ],
+    "full_name": "CTV (CFCN) Calgary, AB",
+    "call_sign": "CFCN",
+    "channel_number": "256",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2588.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NBC (KNBC) Los Angeles, CA",
+      "KNBC",
+      "393"
+    ],
+    "full_name": "NBC (KNBC) Los Angeles, CA",
+    "call_sign": "KNBC",
+    "channel_number": "393",
+    "url": "www.nbc4.tv",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10991_h15_ad.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "2589.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ABC (KABC) Los Angeles, CA",
+      "KABC-TV",
+      "397"
+    ],
+    "full_name": "ABC (KABC) Los Angeles, CA",
+    "call_sign": "KABC-TV",
+    "channel_number": "397",
+    "url": "WWW.ABC7.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s28708_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "2664.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CNBC World",
+      "CNBCW",
+      "208"
+    ],
+    "full_name": "CNBC World",
+    "call_sign": "CNBCW",
+    "channel_number": "208",
+    "url": "www.nbcmv.com/cnbc",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/26849-D1C2.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2680.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Cinema - Eastern",
+      "CINEMA",
+      "585"
+    ],
+    "full_name": "Starz Cinema - Eastern",
+    "call_sign": "CINEMA",
+    "channel_number": "585",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s19634_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2707.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Lifetime Real Women East",
+      "LIFERW",
+      "174"
+    ],
+    "full_name": "Lifetime Real Women East",
+    "call_sign": "LIFERW",
+    "channel_number": "174",
+    "url": "www.mylifetime.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s29612_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "2729.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "OUTtv",
+      "OUTTV",
+      "609"
+    ],
+    "full_name": "OUTtv",
+    "call_sign": "OUTTV",
+    "channel_number": "609",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26776_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2811.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ABC (WXYZ) Detroit, MI - Canada HD",
+      "WXYZ-HD",
+      "1221"
+    ],
+    "full_name": "ABC (WXYZ) Detroit, MI - Canada HD",
+    "call_sign": "WXYZ-HD",
+    "channel_number": "1221",
+    "url": "www.wxyztv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10003_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2812.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBS (WWJ) Detroit, MI HD",
+      "WWJ-HD",
+      "1222"
+    ],
+    "full_name": "CBS (WWJ) Detroit, MI HD",
+    "call_sign": "WWJ-HD",
+    "channel_number": "1222",
+    "url": "https://www.cbsnews.com/detroit",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10098_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2814.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CFTO) Toronto, ON HD",
+      "CFTO-HD",
+      "1201"
+    ],
+    "full_name": "CTV (CFTO) Toronto, ON HD",
+    "call_sign": "CFTO-HD",
+    "channel_number": "1201",
+    "url": "WWW.CKCO-TV.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2815.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FOX (WJBK) Detroit, MI HD",
+      "WJBK-HD",
+      "1223"
+    ],
+    "full_name": "FOX (WJBK) Detroit, MI HD",
+    "call_sign": "WJBK-HD",
+    "channel_number": "1223",
+    "url": "www.wjbk.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2816.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NBC (WDIV) Detroit, MI HD",
+      "WDIV-HD",
+      "1220"
+    ],
+    "full_name": "NBC (WDIV) Detroit, MI HD",
+    "call_sign": "WDIV-HD",
+    "channel_number": "1220",
+    "url": "www.clickondetroit.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10991_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2820.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crave1 - East HD",
+      "CRVM1HD",
+      "1310"
+    ],
+    "full_name": "Crave1 - East HD",
+    "call_sign": "CRVM1HD",
+    "channel_number": "1310",
+    "url": "www.themovienetwork.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s33382_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2825.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CITY Toronto, ON HD",
+      "CITYHD",
+      "1204"
+    ],
+    "full_name": "CITY Toronto, ON HD",
+    "call_sign": "CITYHD",
+    "channel_number": "1204",
+    "url": "WWW.CITYTV.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10125_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2826.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBLT) Toronto, ON HD",
+      "CBLT-HD",
+      "1267"
+    ],
+    "full_name": "CBC (CBLT) Toronto, ON HD",
+    "call_sign": "CBLT-HD",
+    "channel_number": "1267",
+    "url": "www.ais.cbc.ca/ais/owa/html.putloginpage",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2829.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ABC (KOMO) Seattle, WA HD",
+      "KOMO-HD",
+      "1286"
+    ],
+    "full_name": "ABC (KOMO) Seattle, WA HD",
+    "call_sign": "KOMO-HD",
+    "channel_number": "1286",
+    "url": "www.komotv.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10003_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2830.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBS (KIRO) Seattle, WA HD",
+      "KIRO-HD",
+      "1287"
+    ],
+    "full_name": "CBS (KIRO) Seattle, WA HD",
+    "call_sign": "KIRO-HD",
+    "channel_number": "1287",
+    "url": "www.kiro7.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s28711_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2831.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NBC (KING) Seattle, WA HD",
+      "KING-HD",
+      "1285"
+    ],
+    "full_name": "NBC (KING) Seattle, WA HD",
+    "call_sign": "KING-HD",
+    "channel_number": "1285",
+    "url": "WWW.KING5.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s28717_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "2832.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FOX (KCPQ) Tacoma, WA HD - Canada",
+      "KCPQ-HD",
+      "1288"
+    ],
+    "full_name": "FOX (KCPQ) Tacoma, WA HD - Canada",
+    "call_sign": "KCPQ-HD",
+    "channel_number": "1288",
+    "url": "q13.trb.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "292.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO Canada 2 - West",
+      "HBO2",
+      "1307"
+    ],
+    "full_name": "HBO Canada 2 - West",
+    "call_sign": "HBO2",
+    "channel_number": "1307",
+    "url": "www.crave.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s61628_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "295.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "E! Canada",
+      "E!",
+      "621"
+    ],
+    "full_name": "E! Canada",
+    "call_sign": "",
+    "channel_number": "621",
+    "url": "www.star-tv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s20675_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "296.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Oprah Winfrey Network Canada",
+      "OWN",
+      "526"
+    ],
+    "full_name": "Oprah Winfrey Network Canada",
+    "call_sign": "OWN",
+    "channel_number": "526",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s20714_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3008.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CNN International North America",
+      "CNNI",
+      "216",
+      "511"
+    ],
+    "full_name": "CNN International North America",
+    "call_sign": "CNNI",
+    "channel_number": "216",
+    "url": "www.cnn.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10146_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]",
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "309.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Life",
+      "CTVLife",
+      "619"
+    ],
+    "full_name": "CTV Life",
+    "call_sign": "",
+    "channel_number": "619",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18808_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "31.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global BC",
+      "CHAN",
+      "277"
+    ],
+    "full_name": "Global BC",
+    "call_sign": "CHAN",
+    "channel_number": "277",
+    "url": "www.canwest.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10050_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "318.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CKMI) Quebec",
+      "CKMI",
+      "232"
+    ],
+    "full_name": "Global (CKMI) Quebec",
+    "call_sign": "CKMI",
+    "channel_number": "232",
+    "url": "www.canada.com/globaltv/index.html",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17406_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "31846.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CICI) Sudbury, ON HD",
+      "CICI-HD",
+      "1265"
+    ],
+    "full_name": "CTV (CICI) Sudbury, ON HD",
+    "call_sign": "CICI-HD",
+    "channel_number": "1265",
+    "url": "WWW.BATON.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "320.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crave4",
+      "CRVM4",
+      "301"
+    ],
+    "full_name": "Crave4",
+    "call_sign": "CRVM4",
+    "channel_number": "301",
+    "url": "www.themovienetwork.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/crave4.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "321.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CP24 (CablePulse 24)",
+      "CP24",
+      "503"
+    ],
+    "full_name": "CP24 (CablePulse 24)",
+    "call_sign": "CP24",
+    "channel_number": "503",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18168_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "323.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "BET - Eastern Feed",
+      "BET",
+      "181"
+    ],
+    "full_name": "BET - Eastern Feed",
+    "call_sign": "BET",
+    "channel_number": "181",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10051_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "32348.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ShopHQ (WRNN) Kingston, NY HD",
+      "WRNN-TVHD",
+      "1230"
+    ],
+    "full_name": "ShopHQ (WRNN) Kingston, NY HD",
+    "call_sign": "WRNN-TVHD",
+    "channel_number": "1230",
+    "url": "www.rnntv.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s56032_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "3252.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "History Channel Espanol - Eastern",
+      "HCE",
+      "443"
+    ],
+    "full_name": "History Channel Espanol - Eastern",
+    "call_sign": "HCE",
+    "channel_number": "443",
+    "url": "www.HistoryChannel.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s105678_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "32846.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Estrella (WASA-LD) Port Jervis, NY HD",
+      "WASA",
+      "1236"
+    ],
+    "full_name": "Estrella (WASA-LD) Port Jervis, NY HD",
+    "call_sign": "WASA",
+    "channel_number": "1236",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s65064_h15_af.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "329.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Game Show Network - East",
+      "GSN",
+      "177"
+    ],
+    "full_name": "Game Show Network - East",
+    "call_sign": "GSN",
+    "channel_number": "177",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14909_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "33016.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NHK World (WNJN-DT2) Montclair, NJ",
+      "WNJN2",
+      "1279"
+    ],
+    "full_name": "NHK World (WNJN-DT2) Montclair, NJ",
+    "call_sign": "WNJN2",
+    "channel_number": "1279",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s59155_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "3316.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CJCH) Halifax",
+      "CJCH",
+      "251"
+    ],
+    "full_name": "CTV (CJCH) Halifax",
+    "call_sign": "CJCH",
+    "channel_number": "251",
+    "url": "WWW.ATV.CA",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3317.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CKCW) Moncton",
+      "CKCW",
+      "263"
+    ],
+    "full_name": "CTV (CKCW) Moncton",
+    "call_sign": "CKCW",
+    "channel_number": "263",
+    "url": "www.ctv.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3318.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CJCB) Sydney/ Cape Breton, NS",
+      "CJCB",
+      "1262"
+    ],
+    "full_name": "CTV (CJCB) Sydney/ Cape Breton, NS",
+    "call_sign": "CJCB",
+    "channel_number": "1262",
+    "url": "WWW.ATV.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "333.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "truTV USA - Eastern",
+      "TRUTV",
+      "112"
+    ],
+    "full_name": "truTV USA - Eastern",
+    "call_sign": "TRUTV",
+    "channel_number": "112",
+    "url": "www.trutv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10153_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "34.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBLT) Toronto, ON",
+      "CBLT",
+      "267"
+    ],
+    "full_name": "CBC (CBLT) Toronto, ON",
+    "call_sign": "CBLT",
+    "channel_number": "267",
+    "url": "www.ais.cbc.ca/ais/owa/html.putloginpage",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3401.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV2 Windsor, ON",
+      "CTV2W",
+      "1274"
+    ],
+    "full_name": "CTV2 Windsor, ON",
+    "call_sign": "CTV2W",
+    "channel_number": "1274",
+    "url": "www.achannel.ca/windsor",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10135_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "347.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TNT - Eastern Feed",
+      "TNT",
+      "103"
+    ],
+    "full_name": "TNT - Eastern Feed",
+    "call_sign": "TNT",
+    "channel_number": "103",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11164_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "3479.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO On Demand",
+      "HBOOD",
+      "1309"
+    ],
+    "full_name": "HBO On Demand",
+    "call_sign": "HBOOD",
+    "channel_number": "1309",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s38589_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "35317.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "AMC+",
+      "557"
+    ],
+    "full_name": "AMC+",
+    "call_sign": "",
+    "channel_number": "557",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s114759_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "3561.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CNBC Canada",
+      "CNBC",
+      "509"
+    ],
+    "full_name": "CNBC Canada",
+    "call_sign": "CNBC",
+    "channel_number": "509",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/18141-8DBA.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3567.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cinemax - Eastern HD",
+      "MAX1HD",
+      "523"
+    ],
+    "full_name": "Cinemax - Eastern HD",
+    "call_sign": "MAX1HD",
+    "channel_number": "523",
+    "url": "www.cinemax.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s34933_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "359.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TSC",
+      "614"
+    ],
+    "full_name": "TSC",
+    "call_sign": "TSC",
+    "channel_number": "614",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s15997_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3613.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "STARZ1 - East HD",
+      "STARZ1HD",
+      "1304"
+    ],
+    "full_name": "STARZ1 - East HD",
+    "call_sign": "STARZ1HD",
+    "channel_number": "1304",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s49338_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3624.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "OMNI.2 HD",
+      "OMNI2",
+      "1207"
+    ],
+    "full_name": "OMNI.2 HD",
+    "call_sign": "OMNI2",
+    "channel_number": "1207",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s31558_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3633.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Treehouse On Demand",
+      "THOD",
+      "1561"
+    ],
+    "full_name": "Treehouse On Demand",
+    "call_sign": "THOD",
+    "channel_number": "1561",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17639_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3662.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "WSBK (TV-38) Boston HD",
+      "WSBK-HD",
+      "1296"
+    ],
+    "full_name": "WSBK (TV-38) Boston HD",
+    "call_sign": "WSBK-HD",
+    "channel_number": "1296",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s32723_h9_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "37.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CHEX) Peterborough, ON",
+      "CHEX",
+      "236"
+    ],
+    "full_name": "Global (CHEX) Peterborough, ON",
+    "call_sign": "CHEX",
+    "channel_number": "236",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10114_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "37711.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Natyf TV HD",
+      "NATYFHD",
+      "1168"
+    ],
+    "full_name": "Natyf TV HD",
+    "call_sign": "NATYFHD",
+    "channel_number": "1168",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s108714_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "38.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Ottawa (CJOH), ON",
+      "CJOH",
+      "255"
+    ],
+    "full_name": "CTV Ottawa (CJOH), ON",
+    "call_sign": "CJOH",
+    "channel_number": "255",
+    "url": "WWW.BATON.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3808.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MTV Tr3s - East",
+      "TR3S",
+      "445"
+    ],
+    "full_name": "MTV Tr3s - East",
+    "call_sign": "TR3S",
+    "channel_number": "445",
+    "url": "www.tr3s.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18715_h15_ao.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "3822.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "AMC - Canada",
+      "AMC",
+      "339"
+    ],
+    "full_name": "AMC - Canada",
+    "call_sign": "AMC",
+    "channel_number": "339",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s52247_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3886.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "A&E Canada HD",
+      "A&E-HD",
+      "1615"
+    ],
+    "full_name": "A&E Canada HD",
+    "call_sign": "",
+    "channel_number": "1615",
+    "url": "WWW.AETV.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s55097_h9_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3887.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Speed HD",
+      "CTVSPD-HD",
+      "1519"
+    ],
+    "full_name": "CTV Speed HD",
+    "call_sign": "CTVSPD-HD",
+    "channel_number": "1519",
+    "url": "https://www.ctv.ca/speed",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s44794_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "39.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CFTO) Toronto, ON",
+      "CFTO",
+      "201"
+    ],
+    "full_name": "CTV (CFTO) Toronto, ON",
+    "call_sign": "CFTO",
+    "channel_number": "201",
+    "url": "WWW.CKCO-TV.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3905.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Vancouver, BC HD",
+      "CIVTHD",
+      "1253"
+    ],
+    "full_name": "CTV Vancouver, BC HD",
+    "call_sign": "CIVTHD",
+    "channel_number": "1253",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s44786_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3906.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "BBC First HD",
+      "HIFI",
+      "1660"
+    ],
+    "full_name": "BBC First HD",
+    "call_sign": "HIFI",
+    "channel_number": "1660",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s53120_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3908.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "BBC Earth HD",
+      "BBCEHD",
+      "1662"
+    ],
+    "full_name": "BBC Earth HD",
+    "call_sign": "BBCEHD",
+    "channel_number": "1662",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s53128_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3936.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CITY Vancouver, BC HD",
+      "CKVUHD",
+      "1281"
+    ],
+    "full_name": "CITY Vancouver, BC HD",
+    "call_sign": "CKVUHD",
+    "channel_number": "1281",
+    "url": "www.citytv.com/vancouver",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10136_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "3958.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ONE TV HD",
+      "ONE-HD",
+      "1606"
+    ],
+    "full_name": "ONE TV HD",
+    "call_sign": "ONE-HD",
+    "channel_number": "1606",
+    "url": "www.onetv.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s102175_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4021.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CIII) Ontario HD",
+      "CIII-HD",
+      "1276"
+    ],
+    "full_name": "Global (CIII) Ontario HD",
+    "call_sign": "CIII-HD",
+    "channel_number": "1276",
+    "url": "www.canada.com/globaltv/ontario",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s73281_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4022.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBMT) Montreal, QC HD",
+      "CBC-HD",
+      "1268"
+    ],
+    "full_name": "CBC (CBMT) Montreal, QC HD",
+    "call_sign": "CBC-HD",
+    "channel_number": "1268",
+    "url": "www.montreal.cbc.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "41.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "OMNI.1 Television",
+      "CFMT",
+      "208"
+    ],
+    "full_name": "OMNI.1 Television",
+    "call_sign": "CFMT",
+    "channel_number": "208",
+    "url": "www.omnitv.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10105_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "414.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MTV Canada",
+      "MTV",
+      "573"
+    ],
+    "full_name": "MTV Canada",
+    "call_sign": "MTV",
+    "channel_number": "573",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s24514_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "416.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV News Channel",
+      "CTVNN",
+      "501"
+    ],
+    "full_name": "CTV News Channel",
+    "call_sign": "CTVNN",
+    "channel_number": "501",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17615_h9_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4161.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Showcase Canada HD",
+      "SHOWHD",
+      "1616"
+    ],
+    "full_name": "Showcase Canada HD",
+    "call_sign": "SHOWHD",
+    "channel_number": "1616",
+    "url": "www.showcase.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s53711_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4162.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "National Geographic Canada HD",
+      "NGEOHD",
+      "1524"
+    ],
+    "full_name": "National Geographic Canada HD",
+    "call_sign": "NGEOHD",
+    "channel_number": "1524",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s54743_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4179.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Peachtree TV (Canada)",
+      "PEACH",
+      "294"
+    ],
+    "full_name": "Peachtree TV (Canada)",
+    "call_sign": "PEACH",
+    "channel_number": "294",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s19556_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4180.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz1 onDemand",
+      "STZ1OD",
+      "1308"
+    ],
+    "full_name": "Starz1 onDemand",
+    "call_sign": "STZ1OD",
+    "channel_number": "1308",
+    "url": "",
+    "icon_src": "",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4186.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "SNY: SportsNet New York (Comcast)",
+      "SNY",
+      "26"
+    ],
+    "full_name": "SNY: SportsNet New York (Comcast)",
+    "call_sign": "SNY",
+    "channel_number": "26",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s49603_h9_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "4194.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global BC HD",
+      "CHANHD",
+      "1277"
+    ],
+    "full_name": "Global BC HD",
+    "call_sign": "CHANHD",
+    "channel_number": "1277",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s60121_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "42.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CITY Toronto, ON",
+      "CITY",
+      "204"
+    ],
+    "full_name": "CITY Toronto, ON",
+    "call_sign": "CITY",
+    "channel_number": "204",
+    "url": "WWW.CITYTV.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10125_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4202.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "WGN Canada",
+      "WGN-Can",
+      "295"
+    ],
+    "full_name": "WGN Canada",
+    "call_sign": "",
+    "channel_number": "295",
+    "url": "www.wgntv.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s51306_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4223.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Comedy - Eastern",
+      "SRZC",
+      "586"
+    ],
+    "full_name": "Starz Comedy - Eastern",
+    "call_sign": "SRZC",
+    "channel_number": "586",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s34901_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "4225.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Discovery Family Channel",
+      "DFC",
+      "294"
+    ],
+    "full_name": "Discovery Family Channel",
+    "call_sign": "DFC",
+    "channel_number": "294",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16618_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "4226.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "The Cooking Channel",
+      "COOK",
+      "232",
+      "163"
+    ],
+    "full_name": "The Cooking Channel",
+    "call_sign": "COOK",
+    "channel_number": "232",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s30156_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "4230.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO1 HD",
+      "HBO1HD",
+      "1306"
+    ],
+    "full_name": "HBO1 HD",
+    "call_sign": "HBO1HD",
+    "channel_number": "1306",
+    "url": "www.crave.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s61568_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "425.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HLN",
+      "64",
+      "508"
+    ],
+    "full_name": "HLN",
+    "call_sign": "HLN",
+    "channel_number": "64",
+    "url": "Turner.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10145_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]",
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4259.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS - Network HD - Eastern",
+      "PBSHD",
+      "389"
+    ],
+    "full_name": "PBS - Network HD - Eastern",
+    "call_sign": "PBSHD",
+    "channel_number": "389",
+    "url": "www.pbs.org",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s33453_h15_ad.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "4282.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS (WTVS) Detroit, MI HD",
+      "WTVS-HD",
+      "1224"
+    ],
+    "full_name": "PBS (WTVS) Detroit, MI HD",
+    "call_sign": "WTVS-HD",
+    "channel_number": "1224",
+    "url": "www.dptv.org",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11039_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "43.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CHCH Hamilton, ON",
+      "CHCH",
+      "211"
+    ],
+    "full_name": "CHCH Hamilton, ON",
+    "call_sign": "CHCH",
+    "channel_number": "211",
+    "url": "www.canada.com/globaltv/index.html",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10112_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4311.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "A&E Canada",
+      "A&E",
+      "615"
+    ],
+    "full_name": "A&E Canada",
+    "call_sign": "",
+    "channel_number": "615",
+    "url": "WWW.AETV.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10036_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ],
+    "canonical_name": "A&E Canada",
+    "mapping_type": "specialty",
+    "mapping_country": "",
+    "mapping_feed": ""
+  },
+  {
+    "channel_id": "4350.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TMC Xtra - Eastern",
+      "TMCX",
+      "572"
+    ],
+    "full_name": "TMC Xtra - Eastern",
+    "call_sign": "TMCX",
+    "channel_number": "572",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17663_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "438.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "STARZ2 - East",
+      "STARZ2E",
+      "305"
+    ],
+    "full_name": "STARZ2 - East",
+    "call_sign": "STARZ2E",
+    "channel_number": "305",
+    "url": "www.starz.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s24804_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "448.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Deja View",
+      "DEJA",
+      "636"
+    ],
+    "full_name": "Deja View",
+    "call_sign": "DEJA",
+    "channel_number": "636",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26873_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "45.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FOX (WUTV) Buffalo, NY",
+      "WUTV",
+      "223"
+    ],
+    "full_name": "FOX (WUTV) Buffalo, NY",
+    "call_sign": "WUTV",
+    "channel_number": "223",
+    "url": "www.wutv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "451.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crime + Investigation Canada",
+      "CI",
+      "638"
+    ],
+    "full_name": "Crime + Investigation Canada",
+    "call_sign": "CI",
+    "channel_number": "638",
+    "url": "www.canwest.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s99456_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "455.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cottage Life",
+      "COTTAGE",
+      "641"
+    ],
+    "full_name": "Cottage Life",
+    "call_sign": "COTTAGE",
+    "channel_number": "641",
+    "url": "www.cbccountrycanada.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26779_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4553.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ABC (WABC) New York, NY HD",
+      "WABC-HD",
+      "1200"
+    ],
+    "full_name": "ABC (WABC) New York, NY HD",
+    "call_sign": "WABC-HD",
+    "channel_number": "1200",
+    "url": "www.abc7ny.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10003_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "4555.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBS (WCBS) New York, NY HD",
+      "WCBS-HD",
+      "1209"
+    ],
+    "full_name": "CBS (WCBS) New York, NY HD",
+    "call_sign": "WCBS-HD",
+    "channel_number": "1209",
+    "url": "https://www.cbsnews.com/newyork/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10098_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "4557.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FOX (WNYW) New York, NY HD",
+      "WNYW-HD",
+      "1206"
+    ],
+    "full_name": "FOX (WNYW) New York, NY HD",
+    "call_sign": "WNYW-HD",
+    "channel_number": "1206",
+    "url": "www.fox5ny.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10212_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "4559.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NBC (WNBC) New York, NY HD",
+      "WNBC-HD",
+      "1203"
+    ],
+    "full_name": "NBC (WNBC) New York, NY HD",
+    "call_sign": "WNBC-HD",
+    "channel_number": "1203",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10991_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "461.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "History 2 Canada",
+      "H2",
+      "629"
+    ],
+    "full_name": "History 2 Canada",
+    "call_sign": "H2",
+    "channel_number": "629",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26772_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "462.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Documentary Channel (Canada)",
+      "DOCU",
+      "336"
+    ],
+    "full_name": "Documentary Channel (Canada)",
+    "call_sign": "DOCU",
+    "channel_number": "336",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26784_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "463.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ICI (CBOFT) Ottawa, ON",
+      "CBOFT",
+      "177"
+    ],
+    "full_name": "ICI (CBOFT) Ottawa, ON",
+    "call_sign": "CBOFT",
+    "channel_number": "177",
+    "url": "www.radio-canada.ca/regions/ottawa/index.shtml",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s52235_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4656.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Fox Business",
+      "FOXB",
+      "43"
+    ],
+    "full_name": "Fox Business",
+    "call_sign": "FOXB",
+    "channel_number": "43",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58649_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ],
+    "canonical_name": "Fox Business",
+    "mapping_type": "specialty",
+    "mapping_country": "",
+    "mapping_feed": ""
+  },
+  {
+    "channel_id": "4657.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cinemax on Demand",
+      "CNMX",
+      "530"
+    ],
+    "full_name": "Cinemax on Demand",
+    "call_sign": "CNMX",
+    "channel_number": "530",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s46895_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "4659.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TMC on Demand",
+      "TMC",
+      "570"
+    ],
+    "full_name": "TMC on Demand",
+    "call_sign": "TMC",
+    "channel_number": "570",
+    "url": "",
+    "icon_src": "",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "4679.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Smithsonian Channel USA",
+      "SMITH",
+      "131"
+    ],
+    "full_name": "Smithsonian Channel USA",
+    "call_sign": "SMITH",
+    "channel_number": "131",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s65799_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "472.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Wild Canada",
+      "CTVWLD",
+      "525"
+    ],
+    "full_name": "CTV Wild Canada",
+    "call_sign": "CTVWLD",
+    "channel_number": "525",
+    "url": "https://www.ctv.ca/wild",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26823_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4724.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CNN HD",
+      "CNN-HD",
+      "1500"
+    ],
+    "full_name": "CNN HD",
+    "call_sign": "CNN-HD",
+    "channel_number": "1500",
+    "url": "www.cnn.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58646_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "475.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "National Geographic Canada",
+      "NGEO",
+      "524"
+    ],
+    "full_name": "National Geographic Canada",
+    "call_sign": "NGEO",
+    "channel_number": "524",
+    "url": "www.nationalgeographic.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26882_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ],
+    "canonical_name": "National Geographic Canada",
+    "mapping_type": "specialty",
+    "mapping_country": "",
+    "mapping_feed": ""
+  },
+  {
+    "channel_id": "478.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MTV 2 Canada",
+      "MTV2",
+      "574"
+    ],
+    "full_name": "MTV 2 Canada",
+    "call_sign": "MTV2",
+    "channel_number": "574",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26775_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4793.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Circle (WWOR-TV2) New York, NY",
+      "WWOR-TV2",
+      "1215"
+    ],
+    "full_name": "Circle (WWOR-TV2) New York, NY",
+    "call_sign": "WWOR-TV2",
+    "channel_number": "1215",
+    "url": "WWW.UPN9.COM",
+    "icon_src": "",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "4794.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "WPIX New York (SUPERSTATION) HD",
+      "WPIX-HD",
+      "1212",
+      "1297"
+    ],
+    "full_name": "WPIX New York (SUPERSTATION) HD",
+    "call_sign": "WPIX-HD",
+    "channel_number": "1212",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11779_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]",
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4833.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Super Channel Fuse",
+      "SCFUSE",
+      "1326"
+    ],
+    "full_name": "Super Channel Fuse",
+    "call_sign": "SCFUSE",
+    "channel_number": "1326",
+    "url": "www.superchannel.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58870_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4834.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Super Channel Heart & Home",
+      "SCH&H",
+      "327"
+    ],
+    "full_name": "Super Channel Heart & Home",
+    "call_sign": "",
+    "channel_number": "327",
+    "url": "www.superchannel.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58889_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4835.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Super Channel Vault",
+      "VAULT",
+      "328"
+    ],
+    "full_name": "Super Channel Vault",
+    "call_sign": "VAULT",
+    "channel_number": "328",
+    "url": "www.superchannel.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58884_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4836.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Super Channel Quest",
+      "GNXSD",
+      "329"
+    ],
+    "full_name": "Super Channel Quest",
+    "call_sign": "GNXSD",
+    "channel_number": "329",
+    "url": "www.superchannel.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58885_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4838.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Super Channel Fuse HD",
+      "SCHUSE-HD",
+      "326"
+    ],
+    "full_name": "Super Channel Fuse HD",
+    "call_sign": "SCHUSE-HD",
+    "channel_number": "326",
+    "url": "www.superchannel.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58882_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "4839.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Super Channel Heart & Home\t HD",
+      "SCHD2",
+      "1327"
+    ],
+    "full_name": "Super Channel Heart & Home\t HD",
+    "call_sign": "SCHD2",
+    "channel_number": "1327",
+    "url": "www.superchannel.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58890_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "49.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBOT) Ottawa, ON",
+      "CBOT",
+      "269"
+    ],
+    "full_name": "CBC (CBOT) Ottawa, ON",
+    "call_sign": "CBOT",
+    "channel_number": "269",
+    "url": "www.ottawa.cbc.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10097_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "50.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Montreal (CFCF), QC",
+      "CFCF",
+      "252"
+    ],
+    "full_name": "CTV Montreal (CFCF), QC",
+    "call_sign": "CFCF",
+    "channel_number": "252",
+    "url": "www.cfcf12.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "5005.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TLC USA - Eastern",
+      "TLC",
+      "166"
+    ],
+    "full_name": "TLC USA - Eastern",
+    "call_sign": "TLC",
+    "channel_number": "166",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11158_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "5138.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MeTV (WJLP) New Jersey/New York",
+      "WJLP",
+      "1239"
+    ],
+    "full_name": "MeTV (WJLP) New Jersey/New York",
+    "call_sign": "WJLP",
+    "channel_number": "1239",
+    "url": "www.njnn.tv",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s96311_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "527.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "BBC News - North America",
+      "BBCW",
+      "209",
+      "510"
+    ],
+    "full_name": "BBC News - North America",
+    "call_sign": "BBCW",
+    "channel_number": "209",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s89542_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]",
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "5271.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Military History",
+      "MHC",
+      "141"
+    ],
+    "full_name": "Military History",
+    "call_sign": "MHC",
+    "channel_number": "141",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s48999_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "5272.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crime & Investigation Network USA",
+      "CIN",
+      "137"
+    ],
+    "full_name": "Crime & Investigation Network USA",
+    "call_sign": "CIN",
+    "channel_number": "137",
+    "url": "www.aetninternational.com/build_ci.jsp",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s61469_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "537.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CKCK) Regina, SK",
+      "CKCK",
+      "257"
+    ],
+    "full_name": "CTV (CKCK) Regina, SK",
+    "call_sign": "CKCK",
+    "channel_number": "257",
+    "url": "www.ctv.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "55.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "STARZ1 - East",
+      "STARZ1E",
+      "304"
+    ],
+    "full_name": "STARZ1 - East",
+    "call_sign": "STARZ1E",
+    "channel_number": "304",
+    "url": "www.starz.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14947_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "5598.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Super Channel on Demand",
+      "SCOD",
+      "1325"
+    ],
+    "full_name": "Super Channel on Demand",
+    "call_sign": "SCOD",
+    "channel_number": "1325",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s72782_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "5629.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Family Channel on Demand",
+      "FCOD",
+      "1558"
+    ],
+    "full_name": "Family Channel on Demand",
+    "call_sign": "FCOD",
+    "channel_number": "1558",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s77598_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "5682.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "KTLA Los Angeles, CA HD",
+      "KTLA-HD",
+      "1298"
+    ],
+    "full_name": "KTLA Los Angeles, CA HD",
+    "call_sign": "KTLA-HD",
+    "channel_number": "1298",
+    "url": "www.ktla.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s53098_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "58.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "WSBK (TV-38) Boston",
+      "WSBK-TV",
+      "296"
+    ],
+    "full_name": "WSBK (TV-38) Boston",
+    "call_sign": "WSBK-TV",
+    "channel_number": "296",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s32723_h9_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "583.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz - Eastern",
+      "STARZ",
+      "525",
+      "581"
+    ],
+    "full_name": "Starz - Eastern",
+    "call_sign": "STARZ",
+    "channel_number": "525",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s12719_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "5870.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CHCH Hamilton, ON HD",
+      "CHCH-HD",
+      "1211"
+    ],
+    "full_name": "CHCH Hamilton, ON HD",
+    "call_sign": "CHCH-HD",
+    "channel_number": "1211",
+    "url": "www.canada.com/globaltv/index.html",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10112_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "59.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Drama",
+      "CTVDR",
+      "620"
+    ],
+    "full_name": "CTV Drama",
+    "call_sign": "CTVDR",
+    "channel_number": "620",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s15176_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "594.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ESPN",
+      "28"
+    ],
+    "full_name": "ESPN",
+    "call_sign": "ESPN",
+    "channel_number": "28",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10179_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "595.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Disney - Eastern Feed",
+      "DISN",
+      "290",
+      "49"
+    ],
+    "full_name": "Disney - Eastern Feed",
+    "call_sign": "DISN",
+    "channel_number": "290",
+    "url": "www.disneychannel.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10171_h15_ae.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "596.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Syfy - Eastern Feed",
+      "SYFY",
+      "111"
+    ],
+    "full_name": "Syfy - Eastern Feed",
+    "call_sign": "SYFY",
+    "channel_number": "111",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11097_h15_ae.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "5997.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "APTN HD",
+      "APTNHD",
+      "1214"
+    ],
+    "full_name": "APTN HD",
+    "call_sign": "APTNHD",
+    "channel_number": "1214",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s61998_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "60.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Slice",
+      "SLICE",
+      "601"
+    ],
+    "full_name": "Slice",
+    "call_sign": "SLICE",
+    "channel_number": "601",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s15181_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6003.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NY1 New York",
+      "NY1",
+      "1"
+    ],
+    "full_name": "NY1 New York",
+    "call_sign": "NY1",
+    "channel_number": "1",
+    "url": "",
+    "icon_src": "",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "607.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Adult Swim - East",
+      "ADSM",
+      "334"
+    ],
+    "full_name": "Adult Swim - East",
+    "call_sign": "ADSM",
+    "channel_number": "334",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26769_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6080.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MTV Live",
+      "MTVL",
+      "286"
+    ],
+    "full_name": "MTV Live",
+    "call_sign": "MTVL",
+    "channel_number": "286",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s66419_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6081.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MTV Live HD",
+      "MTVL-HD",
+      "572"
+    ],
+    "full_name": "MTV Live HD",
+    "call_sign": "MTVL-HD",
+    "channel_number": "572",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s66419_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "61.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TBS - East",
+      "TBS",
+      "8"
+    ],
+    "full_name": "TBS - East",
+    "call_sign": "TBS",
+    "channel_number": "8",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11867_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6107.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MGM HD (USA)",
+      "MGMHD",
+      "633"
+    ],
+    "full_name": "MGM HD (USA)",
+    "call_sign": "MGMHD",
+    "channel_number": "633",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58530_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "613.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "OMNI.2",
+      "OMNI2",
+      "207"
+    ],
+    "full_name": "OMNI.2",
+    "call_sign": "OMNI.2",
+    "channel_number": "207",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s31558_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "614.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO - Eastern Feed",
+      "HBO",
+      "501",
+      "511"
+    ],
+    "full_name": "HBO - Eastern Feed",
+    "call_sign": "HBO",
+    "channel_number": "501",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10240_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "615.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "BBC America - East",
+      "BBC",
+      "110"
+    ],
+    "full_name": "BBC America - East",
+    "call_sign": "BBC",
+    "channel_number": "110",
+    "url": "www.bbcamerica.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18332_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "617.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "E! Entertainment USA - Eastern Feed",
+      "E!",
+      "168"
+    ],
+    "full_name": "E! Entertainment USA - Eastern Feed",
+    "call_sign": "",
+    "channel_number": "168",
+    "url": "www.eonline.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10989_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "619.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "EWTN Canada",
+      "EWTN",
+      "633"
+    ],
+    "full_name": "EWTN Canada",
+    "call_sign": "EWTN",
+    "channel_number": "633",
+    "url": "www.ewtn.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s33583_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "62.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Showcase Canada",
+      "SHOW",
+      "616"
+    ],
+    "full_name": "Showcase Canada",
+    "call_sign": "SHOW",
+    "channel_number": "616",
+    "url": "www.showcase.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s53711_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6202.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Create (WLIW2) Long Island, NY",
+      "WLIW2",
+      "1277"
+    ],
+    "full_name": "Create (WLIW2) Long Island, NY",
+    "call_sign": "WLIW2",
+    "channel_number": "1277",
+    "url": "www.wliw.org",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s48990_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6203.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS World (WLIW3) Long Island, NY",
+      "WLIW3",
+      "1278"
+    ],
+    "full_name": "PBS World (WLIW3) Long Island, NY",
+    "call_sign": "WLIW3",
+    "channel_number": "1278",
+    "url": "www.wliw.org",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s56725_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "621.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "History Channel US - Eastern Feed",
+      "HIST",
+      "269",
+      "107"
+    ],
+    "full_name": "History Channel US - Eastern Feed",
+    "call_sign": "HIST",
+    "channel_number": "269",
+    "url": "www.HistoryChannel.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14771_h15_af.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6216.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crime & Investigation Network USA HD",
+      "CIN",
+      "571"
+    ],
+    "full_name": "Crime & Investigation Network USA HD",
+    "call_sign": "CIN",
+    "channel_number": "571",
+    "url": "www.aetninternational.com/build_ci.jsp",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s61469_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "622.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Magnolia - East",
+      "MAGN",
+      "161"
+    ],
+    "full_name": "Magnolia - East",
+    "call_sign": "MAGN",
+    "channel_number": "161",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18544_h15_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "623.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HGTV USA - Eastern Feed",
+      "HGTV",
+      "51"
+    ],
+    "full_name": "HGTV USA - Eastern Feed",
+    "call_sign": "HGTV",
+    "channel_number": "51",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14902_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6237.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Smithsonian Channel USA HD",
+      "SMITH-HD",
+      "570"
+    ],
+    "full_name": "Smithsonian Channel USA HD",
+    "call_sign": "SMITH-HD",
+    "channel_number": "570",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s58532_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "624.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "VICE",
+      "133"
+    ],
+    "full_name": "VICE",
+    "call_sign": "VICE",
+    "channel_number": "133",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18822_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6257.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBUT) Vancouver, BC HD",
+      "CBUT-HD",
+      "1272"
+    ],
+    "full_name": "CBC (CBUT) Vancouver, BC HD",
+    "call_sign": "CBUT-HD",
+    "channel_number": "1272",
+    "url": "www.vancouver.cbc.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "626.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO Hits - Eastern Feed",
+      "HBOHIT",
+      "502",
+      "512"
+    ],
+    "full_name": "HBO Hits - Eastern Feed",
+    "call_sign": "HBOHIT",
+    "channel_number": "502",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/10241-5002.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "628.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO Family - Eastern Feed",
+      "HBOF",
+      "514"
+    ],
+    "full_name": "HBO Family - Eastern Feed",
+    "call_sign": "HBOF",
+    "channel_number": "514",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16585_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "629.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO Comedy - East",
+      "HBOC",
+      "515"
+    ],
+    "full_name": "HBO Comedy - East",
+    "call_sign": "HBOC",
+    "channel_number": "515",
+    "url": "www.hbo.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s18429_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "63.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "WPIX New York (SUPERSTATION)",
+      "WPIX",
+      "11",
+      "297"
+    ],
+    "full_name": "WPIX New York (SUPERSTATION)",
+    "call_sign": "WPIX",
+    "channel_number": "11",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s53098_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]",
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "630.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO Movies - East",
+      "HBOMOV",
+      "516"
+    ],
+    "full_name": "HBO Movies - East",
+    "call_sign": "HBOMOV",
+    "channel_number": "516",
+    "url": "www.hbo.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/18431-8FFE.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "632.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cinemax - Eastern Feed",
+      "MAX1",
+      "515",
+      "531"
+    ],
+    "full_name": "Cinemax - Eastern Feed",
+    "call_sign": "MAX1",
+    "channel_number": "515",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10120_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "634.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cinemax Hits Eastern",
+      "MAXEHIT",
+      "517",
+      "532"
+    ],
+    "full_name": "Cinemax Hits Eastern",
+    "call_sign": "MAXEHIT",
+    "channel_number": "517",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/10121-4F12.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "636.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cinemax Classics - Eastern",
+      "MAXCL",
+      "520",
+      "537"
+    ],
+    "full_name": "Cinemax Classics - Eastern",
+    "call_sign": "MAXCL",
+    "channel_number": "520",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/25620-C828.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "64.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "W (WTN) - East",
+      "W",
+      "602"
+    ],
+    "full_name": "W (WTN) - East",
+    "call_sign": "",
+    "channel_number": "602",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s15024_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "640.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "USA Network - East Feed",
+      "USA",
+      "101"
+    ],
+    "full_name": "USA Network - East Feed",
+    "call_sign": "USA",
+    "channel_number": "101",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11207_h15_af.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6421.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC News Network HD",
+      "NWHD",
+      "1502"
+    ],
+    "full_name": "CBC News Network HD",
+    "call_sign": "NWHD",
+    "channel_number": "1502",
+    "url": "www.cbc.ca/television/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s75971_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6437.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CKMI) Quebec HD",
+      "CKMI-HD",
+      "1232"
+    ],
+    "full_name": "Global (CKMI) Quebec HD",
+    "call_sign": "CKMI-HD",
+    "channel_number": "1232",
+    "url": "www.canada.com/globaltv/index.html",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s17406_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "645.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Animal Planet US - East",
+      "ANPL",
+      "132"
+    ],
+    "full_name": "Animal Planet US - East",
+    "call_sign": "ANPL",
+    "channel_number": "132",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16331_h9_ad.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6454.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CFCN) Calgary, AB HD",
+      "CTVHC-HD",
+      "1256"
+    ],
+    "full_name": "CTV (CFCN) Calgary, AB HD",
+    "call_sign": "CTVHC-HD",
+    "channel_number": "1256",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "646.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Bravo USA - Eastern Feed",
+      "BRAVO",
+      "167"
+    ],
+    "full_name": "Bravo USA - Eastern Feed",
+    "call_sign": "BRAVO",
+    "channel_number": "167",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10057_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "647.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Comedy Central (US) - Eastern Feed",
+      "COMC",
+      "113"
+    ],
+    "full_name": "Comedy Central (US) - Eastern Feed",
+    "call_sign": "COMC",
+    "channel_number": "113",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10149_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6484.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "OMNI.1 HD",
+      "OMNI1",
+      "1208"
+    ],
+    "full_name": "OMNI.1 HD",
+    "call_sign": "OMNI1",
+    "channel_number": "1208",
+    "url": "www.omnitv.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10105_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "649.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Discovery Channel (US) - Eastern Feed",
+      "DISC",
+      "106"
+    ],
+    "full_name": "Discovery Channel (US) - Eastern Feed",
+    "call_sign": "DISC",
+    "channel_number": "106",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11150_h15_af.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "650.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ESPN2",
+      "29"
+    ],
+    "full_name": "ESPN2",
+    "call_sign": "ESPN2",
+    "channel_number": "29",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s12444_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "652.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "FX Networks East Coast",
+      "FX",
+      "108"
+    ],
+    "full_name": "FX Networks East Coast",
+    "call_sign": "FX",
+    "channel_number": "108",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14321_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "654.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Lifetime Network US - Eastern Feed",
+      "LIFE",
+      "170"
+    ],
+    "full_name": "Lifetime Network US - Eastern Feed",
+    "call_sign": "LIFE",
+    "channel_number": "170",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10918_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "655.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MS NOW USA",
+      "MSNOW",
+      "356",
+      "203"
+    ],
+    "full_name": "MS NOW USA",
+    "call_sign": "MSNOW",
+    "channel_number": "356",
+    "url": "https://www.ms.now/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/16300-7F58.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "656.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MTV USA - Eastern Feed",
+      "MTV",
+      "331",
+      "118"
+    ],
+    "full_name": "MTV USA - Eastern Feed",
+    "call_sign": "MTV",
+    "channel_number": "331",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10986_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "657.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "National Geographic US - Eastern",
+      "NGEO",
+      "129"
+    ],
+    "full_name": "National Geographic US - Eastern",
+    "call_sign": "NGEO",
+    "channel_number": "129",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s24959_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "658.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Nickelodeon USA - East Feed",
+      "NICK",
+      "6"
+    ],
+    "full_name": "Nickelodeon USA - East Feed",
+    "call_sign": "NICK",
+    "channel_number": "6",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11006_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "659.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Oxygen True Crime - Eastern Feed",
+      "OXY",
+      "171"
+    ],
+    "full_name": "Oxygen True Crime - Eastern Feed",
+    "call_sign": "OXY",
+    "channel_number": "171",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s21484_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6603.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CITY Montreal, QC HD",
+      "CJNT",
+      "1280"
+    ],
+    "full_name": "CITY Montreal, QC HD",
+    "call_sign": "CJNT",
+    "channel_number": "1280",
+    "url": "www.canada.com/globaltv/index.html",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10125_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "661.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cartoon Network USA - Eastern Feed",
+      "TOON",
+      "61"
+    ],
+    "full_name": "Cartoon Network USA - Eastern Feed",
+    "call_sign": "TOON",
+    "channel_number": "61",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s12131_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "663.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "VH1 - Eastern Feed",
+      "VH1",
+      "335",
+      "117"
+    ],
+    "full_name": "VH1 - Eastern Feed",
+    "call_sign": "VH1",
+    "channel_number": "335",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11218_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "665.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Paramount+ with Showtime - Eastern Feed",
+      "PARSHO",
+      "545",
+      "551"
+    ],
+    "full_name": "Paramount+ with Showtime - Eastern Feed",
+    "call_sign": "PARSHO",
+    "channel_number": "545",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11115_h15_ad.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "666.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TMC (US) - Eastern Feed",
+      "TMC",
+      "571"
+    ],
+    "full_name": "TMC (US) - Eastern Feed",
+    "call_sign": "TMC",
+    "channel_number": "571",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11160_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "667.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Encore - Eastern",
+      "STZENC",
+      "535",
+      "602"
+    ],
+    "full_name": "Starz Encore - Eastern",
+    "call_sign": "STZENC",
+    "channel_number": "535",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10178_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6768.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ICI (CBOFT) Ottawa, ON HD",
+      "CBOFT-HD",
+      "1177"
+    ],
+    "full_name": "ICI (CBOFT) Ottawa, ON HD",
+    "call_sign": "CBOFT-HD",
+    "channel_number": "1177",
+    "url": "www.radio-canada.ca/regions/ottawa/index.shtml",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s52235_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6769.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ICI (CBUFT) Vancouver, BC HD",
+      "CBUFT-HD",
+      "1178"
+    ],
+    "full_name": "ICI (CBUFT) Vancouver, BC HD",
+    "call_sign": "CBUFT-HD",
+    "channel_number": "1178",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16371_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6779.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TLC Canada HD",
+      "TLCHD",
+      "1521"
+    ],
+    "full_name": "TLC Canada HD",
+    "call_sign": "TLCHD",
+    "channel_number": "1521",
+    "url": "tlc.discovery.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s60645_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6791.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cottage Life HD",
+      "COTTAGEHD",
+      "1641"
+    ],
+    "full_name": "Cottage Life HD",
+    "call_sign": "",
+    "channel_number": "1641",
+    "url": "www.cbccountrycanada.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s68012_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6797.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Drama HD",
+      "CTVDR-HD",
+      "1620"
+    ],
+    "full_name": "CTV Drama HD",
+    "call_sign": "CTVDR-HD",
+    "channel_number": "1620",
+    "url": "www.bravo.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s73549_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6805.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBHT) Halifax, NS HD",
+      "CBHT-HD",
+      "1266"
+    ],
+    "full_name": "CBC (CBHT) Halifax, NS HD",
+    "call_sign": "CBHT-HD",
+    "channel_number": "1266",
+    "url": "www.ais.cbc.ca/ais/owa/html.putloginpage",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14724_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6808.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBOT) Ottawa, ON HD",
+      "CBOT-HD",
+      "1269"
+    ],
+    "full_name": "CBC (CBOT) Ottawa, ON HD",
+    "call_sign": "CBOT-HD",
+    "channel_number": "1269",
+    "url": "www.ottawa.cbc.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10097_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6809.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBRT) Calgary, AB HD",
+      "CBRT-HD",
+      "1271"
+    ],
+    "full_name": "CBC (CBRT) Calgary, AB HD",
+    "call_sign": "CBRT-HD",
+    "channel_number": "1271",
+    "url": "www.cbc.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s15939_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6810.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBWT) Winnipeg, MB HD",
+      "CBWT-HD",
+      "1270"
+    ],
+    "full_name": "CBC (CBWT) Winnipeg, MB HD",
+    "call_sign": "CBWT-HD",
+    "channel_number": "1270",
+    "url": "www.cbc.ca/manitoba",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6811.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC (CBXT) Edmonton, AB HD",
+      "CBXT-HD",
+      "1273"
+    ],
+    "full_name": "CBC (CBXT) Edmonton, AB HD",
+    "call_sign": "CBXT-HD",
+    "channel_number": "1273",
+    "url": "www.cbc.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10084_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6812.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CJCH) Halifax HD",
+      "CJCH-HD",
+      "1251"
+    ],
+    "full_name": "CTV (CJCH) Halifax HD",
+    "call_sign": "CJCH-HD",
+    "channel_number": "1251",
+    "url": "WWW.ATV.CA",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6814.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CKCW) Moncton HD",
+      "CKCW-HD",
+      "1263"
+    ],
+    "full_name": "CTV (CKCW) Moncton HD",
+    "call_sign": "CKCW-HD",
+    "channel_number": "1263",
+    "url": "www.ctv.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6816.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ICI (CBAFT) Moncton, NB HD",
+      "CBAFT-HD",
+      "1175"
+    ],
+    "full_name": "ICI (CBAFT) Moncton, NB HD",
+    "call_sign": "CBAFT-HD",
+    "channel_number": "1175",
+    "url": "radio-canada.ca/regions/atlantique/index.shtml",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s16371_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6822.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "History Canada HD East",
+      "HIST",
+      "1522"
+    ],
+    "full_name": "History Canada HD East",
+    "call_sign": "HIST",
+    "channel_number": "1522",
+    "url": "WWW.HISTORYCHANNEL.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s65619_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6837.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "BET Her",
+      "BETHer",
+      "182"
+    ],
+    "full_name": "BET Her",
+    "call_sign": "",
+    "channel_number": "182",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s14897_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6838.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Primetime OnDemand",
+      "PRMOD",
+      "100"
+    ],
+    "full_name": "Primetime OnDemand",
+    "call_sign": "PRMOD",
+    "channel_number": "100",
+    "url": "",
+    "icon_src": "",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "69.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CKCO) Kitchener, ON",
+      "CKCO",
+      "264"
+    ],
+    "full_name": "CTV (CKCO) Kitchener, ON",
+    "call_sign": "CKCO",
+    "channel_number": "264",
+    "url": "www.ckco.ca/index.php",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "6921.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NFL RedZone",
+      "NFLN",
+      "311"
+    ],
+    "full_name": "NFL RedZone",
+    "call_sign": "NFLN",
+    "channel_number": "311",
+    "url": "www.nfl.com/ticket/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s65024_h9_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "6994.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HLN HD",
+      "HLN-HD",
+      "1508"
+    ],
+    "full_name": "HLN HD",
+    "call_sign": "HLN-HD",
+    "channel_number": "1508",
+    "url": "www.cnn.com/QUICKNEWS/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s64549_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "70.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CNN",
+      "201",
+      "500"
+    ],
+    "full_name": "CNN",
+    "call_sign": "CNN",
+    "channel_number": "201",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10142_h15_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]",
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "7087.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Cinema HD - Eastern",
+      "CINEMA-HD",
+      "531"
+    ],
+    "full_name": "Starz Cinema HD - Eastern",
+    "call_sign": "CINEMA-HD",
+    "channel_number": "531",
+    "url": "www.starz.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s67236_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "7088.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Starz Comedy HD - Eastern",
+      "SRZC-HD",
+      "528"
+    ],
+    "full_name": "Starz Comedy HD - Eastern",
+    "call_sign": "SRZC-HD",
+    "channel_number": "528",
+    "url": "www.starz.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s57569_h15_ac.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "7102.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO Zone HD - East",
+      "ZONE",
+      "509"
+    ],
+    "full_name": "HBO Zone HD - East",
+    "call_sign": "ZONE",
+    "channel_number": "509",
+    "url": "www.hbo.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/59845-1D38A.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "7105.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO Comedy HD - East",
+      "HBOC",
+      "506"
+    ],
+    "full_name": "HBO Comedy HD - East",
+    "call_sign": "HBOC",
+    "channel_number": "506",
+    "url": "www.hbo.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s59839_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "7106.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Showtime Showcase HD - East",
+      "SHO3-HD",
+      "550"
+    ],
+    "full_name": "Showtime Showcase HD - East",
+    "call_sign": "SHO3-HD",
+    "channel_number": "550",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s64328_h9_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "7109.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Showtime Next HD - Eastern",
+      "NEXT",
+      "551"
+    ],
+    "full_name": "Showtime Next HD - Eastern",
+    "call_sign": "NEXT",
+    "channel_number": "551",
+    "url": "https://www.paramountpluswithshowtime.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s68342_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "7113.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TMC Xtra HD - Eastern",
+      "TMCX",
+      "555"
+    ],
+    "full_name": "TMC Xtra HD - Eastern",
+    "call_sign": "TMCX",
+    "channel_number": "555",
+    "url": "https://www.paramountpluswithshowtime.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s60951_h15_aa.png",
+    "present_in": [
+      "DirecTV[US]"
+    ]
+  },
+  {
+    "channel_id": "7137.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crave3 - East HD",
+      "CRVM3-HD",
+      "1302"
+    ],
+    "full_name": "Crave3 - East HD",
+    "call_sign": "CRVM3-HD",
+    "channel_number": "1302",
+    "url": "www.themovienetwork.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s65990_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "7139.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crave2 - East HD",
+      "CRVM2-HD",
+      "1301"
+    ],
+    "full_name": "Crave2 - East HD",
+    "call_sign": "CRVM2-HD",
+    "channel_number": "1301",
+    "url": "www.themovienetwork.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s65988_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "7167.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MNT (WNYO) Buffalo, NY HD",
+      "WNYO-HD",
+      "1293"
+    ],
+    "full_name": "MNT (WNYO) Buffalo, NY HD",
+    "call_sign": "WNYO-HD",
+    "channel_number": "1293",
+    "url": "www.wb49.com/",
+    "icon_src": "",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "7174.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Ottawa (CJOH), ON HD",
+      "CJOH-HD",
+      "1255"
+    ],
+    "full_name": "CTV Ottawa (CJOH), ON HD",
+    "call_sign": "CJOH-HD",
+    "channel_number": "1255",
+    "url": "WWW.BATON.COM",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "7176.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV Montreal (CFCF), QC HD",
+      "CTVHM-HD",
+      "1252"
+    ],
+    "full_name": "CTV Montreal (CFCF), QC HD",
+    "call_sign": "CTVHM-HD",
+    "channel_number": "1252",
+    "url": "www.cfcf12.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "72.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crave1 - East",
+      "CRVM1",
+      "300"
+    ],
+    "full_name": "Crave1 - East",
+    "call_sign": "CRVM1",
+    "channel_number": "300",
+    "url": "www.themovienetwork.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s25444_h9_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "73.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Much Music",
+      "MM",
+      "570"
+    ],
+    "full_name": "Much Music",
+    "call_sign": "MM",
+    "channel_number": "570",
+    "url": "www.muchmusic.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10984_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "7305.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "UNI (WXTV) Teaneck, NJ HD",
+      "WXTV-HD",
+      "1224"
+    ],
+    "full_name": "UNI (WXTV) Teaneck, NJ HD",
+    "call_sign": "WXTV-HD",
+    "channel_number": "1224",
+    "url": "WWW.UNIVISION.NET",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11118_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "7307.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Telemundo (WNJU) Teterboro, NJ HD",
+      "WNJU-HD",
+      "1228"
+    ],
+    "full_name": "Telemundo (WNJU) Teterboro, NJ HD",
+    "call_sign": "WNJU-HD",
+    "channel_number": "1228",
+    "url": "WWW.NOTICIERO47.NET",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10239_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "7309.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "UniMás (WFUT) New York, NY HD",
+      "WFUT-HD",
+      "1226"
+    ],
+    "full_name": "UniMás (WFUT) New York, NY HD",
+    "call_sign": "WFUT-HD",
+    "channel_number": "1226",
+    "url": "www.univision.com/content/channel.jhtml?chid=6&schid=1611",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s29058_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "7336.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Adult Swim - East HD",
+      "ADSM-HD",
+      "1334"
+    ],
+    "full_name": "Adult Swim - East HD",
+    "call_sign": "ADSM-HD",
+    "channel_number": "1334",
+    "url": "www.showcase.ca/action",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s92160_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "74.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBC News Network",
+      "CBCNN",
+      "502"
+    ],
+    "full_name": "CBC News Network",
+    "call_sign": "CBCNN",
+    "channel_number": "502",
+    "url": "www.cbc.ca/television/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10094_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ],
+    "canonical_name": "CBC News Network",
+    "mapping_type": "specialty",
+    "mapping_country": "",
+    "mapping_feed": ""
+  },
+  {
+    "channel_id": "7537.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "National Geographic Wild",
+      "NGW",
+      "283",
+      "130"
+    ],
+    "full_name": "National Geographic Wild",
+    "call_sign": "NGW",
+    "channel_number": "283",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s66804_h15_ab.png",
+    "present_in": [
+      "DirecTV[US]",
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "7609.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MGM+ - East",
+      "MGM",
+      "595"
+    ],
+    "full_name": "MGM+ - East",
+    "call_sign": "MGM",
+    "channel_number": "595",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s65669_h15_ae.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "7647.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Music On Demand HD",
+      "MUSIC-HD",
+      "1569"
+    ],
+    "full_name": "Music On Demand HD",
+    "call_sign": "MUSIC-HD",
+    "channel_number": "1569",
+    "url": "",
+    "icon_src": "",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "7807.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MovieTime HD",
+      "MTIME",
+      "1340"
+    ],
+    "full_name": "MovieTime HD",
+    "call_sign": "MTIME",
+    "channel_number": "1340",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s67190_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "7930.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MGM+ On Demand",
+      "EPIXOD",
+      "594"
+    ],
+    "full_name": "MGM+ On Demand",
+    "call_sign": "EPIXOD",
+    "channel_number": "594",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s67491_h15_ab.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "7950.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CKY) Winnipeg, MB HD",
+      "CKY-HD",
+      "1261"
+    ],
+    "full_name": "CTV (CKY) Winnipeg, MB HD",
+    "call_sign": "CKY-HD",
+    "channel_number": "1261",
+    "url": "www.cky.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8368.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "AMC - Canada HD",
+      "AMC-HD",
+      "1339"
+    ],
+    "full_name": "AMC - Canada HD",
+    "call_sign": "AMC-HD",
+    "channel_number": "1339",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s64831_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8379.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV2 Vancouver Island. BC HD",
+      "CTV2VHD",
+      "1260"
+    ],
+    "full_name": "CTV2 Vancouver Island. BC HD",
+    "call_sign": "CTV2VHD",
+    "channel_number": "1260",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10135_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8383.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV2 Atlantic Region HD",
+      "CTV2AHD",
+      "1258"
+    ],
+    "full_name": "CTV2 Atlantic Region HD",
+    "call_sign": "CTV2AHD",
+    "channel_number": "1258",
+    "url": "www.ctv.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10135_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8389.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Flavour Network HD",
+      "FLAV-HD",
+      "1603"
+    ],
+    "full_name": "Flavour Network HD",
+    "call_sign": "FLAV-HD",
+    "channel_number": "1603",
+    "url": "https://www.flavournetwork.ca/?redirect=flavour/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s73467_h15_ae.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8399.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TVO (TV Ontario) HD",
+      "TVO-HD",
+      "1209"
+    ],
+    "full_name": "TVO (TV Ontario) HD",
+    "call_sign": "TVO-HD",
+    "channel_number": "1209",
+    "url": "www.tvo.org/eng/default.html",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10119_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "84.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "HBO1",
+      "306"
+    ],
+    "full_name": "HBO1",
+    "call_sign": "HBO1",
+    "channel_number": "306",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s61557_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8430.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MS NOW HD",
+      "MSNOW",
+      "1506"
+    ],
+    "full_name": "MS NOW HD",
+    "call_sign": "MSNOW",
+    "channel_number": "1506",
+    "url": "https://www.ms.now/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/108897-352C2.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8451.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "USA Network (CAN) HD",
+      "USA-HD",
+      "1520"
+    ],
+    "full_name": "USA Network (CAN) HD",
+    "call_sign": "USA-HD",
+    "channel_number": "1520",
+    "url": "https://www.ctv.ca/usa-network",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s15098_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8457.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "History 2 Canada HD",
+      "H2",
+      "1629"
+    ],
+    "full_name": "History 2 Canada HD",
+    "call_sign": "H2",
+    "channel_number": "1629",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s81208_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8458.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Oxygen True Crime Canada HD",
+      "OXYHD",
+      "1528"
+    ],
+    "full_name": "Oxygen True Crime Canada HD",
+    "call_sign": "OXYHD",
+    "channel_number": "1528",
+    "url": "https://www.ctv.ca/oxygen-true-crime",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s76799_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "85.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crave3 - East",
+      "CRVM3",
+      "302"
+    ],
+    "full_name": "Crave3 - East",
+    "call_sign": "CRVM3",
+    "channel_number": "302",
+    "url": "www.crave.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s12223_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8558.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "E! Canada HD",
+      "E!-HD",
+      "1621"
+    ],
+    "full_name": "E! Canada HD",
+    "call_sign": "",
+    "channel_number": "1621",
+    "url": "www.star-tv.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s76792_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "86.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Crave2 - East",
+      "CRVM2",
+      "303"
+    ],
+    "full_name": "Crave2 - East",
+    "call_sign": "CRVM2",
+    "channel_number": "303",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s12222_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "8687.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "TBD (WRNN-TV2) New York",
+      "WRNN-TV2",
+      "1295"
+    ],
+    "full_name": "TBD (WRNN-TV2) New York",
+    "call_sign": "WRNN-TV2",
+    "channel_number": "1295",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s102116_h15_ac.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "8777.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Family Channel Canada - East HD",
+      "FAM-HD",
+      "1556"
+    ],
+    "full_name": "Family Channel Canada - East HD",
+    "call_sign": "FAM-HD",
+    "channel_number": "1556",
+    "url": "www.family.ca/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s70520_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "88.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CBS (WIVB) Buffalo, NY",
+      "WIVB-TV",
+      "222"
+    ],
+    "full_name": "CBS (WIVB) Buffalo, NY",
+    "call_sign": "WIVB-TV",
+    "channel_number": "222",
+    "url": "www.wivb.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10098_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "89.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "ABC (WKBW) Buffalo, NY",
+      "WKBW-TV",
+      "221"
+    ],
+    "full_name": "ABC (WKBW) Buffalo, NY",
+    "call_sign": "WKBW-TV",
+    "channel_number": "221",
+    "url": "www.wkbw.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10003_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "90.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "KTLA Los Angeles, CA",
+      "KTLA",
+      "298"
+    ],
+    "full_name": "KTLA Los Angeles, CA",
+    "call_sign": "KTLA",
+    "channel_number": "298",
+    "url": "www.ktla.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s53098_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "91.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "NBC (WGRZ) Buffalo, NY",
+      "WGRZ",
+      "220"
+    ],
+    "full_name": "NBC (WGRZ) Buffalo, NY",
+    "call_sign": "WGRZ",
+    "channel_number": "220",
+    "url": "www.wgrz.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10991_h15_ad.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9112.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "MAX HD",
+      "MAX-HD",
+      "1131"
+    ],
+    "full_name": "MAX HD",
+    "call_sign": "MAX-HD",
+    "channel_number": "1131",
+    "url": "noovo.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s69468_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9116.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Documentary Channel (Canada) HD",
+      "DOCU-HD",
+      "1336"
+    ],
+    "full_name": "Documentary Channel (Canada) HD",
+    "call_sign": "DOCU-HD",
+    "channel_number": "1336",
+    "url": "www.cbc.ca/documentarychannel",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s26784_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9156.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Cinépop HD",
+      "CPOPHD",
+      "1165"
+    ],
+    "full_name": "Cinépop HD",
+    "call_sign": "CPOPHD",
+    "channel_number": "1165",
+    "url": "www.cinepop.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s70699_h6_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "92.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "PBS (WNED) Buffalo, NY",
+      "WNED-TV",
+      "224"
+    ],
+    "full_name": "PBS (WNED) Buffalo, NY",
+    "call_sign": "WNED-TV",
+    "channel_number": "224",
+    "url": "www.wned.org/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s11039_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9309.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "OUTtv HD",
+      "OUT",
+      "1609"
+    ],
+    "full_name": "OUTtv HD",
+    "call_sign": "OUT",
+    "channel_number": "1609",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s78648_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9396.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Much Music HD",
+      "MM",
+      "1570"
+    ],
+    "full_name": "Much Music HD",
+    "call_sign": "MM",
+    "channel_number": "1570",
+    "url": "www.muchmusic.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/72139-23396.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9505.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Bravo Canada HD",
+      "BRAVOC-HD",
+      "1411"
+    ],
+    "full_name": "Bravo Canada HD",
+    "call_sign": "BRAVOC-HD",
+    "channel_number": "1411",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v3/72517-2368A.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9530.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "WGN Canada HD",
+      "WGN-CanHD",
+      "1295"
+    ],
+    "full_name": "WGN Canada HD",
+    "call_sign": "",
+    "channel_number": "1295",
+    "url": "www.wgntv.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s51306_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9574.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "WLNY TV10/55, Riverhead, NY",
+      "WLNY-TV",
+      "55"
+    ],
+    "full_name": "WLNY TV10/55, Riverhead, NY",
+    "call_sign": "WLNY-TV",
+    "channel_number": "55",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s31225_h9_aa.png",
+    "present_in": [
+      "Spectrum_NY[US]"
+    ]
+  },
+  {
+    "channel_id": "9632.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Slice HD",
+      "SLICE",
+      "1601"
+    ],
+    "full_name": "Slice HD",
+    "call_sign": "SLICE",
+    "channel_number": "1601",
+    "url": "www.lifenetwork.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s81282_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9652.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "W (WTN) - East HD",
+      "W-HD",
+      "1602"
+    ],
+    "full_name": "W (WTN) - East HD",
+    "call_sign": "",
+    "channel_number": "1602",
+    "url": "www.wnetwork.com",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s15024_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9660.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CKCK) Regina, SK HD",
+      "CKCK-HD",
+      "1257"
+    ],
+    "full_name": "CTV (CKCK) Regina, SK HD",
+    "call_sign": "CKCK-HD",
+    "channel_number": "1257",
+    "url": "www.ctv.ca",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9690.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "CTV (CKCO) Kitchener, ON HD",
+      "CKCO-HD",
+      "1264"
+    ],
+    "full_name": "CTV (CKCO) Kitchener, ON HD",
+    "call_sign": "CKCO-HD",
+    "channel_number": "1264",
+    "url": "www.ckco.ca/index.php",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10108_h15_ab.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9694.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CKWS) Kingston, ON HD",
+      "CKWS-HD",
+      "1237"
+    ],
+    "full_name": "Global (CKWS) Kingston, ON HD",
+    "call_sign": "CKWS-HD",
+    "channel_number": "1237",
+    "url": "www.ckwstv.com/",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10137_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9696.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CHEX-TV-2) Durham, ON HD",
+      "CHEX2-HD",
+      "1235"
+    ],
+    "full_name": "Global (CHEX-TV-2) Durham, ON HD",
+    "call_sign": "CHEX2-HD",
+    "channel_number": "1235",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s110839_h15_aa.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  },
+  {
+    "channel_id": "9697.stations.xmltv.tvmedia.ca",
+    "display_names": [
+      "Global (CHEX) Peterborough, ON HD",
+      "CHEX-HD",
+      "1236"
+    ],
+    "full_name": "Global (CHEX) Peterborough, ON HD",
+    "call_sign": "CHEX-HD",
+    "channel_number": "1236",
+    "url": "",
+    "icon_src": "http://cdn.tvpassport.com/image/station/76x28/v2/s10114_h15_ac.png",
+    "present_in": [
+      "Bell_Fibe[CA]"
+    ]
+  }
+]

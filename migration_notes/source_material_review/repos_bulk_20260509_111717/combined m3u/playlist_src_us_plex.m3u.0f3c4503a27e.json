@@ -1,0 +1,239 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_plex.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Plex",
+  "channels": [
+    {
+      "canonical_name": "Amc Absolute Reality Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC Absolute Reality",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/Gtwk8ic.png",
+        "stream_url": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8",
+        "xmltv_id": "AbsoluteRealitybyWETV.us",
+        "xmltv_display_name": "AMC Absolute Reality",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Gtwk8ic.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Accuweather Now Weather (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "AccuWeather Now (1080p)",
+        "group_title_raw": "Weather",
+        "logo_raw": "https://i.imgur.com/M8wbVYK.png",
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+        "xmltv_id": "AccuWeatherNOW.us",
+        "xmltv_display_name": "AccuWeather Now (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/M8wbVYK.png",
+        "xmltv_categories": [
+          "Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Afv Comedy (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "AFV (720p)",
+        "group_title_raw": "Comedy",
+        "logo_raw": "https://i.imgur.com/TOB9vmW.png",
+        "stream_url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+        "xmltv_id": "AFV.us",
+        "xmltv_display_name": "AFV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/TOB9vmW.png",
+        "xmltv_categories": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Afv En Espa Ol Not 24 7 Comedy (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "AFV en Español (720p) [Not 24/7]",
+        "group_title_raw": "Comedy",
+        "logo_raw": "https://i.imgur.com/HUK4WXC.png",
+        "stream_url": "https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8",
+        "xmltv_id": "AFVEspanol.us",
+        "xmltv_display_name": "AFV en Español (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/HUK4WXC.png",
+        "xmltv_categories": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Docurama Documentary (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Docurama (1080p)",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/2248nxX.png",
+        "stream_url": "https://docurama-plex-ingest.cinedigm.com/playlist.m3u8",
+        "xmltv_id": "Docurama.us",
+        "xmltv_display_name": "Docurama (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/2248nxX.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Freebie Tv Not 24 7 Entertainment (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Freebie TV (720p) [Not 24/7]",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/KbmXdjm.png",
+        "stream_url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
+        "xmltv_id": "FreebieTV.us",
+        "xmltv_display_name": "Freebie TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KbmXdjm.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hi Yah Entertainment (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hi-YAH! (1080p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/sOYAnTB.png",
+        "stream_url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+        "xmltv_id": "HiYAH.us",
+        "xmltv_display_name": "Hi-YAH! (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/sOYAnTB.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Popstar Tv Not 24 7 Entertainment (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Popstar! TV (1080p) [Not 24/7]",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/d4xEiXX.png",
+        "stream_url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
+        "xmltv_id": "PopstarTV.us",
+        "xmltv_display_name": "Popstar! TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/d4xEiXX.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Rcn M S Entertainment (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "RCN Más (1080p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/MJzuRAN.png",
+        "stream_url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RCNMas.co",
+        "xmltv_display_name": "RCN Más (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/MJzuRAN.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Real Families Family (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Real Families (1080p)",
+        "group_title_raw": "Family",
+        "logo_raw": "https://i.imgur.com/uoWrh7e.png",
+        "stream_url": "https://lds-realfamilies-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "RealFamilies.us",
+        "xmltv_display_name": "Real Families (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/uoWrh7e.png",
+        "xmltv_categories": [
+          "Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Real Stories Documentary (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Plex",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Real Stories (1080p)",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/PG15QKA.png",
+        "stream_url": "https://lds-realstories-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "RealStories.uk",
+        "xmltv_display_name": "Real Stories (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/PG15QKA.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    }
+  ]
+}

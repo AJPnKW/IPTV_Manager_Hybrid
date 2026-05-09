@@ -1,0 +1,23 @@
+﻿execute_quarantine_move
+run_ts=20260418_233308
+plan_path=C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\quarantine_move_plan.csv
+quarantine_root=C:\Users\andrew\PROJECTS\iptv_quarantine\pending_review
+total_rows=80388
+moved_count=80388
+moved_bytes=4577459159
+source_missing_count=0
+target_conflict_count=0
+error_count=0
+
+by_root
+
+candidate_root                                                             total_rows moved source_missing target_conflict errors
+--------------                                                             ---------- ----- -------------- --------------- ------
+C:\Users\andrew\PROJECTS\iptv\temp\Collections-IPTV-files\copied_from_repo      56151 56151              0               0      0
+C:\X1_Share\Tivimate\archived\epg_inventory_non_channels                        22270 22270              0               0      0
+C:\X1_Share\Tivimate\archived\epg_inventory_non_region                           1400  1400              0               0      0
+C:\X1_Share\Tivimate\archived\Other_Countries                                     366   366              0               0      0
+C:\X1_Share\Tivimate\m3u temp files                                               201   201              0               0      0
+
+
+

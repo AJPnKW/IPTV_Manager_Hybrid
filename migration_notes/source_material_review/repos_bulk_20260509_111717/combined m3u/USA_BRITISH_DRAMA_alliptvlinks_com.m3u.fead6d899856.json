@@ -1,0 +1,29 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\USA BRITISH DRAMA_alliptvlinks_com.m3u",
+  "provider": "Usabritishdramaalliptvlinkscom",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Usa British Drama Alliptvlinks Com (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA BRITISH DRAMA alliptvlinks.com",
+        "group_title_raw": "PLUTO",
+        "logo_raw": null,
+        "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "USA BRITISH DRAMA alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "PLUTO"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1908 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_tvpass.m3u",
+  "provider": "Ustvpass",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "A E Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "A&E East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/AEEast/hd",
+        "xmltv_id": "AE.us@East",
+        "xmltv_display_name": "A&E East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "A E Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "A&E East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/AEEast/sd",
+        "xmltv_id": "AE.us@East",
+        "xmltv_display_name": "A&E East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "C Span 2 Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "C-SPAN 2 (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/CSPAN2/hd",
+        "xmltv_id": "CSPAN2.us@SD",
+        "xmltv_display_name": "C-SPAN 2 (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "C Span 2 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "C-SPAN 2 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/CSPAN2/sd",
+        "xmltv_id": "CSPAN2.us@SD",
+        "xmltv_display_name": "C-SPAN 2 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cnbc Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CNBC (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/CNBC/hd",
+        "xmltv_id": "CNBC.us@SD",
+        "xmltv_display_name": "CNBC (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cnbc Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "CNBC (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/CNBC/sd",
+        "xmltv_id": "CNBC.us@SD",
+        "xmltv_display_name": "CNBC (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crime Investigation Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Crime + Investigation (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/CrimePlusInvestigation/hd",
+        "xmltv_id": "CrimePlusInvestigation.us@SD",
+        "xmltv_display_name": "Crime + Investigation (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crime Investigation Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Crime + Investigation (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/CrimePlusInvestigation/sd",
+        "xmltv_id": "CrimePlusInvestigation.us@SD",
+        "xmltv_display_name": "Crime + Investigation (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Disney Channel Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Disney Channel East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/DisneyChannelEast/hd",
+        "xmltv_id": "DisneyChannel.us@East",
+        "xmltv_display_name": "Disney Channel East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Disney Channel Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Disney Channel East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/DisneyChannelEast/sd",
+        "xmltv_id": "DisneyChannel.us@East",
+        "xmltv_display_name": "Disney Channel East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Disney Junior Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Disney Junior East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/DisneyJuniorEast/hd",
+        "xmltv_id": "DisneyJunior.us@East",
+        "xmltv_display_name": "Disney Junior East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Disney Junior Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Disney Junior East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/DisneyJuniorEast/sd",
+        "xmltv_id": "DisneyJunior.us@East",
+        "xmltv_display_name": "Disney Junior East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Disney Xd Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Disney XD East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/DisneyXDEast/hd",
+        "xmltv_id": "DisneyXD.us@East",
+        "xmltv_display_name": "Disney XD East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Disney Xd Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Disney XD East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/DisneyXDEast/sd",
+        "xmltv_id": "DisneyXD.us@East",
+        "xmltv_display_name": "Disney XD East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "E Not 24 7 (Ustvpass) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "E! East (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/EEast/hd",
+        "xmltv_id": "E.us@East",
+        "xmltv_display_name": "E! East (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "E Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "E! East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/EEast/sd",
+        "xmltv_id": "E.us@East",
+        "xmltv_display_name": "E! East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Business Network Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Business Network (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FoxBusiness/hd",
+        "xmltv_id": "FoxBusinessNetwork.us@SD",
+        "xmltv_display_name": "Fox Business Network (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Business Network Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Business Network (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FoxBusiness/sd",
+        "xmltv_id": "FoxBusinessNetwork.us@SD",
+        "xmltv_display_name": "Fox Business Network (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox News Channel Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox News Channel (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FoxNewsChannel/hd",
+        "xmltv_id": "FoxNewsChannel.us@SD",
+        "xmltv_display_name": "Fox News Channel (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox News Channel Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Fox News Channel (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "xmltv_id": "FoxNewsChannel.us@SD",
+        "xmltv_display_name": "Fox News Channel (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Sports 2 Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports 2 (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FoxSports2/hd",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fox Sports 2 (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Sports 2 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports 2 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FoxSports2/sd",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fox Sports 2 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fuse Not 24 7 (Ustvpass) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fuse East (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FuseEast/hd",
+        "xmltv_id": "Fuse.us@East",
+        "xmltv_display_name": "Fuse East (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fuse Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Fuse East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FuseEast/sd",
+        "xmltv_id": "Fuse.us@East",
+        "xmltv_display_name": "Fuse East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FX Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FX East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FXEast/hd",
+        "xmltv_id": "FX.us@East",
+        "xmltv_display_name": "FX East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FX Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "FX East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FXEast/sd",
+        "xmltv_id": "FX.us@East",
+        "xmltv_display_name": "FX East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FX Movie Channel Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FX Movie Channel (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FXMovieChannel/hd",
+        "xmltv_id": "FXMovieChannel.us@SD",
+        "xmltv_display_name": "FX Movie Channel (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FX Movie Channel Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "FX Movie Channel (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FXMovieChannel/sd",
+        "xmltv_id": "FXMovieChannel.us@SD",
+        "xmltv_display_name": "FX Movie Channel (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FXX Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FXX East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FXXEast/hd",
+        "xmltv_id": "FXX.us@East",
+        "xmltv_display_name": "FXX East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FXX Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "FXX East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FXXEast/sd",
+        "xmltv_id": "FXX.us@East",
+        "xmltv_display_name": "FXX East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fyi Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FYI East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FYIEast/hd",
+        "xmltv_id": "FYI.us@East",
+        "xmltv_display_name": "FYI East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fyi Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "FYI East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FYIEast/sd",
+        "xmltv_id": "FYI.us@East",
+        "xmltv_display_name": "FYI East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Golf Channel Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Golf Channel (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/GolfChannel/hd",
+        "xmltv_id": "GolfChannel.us@SD",
+        "xmltv_display_name": "Golf Channel (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Golf Channel Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Golf Channel (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/GolfChannel/sd",
+        "xmltv_id": "GolfChannel.us@SD",
+        "xmltv_display_name": "Golf Channel (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hallmark Drama Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hallmark Drama (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/HallmarkDrama/hd",
+        "xmltv_id": "HallmarkDrama.us@SD",
+        "xmltv_display_name": "Hallmark Drama (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hallmark Drama Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Hallmark Drama (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/HallmarkDrama/sd",
+        "xmltv_id": "HallmarkDrama.us@SD",
+        "xmltv_display_name": "Hallmark Drama (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hallmark Movies Mysteries Not 24 7 (Ustvpass) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hallmark Movies & Mysteries East (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd",
+        "xmltv_id": "HallmarkMoviesMysteries.us@East",
+        "xmltv_display_name": "Hallmark Movies & Mysteries East (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hallmark Movies Mysteries Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Hallmark Movies & Mysteries East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd",
+        "xmltv_id": "HallmarkMoviesMysteries.us@East",
+        "xmltv_display_name": "Hallmark Movies & Mysteries East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ifc Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "IFC East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/IFCEast/hd",
+        "xmltv_id": "IFC.us@East",
+        "xmltv_display_name": "IFC East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ifc Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "IFC East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/IFCEast/sd",
+        "xmltv_id": "IFC.us@East",
+        "xmltv_display_name": "IFC East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kabc Dt1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "KABC-DT1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/sd",
+        "xmltv_id": "KABCDT1.us@SD",
+        "xmltv_display_name": "KABC-DT1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kcbs Dt1 Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "KCBS-DT1 (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd",
+        "xmltv_id": "KCBSDT1.us@SD",
+        "xmltv_display_name": "KCBS-DT1 (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kcbs Dt1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "KCBS-DT1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd",
+        "xmltv_id": "KCBSDT1.us@SD",
+        "xmltv_display_name": "KCBS-DT1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kfmb Dt2 Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "KFMB-DT2 (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
+        "xmltv_id": "KFMBDT2.us@SD",
+        "xmltv_display_name": "KFMB-DT2 (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kfmb Dt2 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "KFMB-DT2 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
+        "xmltv_id": "KFMBDT2.us@SD",
+        "xmltv_display_name": "KFMB-DT2 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Knbc Dt1 Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "KNBC-DT1 (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd",
+        "xmltv_id": "KNBCDT1.us@SD",
+        "xmltv_display_name": "KNBC-DT1 (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Knbc Dt1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "KNBC-DT1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd",
+        "xmltv_id": "KNBCDT1.us@SD",
+        "xmltv_display_name": "KNBC-DT1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kttv Dt1 Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "KTTV-DT1 (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/fox-kttv-los-angeles-ca/hd",
+        "xmltv_id": "KTTVDT1.us@SD",
+        "xmltv_display_name": "KTTV-DT1 (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kttv Dt1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "KTTV-DT1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/fox-kttv-los-angeles-ca/sd",
+        "xmltv_id": "KTTVDT1.us@SD",
+        "xmltv_display_name": "KTTV-DT1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Lifetime Movies Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Lifetime Movies East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/LifetimeMoviesEast/hd",
+        "xmltv_id": "LifetimeMovies.us@East",
+        "xmltv_display_name": "Lifetime Movies East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Lifetime Movies Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Lifetime Movies East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/LifetimeMoviesEast/sd",
+        "xmltv_id": "LifetimeMovies.us@East",
+        "xmltv_display_name": "Lifetime Movies East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Logo Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Logo East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/LogoEast/hd",
+        "xmltv_id": "Logo.us@East",
+        "xmltv_display_name": "Logo East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Logo Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Logo East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/LogoEast/sd",
+        "xmltv_id": "Logo.us@East",
+        "xmltv_display_name": "Logo East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Msg Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MSG (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/msg-madison-square-gardens/hd",
+        "xmltv_id": "MSG.us@SD",
+        "xmltv_display_name": "MSG (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Msg Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "MSG (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/msg-madison-square-gardens/sd",
+        "xmltv_id": "MSG.us@SD",
+        "xmltv_display_name": "MSG (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Msg Plus Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MSG Plus (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/msg-plus/hd",
+        "xmltv_id": "MSGPlus.us@SD",
+        "xmltv_display_name": "MSG Plus (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Msg Plus Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "MSG Plus (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/msg-plus/sd",
+        "xmltv_id": "MSGPlus.us@SD",
+        "xmltv_display_name": "MSG Plus (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Msnbc Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MSNBC (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/MSNBC/hd",
+        "xmltv_id": "MSNBC.us@SD",
+        "xmltv_display_name": "MSNBC (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Msnbc Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "MSNBC (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/MSNBC/sd",
+        "xmltv_id": "MSNBC.us@SD",
+        "xmltv_display_name": "MSNBC (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "National Geographic HD East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/NationalGeographicEast/hd",
+        "xmltv_id": "NationalGeographic.us@HDEast",
+        "xmltv_display_name": "National Geographic HD East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "National Geographic HD East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/NationalGeographicEast/sd",
+        "xmltv_id": "NationalGeographic.us@HDEast",
+        "xmltv_display_name": "National Geographic HD East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Wild Not 24 7 (Ustvpass) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "National Geographic Wild HD East (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/NationalGeographicWildEast/hd",
+        "xmltv_id": "NationalGeographicWild.us@HDEast",
+        "xmltv_display_name": "National Geographic Wild HD East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Wild Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "National Geographic Wild HD East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/NationalGeographicWildEast/sd",
+        "xmltv_id": "NationalGeographicWild.us@HDEast",
+        "xmltv_display_name": "National Geographic Wild HD East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Sports Bay Area Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC Sports Bay Area (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "xmltv_id": "NBCSportsBayArea.us@SD",
+        "xmltv_display_name": "NBC Sports Bay Area (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Sports Bay Area Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "NBC Sports Bay Area (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/nbc-sports-bay-area/sd",
+        "xmltv_id": "NBCSportsBayArea.us@SD",
+        "xmltv_display_name": "NBC Sports Bay Area (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Sports Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC Sports Boston (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/nbc-sports-boston/hd",
+        "xmltv_id": "NBCSportsBoston.us@SD",
+        "xmltv_display_name": "NBC Sports Boston (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Sports Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "NBC Sports Boston (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/nbc-sports-boston/sd",
+        "xmltv_id": "NBCSportsBoston.us@SD",
+        "xmltv_display_name": "NBC Sports Boston (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Sports Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC Sports Philadelphia (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/nbc-sports-philadelphia/hd",
+        "xmltv_id": "NBCSportsPhiladelphia.us@SD",
+        "xmltv_display_name": "NBC Sports Philadelphia (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Sports Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "NBC Sports Philadelphia (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/nbc-sports-philadelphia/sd",
+        "xmltv_id": "NBCSportsPhiladelphia.us@SD",
+        "xmltv_display_name": "NBC Sports Philadelphia (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Newsmax Tv Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Newsmax TV (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/NewsmaxTV/hd",
+        "xmltv_id": "NewsmaxTV.us@SD",
+        "xmltv_display_name": "Newsmax TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Newsmax Tv Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Newsmax TV (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/NewsmaxTV/sd",
+        "xmltv_id": "NewsmaxTV.us@SD",
+        "xmltv_display_name": "Newsmax TV (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nfl Redzone Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NFL RedZone (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/NFLRedZone/hd",
+        "xmltv_id": "NFLRedZone.us@SD",
+        "xmltv_display_name": "NFL RedZone (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nfl Redzone Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "NFL RedZone (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/NFLRedZone/sd",
+        "xmltv_id": "NFLRedZone.us@SD",
+        "xmltv_display_name": "NFL RedZone (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Starz Not 24 7 (Ustvpass) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Starz East (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/StarzEast/hd",
+        "xmltv_id": "Starz.us@East",
+        "xmltv_display_name": "Starz East (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Starz Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Starz East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/StarzEast/sd",
+        "xmltv_id": "Starz.us@East",
+        "xmltv_display_name": "Starz East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tsn1 Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TSN1 (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/tsn1/hd",
+        "xmltv_id": "TSN1.ca@SD",
+        "xmltv_display_name": "TSN1 (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tsn1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "TSN1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/tsn1/sd",
+        "xmltv_id": "TSN1.ca@SD",
+        "xmltv_display_name": "TSN1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tsn2 Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TSN2 (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/tsn2/hd",
+        "xmltv_id": "TSN2.ca@SD",
+        "xmltv_display_name": "TSN2 (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tsn2 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "TSN2 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/tsn2/sd",
+        "xmltv_id": "TSN2.ca@SD",
+        "xmltv_display_name": "TSN2 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tsn3 Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TSN3 (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/tsn3/hd",
+        "xmltv_id": "TSN3.ca@SD",
+        "xmltv_display_name": "TSN3 (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tsn3 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "TSN3 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/tsn3/sd",
+        "xmltv_id": "TSN3.ca@SD",
+        "xmltv_display_name": "TSN3 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tsn4 Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "TSN4 (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/tsn4/hd",
+        "xmltv_id": "TSN4.ca@SD",
+        "xmltv_display_name": "TSN4 (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tsn4 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "TSN4 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/tsn4/sd",
+        "xmltv_id": "TSN4.ca@SD",
+        "xmltv_display_name": "TSN4 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tsn5 Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TSN5 (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/tsn5/hd",
+        "xmltv_id": "TSN5.ca@SD",
+        "xmltv_display_name": "TSN5 (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tsn5 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "TSN5 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/tsn5/sd",
+        "xmltv_id": "TSN5.ca@SD",
+        "xmltv_display_name": "TSN5 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Usa Network Not 24 7 (Ustvpass) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "USA Network East (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/USANetworkEast/hd",
+        "xmltv_id": "USANetwork.us@East",
+        "xmltv_display_name": "USA Network East (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Usa Network Not 24 7 (Ustvpass) (East) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "USA Network East (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/USANetworkEast/sd",
+        "xmltv_id": "USANetwork.us@East",
+        "xmltv_display_name": "USA Network East (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wabc Dt1 Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WABC-DT1 (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/WABCDT1/hd",
+        "xmltv_id": "WABCDT1.us@SD",
+        "xmltv_display_name": "WABC-DT1 (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wabc Dt1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "WABC-DT1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/WABCDT1/sd",
+        "xmltv_id": "WABCDT1.us@SD",
+        "xmltv_display_name": "WABC-DT1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wcbs Dt1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "WCBS-DT1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/WCBSDT1/sd",
+        "xmltv_id": "WCBSDT1.us@SD",
+        "xmltv_display_name": "WCBS-DT1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wis Dt2 Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WIS-DT2 (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd",
+        "xmltv_id": "WISDT2.us@SD",
+        "xmltv_display_name": "WIS-DT2 (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wis Dt2 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "WIS-DT2 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/sd",
+        "xmltv_id": "WISDT2.us@SD",
+        "xmltv_display_name": "WIS-DT2 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wnbc Dt1 Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WNBC-DT1 (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/WNBCDT1/hd",
+        "xmltv_id": "WNBCDT1.us@SD",
+        "xmltv_display_name": "WNBC-DT1 (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wnbc Dt1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "WNBC-DT1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/WNBCDT1/sd",
+        "xmltv_id": "WNBCDT1.us@SD",
+        "xmltv_display_name": "WNBC-DT1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wnet Dt1 Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "WNET-DT1 (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/WNET/hd",
+        "xmltv_id": "WNETDT1.us@SD",
+        "xmltv_display_name": "WNET-DT1 (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wnet Dt1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "WNET-DT1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/WNET/sd",
+        "xmltv_id": "WNETDT1.us@SD",
+        "xmltv_display_name": "WNET-DT1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wnju Dt1 Not 24 7 (Ustvpass) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "WNJU-DT1 (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/TelemundoEast/hd",
+        "xmltv_id": "WNJUDT1.us@SD",
+        "xmltv_display_name": "WNJU-DT1 (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wnju Dt1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "WNJU-DT1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/TelemundoEast/sd",
+        "xmltv_id": "WNJUDT1.us@SD",
+        "xmltv_display_name": "WNJU-DT1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wnyw Dt1 Not 24 7 (Ustvpass) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WNYW-DT1 (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/WNYWDT1/hd",
+        "xmltv_id": "WNYWDT1.us@SD",
+        "xmltv_display_name": "WNYW-DT1 (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wnyw Dt1 Not 24 7 (Ustvpass) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "WNYW-DT1 (360p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/WNYWDT1/sd",
+        "xmltv_id": "WNYWDT1.us@SD",
+        "xmltv_display_name": "WNYW-DT1 (360p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

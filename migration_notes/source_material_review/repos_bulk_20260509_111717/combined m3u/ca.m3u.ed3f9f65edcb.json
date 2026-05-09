@@ -1,0 +1,27 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\ca.m3u",
+  "provider": "Ca",
+  "country": "CA",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Meteomedia (Ca) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Meteomedia",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://encodercdn1.frontline.ca/encoder181/output/Meteo_Media_720p/playlist.m3u8",
+        "xmltv_id": "MeteoMedia.ca",
+        "xmltv_display_name": "Meteomedia",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿build_pass_01
+run_ts=20260419_221822
+total_files=704
+total_bytes=919365062
+candidate_m3u_count=531
+candidate_epg_count=107
+reference_count=66
+
+by_source
+
+source_label          file_count total_bytes
+------------          ---------- -----------
+canonical_m3u_sources        504    17491335
+canonical_free_epg           102   254744512
+paid_xmltv_reference          65   510262695
+legacy_review_input           33   136866520
+
+
+
+
+by_category
+
+Count Name                
+----- ----                
+  531 candidate_m3u       
+  107 candidate_epg       
+   65 reference_paid_xmltv
+    1 reference_metadata  
+
+
+
+
+by_extension
+
+Count Name 
+----- ---- 
+  523 .m3u 
+  106 .xml 
+   35 .gz  
+   10 .m3u8
+    9 .json
+    7 .csv 
+    6 .html
+    3 .txt 
+    2 .bak 
+    2 .xlsx
+    1 .ini 
+
+
+

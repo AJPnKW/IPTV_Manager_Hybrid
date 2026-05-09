@@ -1,0 +1,722 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_iptv-org_nz.m3u",
+  "provider": "Playlistiptvorgnz",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "BBC News Asia Pacific News (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BBC News Asia Pacific (1080p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/vSz2WEp.png",
+        "stream_url": "https://tv.ddns.vn/tv/bbcworldnews/index.m3u8",
+        "xmltv_id": "BBCNews.uk@AsiaPacific",
+        "xmltv_display_name": "BBC News Asia Pacific (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vSz2WEp.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv Asia Business (Playlistiptvorgnz) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV Asia (720p)",
+        "group_title_raw": "Business",
+        "logo_raw": "https://i.imgur.com/OuogLHx.png",
+        "stream_url": "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+        "xmltv_id": "BloombergTV.us@Asia",
+        "xmltv_display_name": "Bloomberg TV Asia (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OuogLHx.png",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv Asia Live Event Business (Playlistiptvorgnz) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV Asia Live Event (720p)",
+        "group_title_raw": "Business",
+        "logo_raw": "https://i.imgur.com/OuogLHx.png",
+        "stream_url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
+        "xmltv_id": "BloombergTV.us@AsiaLiveEvent",
+        "xmltv_display_name": "Bloomberg TV Asia Live Event (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OuogLHx.png",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bravo 1 Undefined (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bravo +1",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/hphQ2kw.png",
+        "stream_url": "https://i.mjh.nz/.r/bravo-plus1.m3u8",
+        "xmltv_id": "Bravo.nz@Plus1",
+        "xmltv_display_name": "Bravo +1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/hphQ2kw.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Channel 200 540p Entertainment (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Channel 200 (540p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/gAebu4q.png",
+        "stream_url": "https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+        "xmltv_id": "Channel200.nz",
+        "xmltv_display_name": "Channel 200 (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/gAebu4q.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cnbc Asia 576p Geo Blocked Business (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNBC Asia (576p) [Geo-blocked]",
+        "group_title_raw": "Business",
+        "logo_raw": "https://i.imgur.com/Mn8Rsup.png",
+        "stream_url": "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8",
+        "xmltv_id": "CNBCAsia.sg@SD",
+        "xmltv_display_name": "CNBC Asia (576p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Mn8Rsup.png",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ewtn Asia Pacific Not 24 7 Religious (Playlistiptvorgnz) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "EWTN Asia-Pacific (720p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/sua70RO.png",
+        "stream_url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8",
+        "xmltv_id": "EWTN.us@AsiaPacific",
+        "xmltv_display_name": "EWTN Asia-Pacific (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/sua70RO.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Firstlight 576p Religious (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Firstlight (576p)",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/gtDROeT.png",
+        "stream_url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
+        "xmltv_id": "Firstlight.nz",
+        "xmltv_display_name": "Firstlight (576p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/gtDROeT.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Juice Tv Not 24 7 Music (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Juice TV (1080p) [Not 24/7]",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/WaaaW0w.png",
+        "stream_url": "https://juicex.nz/hls/mystream.m3u8",
+        "xmltv_id": "JuiceTV.nz",
+        "xmltv_display_name": "Juice TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/WaaaW0w.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kordia Tv Undefined (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Kordia TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/BQ0qWzX.png",
+        "stream_url": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+        "xmltv_id": "KordiaTV.nz",
+        "xmltv_display_name": "Kordia TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/BQ0qWzX.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mis Televizija Not 24 7 Culture (Playlistiptvorgnz) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MIS Televizija (720p) [Not 24/7]",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/qvrNVFg.png",
+        "stream_url": "https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8",
+        "xmltv_id": "MISTelevizija.au",
+        "xmltv_display_name": "MIS Televizija (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qvrNVFg.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Parliament Tv Legislative (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Parliament TV (1080p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/2aHW4q7.png",
+        "stream_url": "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+        "xmltv_id": "ParliamentTV.nz",
+        "xmltv_display_name": "Parliament TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/2aHW4q7.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Rialto Undefined (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rialto (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/wGw0sGu.png",
+        "stream_url": "https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Rialto.nz",
+        "xmltv_display_name": "Rialto (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/wGw0sGu.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sky Open Geo Blocked Undefined (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Open (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/eYyYojh.png",
+        "stream_url": "https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8",
+        "xmltv_id": "SkyOpen.nz",
+        "xmltv_display_name": "Sky Open (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/eYyYojh.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sky Open 1 576p Geo Blocked Undefined (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sky open +1 (576p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/eYyYojh.png",
+        "stream_url": "https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8",
+        "xmltv_id": "SkyOpen.nz@Plus1",
+        "xmltv_display_name": "Sky open +1 (576p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/eYyYojh.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sky Sport 1 Sports (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Sport 1 (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/ThJHEuN.png",
+        "stream_url": "http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts",
+        "xmltv_id": "SkySport1.nz",
+        "xmltv_display_name": "Sky Sport 1 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ThJHEuN.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sky Sport 2 Sports (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Sport 2 (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/cu8yB69.png",
+        "stream_url": "http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts",
+        "xmltv_id": "SkySport2.nz",
+        "xmltv_display_name": "Sky Sport 2 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/cu8yB69.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sky Sport 3 Sports (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Sport 3 (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/XYp3Ua3.png",
+        "stream_url": "https://hls.sheepland.xyz/play/0/15?proxy=0",
+        "xmltv_id": "SkySport3.nz",
+        "xmltv_display_name": "Sky Sport 3 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/XYp3Ua3.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sky Sport 4 Sports (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Sport 4 (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/KUXs7SQ.png",
+        "stream_url": "https://hls.sheepland.xyz/play/0/36?proxy=0",
+        "xmltv_id": "SkySport4.nz",
+        "xmltv_display_name": "Sky Sport 4 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KUXs7SQ.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sky Sport 5 Sports (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Sport 5 (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/xgpKcYh.png",
+        "stream_url": "http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts",
+        "xmltv_id": "SkySport5.nz",
+        "xmltv_display_name": "Sky Sport 5 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/xgpKcYh.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sky Sport 6 Sports (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Sport 6 (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/nyjD1dU.png",
+        "stream_url": "https://hls.sheepland.xyz/play/0/70?proxy=0",
+        "xmltv_id": "SkySport6.nz",
+        "xmltv_display_name": "Sky Sport 6 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/nyjD1dU.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sky Sport 7 Sports (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Sport 7 (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/iuTNWh4.png",
+        "stream_url": "https://hls.sheepland.xyz/play/0/66?proxy=0",
+        "xmltv_id": "SkySport7.nz",
+        "xmltv_display_name": "Sky Sport 7 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/iuTNWh4.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Star International Entertainment (Playlistiptvorgnz) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "STAR International (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/6NUpxhr.png",
+        "stream_url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+        "xmltv_id": "StarChannelInternational.gr",
+        "xmltv_display_name": "STAR International (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/6NUpxhr.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Te Reo Undefined (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Te Reo",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/3CNvYUN.png",
+        "stream_url": "https://i.mjh.nz/.r/te-reo.m3u8",
+        "xmltv_id": "TeReo.nz",
+        "xmltv_display_name": "Te Reo",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/3CNvYUN.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv5monde Pacifique Geo Blocked Undefined (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TV5Monde Pacifique (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/mfZOYZI.png",
+        "stream_url": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8",
+        "xmltv_id": "TV5MondePacific.fr",
+        "xmltv_display_name": "TV5Monde Pacifique (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mfZOYZI.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tvnz 1 General (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TVNZ 1",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/Nx76HUE.png",
+        "stream_url": "https://tv.wyatts-server.com/stream/channelid/1534554920?auth=Lo47lPuhjUwYZIPv+NymH3qAyhMe1svINVM4Kac2fvA=&profile=pass",
+        "xmltv_id": "TVNZ1.nz@SD",
+        "xmltv_display_name": "TVNZ 1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Nx76HUE.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tvnz 2 General (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TVNZ 2",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/9sV4dbH.png",
+        "stream_url": "https://tv.wyatts-server.com/stream/channelid/255759550?auth=Lo47lPuhjUwYZIPv+NymH3qAyhMe1svINVM4Kac2fvA=&profile=pass",
+        "xmltv_id": "TVNZ2.nz@SD",
+        "xmltv_display_name": "TVNZ 2",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9sV4dbH.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tvnz Duke General (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TVNZ DUKE",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/tJf9DEI.png",
+        "stream_url": "https://tv.wyatts-server.com/stream/channelid/1236662026?auth=Lo47lPuhjUwYZIPv+NymH3qAyhMe1svINVM4Kac2fvA=&profile=pass",
+        "xmltv_id": "TVNZDUKE.nz@SD",
+        "xmltv_display_name": "TVNZ DUKE",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/tJf9DEI.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tvsn Shop (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TVSN (1080p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/lmoAFm3.png",
+        "stream_url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+        "xmltv_id": "TVSN.au",
+        "xmltv_display_name": "TVSN (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lmoAFm3.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tvsn Beauty Shop (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TVSN Beauty (1080p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/lmoAFm3.png",
+        "stream_url": "https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8",
+        "xmltv_id": "TVSNBeauty.au",
+        "xmltv_display_name": "TVSN Beauty (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lmoAFm3.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tvsn Jewellery Shop (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TVSN Jewellery (1080p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/lmoAFm3.png",
+        "stream_url": "https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8",
+        "xmltv_id": "TVSNJewellery.au",
+        "xmltv_display_name": "TVSN Jewellery (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lmoAFm3.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wairarapa Tv Not 24 7 Undefined (Playlistiptvorgnz) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Wairarapa TV (1080p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/xm4KBwE.png",
+        "stream_url": "https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8",
+        "xmltv_id": "WairarapaTV.nz",
+        "xmltv_display_name": "Wairarapa TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/xm4KBwE.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Whakaata Maori Undefined (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Whakaata Maori",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/oT3PrHZ.png",
+        "stream_url": "https://i.mjh.nz/.r/maori-tv.m3u8",
+        "xmltv_id": "WhakaataMaori.nz",
+        "xmltv_display_name": "Whakaata Maori",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/oT3PrHZ.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "General (Playlistiptvorgnz) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "РТР Планета Азия",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/DTtK0z7.png",
+        "stream_url": "https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363",
+        "xmltv_id": "RTRPlanetaAsia.ru",
+        "xmltv_display_name": "РТР Планета Азия",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DTtK0z7.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    }
+  ]
+}

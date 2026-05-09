@@ -1,0 +1,337 @@
+{
+  "country": "UK",
+  "generated_at": "2026-04-10T02:18:47Z",
+  "decision_source": "C:\\Users\\andrew\\PROJECTS\\GitHub\\get_xmltvlisting\\IPTV\\scope_outputs\\INPUT_SCOPE_DECISIONS.seed.json",
+  "included_channels": [
+    {
+      "channel_name": "BBC Four",
+      "name": "BBC Four",
+      "tvg_id": "bbcfour.uk",
+      "call_sign": "BBCFOUR",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7a/BBC_Four_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Arts, culture, world cinema."
+      ],
+      "scope_hint": "core",
+      "notes": "Arts, culture, world cinema.",
+      "review": {
+        "decision": "include",
+        "target_group": "UK • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    },
+    {
+      "channel_name": "BBC Parliament",
+      "name": "BBC Parliament",
+      "tvg_id": "bbcparliament.uk",
+      "call_sign": "BBCPARLIAMENT",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/BBC_Parliament_logo_2022.svg"
+      ],
+      "source_notes": [
+        "UK parliamentary coverage."
+      ],
+      "scope_hint": "core",
+      "notes": "UK parliamentary coverage.",
+      "review": {
+        "decision": "include",
+        "target_group": "UK • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    },
+    {
+      "channel_name": "BBC Three",
+      "name": "BBC Three",
+      "tvg_id": "bbcthree.uk",
+      "call_sign": "BBCTHREE",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/BBC_Three_logo_2021.svg"
+      ],
+      "source_notes": [
+        "Youth‑focused entertainment."
+      ],
+      "scope_hint": "core",
+      "notes": "Youth‑focused entertainment.",
+      "review": {
+        "decision": "include",
+        "target_group": "UK • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    },
+    {
+      "channel_name": "CBBC",
+      "name": "CBBC",
+      "tvg_id": "cbbc.uk",
+      "call_sign": "CBBC",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/CBBC_2023.svg"
+      ],
+      "source_notes": [
+        "Children’s programming (6–12)."
+      ],
+      "scope_hint": "core",
+      "notes": "Children’s programming (6–12).",
+      "review": {
+        "decision": "include",
+        "target_group": "UK • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    },
+    {
+      "channel_name": "CBeebies",
+      "name": "CBeebies",
+      "tvg_id": "cbeebies.uk",
+      "call_sign": "CBEEBIES",
+      "channel_number": "",
+      "country": "UK",
+      "network": "BBC",
+      "broadcaster": "BBC",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview"
+      ],
+      "lineups": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)"
+      ],
+      "article_titles": [
+        "BBC Channels (Core Freeview Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "BBC Channels (Core Freeview Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/CBeebies_2023.svg"
+      ],
+      "source_notes": [
+        "Children’s programming (under 6)."
+      ],
+      "scope_hint": "core",
+      "notes": "Children’s programming (under 6).",
+      "review": {
+        "decision": "include",
+        "target_group": "UK • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    },
+    {
+      "channel_name": "Channel 4",
+      "name": "Channel 4",
+      "tvg_id": "channel4.uk",
+      "call_sign": "CHANNEL4",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 4 (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 4 (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "Channel 4 (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Channel_4_logo_2015.svg"
+      ],
+      "source_notes": [
+        "Main Channel 4 service.",
+        "Main C4 service."
+      ],
+      "scope_hint": "core",
+      "notes": "Main Channel 4 service. | Main C4 service.",
+      "review": {
+        "decision": "include",
+        "target_group": "UK • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    },
+    {
+      "channel_name": "Channel 5",
+      "name": "Channel 5",
+      "tvg_id": "channel5.uk",
+      "call_sign": "CHANNEL5",
+      "channel_number": "",
+      "country": "UK",
+      "network": "UK Freeview",
+      "broadcaster": "UK Freeview",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "BBC + UK Freeview",
+        "UK Broadcasters"
+      ],
+      "lineups": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 5 (Full Set)"
+      ],
+      "sections": [
+        "BBC + UK Freeview (Complete Channel Set)",
+        "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)"
+      ],
+      "article_titles": [
+        "UK Freeview (Complete Core Set)",
+        "Channel 5 (Full Set)"
+      ],
+      "source_links": [
+        {
+          "section_id": "uk-freeview",
+          "section_title": "BBC + UK Freeview (Complete Channel Set)",
+          "article_title": "UK Freeview (Complete Core Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-freeview"
+        },
+        {
+          "section_id": "uk-broadcasters",
+          "section_title": "UK Broadcasters (BBC, ITV, Channel 4, Channel 5, UKTV, STV, S4C, UTV)",
+          "article_title": "Channel 5 (Full Set)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#uk-broadcasters"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Channel_5_logo_2016.svg"
+      ],
+      "source_notes": [
+        "Main Channel 5 service.",
+        "Main C5 service."
+      ],
+      "scope_hint": "core",
+      "notes": "Main Channel 5 service. | Main C5 service.",
+      "review": {
+        "decision": "include",
+        "target_group": "UK • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    }
+  ]
+}

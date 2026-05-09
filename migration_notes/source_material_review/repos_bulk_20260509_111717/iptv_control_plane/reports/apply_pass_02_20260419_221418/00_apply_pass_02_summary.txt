@@ -1,0 +1,19 @@
+﻿apply_pass_02
+run_ts=20260419_221418
+total_roots=4
+moved_count=4
+source_missing_count=0
+target_conflict_count=0
+error_count=0
+
+by_root
+
+source_root                                                                     quarantine_target_root                                                                                                                      status detail                                  
+-----------                                                                     ----------------------                                                                                                                      ------ ------                                  
+C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u               C:\Users\andrew\PROJECTS\iptv_quarantine\promoted_source_roots\Users_andrew_PROJECTS_iptv_collections_inputs_for_tivimate_m3u               MOVED  Moved promoted source root to quarantine
+C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg               C:\Users\andrew\PROJECTS\iptv_quarantine\promoted_source_roots\Users_andrew_PROJECTS_iptv_collections_inputs_for_tivimate_epg               MOVED  Moved promoted source root to quarantine
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\iptv__C42511BE\streams C:\Users\andrew\PROJECTS\iptv_quarantine\promoted_source_roots\Users_andrew_PROJECTS_iptv_collections_repos_programs_iptv__C42511BE_streams MOVED  Moved promoted source root to quarantine
+C:\X1_Share\IPTV_load_files                                                     C:\Users\andrew\PROJECTS\iptv_quarantine\promoted_source_roots\X1_Share_IPTV_load_files                                                     MOVED  Moved promoted source root to quarantine
+
+
+

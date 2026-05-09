@@ -1,0 +1,28 @@
+﻿IPTV scan summary
+run_stamp: 20251225_175556
+scan_root: F:\Users
+
+Counts
+repos_detected: 101
+iptv_files_total: 68853
+iptv_files_repo_owned: 68853
+iptv_files_orphan: 0
+aux_files_total: 151812
+errors_total: 0
+
+IPTV extension breakdown
+.xml = 64326
+.gz = 2360
+.m3u = 1570
+.zip = 430
+.m3u8 = 140
+.tgz = 14
+.7z = 11
+.rar = 2
+
+Reports
+iptv_files_csv:  C:\Users\andrew\PROJECTS\iptv\scripts\reports\iptv_scan_iptv_files_20251225_175556.csv
+aux_files_csv:   C:\Users\andrew\PROJECTS\iptv\scripts\reports\iptv_scan_aux_files_20251225_175556.csv
+repos_csv:       C:\Users\andrew\PROJECTS\iptv\scripts\reports\iptv_scan_repo_roots_20251225_175556.csv
+errors_csv:      C:\Users\andrew\PROJECTS\iptv\scripts\reports\iptv_scan_errors_20251225_175556.csv
+log:             C:\Users\andrew\PROJECTS\iptv\scripts\logs\iptv_scan_old_ssd_f_users_20251225_175556.log.txt

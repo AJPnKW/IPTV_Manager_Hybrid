@@ -1,0 +1,113 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_uk_samsung.m3u",
+  "provider": "Playlistsrc",
+  "country": "UK",
+  "region": "Samsung",
+  "channels": [
+    {
+      "canonical_name": "Bloomberg Tv Undefined (Playlistsrc) (2160p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV+ UHD (2160p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bloomberg TV+ UHD (2160p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv Undefined (Playlistsrc) (2160p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV+ UHD (2160p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bloomberg TV+ UHD (2160p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Beano Tv Series (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Beano TV (720p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/IKHFZDJ.png",
+        "stream_url": "https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "BeanoTV.uk",
+        "xmltv_display_name": "Beano TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/IKHFZDJ.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qwest Tv Jazz Beyond Geo Blocked Music (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Qwest TV Jazz & Beyond (720p) [Geo-blocked]",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/89yWH5L.png",
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
+        "xmltv_id": "QwestTVJazzBeyond.fr",
+        "xmltv_display_name": "Qwest TV Jazz & Beyond (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/89yWH5L.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Moviesphere Movies (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere (1080p)",
+        "group_title_raw": "Movies",
+        "logo_raw": null,
+        "stream_url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+        "xmltv_id": "SamsungMovieSphere.us",
+        "xmltv_display_name": "MovieSphere (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    }
+  ]
+}

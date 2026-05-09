@@ -1,0 +1,825 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\us_plex.m3u",
+  "provider": "Usplex",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "24 Hour Free Movies Not 24 7 (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "24 Hour Free Movies (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8",
+        "xmltv_id": "24HourFreeMovies.us",
+        "xmltv_display_name": "24 Hour Free Movies (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Accuweather Now (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "AccuWeather Now (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+        "xmltv_id": "AccuWeatherNOW.us",
+        "xmltv_display_name": "AccuWeather Now (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Afv (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "AFV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+        "xmltv_id": "AFV.us",
+        "xmltv_display_name": "AFV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Afv En Espa Ol Not 24 7 (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "AFV en Español (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8",
+        "xmltv_id": "AFVEspanol.us",
+        "xmltv_display_name": "AFV en Español (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Amc Absolute Reality (Usplex) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC Absolute Reality",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8",
+        "xmltv_id": "AbsoluteRealitybyWETV.us",
+        "xmltv_display_name": "AMC Absolute Reality",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Choppertown Not 24 7 (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Choppertown (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8",
+        "xmltv_id": "Choppertown.us",
+        "xmltv_display_name": "Choppertown (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Comedy Dynamics (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Comedy Dynamics (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8",
+        "xmltv_id": "ComedyDynamics.us",
+        "xmltv_display_name": "Comedy Dynamics (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crackle (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Crackle (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://crackle-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Crackle.us",
+        "xmltv_display_name": "Crackle (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dark Matter Tv (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Dark Matter TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dmtv-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "DarkMatterTV.us",
+        "xmltv_display_name": "Dark Matter TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Docurama (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Docurama (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://docurama-plex-ingest.cinedigm.com/playlist.m3u8",
+        "xmltv_id": "Docurama.us",
+        "xmltv_display_name": "Docurama (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dove Channel (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dove Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dove-channel.plex.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "DoveChannel.us",
+        "xmltv_display_name": "Dove Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Edgesport (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "EDGEsport (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://edgesports-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EDGEsport.uk",
+        "xmltv_display_name": "EDGEsport (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estrella News (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Estrella News (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://estrellanews-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EstrellaNews.us",
+        "xmltv_display_name": "Estrella News (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estrella Tv (Usplex) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Estrella TV East (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EstrellaTV.us",
+        "xmltv_display_name": "Estrella TV East (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Freebie Tv Not 24 7 (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Freebie TV (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
+        "xmltv_id": "FreebieTV.us",
+        "xmltv_display_name": "Freebie TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Gfn Tv Not 24 7 (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "GFN TV (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8",
+        "xmltv_id": "GFNTV.us",
+        "xmltv_display_name": "GFN TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hard Knocks Not 24 7 (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hard Knocks (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
+        "xmltv_id": "HardKnocks.ca",
+        "xmltv_display_name": "Hard Knocks (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hi Yah (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hi-YAH! (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+        "xmltv_id": "HiYAH.us",
+        "xmltv_display_name": "Hi-YAH! (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Humor Mill Not 24 7 (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Humor Mill (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8",
+        "xmltv_id": "HumorMill.us",
+        "xmltv_display_name": "Humor Mill (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ign (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "IGN (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8",
+        "xmltv_id": "IGN.us",
+        "xmltv_display_name": "IGN (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ign (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "IGN (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ign-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "IGN.us",
+        "xmltv_display_name": "IGN (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kmtv (Usplex) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "KMTV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8",
+        "xmltv_id": "KMTV.kr",
+        "xmltv_display_name": "KMTV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviesphere (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://moviesphere-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MovieSphere.us",
+        "xmltv_display_name": "MovieSphere (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Museum Tv Fast (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Museum TV Fast (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8",
+        "xmltv_id": "MuseumTVFast.us",
+        "xmltv_display_name": "Museum TV Fast (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outdoor America Not 24 7 (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Outdoor America (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8",
+        "xmltv_id": "OutdoorAmerica.us",
+        "xmltv_display_name": "Outdoor America (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Popstar Tv Not 24 7 (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Popstar! TV (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8",
+        "xmltv_id": "PopstarTV.us",
+        "xmltv_display_name": "Popstar! TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Rcn M S (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "RCN Más (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RCNMas.co",
+        "xmltv_display_name": "RCN Más (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Real Families (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Real Families (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lds-realfamilies-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "RealFamilies.us",
+        "xmltv_display_name": "Real Families (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Real Stories (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Real Stories (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lds-realstories-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "RealStories.uk",
+        "xmltv_display_name": "Real Stories (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Reuters (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Reuters (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "ReutersTV.us",
+        "xmltv_display_name": "Reuters (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Reuters Tv (Usplex) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Reuters TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://reuters-reutersnow-1-us.plex.wurl.tv/playlist.m3u8",
+        "xmltv_id": "ReutersTV.us",
+        "xmltv_display_name": "Reuters TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Revry Not 24 7 (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Revry (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8",
+        "xmltv_id": "Revry.us",
+        "xmltv_display_name": "Revry (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Revry News Not 24 7 (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Revry News (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8",
+        "xmltv_id": "RevryNews.us",
+        "xmltv_display_name": "Revry News (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsgrid (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SportsGrid (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "SportsGrid.us",
+        "xmltv_display_name": "SportsGrid (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Tastemade (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8",
+        "xmltv_id": "Tastemade.us",
+        "xmltv_display_name": "Tastemade (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Film Detective (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Film Detective (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://filmdetective-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/master.m3u8",
+        "xmltv_id": "TheFilmDetective.us",
+        "xmltv_display_name": "The Film Detective (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Film Detective (Usplex) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Film Detective (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://filmdetective-plex.amagi.tv/index.m3u8",
+        "xmltv_id": "TheFilmDetective.us",
+        "xmltv_display_name": "The Film Detective (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Timeline (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Timeline (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Timeline.us",
+        "xmltv_display_name": "Timeline (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weekly Tv (Usplex) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Weekly TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8",
+        "xmltv_id": "UsWeeklyTV.us",
+        "xmltv_display_name": "US Weekly TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wonder (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Wonder (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Wonder.uk",
+        "xmltv_display_name": "Wonder (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "World Poker Tour Not 24 7 (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "World Poker Tour (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
+        "xmltv_id": "WorldPokerTour.us",
+        "xmltv_display_name": "World Poker Tour (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yahoo Finance (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Yahoo! Finance (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8",
+        "xmltv_id": "YahooFinance.us",
+        "xmltv_display_name": "Yahoo! Finance (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yahoo Finance (Usplex) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Yahoo! Finance (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://yahoo-plex.amagi.tv/playlist.m3u8",
+        "xmltv_id": "YahooFinance.us",
+        "xmltv_display_name": "Yahoo! Finance (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

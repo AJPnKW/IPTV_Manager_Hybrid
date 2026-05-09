@@ -1,0 +1,3105 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\additional_m3u\\Canada-scriped.m3u",
+  "provider": "Canadascriped",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Fr Noovo D (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "(FR) NOOVO (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57581",
+        "xmltv_id": null,
+        "xmltv_display_name": "(FR) NOOVO (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fr Zeste B (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "(FR) Zeste HD (B)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:88843/7686199/9576982/57582",
+        "xmltv_id": null,
+        "xmltv_display_name": "(FR) Zeste HD (B)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nba Tv (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBA TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/22995",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBA TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet D (Canadascriped) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet East (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/41836",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet East (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet One E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet One (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:88843/7686199/9576982/18247",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet One (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 4 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 4 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/16138",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 4 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ytv (Canadascriped) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "YTV East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/63858",
+        "xmltv_id": null,
+        "xmltv_display_name": "YTV East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Age (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AGE",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57476",
+        "xmltv_id": null,
+        "xmltv_display_name": "AGE",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Age (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AGE",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57264",
+        "xmltv_id": null,
+        "xmltv_display_name": "AGE",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Spark (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABC SPARK",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8888/7686199/9576982/57375",
+        "xmltv_id": null,
+        "xmltv_display_name": "ABC SPARK",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Amc (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AMC",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57376",
+        "xmltv_id": null,
+        "xmltv_display_name": "AMC",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Animal Planet (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Animal Planet",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57377",
+        "xmltv_id": null,
+        "xmltv_display_name": "Animal Planet",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bnn Bloomberg (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BNN Bloomberg HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57358",
+        "xmltv_id": null,
+        "xmltv_display_name": "BNN Bloomberg HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bravo (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bravo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57379",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bravo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cartoon Network (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cartoon Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57388",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cartoon Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cartoon Network E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cartoon Network (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57356",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cartoon Network (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC News Network E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC NEWS NETWORK (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57384",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC NEWS NETWORK (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC Calgary HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57381",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC Calgary HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC Charlottetown D (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC Charlottetown HD (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57382",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC Charlottetown HD (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC Edmonton",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57384",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC Edmonton",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC Halifax HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57385",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC Halifax HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC D (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC Montreal HD (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57387",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC Montreal HD (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC OTTAWA",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57385",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC OTTAWA",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC Toronto",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57268",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC Toronto",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC TORONTO",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57386",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC TORONTO",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBC Vancouver",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57391",
+        "xmltv_id": null,
+        "xmltv_display_name": "CBC Vancouver",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chch E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CHCH (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57393",
+        "xmltv_id": null,
+        "xmltv_display_name": "CHCH (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chrgd (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CHRGD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/75653",
+        "xmltv_id": null,
+        "xmltv_display_name": "CHRGD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CITY TV CALGARY (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/75652",
+        "xmltv_id": null,
+        "xmltv_display_name": "CITY TV CALGARY (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv D (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "City TV Toronto (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57394",
+        "xmltv_id": null,
+        "xmltv_display_name": "City TV Toronto (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CITY TV TORONTO HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57397",
+        "xmltv_id": null,
+        "xmltv_display_name": "CITY TV TORONTO HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "City Tv E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CITY TV VANCOUVER (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57395",
+        "xmltv_id": null,
+        "xmltv_display_name": "CITY TV VANCOUVER (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cmt (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CMT",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57258",
+        "xmltv_id": null,
+        "xmltv_display_name": "CMT",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CNN (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNN",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8689/7686199/9576982/57398",
+        "xmltv_id": null,
+        "xmltv_display_name": "CNN",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CNN (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNN",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/47213",
+        "xmltv_id": null,
+        "xmltv_display_name": "CNN",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cottage Life B (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cottage Life HD (B)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/47217",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cottage Life HD (B)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cp24 News D (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CP24 News HD (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57357",
+        "xmltv_id": null,
+        "xmltv_display_name": "CP24 News HD (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cp24 News E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CP24 News HD (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57491",
+        "xmltv_id": null,
+        "xmltv_display_name": "CP24 News HD (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cp24 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CP24 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57345",
+        "xmltv_id": null,
+        "xmltv_display_name": "CP24 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cp24 (Canadascriped) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CP24 FHD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/47218",
+        "xmltv_id": null,
+        "xmltv_display_name": "CP24 FHD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cp24 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CP24 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57257",
+        "xmltv_id": null,
+        "xmltv_display_name": "CP24 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cpac (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CPAC",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57492",
+        "xmltv_id": null,
+        "xmltv_display_name": "CPAC",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cpac English (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CPAC English",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57352",
+        "xmltv_id": null,
+        "xmltv_display_name": "CPAC English",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cpac (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CPAC HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57351",
+        "xmltv_id": null,
+        "xmltv_display_name": "CPAC HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crave 1 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CRAVE 1 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57399",
+        "xmltv_id": null,
+        "xmltv_display_name": "CRAVE 1 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crave 2 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CRAVE 2 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57319",
+        "xmltv_id": null,
+        "xmltv_display_name": "CRAVE 2 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crave 3 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CRAVE 3",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57322",
+        "xmltv_id": null,
+        "xmltv_display_name": "CRAVE 3",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crave 4 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CRAVE 4 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57311",
+        "xmltv_id": null,
+        "xmltv_display_name": "CRAVE 4 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crime Investigation (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CRIME & INVESTIGATION",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57256",
+        "xmltv_id": null,
+        "xmltv_display_name": "CRIME & INVESTIGATION",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Two Atlantic (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Two Atlantic",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/79547",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Two Atlantic",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV CALGARY (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57964",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV CALGARY (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Comedy Channel (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Comedy Channel",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57498",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Comedy Channel",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Drama Channel R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Drama Channel (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57254",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Drama Channel (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Alberta D (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Edmonton Alberta HD (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/58725",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Edmonton Alberta HD (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Nova Scotia (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Halifax Nova Scotia HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57419",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Halifax Nova Scotia HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Kitchener",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/58557",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Kitchener",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV 2 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV 2 London HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/58546",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV 2 London HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Montreal HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/47234",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Montreal HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV News Channel (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV NEWS CHANNEL HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57359",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV NEWS CHANNEL HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV OTTAWA",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/47237",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV OTTAWA",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Saskatchewan D (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Regina Saskatchewan HD (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/66381",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Regina Saskatchewan HD (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Saskatchewan D (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Saskatoon Saskatchewan HD (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/66382",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Saskatoon Saskatchewan HD (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Sci Fi Channel B (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Sci-Fi Channel (B)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/57253",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Sci-Fi Channel (B)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Toronto HD (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/47296",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Toronto HD (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV2 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV2 Vancouver",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/57316",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV2 Vancouver",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV2 B (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV2 Windsor HD (B)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/77165",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV2 Windsor HD (B)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Ontario (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV Barrie Ontario HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57373",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV Barrie Ontario HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Discovery Channel (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Discovery Channel",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57252",
+        "xmltv_id": null,
+        "xmltv_display_name": "Discovery Channel",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Discovery Science (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Discovery Science",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57418",
+        "xmltv_id": null,
+        "xmltv_display_name": "Discovery Science",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Disney Junior (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Disney Junior",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57349",
+        "xmltv_id": null,
+        "xmltv_display_name": "Disney Junior",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Disney Xd R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Disney XD (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57429",
+        "xmltv_id": null,
+        "xmltv_display_name": "Disney XD (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Diy Network (Canadascriped) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "DIY NETWORK FHD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/47258",
+        "xmltv_id": null,
+        "xmltv_display_name": "DIY NETWORK FHD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dtour (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "DTOUR HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57258",
+        "xmltv_id": null,
+        "xmltv_display_name": "DTOUR HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "E R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "E! (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/57422",
+        "xmltv_id": null,
+        "xmltv_display_name": "E! (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "E Canada (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "E! CANADA HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/57249",
+        "xmltv_id": null,
+        "xmltv_display_name": "E! CANADA HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fr Tv5 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "(FR) TV5",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/57288",
+        "xmltv_id": null,
+        "xmltv_display_name": "(FR) TV5",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Discovery Family (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Discovery Family",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/57347",
+        "xmltv_id": null,
+        "xmltv_display_name": "Discovery Family",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Family Jr (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Family Jr HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57346",
+        "xmltv_id": null,
+        "xmltv_display_name": "Family Jr HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Food Network (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Food Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/57247",
+        "xmltv_id": null,
+        "xmltv_display_name": "Food Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox News (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FOX NEWS",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/47281",
+        "xmltv_id": null,
+        "xmltv_display_name": "FOX NEWS",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FX (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FX HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/57268",
+        "xmltv_id": null,
+        "xmltv_display_name": "FX HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FXX (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FXX",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8988/7686199/9576982/57429",
+        "xmltv_id": null,
+        "xmltv_display_name": "FXX",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Game Show Network (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Game Show Network HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57438",
+        "xmltv_id": null,
+        "xmltv_display_name": "Game Show Network HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ginx Esports Tv (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ginx esports TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57431",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ginx esports TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global News D (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Global News Kingston (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57432",
+        "xmltv_id": null,
+        "xmltv_display_name": "Global News Kingston (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global News E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Global Edmonton News (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/58724",
+        "xmltv_id": null,
+        "xmltv_display_name": "Global Edmonton News (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global News (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Global Halifax News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57434",
+        "xmltv_id": null,
+        "xmltv_display_name": "Global Halifax News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global News D (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Global News Regina (D)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/66384",
+        "xmltv_id": null,
+        "xmltv_display_name": "Global News Regina (D)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global B (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Global Saskatoon (B)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/66383",
+        "xmltv_id": null,
+        "xmltv_display_name": "Global Saskatoon (B)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "GLOBAL TORONTO",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57435",
+        "xmltv_id": null,
+        "xmltv_display_name": "GLOBAL TORONTO",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "GLOBAL TORONTO",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/573432",
+        "xmltv_id": null,
+        "xmltv_display_name": "GLOBAL TORONTO",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Global (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Global Vancouver",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57436",
+        "xmltv_id": null,
+        "xmltv_display_name": "Global Vancouver",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Golf Channel (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Golf Channel HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57362",
+        "xmltv_id": null,
+        "xmltv_display_name": "Golf Channel HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "HBO 1 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HBO 1",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:86843/7686199/9576982/57437",
+        "xmltv_id": null,
+        "xmltv_display_name": "HBO 1",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "HBO 2 R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HBO 2 (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57438",
+        "xmltv_id": null,
+        "xmltv_display_name": "HBO 2 (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hgtv (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HGTV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57273",
+        "xmltv_id": null,
+        "xmltv_display_name": "HGTV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "History (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HISTORY",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/47382",
+        "xmltv_id": null,
+        "xmltv_display_name": "HISTORY",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "History E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HISTORY (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57272",
+        "xmltv_id": null,
+        "xmltv_display_name": "HISTORY (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hln (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "HLN",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57441",
+        "xmltv_id": null,
+        "xmltv_display_name": "HLN",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Investigation Discovery E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Investigation Discovery HD (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57442",
+        "xmltv_id": null,
+        "xmltv_display_name": "Investigation Discovery HD (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Lifetime (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Lifetime",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57271",
+        "xmltv_id": null,
+        "xmltv_display_name": "Lifetime",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Lifetime Movie Network (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Lifetime Movie Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/57444",
+        "xmltv_id": null,
+        "xmltv_display_name": "Lifetime Movie Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Love Nature (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Love Nature HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/47324",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love Nature HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Makeful (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MAKEFUL",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/572743",
+        "xmltv_id": null,
+        "xmltv_display_name": "MAKEFUL",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Movietime (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MOVIETIME HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/47331",
+        "xmltv_id": null,
+        "xmltv_display_name": "MOVIETIME HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Msnbc R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MSNBC (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:88843/7686199/9576982/47332",
+        "xmltv_id": null,
+        "xmltv_display_name": "MSNBC (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mtv (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MTV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57446",
+        "xmltv_id": null,
+        "xmltv_display_name": "MTV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mtv2 E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MTV2 (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57447",
+        "xmltv_id": null,
+        "xmltv_display_name": "MTV2 (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mtv (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MTV HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/57368",
+        "xmltv_id": null,
+        "xmltv_display_name": "MTV HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographics (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "National Geographics",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:86843/7686199/9576982/57281",
+        "xmltv_id": null,
+        "xmltv_display_name": "National Geographics",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "National Geographic HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:88843/7686199/9576982/47338",
+        "xmltv_id": null,
+        "xmltv_display_name": "National Geographic HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Wild R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "National Geographic Wild (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8689/7686199/9576982/57459",
+        "xmltv_id": null,
+        "xmltv_display_name": "National Geographic Wild (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic Wild (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "National Geographic Wild",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/572843",
+        "xmltv_id": null,
+        "xmltv_display_name": "National Geographic Wild",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "National Geographic (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NATIONAL GEOGRAPHIC",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/47339",
+        "xmltv_id": null,
+        "xmltv_display_name": "NATIONAL GEOGRAPHIC",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nfl Network (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NFL NETWORK HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8089/7686199/9576982/47346",
+        "xmltv_id": null,
+        "xmltv_display_name": "NFL NETWORK HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nickelodeon R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Nickelodeon (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:80843/7686199/9576982/47349",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nickelodeon (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Zh Ntd E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "(ZH) NTD (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:86843/7686199/9576982/58823",
+        "xmltv_id": null,
+        "xmltv_display_name": "(ZH) NTD (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ntv St John S (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NTV St. John's",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:88843/7686199/9576982/57478",
+        "xmltv_id": null,
+        "xmltv_display_name": "NTV St. John's",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Oln E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "OLN (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57366",
+        "xmltv_id": null,
+        "xmltv_display_name": "OLN (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ohni1 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "OHNI1 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8989/7686199/9576982/57365",
+        "xmltv_id": null,
+        "xmltv_display_name": "OHNI1 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Own (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "OWN",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8980/7686199/9576982/57277",
+        "xmltv_id": null,
+        "xmltv_display_name": "OWN",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pbs (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "PBS HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57276",
+        "xmltv_id": null,
+        "xmltv_display_name": "PBS HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Peachtree Tv R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Peachtree TV HD (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/47362",
+        "xmltv_id": null,
+        "xmltv_display_name": "Peachtree TV HD (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fr RDS R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "(FR) RDS (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57325",
+        "xmltv_id": null,
+        "xmltv_display_name": "(FR) RDS (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Showcase (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showcase HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/47366",
+        "xmltv_id": null,
+        "xmltv_display_name": "Showcase HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Slice Tv (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Slice TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8980/7686199/9576982/57274",
+        "xmltv_id": null,
+        "xmltv_display_name": "Slice TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Smithsonian Channel B (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Smithsonian Channel (B)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/47369",
+        "xmltv_id": null,
+        "xmltv_display_name": "Smithsonian Channel (B)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet 369 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet 369 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8980/7686199/9576982/2219",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet 369 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet 366 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet 366 (HD)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8980/7686199/9576982/57299",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet 366 (HD)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet F (Canadascriped) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet East HD (F)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57298",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet East HD (F)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet One (Canadascriped) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet One (FHD)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8980/7686199/9576982/57297",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet One (FHD)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet One (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet One (HD)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/47379",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet One (HD)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet Ontario (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet Ontario",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57463",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet Ontario",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet Ontario (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet Ontario HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57296",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet Ontario HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet Ontario (Canadascriped) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet Ontario (FHD)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8680/7686199/9576982/11649",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet Ontario (FHD)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet Pacific (Canadascriped) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet Pacific (FHD)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8680/7686199/9576982/9868",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet Pacific (FHD)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet Pacific (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet Pacific HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/47387",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet Pacific HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet (Canadascriped) (West) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet West (FHD)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/20975",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet West (FHD)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet (Canadascriped) (West) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "SPORTSNET WEST",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8688/7686199/9576982/57308",
+        "xmltv_id": null,
+        "xmltv_display_name": "SPORTSNET WEST",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsnet World (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsnet World HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8688/7686199/9576982/75675",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsnet World HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Sci Fi (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CTV SCI-FI",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57464",
+        "xmltv_id": null,
+        "xmltv_display_name": "CTV SCI-FI",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Telethon E (Canadascriped) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Telethon East (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57372",
+        "xmltv_id": null,
+        "xmltv_display_name": "Telethon East (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tfo Fr (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TFO (FR)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8688/7686199/9576982/57291",
+        "xmltv_id": null,
+        "xmltv_display_name": "TFO (FR)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tlc (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TLC",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57298",
+        "xmltv_id": null,
+        "xmltv_display_name": "TLC",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Treehouse R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Treehouse (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57371",
+        "xmltv_id": null,
+        "xmltv_display_name": "Treehouse (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Shopping Channel B (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Shopping Channel (B)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57378",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Shopping Channel (B)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 1 E (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 1 (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8088/7686199/9576982/57292",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 1 (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 1 R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 1 (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/47440",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 1 (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 2 R (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 2 (R)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/16129",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 2 (R)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 2 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 2 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/47442",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 2 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 3 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 3 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/10389",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 3 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 3 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 3 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/47444",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 3 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 4 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 4",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/66783",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 4",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 4 B (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 4 (B)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/47446",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 4 (B)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 5 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 5",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57467",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 5",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 5 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 5 HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/16131",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 5 HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "TSN 5 (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN 5",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57295",
+        "xmltv_id": null,
+        "xmltv_display_name": "TSN 5",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tv Ontario (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV Ontario HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57369",
+        "xmltv_id": null,
+        "xmltv_display_name": "TV Ontario HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Vision (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Vision",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57468",
+        "xmltv_id": null,
+        "xmltv_display_name": "Vision",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "W Network E (Canadascriped) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "W Network East (E)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57284",
+        "xmltv_id": null,
+        "xmltv_display_name": "W Network East (E)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weather Network (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Weather Network Toronto",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57470",
+        "xmltv_id": null,
+        "xmltv_display_name": "Weather Network Toronto",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "World Fishing Network (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "World Fishing Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57471",
+        "xmltv_id": null,
+        "xmltv_display_name": "World Fishing Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yes Tv (Canadascriped) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "YES TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://xxip25.top:8080/7686199/9576982/57472",
+        "xmltv_id": null,
+        "xmltv_display_name": "YES TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

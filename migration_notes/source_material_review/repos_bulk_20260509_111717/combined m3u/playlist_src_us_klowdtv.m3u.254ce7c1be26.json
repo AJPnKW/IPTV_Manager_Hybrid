@@ -1,0 +1,787 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_klowdtv.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Klowdtv",
+  "channels": [
+    {
+      "canonical_name": "Action Hollywood Movies Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Action Hollywood Movies (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Action Hollywood Movies (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Animal Cam Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Animal Cam (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00442-zmg-amg00442c2-klowdtv-us-2123.playouts.now.amagi.tv/playlist/amg00442-zazoommediagroup-zmgwild-klowdtvus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Animal Cam (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Beond Tv Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Beond TV (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01681-beondtv-amg01681c1-klowdtv-us-1826.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Beond TV (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cine En Espanol Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cine en Espanol (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cine en Espanol (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Horror Machine Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Horror Machine (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Horror Machine (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "In Touch Plus Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "In Touch Plus (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01540-apexmedia-amg01540c2-klowdtv-us-1989.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-klowdtvus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "In Touch Plus (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Militarytimes Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MilitaryTimes (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MilitaryTimes (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Quietude Geo Blocked Undefined (Playlistsrc) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "Quietude 4k (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://naviofrequency-quietude4k-klowdtv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Quietude 4k (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Salem News Channel Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Salem News Channel (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Salem News Channel (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Smart Healthy Green Living Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Smart Healthy Green Living (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg16109-shgliving-amg16109c1-klowdtv-us-2235.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-klowdtvus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Smart Healthy Green Living (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stashtv Black Stories Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "StashTV Black Stories (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01720-amg01720c1-klowdtv-us-4664.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvblackstories-klowdtvus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "StashTV Black Stories (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stashtv Crime Time Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "StashTV Crime Time (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01720-amg01720c3-klowdtv-us-4665.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvcrimetime-klowdtvus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "StashTV Crime Time (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stashtv The Classics Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "StashTV The Classics (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01720-amg01720c2-klowdtv-us-4689.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvtheclassics-klowdtvus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "StashTV The Classics (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Aspire Tv Life Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Aspire TV Life (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Aspire TV Life (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Diya Tv Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Diya TV (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://a-cdn.klowdtv.com/live2/diyatv_720p/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Diya TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Legend Films Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Legend Films (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://a-cdn.klowdtv.com/live3/legendfilms_720p/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Legend Films (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Life Minute Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Life Minute (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Life Minute (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Total Nonstop Action Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Total Nonstop Action (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://a-cdn.klowdtv.com/live2/tna_720p/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Total Nonstop Action (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Post Tv Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Washington Post TV (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Washington Post TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Awe General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "AWE (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/OjpCtGj.png",
+        "stream_url": "https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8",
+        "xmltv_id": "AWE.us",
+        "xmltv_display_name": "AWE (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OjpCtGj.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bein Sports Xtra En Espanol Geo Blocked Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/V562tpO.png",
+        "stream_url": "https://bein-esp-klowdtv.amagi.tv/playlist.m3u8",
+        "xmltv_id": "beINSPORTSXTRAenEspanol.us",
+        "xmltv_display_name": "BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/V562tpO.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Brat Tv Geo Blocked Kids (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Brat TV (720p) [Geo-blocked]",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/Kkcp9Bk.png",
+        "stream_url": "https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8",
+        "xmltv_id": "BratTV.us",
+        "xmltv_display_name": "Brat TV (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Kkcp9Bk.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cine Sony Movies (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cine Sony (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/bZWoDTg.png",
+        "stream_url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
+        "xmltv_id": "CineSony.us",
+        "xmltv_display_name": "Cine Sony (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/bZWoDTg.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Euronews English News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Euronews English (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/8t9mdg9.png",
+        "stream_url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+        "xmltv_id": "EuronewsEnglish.fr",
+        "xmltv_display_name": "Euronews English (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/8t9mdg9.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Game Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Game+ (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/Lj69WbR.png",
+        "stream_url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
+        "xmltv_id": "GamePlus.ca",
+        "xmltv_display_name": "Game+ (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Lj69WbR.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Game Show Network Not 24 7 Entertainment (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Game Show Network East (720p) [Not 24/7]",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
+        "stream_url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
+        "xmltv_id": "GameShowNetwork.us@East",
+        "xmltv_display_name": "Game Show Network East (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gotraveler Geo Blocked Travel (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "GoTraveler (720p) [Geo-blocked]",
+        "group_title_raw": "Travel",
+        "logo_raw": "https://i.imgur.com/IaRcN1G.png",
+        "stream_url": "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8",
+        "xmltv_id": "GoTraveler.us",
+        "xmltv_display_name": "GoTraveler (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/IaRcN1G.png",
+        "xmltv_categories": [
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hunt Channel Outdoor (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hunt Channel (720p)",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://i.imgur.com/uhEn9SF.png",
+        "stream_url": "https://a-cdn.klowdtv.com/live2/huntchannel_720p/playlist.m3u8",
+        "xmltv_id": "HuntChannel.us",
+        "xmltv_display_name": "Hunt Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/uhEn9SF.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Jewish Life Television Culture Religious (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Jewish Life Television (720p)",
+        "group_title_raw": "Culture;Religious",
+        "logo_raw": "https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj",
+        "stream_url": "https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live3/jltv_720p/playlist.m3u8",
+        "xmltv_id": "JewishLifeTelevision.us",
+        "xmltv_display_name": "Jewish Life Television (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj",
+        "xmltv_categories": [
+          "Culture",
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Law Crime Documentary (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Law & Crime (720p)",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj",
+        "stream_url": "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8",
+        "xmltv_id": "LawCrime.us",
+        "xmltv_display_name": "Law & Crime (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Love Nature Geo Blocked Outdoor (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Love Nature (720p) [Geo-blocked]",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",
+        "stream_url": "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
+        "xmltv_id": "LoveNature.ca",
+        "xmltv_display_name": "Love Nature (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nautical Channel Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Nautical Channel (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/2ByDyzL.png",
+        "stream_url": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
+        "xmltv_id": "NauticalChannel.it",
+        "xmltv_display_name": "Nautical Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/2ByDyzL.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Oan News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "OAN (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png",
+        "stream_url": "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8",
+        "xmltv_id": "OneAmericaNewsNetwork.us",
+        "xmltv_display_name": "OAN (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Redseat The First News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Redseat The First (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/t794qkT.png",
+        "stream_url": "https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8",
+        "xmltv_id": "RedseatTheFirst.us",
+        "xmltv_display_name": "Redseat The First (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/t794qkT.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Rightnow Tv Entertainment Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "RightNow TV (720p)",
+        "group_title_raw": "Entertainment;Sports",
+        "logo_raw": "https://i.imgur.com/OxbIla4.png",
+        "stream_url": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+        "xmltv_id": "RightNowTV.us",
+        "xmltv_display_name": "RightNow TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OxbIla4.png",
+        "xmltv_categories": [
+          "Entertainment",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tct Network Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "TCT Network (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/J5iRMgi.png",
+        "stream_url": "https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live2/tct_720p/playlist.m3u8",
+        "xmltv_id": "TCT.us",
+        "xmltv_display_name": "TCT Network (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/J5iRMgi.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wired2fish Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Klowdtv",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Wired2Fish (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/zAtt7oq.png",
+        "stream_url": "https://wire2fish-klowdtv.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Wired2FishTV.us",
+        "xmltv_display_name": "Wired2Fish (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/zAtt7oq.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\uk_rakuten.m3u",
+  "provider": "Ukrakuten",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Bloomberg Tv (Rakuten) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "BloombergTV.us",
+        "xmltv_display_name": "Bloomberg TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fashion Tv (Rakuten) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fashion TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "FashionTVEurope.fr",
+        "xmltv_display_name": "Fashion TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mavtv Select (Rakuten) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MavTV Select (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "MAVTVSelect.us",
+        "xmltv_display_name": "MavTV Select (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Action Movies (Rakuten) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Action Movies UK (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RakutenTVActionMovies.uk",
+        "xmltv_display_name": "Rakuten Action Movies UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Comedy Movies (Rakuten) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Comedy Movies UK (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RakutenTVComedyMovies.uk",
+        "xmltv_display_name": "Rakuten Comedy Movies UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Family (Rakuten) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Family UK (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RakutenTVFamilyMovies.uk",
+        "xmltv_display_name": "Rakuten Family UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Shows (Rakuten) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Shows UK (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rakuten Shows UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Spotlight (Rakuten) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Spotlight UK (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RakutenTVSpotlight.uk",
+        "xmltv_display_name": "Rakuten Spotlight UK (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Revry News (Rakuten) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Revry News (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "RevryNews.us",
+        "xmltv_display_name": "Revry News (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Travel Xp (Rakuten) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Travel XP (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "Travelxp.in",
+        "xmltv_display_name": "Travel XP (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

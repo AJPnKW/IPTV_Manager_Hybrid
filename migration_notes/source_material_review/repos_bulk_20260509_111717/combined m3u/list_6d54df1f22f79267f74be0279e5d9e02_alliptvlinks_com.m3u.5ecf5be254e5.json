@@ -1,0 +1,51 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\list_6d54df1f22f79267f74be0279e5d9e02_alliptvlinks_com.m3u",
+  "provider": "List6d54df1f22f79267f74be0279e5d9e02alliptvlinkscom",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Channel 44 Alliptvlinks Com Github (List6d54df1f22f79267f74be0279e5d9e02alliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AU Channel 44 alliptvlinks.com",
+        "group_title_raw": "github",
+        "logo_raw": null,
+        "stream_url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "AU Channel 44 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Channel 7 Two Alliptvlinks Com Aus Australia (List6d54df1f22f79267f74be0279e5d9e02alliptvlinkscom) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AU Channel 7 TWO alliptvlinks.com",
+        "group_title_raw": "AUS | AUSTRALIA",
+        "logo_raw": null,
+        "stream_url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=269463&extension=ts&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "AU Channel 7 TWO alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "AUS",
+          "AUSTRALIA"
+        ]
+      }
+    }
+  ]
+}

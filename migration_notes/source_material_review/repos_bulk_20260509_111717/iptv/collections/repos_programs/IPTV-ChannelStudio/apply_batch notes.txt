@@ -1,0 +1,16 @@
+
+powershell -ExecutionPolicy Bypass -File .\apply_batch1.ps1
+
+powershell -ExecutionPolicy Bypass -File .\apply_batch2.ps1
+
+powershell -ExecutionPolicy Bypass -File .\apply_batch3.ps1
+
+powershell -ExecutionPolicy Bypass -File .\apply_batch4.ps1
+
+powershell -ExecutionPolicy Bypass -File .\apply_batch5.ps1
+
+
+
+
+python .\src\ChannelStudio.pyw
+

@@ -1,0 +1,198 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_abcnews.m3u",
+  "provider": "Usabcnews",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "ABC News Live 1 (Usabcnews) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 1 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8",
+        "xmltv_id": "ABCNewsLive1.us",
+        "xmltv_display_name": "ABC News Live 1 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 2 (Usabcnews) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 2 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8",
+        "xmltv_id": "ABCNewsLive2.us",
+        "xmltv_display_name": "ABC News Live 2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 3 (Usabcnews) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 3 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8",
+        "xmltv_id": "ABCNewsLive3.us",
+        "xmltv_display_name": "ABC News Live 3 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 4 (Usabcnews) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 4 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8",
+        "xmltv_id": "ABCNewsLive4.us",
+        "xmltv_display_name": "ABC News Live 4 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 5 (Usabcnews) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 5 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8",
+        "xmltv_id": "ABCNewsLive5.us",
+        "xmltv_display_name": "ABC News Live 5 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 6 (Usabcnews) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 6 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8",
+        "xmltv_id": "ABCNewsLive6.us",
+        "xmltv_display_name": "ABC News Live 6 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 7 (Usabcnews) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 7 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8",
+        "xmltv_id": "ABCNewsLive7.us",
+        "xmltv_display_name": "ABC News Live 7 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 8 (Usabcnews) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 8 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8",
+        "xmltv_id": "ABCNewsLive8.us",
+        "xmltv_display_name": "ABC News Live 8 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 9 (Usabcnews) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 9 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
+        "xmltv_id": "ABCNewsLive9.us",
+        "xmltv_display_name": "ABC News Live 9 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 10 (Usabcnews) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 10 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8",
+        "xmltv_id": "ABCNewsLive10.us",
+        "xmltv_display_name": "ABC News Live 10 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

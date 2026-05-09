@@ -1,0 +1,26 @@
+[
+    {
+        "m3uurl": "https://iptv-org.github.io/iptv/regions/nam.m3u",
+        "epgurl": "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
+        "outdirectory": "C:\\Users\\Lenovo\\Documents\\GitHub\\iptv-org\\output",
+        "outfilename": "nam_us_epg"
+    },
+    {
+        "m3uurl": "https://iptv-org.github.io/iptv/countries/au.m3u",
+        "epgurl": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
+        "outdirectory": "C:\\Users\\Lenovo\\Documents\\GitHub\\iptv-org\\output",
+        "outfilename": "au_all_sources_epg"
+    },
+    {
+        "m3uurl": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "epgurl": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+        "outdirectory": "C:\\Users\\Lenovo\\Documents\\GitHub\\iptv-org\\output",
+        "outfilename": "uk_epg"
+    },
+    {
+        "m3uurl": "https://techzyon.com/epg/plutotv.m3u",
+        "epgurl": "https://techzyon.com/epg/plutotv_guide.xml",
+        "outdirectory": "C:\\Users\\Lenovo\\Documents\\GitHub\\iptv-org\\output",
+        "outfilename": "plutotv_epg"
+    }
+]

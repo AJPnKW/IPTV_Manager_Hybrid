@@ -1,0 +1,48 @@
+﻿second_tier_move_plan
+total_candidate_files=8092
+total_candidate_bytes=648651412
+existing_target_conflicts=0
+quarantine_root=C:\Users\andrew\PROJECTS\iptv_quarantine\pending_review
+
+by_root
+
+candidate_root                                                                    file_count total_bytes existing_target_conflicts
+--------------                                                                    ---------- ----------- -------------------------
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__C88298A5                  2459   158637449                         0
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__69B40A25                  2459   158637449                         0
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__BE5F3E8D                  1226    74471031                         0
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__CEF6D209                  1226    74471031                         0
+C:\X1_Share\Tivimate\get_all_channels\pre-processed_data\stage5_outputs\providers        282    97762879                         0
+C:\X1_Share\Tivimate\get_all_channels\pre-processed_data\stage1_raw_parsed               220    32642756                         0
+C:\X1_Share\Tivimate\get_all_channels\pre-processed_data\stage2_normalized               220    52028817                         0
+
+
+
+
+by_extension
+
+Count Name      
+----- ----      
+ 2358 .js       
+ 2124 .xml      
+ 1218 .json     
+ 1188 .md       
+  570 .html     
+  168 .ts       
+   94 .tsv      
+   94 .m3u      
+   84 .sample   
+   82           
+   36 .yml      
+   26 .txt      
+   18 .gitignore
+   12 .pdf      
+    6 .gz       
+    6 .lock     
+    2 .pack     
+    2 .bat      
+    2 .rev      
+    2 .idx      
+
+
+

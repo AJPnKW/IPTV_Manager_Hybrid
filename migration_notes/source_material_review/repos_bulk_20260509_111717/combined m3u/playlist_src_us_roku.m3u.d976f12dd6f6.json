@@ -1,0 +1,617 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_roku.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Roku",
+  "channels": [
+    {
+      "canonical_name": "Cinevault Classics 540p Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinevault Classics (540p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cinevault Classics (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinevault Murder And Mayhem 540p Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinevault Murder and Mayhem (540p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cinevault Murder and Mayhem (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Real Crime Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Real Crime (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d1qznhvm4vjve7.cloudfront.net/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Real Crime (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Supermarket Sweep Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Supermarket Sweep (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Supermarket Sweep (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Axe Men Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Axe Men (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://335e33e2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9BeE1lbl9ITFM/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Axe Men (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crime Thrill Her Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Crime Thrill Her (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://8c4e8f4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9DcmltZVRocmlsbEhlcl9ITFM/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crime Thrill Her (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dealzone Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dealzone (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://c86bc87f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9EZWFsWm9uZV9ITFM/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dealzone (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ice Road Truckers Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ice Road Truckers (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://3787c49a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9JY2VSb2FkVHJ1Y2tlcnNfSExT/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ice Road Truckers (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kids Pang Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Kids Pang TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Kids Pang TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kriminal Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Kriminal (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://44abd74d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9LcmltaW5hbF9ITFM/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Kriminal (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lifetime Holiday Favourites Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Lifetime Holiday Favourites (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://9fa8bd65.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ib2xpZGF5TW92aWVGYXZvcml0ZXNieUxpZmV0aW1lX0hMUw/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Lifetime Holiday Favourites (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Modern Marvels Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Modern Marvels (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://277b8244.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Nb2Rlcm5NYXJ2ZWxzX0hMUw/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Modern Marvels (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Perform Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Perform (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://4a72da62.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9QZXJmb3JtX0hMUw/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Perform (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Viki Undefined (Rakuten) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Viki (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rakuten Viki (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samuel Goldwyn Films Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Samuel Goldwyn Films (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Samuel Goldwyn Films (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Spark Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Spark TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Spark TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Spark Tv Luz Amor Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Spark TV Luz & Amor (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Spark TV Luz & Amor (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Torque Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Torque (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://df7ed838.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ub3JxdWVfSExT/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Torque (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Unxplained Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "UnXplained (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://5f8e578f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9VblhwbGFpbmVkWm9uZV9ITFM/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "UnXplained (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Xtreme Outdoors Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Xtreme Outdoors (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://9bd99d43.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ta2lsbHNBbmRUaHJpbGxzX0hMUw/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Xtreme Outdoors (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinevault 80s 540p Geo Blocked Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinevault 80s (540p) [Geo-blocked]",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/xaCyyDd.png",
+        "stream_url": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": "Cinevault80s.us",
+        "xmltv_display_name": "Cinevault 80s (540p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/xaCyyDd.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinevault Westerns 540p Geo Blocked Classic (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinevault Westerns (540p) [Geo-blocked]",
+        "group_title_raw": "Classic",
+        "logo_raw": "https://i.imgur.com/K1W137J.png",
+        "stream_url": "https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": "CinevaultWesterns.us",
+        "xmltv_display_name": "Cinevault Westerns (540p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/K1W137J.png",
+        "xmltv_categories": [
+          "Classic"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Impossible Quiz Show Series (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Impossible Quiz Show (1080p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/9EWffqx.png",
+        "stream_url": "https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": "ImpossibleQuizShow.us",
+        "xmltv_display_name": "Impossible Quiz Show (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9EWffqx.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Maverick Black Cinema Movies (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Maverick Black Cinema (1080p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://images.fubo.tv/station_logos/maverick_black_cinema_c.png",
+        "stream_url": "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": "MaverickBlackCinema.us",
+        "xmltv_display_name": "Maverick Black Cinema (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://images.fubo.tv/station_logos/maverick_black_cinema_c.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Moonbug Kids Kids (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Moonbug Kids (1080p)",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/vZHtxQb.png",
+        "stream_url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MoonbugKids.uk",
+        "xmltv_display_name": "Moonbug Kids (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vZHtxQb.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Runtime Espanol Movies (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Runtime Espanol (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/OMQq19N.png",
+        "stream_url": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8",
+        "xmltv_id": "RuntimeEspanol.us",
+        "xmltv_display_name": "Runtime Espanol (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/OMQq19N.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samuel Goldwyn Classics Classic (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Samuel Goldwyn Classics (1080p)",
+        "group_title_raw": "Classic",
+        "logo_raw": "https://i.imgur.com/XC30JAF.png",
+        "stream_url": "https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": "SamuelGoldwynClassics.us",
+        "xmltv_display_name": "Samuel Goldwyn Classics (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/XC30JAF.png",
+        "xmltv_categories": [
+          "Classic"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sony Canal Competencias Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sony Canal Competencias (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/Dut8Ftk.png",
+        "stream_url": "https://spt-competencias-2-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": "SonyCanalCompetencias.us",
+        "xmltv_display_name": "Sony Canal Competencias (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Dut8Ftk.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Super Simple Songs Kids (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Roku",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Super Simple Songs (1080p)",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/3k4F7O9.png",
+        "stream_url": "https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8",
+        "xmltv_id": "SuperSimpleSongs.us",
+        "xmltv_display_name": "Super Simple Songs (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/3k4F7O9.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    }
+  ]
+}

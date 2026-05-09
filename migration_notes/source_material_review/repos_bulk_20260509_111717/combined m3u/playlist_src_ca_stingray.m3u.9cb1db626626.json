@@ -1,0 +1,428 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_ca_stingray.m3u",
+  "provider": "Playlistsrc",
+  "country": "CA",
+  "region": "Stingray",
+  "channels": [
+    {
+      "canonical_name": "Holidayscapes Undefined (Playlistsrc) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Holidayscapes (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Holidayscapes (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Classica Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Classica (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/nh1k5RC.png",
+        "stream_url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayClassica.ca",
+        "xmltv_display_name": "Stingray Classica (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/nh1k5RC.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Classic Rock Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Classic Rock (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/FBgu8yB.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayClassicRock.ca",
+        "xmltv_display_name": "Stingray Classic Rock (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/FBgu8yB.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Easy Listening Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Easy Listening (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayEasyListening.ca",
+        "xmltv_display_name": "Stingray Easy Listening (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Remember The 80s Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Remember the 80s (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/6E3wYrb.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayEverything80s.ca",
+        "xmltv_display_name": "Stingray Remember the 80s (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/6E3wYrb.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Flashback 70s Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Flashback 70s (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/jf5C9QF.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayFlashback70s.ca",
+        "xmltv_display_name": "Stingray Flashback 70s (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/jf5C9QF.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hit List Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Hit List (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/lgpIwId.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayHitList.ca",
+        "xmltv_display_name": "Stingray Hit List (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lgpIwId.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Holiday Hits Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Holiday Hits (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/4xVVKH8.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayHolidayHits.ca",
+        "xmltv_display_name": "Stingray Holiday Hits (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/4xVVKH8.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hot Country Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Hot Country (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/PZhxyIT.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayHotCountry.ca",
+        "xmltv_display_name": "Stingray Hot Country (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/PZhxyIT.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Karaoke Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Karaoke (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/9TLTLS3.png",
+        "stream_url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayKaraoke.ca",
+        "xmltv_display_name": "Stingray Karaoke (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9TLTLS3.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nothin But 90s Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Nothin' But 90s (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/Tq3I0po.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayNothinBut90s.ca",
+        "xmltv_display_name": "Stingray Nothin' But 90s (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Tq3I0po.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pop Adult Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Pop Adult (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/H2ugC9L.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayPopAdult.ca",
+        "xmltv_display_name": "Stingray Pop Adult (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/H2ugC9L.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Rock Alternative Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Rock Alternative (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/mt8ulVX.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayRockAlternative.ca",
+        "xmltv_display_name": "Stingray Rock Alternative (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mt8ulVX.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Romance Latino Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Romance Latino (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayRomanceLatino.ca",
+        "xmltv_display_name": "Stingray Romance Latino (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Smooth Jazz Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Smooth Jazz (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/h1DsOzH.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingraySmoothJazz.ca",
+        "xmltv_display_name": "Stingray Smooth Jazz (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/h1DsOzH.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Soul Storm Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Soul Storm (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/dU1KC3f.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingraySoulStorm.ca",
+        "xmltv_display_name": "Stingray Soul Storm (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/dU1KC3f.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Spa Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray The Spa (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/ywAN923.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayTheSpa.ca",
+        "xmltv_display_name": "Stingray The Spa (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ywAN923.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Today S Kpop Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Today's KPOP (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/mMbntB5.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayTodaysKPop.ca",
+        "xmltv_display_name": "Stingray Today's KPOP (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mMbntB5.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Today S Latin Pop Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Today's Latin Pop (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/Os3kRRP.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayTodaysLatinPop.ca",
+        "xmltv_display_name": "Stingray Today's Latin Pop (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Os3kRRP.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Urban Beat Music (Stingray) (1080p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Stingray",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Urban Beat (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/Os3kRRP.png",
+        "stream_url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
+        "xmltv_id": "StingrayUrbanBeat.ca",
+        "xmltv_display_name": "Stingray Urban Beat (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Os3kRRP.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    }
+  ]
+}

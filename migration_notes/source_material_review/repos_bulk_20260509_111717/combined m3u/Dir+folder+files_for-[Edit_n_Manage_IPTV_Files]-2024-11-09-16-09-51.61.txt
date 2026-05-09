@@ -1,0 +1,247 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1862-A704
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files
+
+2024-11-09  04:09 PM    <DIR>          .
+2024-11-09  11:42 AM    <DIR>          ..
+2024-11-09  03:54 PM    <DIR>          .git
+2024-11-09  03:54 PM    <DIR>          .github
+2024-11-03  03:31 PM    <DIR>          Archives
+2024-11-09  03:54 PM    <DIR>          backup
+2024-11-09  03:54 PM    <DIR>          components
+2024-11-09  03:54 PM    <DIR>          data
+2024-11-09  04:09 PM                 0 Dir+folder+files_for-[Edit_n_Manage_IPTV_Files]-2024-11-09-16-09-51.61.txt
+2024-11-09  04:09 PM             1,570 Dir.List.of-[Edit_n_Manage_IPTV_Files]-2024-11-09-16-09-49.17.txt
+2024-11-03  03:30 PM    <DIR>          Documentation
+2024-11-09  11:43 AM    <DIR>          Inputs
+2024-11-09  03:54 PM    <DIR>          Logs
+2024-11-09  04:08 PM               983 Make_DIR+folders+files_File .bat
+2024-11-09  02:57 PM               917 Make_DIR_File.bat
+2024-11-09  03:54 PM    <DIR>          media
+2024-11-09  03:54 PM    <DIR>          output
+2024-11-09  11:44 AM    <DIR>          Outputs
+2024-11-09  03:54 PM    <DIR>          patches
+2024-11-06  12:24 PM    <DIR>          Research
+2024-11-09  11:43 AM    <DIR>          Scripts
+2024-11-09  03:54 PM    <DIR>          source
+2024-11-09  03:54 PM    <DIR>          sql
+2024-11-09  03:54 PM    <DIR>          templates
+2024-11-09  03:54 PM    <DIR>          third-party
+2024-11-09  03:54 PM    <DIR>          tools
+2024-11-09  03:54 PM    <DIR>          ui
+               4 File(s)          3,470 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\.git
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\.github
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM    <DIR>          workflows
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\.github\workflows
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  03:54 PM    <DIR>          ..
+2024-11-09  03:54 PM                42 backup.yml
+2024-11-09  03:54 PM                42 testing.yml
+               2 File(s)             84 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Archives
+
+2024-11-03  03:31 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\backup
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM                44 configs_backup.zip
+2024-11-09  03:54 PM                39 db_backup.sql
+               2 File(s)             83 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\components
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  04:02 PM                42 archival_handler.py
+2024-11-09  04:02 PM                42 db_handler.py
+2024-11-09  04:02 PM                49 normalization_utils.py
+               3 File(s)            133 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\data
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM    <DIR>          epg
+2024-11-09  03:54 PM    <DIR>          m3u
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\data\epg
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  03:54 PM    <DIR>          ..
+2024-11-09  03:54 PM                34 epg_uk.xml
+2024-11-09  03:54 PM                41 epg_us.xml.gz
+               2 File(s)             75 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\data\m3u
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  03:54 PM    <DIR>          ..
+2024-11-09  03:54 PM                38 export_alliptvlinks_2024.m3u
+2024-11-09  03:54 PM                36 merged_output.m3u
+               2 File(s)             74 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Documentation
+
+2024-11-03  03:30 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Inputs
+
+2024-11-09  11:43 AM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-03  03:29 PM    <DIR>          Processed
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Inputs\Processed
+
+2024-11-03  03:29 PM    <DIR>          .
+2024-11-09  11:43 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Logs
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM                34 data_loader.log
+2024-11-09  03:54 PM                42 playlist_generation.log
+2024-11-09  03:54 PM                35 verification.log
+               3 File(s)            111 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\media
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM    <DIR>          logos
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\media\logos
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  03:54 PM    <DIR>          ..
+2024-11-09  03:54 PM                27 bbc_logo.png
+2024-11-09  03:54 PM                27 cnn_logo.png
+               2 File(s)             54 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\output
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM                37 custom_playlist_us.m3u
+2024-11-09  03:54 PM                34 playlist_report.txt
+               2 File(s)             71 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Outputs
+
+2024-11-09  11:44 AM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  11:40 AM           837,825 consolidated_channels_output.tsv
+2024-11-03  03:45 PM    <DIR>          interim
+2024-11-09  11:44 AM         1,787,248 merged_output.tsv
+               2 File(s)      2,625,073 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Outputs\interim
+
+2024-11-03  03:45 PM    <DIR>          .
+2024-11-09  11:44 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\patches
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM                28 epg_patch.diff
+               1 File(s)             28 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Research
+
+2024-11-06  12:24 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Scripts
+
+2024-11-09  11:43 AM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-03  03:30 PM    <DIR>          Archives
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Scripts\Archives
+
+2024-11-03  03:30 PM    <DIR>          .
+2024-11-09  11:43 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\source
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  04:02 PM                37 data_loader.py
+2024-11-09  03:54 PM                44 playlist_generator.py
+2024-11-09  03:54 PM                45 stream_verification.py
+2024-11-09  03:54 PM                40 user_interface.py
+               4 File(s)            166 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\sql
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM                44 archive_procedures.sql
+2024-11-09  03:54 PM                37 iptv_schema.sql
+               2 File(s)             81 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\templates
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM                31 epg_template.xml
+2024-11-09  03:54 PM                34 report_template.txt
+               2 File(s)             65 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM                34 epg_parser_tool.jar
+2024-11-09  03:54 PM                37 fuzzywuzzy_library.zip
+               2 File(s)             71 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\tools
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM                50 cleanup_archived_records.py
+2024-11-09  03:54 PM                46 db_backup_tool.py
+               2 File(s)             96 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\ui
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  04:09 PM    <DIR>          ..
+2024-11-09  03:54 PM                34 index.html
+2024-11-09  03:54 PM                29 styles.css
+               2 File(s)             63 bytes
+
+     Total Files Listed:
+              39 File(s)      2,629,798 bytes
+              86 Dir(s)  222,213,292,032 bytes free

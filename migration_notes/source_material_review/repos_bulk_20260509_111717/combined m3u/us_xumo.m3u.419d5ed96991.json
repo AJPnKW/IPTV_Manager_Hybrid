@@ -1,0 +1,1946 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\us_xumo.m3u",
+  "provider": "Usxumo",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "America S Test Kitchen (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "America's Test Kitchen (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8",
+        "xmltv_id": "AmericasTestKitchen.us",
+        "xmltv_display_name": "America's Test Kitchen (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "American Classics 432p (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "American Classics (432p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8",
+        "xmltv_id": "AmericanClassics.us",
+        "xmltv_display_name": "American Classics (432p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Architectural Digest (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Architectural Digest (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8",
+        "xmltv_id": "ArchitecturalDigest.us",
+        "xmltv_display_name": "Architectural Digest (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Baeble Music (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Baeble Music (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8",
+        "xmltv_id": "BaebleMusic.us",
+        "xmltv_display_name": "Baeble Music (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Battery Pop (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Battery Pop (XUMO) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8",
+        "xmltv_id": "BatteryPopXUMO.us",
+        "xmltv_display_name": "Battery Pop (XUMO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Black News Channel (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Black News Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8",
+        "xmltv_id": "BlackNewsChannel.us",
+        "xmltv_display_name": "Black News Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Black News Channel (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Black News Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
+        "xmltv_id": "BlackNewsChannel.us",
+        "xmltv_display_name": "Black News Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Black News Channel (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Black News Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8",
+        "xmltv_id": "BlackNewsChannel.us",
+        "xmltv_display_name": "Black News Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Black News Channel (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Black News Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "BlackNewsChannel.us",
+        "xmltv_display_name": "Black News Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV US (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8",
+        "xmltv_id": "BloombergTV.us",
+        "xmltv_display_name": "Bloomberg TV US (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bon App Tit (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "bon appétit (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8",
+        "xmltv_id": "bonappetit.us",
+        "xmltv_display_name": "bon appétit (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC News (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBC News (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8",
+        "xmltv_id": "CBCNewsNetwork.ca",
+        "xmltv_display_name": "CBC News (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cheddar News (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cheddar News (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8",
+        "xmltv_id": "CheddarNews.us",
+        "xmltv_display_name": "Cheddar News (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chive Tv (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Chive TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8",
+        "xmltv_id": "ChiveTV.us",
+        "xmltv_display_name": "Chive TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Circle (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Circle (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://circle-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Circle.us",
+        "xmltv_display_name": "Circle (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Circle (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Circle (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8",
+        "xmltv_id": "Circle.us",
+        "xmltv_display_name": "Circle (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Comedy Dynamics (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Comedy Dynamics (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8",
+        "xmltv_id": "ComedyDynamics.us",
+        "xmltv_display_name": "Comedy Dynamics (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Complex (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Complex (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8",
+        "xmltv_id": "Complex.us",
+        "xmltv_display_name": "Complex (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crackle (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Crackle (XUMO) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://crackle-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Crackle.us",
+        "xmltv_display_name": "Crackle (XUMO) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dove Channel (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dove Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8",
+        "xmltv_id": "DoveChannel.us",
+        "xmltv_display_name": "Dove Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Electric Now (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Electric Now (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8",
+        "xmltv_id": "ElectricNow.us",
+        "xmltv_display_name": "Electric Now (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Failarmy International (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FailArmy International (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8",
+        "xmltv_id": "FailArmy.us",
+        "xmltv_display_name": "FailArmy International (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Film Hub (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Film Hub (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8",
+        "xmltv_id": "FilmHub.us",
+        "xmltv_display_name": "Film Hub (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Classic Tv On Redbox (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Classic TV on Redbox (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8",
+        "xmltv_id": "FilmRiseClassicTV.us",
+        "xmltv_display_name": "FilmRise Classic TV on Redbox (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Family (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Family (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8",
+        "xmltv_id": "FilmRiseFamily.us",
+        "xmltv_display_name": "FilmRise Family (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Forensic Files 432p (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Forensic Files (XUMO) (432p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8",
+        "xmltv_id": "RedboxUnsolvedMysteries.us",
+        "xmltv_display_name": "FilmRise Forensic Files (XUMO) (432p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Free Movies Redbox (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Free Movies (Redbox) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8",
+        "xmltv_id": "FilmRiseFreeMovies.us",
+        "xmltv_display_name": "FilmRise Free Movies (Redbox) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Food 52 (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Food 52 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8",
+        "xmltv_id": "Food52.us",
+        "xmltv_display_name": "Food 52 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Food 52 (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Food 52 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8",
+        "xmltv_id": "Food52.us",
+        "xmltv_display_name": "Food 52 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Weather (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fox Weather",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8",
+        "xmltv_id": "FoxWeather.us",
+        "xmltv_display_name": "Fox Weather",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Weather (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fox Weather",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://foxweather-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "FoxWeather.us",
+        "xmltv_display_name": "Fox Weather",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Funny Or Die (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Funny or Die (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8",
+        "xmltv_id": "FunnyorDie.us",
+        "xmltv_display_name": "Funny or Die (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Glamour (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Glamour (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8",
+        "xmltv_id": "Glamour.us",
+        "xmltv_display_name": "Glamour (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Glory Kickboxing (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Glory Kickboxing (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8",
+        "xmltv_id": "GloryKickboxing.us",
+        "xmltv_display_name": "Glory Kickboxing (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Go Traveler (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Go Traveler (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8",
+        "xmltv_id": "GoTraveler.us",
+        "xmltv_display_name": "Go Traveler (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Gq (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "GQ (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8",
+        "xmltv_id": "GQ.us",
+        "xmltv_display_name": "GQ (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Gravitas Movies (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Gravitas Movies (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8",
+        "xmltv_id": "GravitasMovies.us",
+        "xmltv_display_name": "Gravitas Movies (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hard Knocks (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hard Knocks (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8",
+        "xmltv_id": "HardKnocks.ca",
+        "xmltv_display_name": "Hard Knocks (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hi Yah (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hi-YAH! (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8",
+        "xmltv_id": "HiYAH.us",
+        "xmltv_display_name": "Hi-YAH! (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hungry (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hungry (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8",
+        "xmltv_id": "Hungry.us",
+        "xmltv_display_name": "Hungry (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ion Mystery (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ION Mystery (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8",
+        "xmltv_id": "WFXTDT2.us",
+        "xmltv_display_name": "ION Mystery (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Journy (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Journy (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8",
+        "xmltv_id": "Journy.us",
+        "xmltv_display_name": "Journy (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kabillion (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "kabillion (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8",
+        "xmltv_id": "kabillion.us",
+        "xmltv_display_name": "kabillion (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Law Crime Not 24 7 (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Law & Crime (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8",
+        "xmltv_id": "LawCrime.us",
+        "xmltv_display_name": "Law & Crime (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Law Crime (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Law & Crime (XUMO) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8",
+        "xmltv_id": "LawCrime.us",
+        "xmltv_display_name": "Law & Crime (XUMO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Maverick Black Cinema 432p (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Maverick Black Cinema (432p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8",
+        "xmltv_id": "MaverickBlackCinema.us",
+        "xmltv_display_name": "Maverick Black Cinema (432p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moovimex (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Moovimex (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8",
+        "xmltv_id": "Moovimex.mx",
+        "xmltv_display_name": "Moovimex (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC News Now (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC News Now (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
+        "xmltv_id": "NBCNewsNOW.us",
+        "xmltv_display_name": "NBC News Now (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Newsmax 2 (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Newsmax 2 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8",
+        "xmltv_id": "Newsmax2.us",
+        "xmltv_display_name": "Newsmax 2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nitro Circus (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Nitro Circus (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8",
+        "xmltv_id": "NitroCircus.us",
+        "xmltv_display_name": "Nitro Circus (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nosey (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Nosey (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8",
+        "xmltv_id": "Nosey.us",
+        "xmltv_display_name": "Nosey (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Now This (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Now This (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8",
+        "xmltv_id": "NowThis.us",
+        "xmltv_display_name": "Now This (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outdoor America (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Outdoor America (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8",
+        "xmltv_id": "OutdoorAmerica.us",
+        "xmltv_display_name": "Outdoor America (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outside Tv (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Outside TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8",
+        "xmltv_id": "OutsideTV.us",
+        "xmltv_display_name": "Outside TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outside Tv Plus (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Outside TV Plus (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8",
+        "xmltv_id": "OutsideTVPlus.us",
+        "xmltv_display_name": "Outside TV Plus (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outside Tv Plus (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Outside TV Plus (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://outsidetvplus-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "OutsideTVPlus.us",
+        "xmltv_display_name": "Outside TV Plus (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "People Are Awesome (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "People Are Awesome (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8",
+        "xmltv_id": "PeopleAreAwesome.us",
+        "xmltv_display_name": "People Are Awesome (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "People Tv (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "People TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://peopletvssai.akamaized.net/amagi_hls_data_peopletvA-peopletvxumo/CDN/master.m3u8",
+        "xmltv_id": "PeopleTV.us",
+        "xmltv_display_name": "People TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pocket Watch (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "pocket.watch (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8",
+        "xmltv_id": "pocketwatch.us",
+        "xmltv_display_name": "pocket.watch (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Real Nosey (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Real Nosey (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8",
+        "xmltv_id": "RealNosey.us",
+        "xmltv_display_name": "Real Nosey (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Reelz Channel (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Reelz Channel (XUMO) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8",
+        "xmltv_id": "ReelzChannelXUMO.us",
+        "xmltv_display_name": "Reelz Channel (XUMO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Shop Lc (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Shop LC (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
+        "xmltv_id": "ShopLC.us",
+        "xmltv_display_name": "Shop LC (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Shout Factory Tv (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Shout! Factory TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://shoutfactory-xumo.amagi.tv/playlist.m3u8",
+        "xmltv_id": "ShoutFactoryTV.us",
+        "xmltv_display_name": "Shout! Factory TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Showtime At The Apollo 432p (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime at the Apollo (432p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8",
+        "xmltv_id": "ShowtimeattheApollo.us",
+        "xmltv_display_name": "Showtime at the Apollo (432p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "So Yummy (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "So Yummy! (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8",
+        "xmltv_id": "SoYummy.us",
+        "xmltv_display_name": "So Yummy! (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "So Yummy (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "So Yummy! (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8",
+        "xmltv_id": "SoYummy.us",
+        "xmltv_display_name": "So Yummy! (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsgrid (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SportsGrid (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8",
+        "xmltv_id": "SportsGrid.us",
+        "xmltv_display_name": "SportsGrid (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsgrid (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SportsGrid (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8",
+        "xmltv_id": "SportsGrid.us",
+        "xmltv_display_name": "SportsGrid (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Stadium (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Stadium (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8",
+        "xmltv_id": "Stadium.us",
+        "xmltv_display_name": "Stadium (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ambience (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Ambience (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlist.m3u8",
+        "xmltv_id": "StingrayAmbience.ca",
+        "xmltv_display_name": "Stingray Ambience (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Classic Rock (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Classic Rock (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8",
+        "xmltv_id": "StingrayClassicRock.ca",
+        "xmltv_display_name": "Stingray Classic Rock (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Classic Rock Not 24 7 (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Classic Rock (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8",
+        "xmltv_id": "StingrayClassicRock.ca",
+        "xmltv_display_name": "Stingray Classic Rock (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Greatest Hits (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Greatest Hits (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8",
+        "xmltv_id": "StingrayGreatestHits.ca",
+        "xmltv_display_name": "Stingray Greatest Hits (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Greatest Hits (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Greatest Hits (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8",
+        "xmltv_id": "StingrayGreatestHits.ca",
+        "xmltv_display_name": "Stingray Greatest Hits (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hit List (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Hit List (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8",
+        "xmltv_id": "StingrayHitList.ca",
+        "xmltv_display_name": "Stingray Hit List (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hit List (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Hit List (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://xumo-redbox.ott-channels.stingray.com/107/master.m3u8",
+        "xmltv_id": "StingrayHitList.ca",
+        "xmltv_display_name": "Stingray Hit List (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hot Country (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Hot Country (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8",
+        "xmltv_id": "StingrayHotCountry.ca",
+        "xmltv_display_name": "Stingray Hot Country (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hot Country (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Hot Country (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8",
+        "xmltv_id": "StingrayHotCountry.ca",
+        "xmltv_display_name": "Stingray Hot Country (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Naturescape (Xumo) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Naturescape (360p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8",
+        "xmltv_id": "StingrayNaturescape.ca",
+        "xmltv_display_name": "Stingray Naturescape (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Qello Concerts (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Qello Concerts (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8",
+        "xmltv_id": "QelloConcertsbyStingray.ca",
+        "xmltv_display_name": "Stingray Qello Concerts (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Soul Storm (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Soul Storm (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8",
+        "xmltv_id": "StingraySoulStorm.ca",
+        "xmltv_display_name": "Stingray Soul Storm (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Soul Storm (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stingray Soul Storm (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://xumo-redbox.ott-channels.stingray.com/134/master.m3u8",
+        "xmltv_id": "StingraySoulStorm.ca",
+        "xmltv_display_name": "Stingray Soul Storm (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Tastemade (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8",
+        "xmltv_id": "Tastemade.us",
+        "xmltv_display_name": "Tastemade (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Archive 540p (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Archive (540p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8",
+        "xmltv_id": "TheArchive.us",
+        "xmltv_display_name": "The Archive (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Bob Ross Channel (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Bob Ross Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bobross-xumous-ingest.cinedigm.com/master.m3u8",
+        "xmltv_id": "TheBobRossChannel.us",
+        "xmltv_display_name": "The Bob Ross Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Bob Ross Channel (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Bob Ross Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8",
+        "xmltv_id": "TheBobRossChannel.us",
+        "xmltv_display_name": "The Bob Ross Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Bob Ross Channel (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Bob Ross Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8",
+        "xmltv_id": "TheBobRossChannel.us",
+        "xmltv_display_name": "The Bob Ross Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Design Network (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Design Network (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8",
+        "xmltv_id": "TheDesignNetwork.us",
+        "xmltv_display_name": "The Design Network (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Pet Collective (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Pet Collective (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8",
+        "xmltv_id": "ThePetCollective.us",
+        "xmltv_display_name": "The Pet Collective (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Young Turks Tyt Not 24 7 (Xumo) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Young Turks (TYT) (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8",
+        "xmltv_id": "TheYoungTurks.us",
+        "xmltv_display_name": "The Young Turks (TYT) (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tmz (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "TMZ (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8",
+        "xmltv_id": "TMZ.us",
+        "xmltv_display_name": "TMZ (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tmz (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "TMZ (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziotmz/CDN/playlist.m3u8",
+        "xmltv_id": "TMZ.us",
+        "xmltv_display_name": "TMZ (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Toon Goggles Not 24 7 (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Toon Goggles (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8",
+        "xmltv_id": "ToonGoggles.us",
+        "xmltv_display_name": "Toon Goggles (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Usa Today (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "USA Today (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8",
+        "xmltv_id": "USATODAY.us",
+        "xmltv_display_name": "USA Today (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Vanity Fair (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Vanity Fair (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8",
+        "xmltv_id": "VanityFair.us",
+        "xmltv_display_name": "Vanity Fair (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Vevo 80s (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Vevo 80s (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
+        "xmltv_id": "Vevo80s.us",
+        "xmltv_display_name": "Vevo 80s (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Vevo Pop (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Vevo Pop (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8",
+        "xmltv_id": "VevoPop.us",
+        "xmltv_display_name": "Vevo Pop (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Vogue (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Vogue (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8",
+        "xmltv_id": "Vogue.us",
+        "xmltv_display_name": "Vogue (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Voyager Documentaries (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Voyager Documentaries (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8",
+        "xmltv_id": "VoyagerDocumentaries.us",
+        "xmltv_display_name": "Voyager Documentaries (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weatherspy (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WeatherSpy (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8",
+        "xmltv_id": "WeatherSpy.us",
+        "xmltv_display_name": "WeatherSpy (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wired (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Wired (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8",
+        "xmltv_id": "Wired.us",
+        "xmltv_display_name": "Wired (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "World Poker Tour (Xumo) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "World Poker Tour (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8",
+        "xmltv_id": "WorldPokerTour.us",
+        "xmltv_display_name": "World Poker Tour (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

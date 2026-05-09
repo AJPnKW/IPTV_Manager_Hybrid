@@ -1,0 +1,10 @@
+﻿release_pack
+run_ts=20260419_230233
+
+tivimate_playlist=C:\Users\andrew\PROJECTS\iptv\publish\release\current\tivimate\playlist.m3u
+tivimate_epg_xml=C:\Users\andrew\PROJECTS\iptv\publish\release\current\tivimate\epg.xml
+tivimate_epg_gz=C:\Users\andrew\PROJECTS\iptv\publish\release\current\tivimate\epg.xml.gz
+
+runtime_hp_playlist=C:\Users\andrew\PROJECTS\iptv\publish\release\current\runtime_hp\playlist.m3u
+runtime_hp_epg_xml=C:\Users\andrew\PROJECTS\iptv\publish\release\current\runtime_hp\epg.xml
+runtime_hp_epg_gz=C:\Users\andrew\PROJECTS\iptv\publish\release\current\runtime_hp\epg.xml.gz

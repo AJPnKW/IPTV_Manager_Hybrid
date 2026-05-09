@@ -1,0 +1,365 @@
+{
+  "exported_at": "2026-04-10T02:18:47Z",
+  "selected_ids": [
+    "abckids.au",
+    "abcme.au",
+    "abcnews.au",
+    "abc.au",
+    "ten.au",
+    "10bold.au",
+    "9gem.au",
+    "nine.au",
+    "sbs.au",
+    "sbsviceland.au",
+    "sbsworldmovies.au",
+    "7mate.au",
+    "7two.au",
+    "seven.au",
+    "bbcfour.uk",
+    "bbcnews.uk",
+    "bbcone.uk",
+    "bbcparliament.uk",
+    "bbcthree.uk",
+    "bbctwo.uk",
+    "cbbc.uk",
+    "cbeebies.uk",
+    "film4.uk",
+    "5star.uk",
+    "5usa.uk",
+    "bbcone.london",
+    "bbcone.ni",
+    "bbcone.scotland",
+    "bbcone.wales",
+    "channel4.hd",
+    "channel5.hd",
+    "itv1.granada",
+    "itv1.london",
+    "itv1.wales",
+    "s4c.wales",
+    "stv.scotland",
+    "utv.ni",
+    "channel4.uk",
+    "channel5.uk",
+    "dave.uk",
+    "drama.uk",
+    "e4.uk",
+    "itv1.uk",
+    "itv2.uk",
+    "itv3.uk",
+    "itv4.uk",
+    "more4.uk"
+  ],
+  "decisions": {
+    "abckids.au": {
+      "decision": "maybe",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "abcme.au": {
+      "decision": "maybe",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "abcnews.au": {
+      "decision": "maybe",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "abc.au": {
+      "decision": "maybe",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "ten.au": {
+      "decision": "include",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "10bold.au": {
+      "decision": "maybe",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "9gem.au": {
+      "decision": "maybe",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "nine.au": {
+      "decision": "include",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "sbs.au": {
+      "decision": "maybe",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "sbsviceland.au": {
+      "decision": "maybe",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "sbsworldmovies.au": {
+      "decision": "include",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "7mate.au": {
+      "decision": "maybe",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "7two.au": {
+      "decision": "maybe",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "seven.au": {
+      "decision": "include",
+      "target_group": "AU • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "retrotv.us": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "truecrime.us": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "aljazeera.en": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "france24.en": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "edgesport.uk": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "sportsgrid.us": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "bbcfour.uk": {
+      "decision": "include",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "bbcnews.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "bbcone.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "bbcparliament.uk": {
+      "decision": "include",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "bbcthree.uk": {
+      "decision": "include",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "bbctwo.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "cbbc.uk": {
+      "decision": "include",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "cbeebies.uk": {
+      "decision": "include",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "film4.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "5star.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "5usa.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "bbcone.london": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "bbcone.ni": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "bbcone.scotland": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "bbcone.wales": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "channel4.hd": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "channel5.hd": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "itv1.granada": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "itv1.london": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "itv1.wales": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "s4c.wales": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "stv.scotland": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "utv.ni": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "channel4.uk": {
+      "decision": "include",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "channel5.uk": {
+      "decision": "include",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "dave.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "drama.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "e4.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "itv1.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "itv2.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "itv3.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "itv4.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "more4.uk": {
+      "decision": "maybe",
+      "target_group": "UK • Seeded",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "plex.movies": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "plex.news": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "pluto.action": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "pluto.drama": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "pluto.movies": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "rakuten.action": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "rakuten.comedy": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "samsung.movies": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    },
+    "samsung.news": {
+      "decision": "exclude",
+      "target_group": "",
+      "notes": "Auto-seeded from country and scope hint."
+    }
+  },
+  "seeded": true
+}

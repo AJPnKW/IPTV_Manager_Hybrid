@@ -1,0 +1,676 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\list_e0b21778b87b26f46b9ba9b9930854f7_alliptvlinks_com-2.m3u",
+  "provider": "Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Fox Wnyw F Backup No 1 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US FOX (WNYW) New York F Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/120750?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US FOX (WNYW) New York F Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crave 1 Backup No 1 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CRAVE 1 HD Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57309?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CRAVE 1 HD Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CTV Ontario Backup No 5 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV Barrie Ontario HD Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57373?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV Barrie Ontario HD Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ion Backup No 3 Alliptvlinks Com Undefined (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ION Backup NO_3 alliptvlinks.com",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f9a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e7cc513a-0132-4e4f-85f1-bb3cb90423fd&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "ION Backup NO_3 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 3 Backup No 5 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CRAVE 3 Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57322?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CRAVE 3 Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "HBO Backup No 4 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US HBO East HD Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/46713?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US HBO East HD Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Wabc A Backup No 1 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US abc 7 (WABC) New York A Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/121139?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US abc 7 (WABC) New York A Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "HBO Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US HBO East HD alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/46713?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US HBO East HD alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Paramount Network Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Paramount Network alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/46694?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Paramount Network alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crave 3 Backup No 1 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CRAVE 3 Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57322?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CRAVE 3 Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Paramount Network Backup No 5 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Paramount Network Backup NO_5 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/16201?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Paramount Network Backup NO_5 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "HBO Signature Backup No 4 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US HBO SIGNATURE (East) Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/9266?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US HBO SIGNATURE (East) Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FXX Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US FXX (East) alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/46699?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US FXX (East) alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "HBO Signature Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US HBO SIGNATURE (East) alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/9266?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US HBO SIGNATURE (East) alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "BBC Earth Backup No 2 Alliptvlinks Com Undefined (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC Earth Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Earth Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 2 Wcbs Backup No 1 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CBS 2 (WCBS) NEW YORK Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/120749?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CBS 2 (WCBS) NEW YORK Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "HBO 1 Backup No 1 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA HBO 1 Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57437?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA HBO 1 Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wild N Out Mtv Alliptvlinks Com Series (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Wild'n out MTV alliptvlinks.com",
+        "group_title_raw": "Series",
+        "logo_raw": null,
+        "stream_url": "http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung/SM-T720/10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=MobileTVPlus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Wild'n out MTV alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV2 Backup No 6 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV2 Vancouver Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57316?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV2 Vancouver Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Paramount Picks Backup No 2 Alliptvlinks Com Undefined (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount+ Picks Backup NO_2 alliptvlinks.com",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86df5336-6268-4928-9b7d-3af618ca807b&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Paramount+ Picks Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount Network Backup No 6 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US Paramount Network Backup NO_6 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/46694?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US Paramount Network Backup NO_6 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Wnbc F Backup No 1 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US NBC (WNBC) New York F Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/120751?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US NBC (WNBC) New York F Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "BBC Earth Alliptvlinks Com Undefined Github (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC Earth alliptvlinks.com",
+        "group_title_raw": "Undefined github",
+        "logo_raw": null,
+        "stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Earth alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined github"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paranormal Alliptvlinks Com Series (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Paranormal alliptvlinks.com",
+        "group_title_raw": "Series",
+        "logo_raw": null,
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=669&deviceId=5adf96e3e738977e2c31cb04&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pluto TV Paranormal alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Usa Stories By Amc Alliptvlinks Com Plex (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA STORIES BY AMC alliptvlinks.com",
+        "group_title_raw": "PLEX",
+        "logo_raw": null,
+        "stream_url": "https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8?ads.wurl_channel=474&ads.wurl_name=AMCPresents&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=5fc705e2a2236e002d69f3ba&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "USA STORIES BY AMC alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "PLEX"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Logo Alliptvlinks Com (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Logo alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=187&deviceId=5ce5a8954311f992edbe1da2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pluto TV Logo alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Food Alliptvlinks Com Cooking (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pluto TV Food alliptvlinks.com",
+        "group_title_raw": "Cooking",
+        "logo_raw": null,
+        "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0734c282-0583-11eb-a18c-0242ac110002&deviceId=5dc280c9aa218c0009724b4b&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pluto TV Food alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Cooking"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV2 Backup No 1 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA CTV2 Vancouver Backup NO_1 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://cord-cutter.net:8080/k4Svp2/645504/57316?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA CTV2 Vancouver Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Usa Terror Alliptvlinks Com (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA PLUTO TV TERROR alliptvlinks.com",
+        "group_title_raw": "PLUTO",
+        "logo_raw": null,
+        "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "USA PLUTO TV TERROR alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "PLUTO"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CW Pix11 Wpix Backup No 7 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US CW PIX11 (WPIX) New York Backup NO_7 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/120897?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US CW PIX11 (WPIX) New York Backup NO_7 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Slice Tv Backup No 2 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA Slice TV Backup NO_2 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/57274?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "CA Slice TV Backup NO_2 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "FXX Backup No 4 Alliptvlinks Com (Liste0b21778b87b26f46b9ba9b9930854f7alliptvlinkscom2) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "US FXX (East) Backup NO_4 alliptvlinks.com",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://tv14s.xyz:8080/A1Jay5/362586/46699?checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "US FXX (East) Backup NO_4 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Usa Stories By Amc Backup No 1 Alliptvlinks Com (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA STORIES BY AMC Backup NO_1 alliptvlinks.com",
+        "group_title_raw": "PLUTO",
+        "logo_raw": null,
+        "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "USA STORIES BY AMC Backup NO_1 alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "PLUTO"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Usa Fantastic Alliptvlinks Com (Pluto) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "USA PLUTO TV FANTASTIC alliptvlinks.com",
+        "group_title_raw": "PLUTO",
+        "logo_raw": null,
+        "stream_url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:alliptvlinks.com",
+        "xmltv_id": null,
+        "xmltv_display_name": "USA PLUTO TV FANTASTIC alliptvlinks.com",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "PLUTO"
+        ]
+      }
+    }
+  ]
+}

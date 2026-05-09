@@ -1,0 +1,46 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_amagi.m3u",
+  "provider": "Usamagi",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Newsmax 2 (Usamagi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Newsmax 2 (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Newsmax2.us",
+        "xmltv_display_name": "Newsmax 2 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Oanplus (Usamagi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "OANPlus (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://oan-plus-tcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "OANPlus.us",
+        "xmltv_display_name": "OANPlus (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

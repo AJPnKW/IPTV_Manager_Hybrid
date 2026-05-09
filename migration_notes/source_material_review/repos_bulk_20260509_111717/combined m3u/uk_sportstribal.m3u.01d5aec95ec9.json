@@ -1,0 +1,141 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\uk_sportstribal.m3u",
+  "provider": "Uksportstribal",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Edgesport (Uksportstribal) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "EDGESport (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://edgesports-sportstribal.amagi.tv/playlist.m3u8",
+        "xmltv_id": "EDGEsport.uk",
+        "xmltv_display_name": "EDGESport (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hard Knocks Not 24 7 (Uksportstribal) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hard Knocks (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8",
+        "xmltv_id": "HardKnocks.ca",
+        "xmltv_display_name": "Hard Knocks (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ign Tv (Uksportstribal) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "IGN TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ign-sportstribal.amagi.tv/playlist.m3u8",
+        "xmltv_id": "IGN.us",
+        "xmltv_display_name": "IGN TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pac12 Insider (Uksportstribal) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pac12 Insider (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://pac12-sportstribal.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Pac12Insider.us",
+        "xmltv_display_name": "Pac12 Insider (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ski Tv Not 24 7 (Uksportstribal) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SKI TV (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8",
+        "xmltv_id": "SKITV.ch",
+        "xmltv_display_name": "SKI TV (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsgrid (Uksportstribal) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SportsGrid (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+        "xmltv_id": "SportsGrid.us",
+        "xmltv_display_name": "SportsGrid (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "World Poker Tour Not 24 7 (Uksportstribal) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "World Poker Tour (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8",
+        "xmltv_id": "WorldPokerTour.us",
+        "xmltv_display_name": "World Poker Tour (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

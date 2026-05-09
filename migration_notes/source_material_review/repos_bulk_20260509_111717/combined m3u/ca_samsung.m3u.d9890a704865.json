@@ -1,0 +1,350 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\ca_samsung.m3u",
+  "provider": "Casamsung",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Baywatch (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Baywatch",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8",
+        "xmltv_id": "Baywatch.us",
+        "xmltv_display_name": "Baywatch",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Degrassi The Next Generation Canada (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Degrassi The Next Generation (Canada) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "DegrassiTheNextGeneration.ca",
+        "xmltv_display_name": "Degrassi The Next Generation (Canada) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Drybar Comedy (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "DryBar Comedy",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "DryBar Comedy",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Failarmy (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FailArmy",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "FailArmy.us",
+        "xmltv_display_name": "FailArmy",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Haunt Tv (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Haunt TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8",
+        "xmltv_id": "HauntTV.us",
+        "xmltv_display_name": "Haunt TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Heartland (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Heartland",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d76toswjmqqzm.cloudfront.net/playlist.m3u8",
+        "xmltv_id": "HeartlandWebFeed.us",
+        "xmltv_display_name": "Heartland",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Insight Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Insight TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InsightTV.nl",
+        "xmltv_display_name": "Insight TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Inwonder (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "InWonder (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://inwonder-samsung-canada.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InWonder.nl",
+        "xmltv_display_name": "InWonder (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kidoodle Tv (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Kidoodle TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "KidoodleTV.ca",
+        "xmltv_display_name": "Kidoodle TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mhz (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MHZ",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "MHZ.ca",
+        "xmltv_display_name": "MHZ",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outside Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Outside TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://outside-tv-samsung-ca.samsung.wurl.tv/manifest/playlist.m3u8",
+        "xmltv_id": "OutsideTV.us",
+        "xmltv_display_name": "Outside TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "People Are Awesome (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "People are Awesome",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "PeopleAreAwesome.us",
+        "xmltv_display_name": "People are Awesome",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Powernation (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "PowerNation",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://a3d7c6b7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1jYV9SVE1UVkNoYW5uZWxfSExT/playlist.m3u8",
+        "xmltv_id": "PowerNationTV.us",
+        "xmltv_display_name": "PowerNation",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Design Network (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Design Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "TheDesignNetwork.us",
+        "xmltv_display_name": "The Design Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Jack Hannah Channel (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Jack Hannah Channel",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Jack Hannah Channel",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Pet Collective (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Pet Collective",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "ThePetCollective.us",
+        "xmltv_display_name": "The Pet Collective",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Weatherspy (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Weatherspy (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://jukin-weatherspy-2-ca.samsung.wurl.tv/manifest/playlist.m3u8",
+        "xmltv_id": "WeatherSpy.ca",
+        "xmltv_display_name": "Weatherspy (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "World Poker Tour (Samsung) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "World Poker Tour",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "WorldPokerTour.us",
+        "xmltv_display_name": "World Poker Tour",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,5176 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\us_tubi.m3u",
+  "provider": "Ustubi",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "ABC 2 Ga Wsb Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 2 Atlanta GA (WSB-TV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wsb2.m3u8",
+        "xmltv_id": "WSBDT1.us",
+        "xmltv_display_name": "ABC 2 Atlanta GA (WSB-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 2 Baltimore Md Wmar (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 2 Baltimore MD (WMAR) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wmar.m3u8",
+        "xmltv_id": "WMARDT1.us",
+        "xmltv_display_name": "ABC 2 Baltimore MD (WMAR) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 4 Pittsburg Pa Wtae (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 4 Pittsburg PA (WTAE) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtae.m3u8",
+        "xmltv_id": "WTAEDT1.us",
+        "xmltv_display_name": "ABC 4 Pittsburg PA (WTAE) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 5 Ma Wcvb (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 5 Boston MA (WCVB) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wcvb.m3u8",
+        "xmltv_id": "WCVBDT1.us",
+        "xmltv_display_name": "ABC 5 Boston MA (WCVB) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 5 Oh Wews (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 5 Cleveland OH (WEWS) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wews2.m3u8",
+        "xmltv_id": "WEWSDT1.us",
+        "xmltv_display_name": "ABC 5 Cleveland OH (WEWS) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 5 Oklahoma City Ok Koco (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 5 Oklahoma City OK (KOCO) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-koco.m3u8",
+        "xmltv_id": "KOCODT1.us",
+        "xmltv_display_name": "ABC 5 Oklahoma City OK (KOCO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 6 Boise Id Kivi (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 6 Boise ID (KIVI) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kivi.m3u8",
+        "xmltv_id": "KIVIDT1.us",
+        "xmltv_display_name": "ABC 6 Boise ID (KIVI) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 6 In Wrtv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 6 Indianapolis IN (WRTV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wrtv.m3u8",
+        "xmltv_id": "WRTVDT1.us",
+        "xmltv_display_name": "ABC 6 Indianapolis IN (WRTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Albuquerque Nm Koat (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Albuquerque NM (KOAT) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-koat.m3u8",
+        "xmltv_id": "KOATDT1.us",
+        "xmltv_display_name": "ABC 7 Albuquerque NM (KOAT) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Buffalo Ny Wkbw (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Buffalo NY (WKBW) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wkbw.m3u8",
+        "xmltv_id": "WKBWDT1.us",
+        "xmltv_display_name": "ABC 7 Buffalo NY (WKBW) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Co Kmgh (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Denver CO (KMGH) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kmgh2.m3u8",
+        "xmltv_id": "KMGHDT1.us",
+        "xmltv_display_name": "ABC 7 Denver CO (KMGH) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Mi Wxyz (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Detroit MI (WXYZ) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wxyz2.m3u8",
+        "xmltv_id": "WXYZDT1.us",
+        "xmltv_display_name": "ABC 7 Detroit MI (WXYZ) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Omaha Ne Ketv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Omaha NE (KETV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ketv.m3u8",
+        "xmltv_id": "KETVDT1.us",
+        "xmltv_display_name": "ABC 7 Omaha NE (KETV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 8 Fort Worth Tx Wfaa (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 8 Dallas / Fort Worth TX (WFAA) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/wfaa/live.m3u8",
+        "xmltv_id": "WFAADT1.us",
+        "xmltv_display_name": "ABC 8 Dallas / Fort Worth TX (WFAA) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 8 Me Wmtw (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 8 Portland ME (WMTW) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wmtw.m3u8",
+        "xmltv_id": "WMTWDT1.us",
+        "xmltv_display_name": "ABC 8 Portland ME (WMTW) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 9 Nc Wsoc (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Charlotte NC (WSOC) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wsoc.m3u8",
+        "xmltv_id": "WSOCDT1.us",
+        "xmltv_display_name": "ABC 9 Charlotte NC (WSOC) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 9 Oh Wcpo (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Cincinnati OH (WCPO) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wcpo.m3u8",
+        "xmltv_id": "WCPODT1.us",
+        "xmltv_display_name": "ABC 9 Cincinnati OH (WCPO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 9 Mo Kmbc Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Kansas City MO (KMBC-TV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kmbc.m3u8",
+        "xmltv_id": "KMBCDT1.us",
+        "xmltv_display_name": "ABC 9 Kansas City MO (KMBC-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 9 Nh Wmur Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Manchester NH (WMUR-TV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wmur.m3u8",
+        "xmltv_id": "WMURDT1.us",
+        "xmltv_display_name": "ABC 9 Manchester NH (WMUR-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 9 Fl Wftv Geo Blocked (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Orlando FL (WFTV) (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wftv.m3u8",
+        "xmltv_id": "WFTVDT1.us",
+        "xmltv_display_name": "ABC 9 Orlando FL (WFTV) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 9 Tucson Az Kgun (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Tucson AZ (KGUN) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kgun.m3u8",
+        "xmltv_id": "KGUNDT1.us",
+        "xmltv_display_name": "ABC 9 Tucson AZ (KGUN) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 10 Kgtv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 10 San Diego CA (KGTV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kgtv2.m3u8",
+        "xmltv_id": "KGTVDT1.us",
+        "xmltv_display_name": "ABC 10 San Diego CA (KGTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 12 Milwaukee Wi Wisn (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 12 Milwaukee WI (WISN) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wisn.m3u8",
+        "xmltv_id": "WISNDT1.us",
+        "xmltv_display_name": "ABC 12 Milwaukee WI (WISN) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 13 Nv Ktnv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 13 Las Vegas NV (KTNV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ktnv.m3u8",
+        "xmltv_id": "KTNVDT1.us",
+        "xmltv_display_name": "ABC 13 Las Vegas NV (KTNV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 15 Az Knxv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 15 Phoenix AZ (KNXV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-knxv2.m3u8",
+        "xmltv_id": "KNXVDT1.us",
+        "xmltv_display_name": "ABC 15 Phoenix AZ (KNXV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 16 Jackson Ms Wapt (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 16 Jackson MS (WAPT) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wapt.m3u8",
+        "xmltv_id": "WAPTDT1.us",
+        "xmltv_display_name": "ABC 16 Jackson MS (WAPT) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 22 Savannah Ga Wjcl (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 22 Savannah GA (WJCL) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wjcl.m3u8",
+        "xmltv_id": "WJCLDT1.us",
+        "xmltv_display_name": "ABC 22 Savannah GA (WJCL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 23 Bakersfield Kero (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 23 Bakersfield CA (KERO) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kero.m3u8",
+        "xmltv_id": "KERODT1.us",
+        "xmltv_display_name": "ABC 23 Bakersfield CA (KERO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 25 Waco Tx Kxxv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 25 Waco TX (KXXV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kxxv.m3u8",
+        "xmltv_id": "KXXVDT1.us",
+        "xmltv_display_name": "ABC 25 Waco TX (KXXV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 25 Palm Beach Fl Wpbf (Ustubi) (West) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 25 West Palm Beach FL (WPBF) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wpbf.m3u8",
+        "xmltv_id": "WPBFDT1.us",
+        "xmltv_display_name": "ABC 25 West Palm Beach FL (WPBF) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 27 Tallahassee Fl Wtxl (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 27 Tallahassee FL (WTXL) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtxl.m3u8",
+        "xmltv_id": "WTXLDT1.us",
+        "xmltv_display_name": "ABC 27 Tallahassee FL (WTXL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 28 Bay Fl Wfts (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 28 Tampa Bay FL (WFTS) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wfts2.m3u8",
+        "xmltv_id": "WFTSDT1.us",
+        "xmltv_display_name": "ABC 28 Tampa Bay FL (WFTS) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC 40 29 Fort Smith Ar Khbs (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 40/29 Fort Smith AR (KHBS) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-khbs.m3u8",
+        "xmltv_id": "KHBSDT1.us",
+        "xmltv_display_name": "ABC 40/29 Fort Smith AR (KHBS) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Live (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-abc-news.m3u8",
+        "xmltv_id": "ABCNewsLive.us",
+        "xmltv_display_name": "ABC News Live (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Accdn (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ACCDN (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8",
+        "xmltv_id": "ACCDigitalNetwork.us",
+        "xmltv_display_name": "ACCDN (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Alien Nation (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Alien Nation (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/alien-nation/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Alien Nation (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Alien Nation Canada (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Alien Nation Canada (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/alien-nation-canada/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Alien Nation Canada (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Alter Horror (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Alter Horror (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/alter/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Alter Horror (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Always Funny Videos (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Always Funny Videos (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-afv.m3u8",
+        "xmltv_id": "AFV.us",
+        "xmltv_display_name": "Always Funny Videos (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "American Pickers Channel (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "American Pickers Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "American Pickers Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Americas Test Kitchen (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Americas Test Kitchen (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-americas-test-kitchen2.m3u8",
+        "xmltv_id": "AmericasTestKitchen.us",
+        "xmltv_display_name": "Americas Test Kitchen (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Anger Management Channel (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Anger Management Channel (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-anger-management2.m3u8",
+        "xmltv_id": "AngerManagementChannel.us",
+        "xmltv_display_name": "Anger Management Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Anger Management En Espanol (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Anger Management en Espanol (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/anger-management-espanol2/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Anger Management en Espanol (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Antiques Road Trip (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Antiques Road Trip (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/35b865e3-cb8d-4d5b-9202-5490fce4477c/playlist.m3u8",
+        "xmltv_id": "AntiquesRoadTrip.us",
+        "xmltv_display_name": "Antiques Road Trip (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Are We There Yet (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Are We There Yet? (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-are-we-there-yet2.m3u8",
+        "xmltv_id": "AreWeThereYet.us",
+        "xmltv_display_name": "Are We There Yet? (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Baywatch (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Baywatch (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-baywatch.m3u8",
+        "xmltv_id": "Baywatch.us",
+        "xmltv_display_name": "Baywatch (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "BBC Doctor Who Classic (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Doctor Who Classic (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-dr-who.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Doctor Who Classic (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "BBC Earth (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Earth (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Earth (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "BBC Silent Witness New Tricks (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Silent Witness New Tricks (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/3723e418-8627-4a29-96fd-bcfebfccb004/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Silent Witness New Tricks (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "BBC Top Gear (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Top Gear (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Top Gear (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bein Sports Xtra (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BeIN SPORTS XTRA (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-bein.m3u8",
+        "xmltv_id": "beINSPORTSXTRA.us",
+        "xmltv_display_name": "BeIN SPORTS XTRA (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bein Sports Xtra En Espanol (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BeIN SPORTS XTRA En Espanol (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8",
+        "xmltv_id": "beINSPORTSXTRAenEspanol.us",
+        "xmltv_display_name": "BeIN SPORTS XTRA En Espanol (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Quicktake (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg Quicktake (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Originals.m3u8",
+        "xmltv_id": "BloombergQuicktake.us",
+        "xmltv_display_name": "Bloomberg Quicktake (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8",
+        "xmltv_id": "BloombergTV.us",
+        "xmltv_display_name": "Bloomberg TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bounce Xl (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Bounce XL (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-bounce-xl.m3u8",
+        "xmltv_id": "BounceXL.us",
+        "xmltv_display_name": "Bounce XL (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Britbox Mysteries (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BritBox Mysteries (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist.m3u8",
+        "xmltv_id": "BritBoxMysteries.us",
+        "xmltv_display_name": "BritBox Mysteries (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Buzzr (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BUZZR (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-buzzr.m3u8",
+        "xmltv_id": "Buzzr.us",
+        "xmltv_display_name": "BUZZR (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Caught In Providence (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Caught in Providence (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/caught-in-providence2/playlist.m3u8",
+        "xmltv_id": "CaughtinProvidence.us",
+        "xmltv_display_name": "Caught in Providence (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBC News Network (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CBC News Network (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8",
+        "xmltv_id": "CBCNewsNetwork.ca",
+        "xmltv_display_name": "CBC News Network (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 3 Great Falls Mt Krtv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 3 Great Falls MT (KRTV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-krtv.m3u8",
+        "xmltv_id": "KRTVDT1.us",
+        "xmltv_display_name": "CBS 3 Great Falls MT (KRTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 3 Norfolk Va Wtkr (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 3 Norfolk VA (WTKR) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtkr.m3u8",
+        "xmltv_id": "WTKRDT1.us",
+        "xmltv_display_name": "CBS 3 Norfolk VA (WTKR) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 3 Omaha Ne Kmtv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 3 Omaha NE (KMTV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kmtv.m3u8",
+        "xmltv_id": "KMTVDT1.us",
+        "xmltv_display_name": "CBS 3 Omaha NE (KMTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 5 Tn Wtvf (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 5 Nashville TN (WTVF) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtvf2.m3u8",
+        "xmltv_id": "WTVFDT1.us",
+        "xmltv_display_name": "CBS 5 Nashville TN (WTVF) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 6 Richmond Va Wtvr (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 6 Richmond VA (WTVR) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8",
+        "xmltv_id": "WTVRDT1.us",
+        "xmltv_display_name": "CBS 6 Richmond VA (WTVR) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 7 Bozeman Mt Kbzk (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 7 Bozeman MT (KBZK) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kbzk.m3u8",
+        "xmltv_id": "KBZKDT1.us",
+        "xmltv_display_name": "CBS 7 Bozeman MT (KBZK) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 7 Dayton Oh Whio (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 7 Dayton OH (WHIO) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-whio2.m3u8",
+        "xmltv_id": "WHIODT1.us",
+        "xmltv_display_name": "CBS 7 Dayton OH (WHIO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 7 Wa Kiro (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 7 Seattle WA (KIRO) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kiro.m3u8",
+        "xmltv_id": "KIRODT1.us",
+        "xmltv_display_name": "CBS 7 Seattle WA (KIRO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 8 Des Moines Ia Kcci (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 8 Des Moines IA (KCCI) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kcci.m3u8",
+        "xmltv_id": "KCCIDT1.us",
+        "xmltv_display_name": "CBS 8 Des Moines IA (KCCI) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 8 Missoula Mt Kpax (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 8 Missoula MT (KPAX) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kpax.m3u8",
+        "xmltv_id": "KPAXDT1.us",
+        "xmltv_display_name": "CBS 8 Missoula MT (KPAX) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 9 Dc Wusa (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 9 Washington DC (WUSA) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/wusa/live.m3u8",
+        "xmltv_id": "WUSADT1.us",
+        "xmltv_display_name": "CBS 9 Washington DC (WUSA) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 10 Columbus Oh Wbns (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 10 Columbus OH (WBNS) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/wbns/live.m3u8",
+        "xmltv_id": "WBNSDT1.us",
+        "xmltv_display_name": "CBS 10 Columbus OH (WBNS) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 11 Tx Khou (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 11 Houston TX (KHOU) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/khou/live.m3u8",
+        "xmltv_id": "KHOUDT1.us",
+        "xmltv_display_name": "CBS 11 Houston TX (KHOU) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS 32 Louisville Ky Wlky (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 32 Louisville KY (WLKY) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wlky.m3u8",
+        "xmltv_id": "WLKYDT1.us",
+        "xmltv_display_name": "CBS 32 Louisville KY (WLKY) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cheddar News (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cheddar News (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cheddar.m3u8",
+        "xmltv_id": "CheddarNews.us",
+        "xmltv_display_name": "Cheddar News (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cine Estrella (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cine Estrella (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cine Estrella (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cinevault 80s (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cinevault 80s (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8",
+        "xmltv_id": "Cinevault80s.us",
+        "xmltv_display_name": "Cinevault 80s (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cinevault Classics (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cinevault Classics (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cinevault-classics.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cinevault Classics (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cinevault Westerns (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cinevault Westerns (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cinevault-westerns.m3u8",
+        "xmltv_id": "CinevaultWesterns.us",
+        "xmltv_display_name": "Cinevault Westerns (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cold Case Files (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cold Case Files (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8",
+        "xmltv_id": "ColdCaseFiles.us",
+        "xmltv_display_name": "Cold Case Files (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Comedy Dynamics (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Comedy Dynamics (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-comedy-dynamics.m3u8",
+        "xmltv_id": "ComedyDynamics.us",
+        "xmltv_display_name": "Comedy Dynamics (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cosmos (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cosmos (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cosmos.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cosmos (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Court Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Court TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-court-tv.m3u8",
+        "xmltv_id": "CourtTV.us",
+        "xmltv_display_name": "Court TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crime Thrillher (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Crime ThrillHer (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-crime-thrillher.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crime ThrillHer (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crime Time Canada (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Crime Time Canada (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-crimetime-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crime Time Canada (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dance Moms (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dance Moms (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-dance-moms.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dance Moms (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dateline 24 7 (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dateline 24/7 (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-dateline.m3u8",
+        "xmltv_id": "Dateline247.us",
+        "xmltv_display_name": "Dateline 24/7 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dazn Ringside (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dazn Ringside (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-dazn-ringside.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dazn Ringside (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dazn Tv Canada (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Dazn TV Canada (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://live-manifest.production-public.tubi.io/live/dazntv-canada/h264/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dazn TV Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dazn Womens Football (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dazn Womens Football (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/dazn-womens-football.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dazn Womens Football (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Deal Or No Deal (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Deal or No Deal (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8",
+        "xmltv_id": "DealorNoDeal.us",
+        "xmltv_display_name": "Deal or No Deal (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dog The Bounty Hunter (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dog the Bounty Hunter (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-dog-the-bounty-hunter.m3u8",
+        "xmltv_id": "DogtheBountyHunter.us",
+        "xmltv_display_name": "Dog the Bounty Hunter (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dr G Medical Examiner (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Dr. G Medical Examiner (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-dr-g-filmrise.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dr. G Medical Examiner (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Duck Dynasty (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Duck Dynasty (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-duck-dynasty.m3u8",
+        "xmltv_id": "DuckDynasty.uk",
+        "xmltv_display_name": "Duck Dynasty (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ebony Tv (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ebony TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/22574bab-8a1f-44f4-b62f-ae2963c6a875/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ebony TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estrella Games (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Estrella Games (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8",
+        "xmltv_id": "EstrellaGames.us",
+        "xmltv_display_name": "Estrella Games (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estrella News (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Estrella News (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-estrella-news.m3u8",
+        "xmltv_id": "EstrellaNews.us",
+        "xmltv_display_name": "Estrella News (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Estrella Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Estrella TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8",
+        "xmltv_id": "EstrellaTV.us",
+        "xmltv_display_name": "Estrella TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Euronews English 7200p (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Euronews English (7200p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
+        "xmltv_id": "EuronewsEnglish.fr",
+        "xmltv_display_name": "Euronews English (7200p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fbi Files (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FBI Files (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8",
+        "xmltv_id": "FBIFiles.uk",
+        "xmltv_display_name": "FBI Files (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fear Factor (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fear Factor (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-fear-factor.m3u8",
+        "xmltv_id": "FearFactor.us",
+        "xmltv_display_name": "Fear Factor (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Black Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise Black TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Filmrise Black TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Black Tv Canada (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Black TV Canada (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Black TV Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Cheaters (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise Cheaters (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cheaters.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Filmrise Cheaters (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Forensic Files (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise Forensic Files (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8",
+        "xmltv_id": "FilmRiseForensicFiles.us",
+        "xmltv_display_name": "Filmrise Forensic Files (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Horror (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise Horror (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Filmrise Horror (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Horror Canada (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Horror Canada (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Horror Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise The Rifleman (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise The Rifleman (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-rifleman-filmrise.m3u8",
+        "xmltv_id": "TheRifleman.us",
+        "xmltv_display_name": "Filmrise The Rifleman (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise True Crime (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise True Crime (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8",
+        "xmltv_id": "FilmRiseTrueCrime.us",
+        "xmltv_display_name": "Filmrise True Crime (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise True Crime Canada (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise True Crime Canada (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise True Crime Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise Unsolved Mysteries (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Unsolved Mysteries (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Unsolved Mysteries (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Filmrise World S Most Evil Killers (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise World's Most Evil Killers (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Filmrise World's Most Evil Killers (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Four In A Bed (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Four in a Bed (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-four-in-a-bed.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Four in a Bed (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 2 Mi Wjbk (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 2 Detroit MI (WJBK) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8",
+        "xmltv_id": "WJBKDT1.us",
+        "xmltv_display_name": "FOX 2 Detroit MI (WJBK) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 2 Ktvu (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 2 San Francisco CA (KTVU) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ktvu.m3u8",
+        "xmltv_id": "KTVUDT1.us",
+        "xmltv_display_name": "FOX 2 San Francisco CA (KTVU) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 4 Cape Coral Fl Wftx (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 4 Cape Coral FL (WFTX) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wftx.m3u8",
+        "xmltv_id": "WFTXDT1.us",
+        "xmltv_display_name": "FOX 4 Cape Coral FL (WFTX) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 4 Fort Worth Tx Kdfw (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 4 Dallas / Fort Worth TX (KDFW) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kdfw.m3u8",
+        "xmltv_id": "KDFWDT1.us",
+        "xmltv_display_name": "FOX 4 Dallas / Fort Worth TX (KDFW) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 5 Ga Waga Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 5 Atlanta GA (WAGA-TV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-waga.m3u8",
+        "xmltv_id": "WAGADT1.us",
+        "xmltv_display_name": "FOX 5 Atlanta GA (WAGA-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 5 Ny Wnyw (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 5 New York NY (WNYW) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8",
+        "xmltv_id": "WNYWDT1.us",
+        "xmltv_display_name": "FOX 5 New York NY (WNYW) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 5 Dc Wttg (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 5 Washington DC (WTTG) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wttg.m3u8",
+        "xmltv_id": "WTTGDT1.us",
+        "xmltv_display_name": "FOX 5 Washington DC (WTTG) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 6 Milwaukee Wi Witi (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 6 Milwaukee WI (WITI) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-witi.m3u8",
+        "xmltv_id": "WITIDT1.us",
+        "xmltv_display_name": "FOX 6 Milwaukee WI (WITI) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 7 Tx Ktbc (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 7 Austin TX (KTBC) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ktbc.m3u8",
+        "xmltv_id": "KTBCDT1.us",
+        "xmltv_display_name": "FOX 7 Austin TX (KTBC) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 9 St Paul Mn Kmsp (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 9 ST Paul Minneapolis MN (KMSP) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kmsp.m3u8",
+        "xmltv_id": "KMSPDT1.us",
+        "xmltv_display_name": "FOX 9 ST Paul Minneapolis MN (KMSP) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 10 Az Ksaz (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 10 Phoenix AZ (KSAZ) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ksaz.m3u8",
+        "xmltv_id": "KSAZDT1.us",
+        "xmltv_display_name": "FOX 10 Phoenix AZ (KSAZ) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 11 Kttv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 11 Los Angeles CA (KTTV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kttv.m3u8",
+        "xmltv_id": "KTTVDT1.us",
+        "xmltv_display_name": "FOX 11 Los Angeles CA (KTTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 13 Memphis Tn Whbq Geo Blocked (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 13 Memphis TN (WHBQ) (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-whbq3.m3u8",
+        "xmltv_id": "WHBQDT1.us",
+        "xmltv_display_name": "FOX 13 Memphis TN (WHBQ) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 13 Salt Lake City Ut Kstu (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 13 Salt Lake City UT (KSTU) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8",
+        "xmltv_id": "KSTUDT1.us",
+        "xmltv_display_name": "FOX 13 Salt Lake City UT (KSTU) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 13 Wa Kcpq (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 13 Seattle WA (KCPQ) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8",
+        "xmltv_id": "KCPQDT1.us",
+        "xmltv_display_name": "FOX 13 Seattle WA (KCPQ) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 13 Bay Fl Wtvt (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 13 Tampa Bay FL (WTVT) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtvt.m3u8",
+        "xmltv_id": "WTVTDT1.us",
+        "xmltv_display_name": "FOX 13 Tampa Bay FL (WTVT) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 17 Grand Rapids Mi Wxmi (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 17 Grand Rapids MI (WXMI) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wxmi.m3u8",
+        "xmltv_id": "WXMIDT1.us",
+        "xmltv_display_name": "FOX 17 Grand Rapids MI (WXMI) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 23 Tulsa Ok Koki Geo Blocked (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 23 Tulsa OK (KOKI) (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-koki3.m3u8",
+        "xmltv_id": "KOKIDT1.us",
+        "xmltv_display_name": "FOX 23 Tulsa OK (KOKI) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 25 Ma Wfxt Geo Blocked (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 25 Boston MA (WFXT) (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wfxt.m3u8",
+        "xmltv_id": "WFXTDT1.us",
+        "xmltv_display_name": "FOX 25 Boston MA (WFXT) (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 26 Tx Kriv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 26 Houston TX (KRIV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kriv.m3u8",
+        "xmltv_id": "KRIVDT1.us",
+        "xmltv_display_name": "FOX 26 Houston TX (KRIV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 29 Pa Wtxf Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 29 Philadelphia PA (WTXF-TV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8",
+        "xmltv_id": "WTXFDT1.us",
+        "xmltv_display_name": "FOX 29 Philadelphia PA (WTXF-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 32 Il Wfld (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 32 Chicago IL (WFLD) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wfld.m3u8",
+        "xmltv_id": "WFLDDT1.us",
+        "xmltv_display_name": "FOX 32 Chicago IL (WFLD) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 35 Fl Wofl (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 35 Orlando FL (WOFL) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wofl.m3u8",
+        "xmltv_id": "WOFLDT1.us",
+        "xmltv_display_name": "FOX 35 Orlando FL (WOFL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 47 Lansing Mi Wsym (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 47 Lansing MI (WSYM) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wsym.m3u8",
+        "xmltv_id": "WSYMDT1.us",
+        "xmltv_display_name": "FOX 47 Lansing MI (WSYM) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox 61 Hartford Ct Wtic (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 61 Hartford CT (WTIC) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/wtic/live.m3u8",
+        "xmltv_id": "WTICDT1.us",
+        "xmltv_display_name": "FOX 61 Hartford CT (WTIC) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Soul (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Soul (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8",
+        "xmltv_id": "FoxSoul.us",
+        "xmltv_display_name": "Fox Soul (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Sports (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/fox-sports.m3u8",
+        "xmltv_id": "FoxSports.us",
+        "xmltv_display_name": "Fox Sports (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Sports En Espanol (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports en Espanol (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8",
+        "xmltv_id": "FoxDeportes.us",
+        "xmltv_display_name": "Fox Sports en Espanol (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Weather Not 24 7 (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Weather (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/fox-weather.m3u8",
+        "xmltv_id": "FoxWeather.us",
+        "xmltv_display_name": "Fox Weather (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fubo Sports Network Geo Blocked (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fubo Sports Network (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-fubo.m3u8",
+        "xmltv_id": "FuboSportsNetwork.us",
+        "xmltv_display_name": "Fubo Sports Network (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Game Show Central (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Game Show Central (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-game-show-central.m3u8",
+        "xmltv_id": "GameShowCentral.us",
+        "xmltv_display_name": "Game Show Central (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Gardening With Monty Don (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Gardening With Monty Don (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-gardening-monty-don.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Gardening With Monty Don (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Gordon Ramsay (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Gordon Ramsay (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-gordon-ramsey.m3u8",
+        "xmltv_id": "GordonRamsaysHellsKitchen.us",
+        "xmltv_display_name": "Gordon Ramsay (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Great British Menu (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Great British Menu (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-great-british-menu.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Great British Menu (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Grit Xtra (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Grit Xtra (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/grit-extra.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Grit Xtra (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Grit Xtra (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Grit Xtra (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/grit-extra/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Grit Xtra (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Haunt Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Haunt TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-haunttv.m3u8",
+        "xmltv_id": "HauntTV.us",
+        "xmltv_display_name": "Haunt TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Haunt Tv Canada (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Haunt TV Canada (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-haunttv-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Haunt TV Canada (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Heartland (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Heartland (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-heartland.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Heartland (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hi Yah (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "HI-Yah! (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-hi-yah.m3u8",
+        "xmltv_id": "HiYAH.us",
+        "xmltv_display_name": "HI-Yah! (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Homeful (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Homeful (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/36785f5f-4e63-4cca-a16a-c8b309af0287/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Homeful (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ice Road Truckers (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ice Road Truckers (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ice-road-truckers.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ice Road Truckers (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ion (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ION (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ion.m3u8",
+        "xmltv_id": "IONTVEast.us",
+        "xmltv_display_name": "ION (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ion Mystery (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ION Mystery (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ion-mystery.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ION Mystery (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ion Mystery (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ION Mystery (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ION Mystery (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ion Plus (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ION Plus (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8",
+        "xmltv_id": "IONPlusEast.us",
+        "xmltv_display_name": "ION Plus (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kartoon Channel (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Kartoon Channel (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8",
+        "xmltv_id": "KartoonChannel.us",
+        "xmltv_display_name": "Kartoon Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Livenow From Fox (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "LiveNOW from FOX (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/fox-live-now/index.m3u8",
+        "xmltv_id": "LiveNOWfromFOX.us",
+        "xmltv_display_name": "LiveNOW from FOX (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Localish (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Localish (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-localish.m3u8",
+        "xmltv_id": "Localish.us",
+        "xmltv_display_name": "Localish (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Lol Network (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "LOL Network (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/lol-network3.m3u8",
+        "xmltv_id": "KevinHartsLOLNetwork.us",
+        "xmltv_display_name": "LOL Network (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Lol Standup (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "LOL Standup (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8",
+        "xmltv_id": "LOLStandUp.us",
+        "xmltv_display_name": "LOL Standup (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Love Nature (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Love Nature (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8",
+        "xmltv_id": "LoveNature.ca",
+        "xmltv_display_name": "Love Nature (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Love Quest (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Love Quest (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-all-real.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love Quest (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Maverick Black Cinema (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Maverick Black Cinema (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8",
+        "xmltv_id": "MaverickBlackCinema.us",
+        "xmltv_display_name": "Maverick Black Cinema (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Maximum Effort Channel Geo Blocked (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Maximum Effort Channel (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-maximum-effort.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Maximum Effort Channel (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Midsomer Murders (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Midsomer Murders (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-midsomer-murders.m3u8",
+        "xmltv_id": "MidsomerMurders.us",
+        "xmltv_display_name": "Midsomer Murders (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mlb Not 24 7 (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MLB (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/mlb.m3u8",
+        "xmltv_id": "MLB.us",
+        "xmltv_display_name": "MLB (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviesphere (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-moviesphere.m3u8",
+        "xmltv_id": "MovieSphere.us",
+        "xmltv_display_name": "MovieSphere (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviesphere Canada (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere Canada (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MovieSphere Canada (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mr Beast (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Mr. Beast (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mr. Beast (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mystery Science Theater 3000 (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Mystery Science Theater 3000 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/d4996d1c-b12b-4220-ac05-b674d76b639b/playlist.m3u8",
+        "xmltv_id": "MST3K.us",
+        "xmltv_display_name": "Mystery Science Theater 3000 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mytime Movie Network Geo Blocked (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MyTime Movie Network (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-my-time.m3u8",
+        "xmltv_id": "MyTimeMovieNetworkEast.us",
+        "xmltv_display_name": "MyTime Movie Network (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Channel (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Nashville Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/nashville2/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nashville Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 2 Fl Wesh (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 2 Orlando FL (WESH) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wesh.m3u8",
+        "xmltv_id": "WESHDT1.us",
+        "xmltv_display_name": "NBC 2 Orlando FL (WESH) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 2 Tulsa Ok Kjrh (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 2 Tulsa OK (KJRH) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8",
+        "xmltv_id": "KJRHDT1.us",
+        "xmltv_display_name": "NBC 2 Tulsa OK (KJRH) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 3 Oh Wkyc (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 3 Cleveland OH (WKYC) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/wkyc/live.m3u8",
+        "xmltv_id": "WKYCDT1.us",
+        "xmltv_display_name": "NBC 3 Cleveland OH (WKYC) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 3 Sacramento Kcra (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 3 Sacramento CA (KCRA) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kcra.m3u8",
+        "xmltv_id": "KCRADT1.us",
+        "xmltv_display_name": "NBC 3 Sacramento CA (KCRA) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 4 Greenville Sc Wyff (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 4 Greenville SC (WYFF) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wyff.m3u8",
+        "xmltv_id": "WYFFDT1.us",
+        "xmltv_display_name": "NBC 4 Greenville SC (WYFF) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 5 Oh Wlwt (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 Cincinnati OH (WLWT) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wlwt.m3u8",
+        "xmltv_id": "WLWTDT1.us",
+        "xmltv_display_name": "NBC 5 Cincinnati OH (WLWT) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 5 Colorado Springs Co Koaa (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 Colorado Springs CO (KOAA) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-koaa.m3u8",
+        "xmltv_id": "KOAADT1.us",
+        "xmltv_display_name": "NBC 5 Colorado Springs CO (KOAA) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 5 Plattsburgh Ny Wptz (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 Plattsburgh NY (WPTZ) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wptz.m3u8",
+        "xmltv_id": "WPTZDT1.us",
+        "xmltv_display_name": "NBC 5 Plattsburgh NY (WPTZ) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 5 Wa King (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 Seattle WA (KING) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/king/live.m3u8",
+        "xmltv_id": "KINGDT1.us",
+        "xmltv_display_name": "NBC 5 Seattle WA (KING) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 5 St Louis Mo Ksdk (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 St Louis MO (KSDK) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/ksdk/live.m3u8",
+        "xmltv_id": "KSDKDT1.us",
+        "xmltv_display_name": "NBC 5 St Louis MO (KSDK) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 5 Palm Beach Fl Wptv (Ustubi) (West) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 West Palm Beach FL (WPTV) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wptv2.m3u8",
+        "xmltv_id": "WPTVDT1.us",
+        "xmltv_display_name": "NBC 5 West Palm Beach FL (WPTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 6 Corpus Christi Tx Kris (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 6 Corpus Christi TX (KRIS) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kris.m3u8",
+        "xmltv_id": "KRISDT1.us",
+        "xmltv_display_name": "NBC 6 Corpus Christi TX (KRIS) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 6 New Orleans La Wdsu (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 6 New Orleans LA (WDSU) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wdsu.m3u8",
+        "xmltv_id": "WDSUDT1.us",
+        "xmltv_display_name": "NBC 6 New Orleans LA (WDSU) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 6 Santa Barbara Ksby (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 6 Santa Barbara CA (KSBY) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ksby.m3u8",
+        "xmltv_id": "KSBYDT1.us",
+        "xmltv_display_name": "NBC 6 Santa Barbara CA (KSBY) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 8 Lancaster Pa Wgal (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 8 Lancaster PA (WGAL) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wgal.m3u8",
+        "xmltv_id": "WGALDT1.us",
+        "xmltv_display_name": "NBC 8 Lancaster PA (WGAL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 8 Or Kgw (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 8 Portland OR (KGW) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/kgw/live.m3u8",
+        "xmltv_id": "KGWDT1.us",
+        "xmltv_display_name": "NBC 8 Portland OR (KGW) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 8 Salinas Ksbw (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 8 Salinas CA (KSBW) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ksbw.m3u8",
+        "xmltv_id": "KSBWDT1.us",
+        "xmltv_display_name": "NBC 8 Salinas CA (KSBW) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 9 Co Kusa (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 9 Denver CO (KUSA) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/kusa/live.m3u8",
+        "xmltv_id": "KUSADT1.us",
+        "xmltv_display_name": "NBC 9 Denver CO (KUSA) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 11 Ga Wxia (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 11 Atlanta GA (WXIA) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/wxia/live.m3u8",
+        "xmltv_id": "WXIADT1.us",
+        "xmltv_display_name": "NBC 11 Atlanta GA (WXIA) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 11 Baltimore Md Wbal (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 11 Baltimore MD (WBAL) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wbal.m3u8",
+        "xmltv_id": "WBALDT1.us",
+        "xmltv_display_name": "NBC 11 Baltimore MD (WBAL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 11 St Paul Mn Kare (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 11 Minneapolis / St Paul MN (KARE) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/kare/live.m3u8",
+        "xmltv_id": "KAREDT1.us",
+        "xmltv_display_name": "NBC 11 Minneapolis / St Paul MN (KARE) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 11 Pa Wpxi (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 11 Pittsburgh PA (WPXI) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wpxi2.m3u8",
+        "xmltv_id": "WPXIDT1.us",
+        "xmltv_display_name": "NBC 11 Pittsburgh PA (WPXI) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 12 Helena Mt Ktvh (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 12 Helena MT (KTVH) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ktvh.m3u8",
+        "xmltv_id": "KTVHDT1.us",
+        "xmltv_display_name": "NBC 12 Helena MT (KTVH) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 12 Az Kpnx (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 12 Phoenix AZ (KPNX) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/kpnx/live.m3u8",
+        "xmltv_id": "KPNXDT1.us",
+        "xmltv_display_name": "NBC 12 Phoenix AZ (KPNX) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 12 Winston Salem Nc Wxii (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 12 Winston-Salem NC (WXII) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wxii.m3u8",
+        "xmltv_id": "WXIIDT1.us",
+        "xmltv_display_name": "NBC 12 Winston-Salem NC (WXII) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 13 Al Wvtm (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 13 Birmingham Al (WVTM) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wvtm.m3u8",
+        "xmltv_id": "WVTMDT1.us",
+        "xmltv_display_name": "NBC 13 Birmingham Al (WVTM) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 18 Lexington Ky Wlex (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 18 Lexington KY (WLEX) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wlex.m3u8",
+        "xmltv_id": "WLEXDT1.us",
+        "xmltv_display_name": "NBC 18 Lexington KY (WLEX) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 26 Green Bay Wi Wgba (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 26 Green Bay WI (WGBA) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wgba.m3u8",
+        "xmltv_id": "WGBADT1.us",
+        "xmltv_display_name": "NBC 26 Green Bay WI (WGBA) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC 41 Mo Kshb (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 41 Kansas City MO (KSHB) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/kshb2/playlist.m3u8",
+        "xmltv_id": "KSHBDT1.us",
+        "xmltv_display_name": "NBC 41 Kansas City MO (KSHB) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC News Now (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC News Now (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/nbc-news-now/master.m3u8",
+        "xmltv_id": "NBCNewsNOW.us",
+        "xmltv_display_name": "NBC News Now (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "News 12 (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "News 12 New York (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8",
+        "xmltv_id": "News12NewYork.us",
+        "xmltv_display_name": "News 12 New York (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nfl (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NFL (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8",
+        "xmltv_id": "NFLChannel.us",
+        "xmltv_display_name": "NFL (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nhl (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NHL (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-nhl.m3u8",
+        "xmltv_id": "NHLNetwork.us",
+        "xmltv_display_name": "NHL (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nhra Tv (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NHRA TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-nhra.m3u8",
+        "xmltv_id": "NHRATV.us",
+        "xmltv_display_name": "NHRA TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nosey (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Nosey (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-nosey.m3u8",
+        "xmltv_id": "Nosey.us",
+        "xmltv_display_name": "Nosey (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outersphere (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Outersphere (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/outersphere2/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Outersphere (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outside Tv (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Outside TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/outsidetv2/playlist.m3u8",
+        "xmltv_id": "OutsideTV.us",
+        "xmltv_display_name": "Outside TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pga Tour (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "PGA Tour (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-pga3.m3u8",
+        "xmltv_id": "PGATour.us",
+        "xmltv_display_name": "PGA Tour (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Poker Go (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Poker Go (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-pokergo.m3u8",
+        "xmltv_id": "PokerGo.us",
+        "xmltv_display_name": "Poker Go (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Property Brothers Channel (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Property Brothers Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-property-brothers.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Property Brothers Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Racing America (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Racing America (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-racing-america.m3u8",
+        "xmltv_id": "RacingAmerica.us",
+        "xmltv_display_name": "Racing America (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Real Madrid Tv Version Geo Blocked (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Real Madrid TV US Version (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-real-madrid.m3u8",
+        "xmltv_id": "RealMadridTV.es",
+        "xmltv_display_name": "Real Madrid TV US Version (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Reelz (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Reelz",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-reelz.m3u8",
+        "xmltv_id": "Reelz.us",
+        "xmltv_display_name": "Reelz",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Revolt (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Revolt (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/revolt/playlist.m3u8",
+        "xmltv_id": "Revolt.us",
+        "xmltv_display_name": "Revolt (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Samuel Goldwyn Classics (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Samuel Goldwyn Classics (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-samuel-goldwyn-classics.m3u8",
+        "xmltv_id": "SamuelGoldwynClassics.us",
+        "xmltv_display_name": "Samuel Goldwyn Classics (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Samuel Goldwyn Classics (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Samuel Goldwyn Classics (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/samuel-goldwyn-classics/playlist.m3u8",
+        "xmltv_id": "SamuelGoldwynClassics.us",
+        "xmltv_display_name": "Samuel Goldwyn Classics (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Scripps News (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Scripps News (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/scripps-news/playlist.m3u8",
+        "xmltv_id": "ScrippsNews.us",
+        "xmltv_display_name": "Scripps News (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "So Real (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "So... Real (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/so-real.m3u8",
+        "xmltv_id": "SoReal.us",
+        "xmltv_display_name": "So... Real (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Stadium (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Stadium (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8",
+        "xmltv_id": "Stadium.us",
+        "xmltv_display_name": "Stadium (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Super Channel Hearties Canada (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Super Channel Hearties Canada (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-super-channel-hearties-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Super Channel Hearties Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Super Channel Uncovered Canada (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Super Channel Uncovered Canada (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-super-channel-uncovered-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Super Channel Uncovered Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Supermarket Sweep Geo Blocked (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Supermarket Sweep (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-supermarket.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Supermarket Sweep (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Biggest Loser (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Biggest Loser (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-biggest-loser.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Biggest Loser (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Bob Ross Channel (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Bob Ross Channel (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/25dd142b-6901-4af7-90b0-32c3ac6e8657/playlist.m3u8",
+        "xmltv_id": "TheBobRossChannel.us",
+        "xmltv_display_name": "The Bob Ross Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Carol Burnett Show (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Carol Burnett Show (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/29efb8da-e569-4f43-b641-d4498fd40ffa/playlist.m3u8",
+        "xmltv_id": "TheCarolBurnettShow.us",
+        "xmltv_display_name": "The Carol Burnett Show (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Jack Hanna Channel (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Jack Hanna Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/fee88745-76df-428f-ad7e-1766f91e2098/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Jack Hanna Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Jamie Oliver Channel (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Jamie Oliver Channel (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-jamie-oliver.m3u8",
+        "xmltv_id": "TheJamieOliverChannel.us",
+        "xmltv_display_name": "The Jamie Oliver Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Johnny Carson Show (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Johnny Carson Show (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/80887a66-8866-465e-9460-3bd1d131e48d/playlist.m3u8",
+        "xmltv_id": "JohnnyCarsonTV.us",
+        "xmltv_display_name": "The Johnny Carson Show (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Masked Singer (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Masked Singer (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-masked-singer.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Masked Singer (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tmz (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "TMZ (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-tmz.m3u8",
+        "xmltv_id": "TMZ.us",
+        "xmltv_display_name": "TMZ (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Today All Day (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Today All Day (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-today.m3u8",
+        "xmltv_id": "TODAYAllDay.us",
+        "xmltv_display_name": "Today All Day (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Top Rank Classics (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Top Rank Classics (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-top-rank.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Top Rank Classics (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Total Crime (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Total Crime (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/total-crime/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Total Crime (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tubi Originals Geo Blocked (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Tubi Originals (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/tubi-originals.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tubi Originals (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tv One (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TV One (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8",
+        "xmltv_id": "TVOne.us",
+        "xmltv_display_name": "TV One (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unsolved Mysteries (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Unsolved Mysteries (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/unsolved-mysteries/index.m3u8",
+        "xmltv_id": "UnsolvedMysteries.us",
+        "xmltv_display_name": "Unsolved Mysteries (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Vice (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "VICE (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-vice.m3u8",
+        "xmltv_id": "VICETV.us",
+        "xmltv_display_name": "VICE (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wanted Dead Or Alive (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Wanted: Dead or Alive (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wanted-dead-or-alive2.m3u8",
+        "xmltv_id": "WantedDeadorAlive.us",
+        "xmltv_display_name": "Wanted: Dead or Alive (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv All Together Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV All Together [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-all-together-now.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV All Together [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv At The Movies Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV At the Movies [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-at-the-movies.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV At the Movies [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Chasing Criminals Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Chasing Criminals [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-chasing-criminals.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Chasing Criminals [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Classic Cinema Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Classic Cinema [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-classic-cinema.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Classic Cinema [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Crime Scenes Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Crime scenes [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-crime-scenes.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Crime scenes [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Family Rules Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Family Rules [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-family-rules.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Family Rules [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Generation Drama Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Generation Drama [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-generation-drama.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Generation Drama [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv HBO Boxing Geo Blocked (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "WBTV HBO Boxing (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV HBO Boxing (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv How To Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV How To [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-how-to.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV How To [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv In The Garage Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV In The Garage [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-in-the-garage.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV In The Garage [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Keeping It Real Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Keeping It Real [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-keeping-it-real.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Keeping It Real [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Living With Evil Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Living With Evil [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-living-with-evil.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Living With Evil [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Love And Marriage Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Love and Marriage [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-love-marriage.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Love and Marriage [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Mysteries Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Mysteries [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-mysteries.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Mysteries [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Nikita Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Nikita [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-nikita.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Nikita [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv On The Telly Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV On The Telly [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-on-the-telly.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV On The Telly [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Paws And Claws Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Paws and Claws [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-paws-claws.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Paws and Claws [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Slice Of Life Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Slice of Life [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-slice-life.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Slice of Life [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Supernatural Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Supernatural [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-supernatural.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Supernatural [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Sweet Escapes Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Sweet Escapes [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-sweet-escapes.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Sweet Escapes [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv The Fbi Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV The FBI [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-the-fbi.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV The FBI [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Travel And Adventure Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Travel and Adventure [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-travel-and-adventure.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Travel and Adventure [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Watchlist Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Watchlist [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-watch-list.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Watchlist [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wbtv Welcome Home Geo Blocked (Ustubi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Welcome Home [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-welcome-home.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Welcome Home [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wipeout Xtra (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Wipeout Xtra (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8",
+        "xmltv_id": "WipeoutXtra.us",
+        "xmltv_display_name": "Wipeout Xtra (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wmor Tv News Lakeland Fl (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WMOR-TV News Lakeland FL (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wmor.m3u8",
+        "xmltv_id": "WMORDT1.us",
+        "xmltv_display_name": "WMOR-TV News Lakeland FL (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Women S Sports Network (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Women's Sports Network (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8",
+        "xmltv_id": "WomensSportsNetwork.us",
+        "xmltv_display_name": "Women's Sports Network (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Womens Sports Network Canada Geo Blocked (Ustubi) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Womens Sports Network Canada (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-womens-sports-network-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Womens Sports Network Canada (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Xplore (Ustubi) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Xplore (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8",
+        "xmltv_id": "XploreTV.us",
+        "xmltv_display_name": "Xplore (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

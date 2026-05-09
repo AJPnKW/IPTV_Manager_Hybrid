@@ -1,0 +1,15 @@
+PySide6==6.9.1
+PySide6-Addons==6.9.1
+PySide6-Essentials==6.9.1
+PySide6-WebEngine==6.9.1
+requests
+lxml
+pyyaml
+PySide6>=6.9
+pandas>=2.2
+lxml>=5.2
+PyYAML>=6.0
+requests>=2.31
+rapidfuzz>=3.5
+jsonlines>=4.0
+tzdata

@@ -1,0 +1,8 @@
+[
+    {"name": "Sports Channel", "url": "http://example.com/stream1", "group_name": "Sports"},
+    {"name": "News Network", "url": "http://example.com/stream2", "group_name": "News"},
+    {"name": "Entertainment", "url": "http://example.com/stream3", "group_name": "Entertainment"},
+    {"name": "Sports Channel", "url": "http://example.com/stream1", "group_name": "Sports"},
+    {"name": "Kids", "url": "http://example.com/stream4", "group_name": "Kids"},
+    {"name": "news network", "url": "http://example.com/stream2", "group_name": "News"}
+]

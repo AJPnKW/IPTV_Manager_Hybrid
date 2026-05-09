@@ -1,0 +1,16 @@
+﻿{
+    "pipeline_name":  "iptv_pipeline_pack",
+    "run_ts":  "20260419_222320",
+    "active_m3u_source":  "canonical_m3u_sources",
+    "active_epg_source":  "canonical_free_epg",
+    "review_source":  "legacy_review_input",
+    "paid_xmltv_reference_source":  "paid_xmltv_reference",
+    "ignore_non_iptv_extensions":  true,
+    "active_extensions":  [
+                              ".m3u",
+                              ".m3u8",
+                              ".xml",
+                              ".gz",
+                              ".json"
+                          ]
+}

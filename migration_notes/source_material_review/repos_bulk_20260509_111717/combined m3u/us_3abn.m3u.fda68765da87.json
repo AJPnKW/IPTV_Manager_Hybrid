@@ -1,0 +1,198 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_3abn.m3u",
+  "provider": "Us3abn",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "3abn Canada (Us3abn) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "3ABN Canada",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "3ABN Canada",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "3abn Dare To Dream Network (Us3abn) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "3ABN Dare To Dream Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8",
+        "xmltv_id": "DareToDreamNetwork.us",
+        "xmltv_display_name": "3ABN Dare To Dream Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "3abn English (Us3abn) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "3ABN English",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8",
+        "xmltv_id": "3ABNEnglish.us",
+        "xmltv_display_name": "3ABN English",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "3abn French (Us3abn) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "3ABN French",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8",
+        "xmltv_id": "3ABNFrench.us",
+        "xmltv_display_name": "3ABN French",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "3abn International (Us3abn) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "3ABN International",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
+        "xmltv_id": "3ABNInternational.us",
+        "xmltv_display_name": "3ABN International",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "3abn Kids (Us3abn) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "3ABN Kids",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+        "xmltv_id": "3ABNKids.us",
+        "xmltv_display_name": "3ABN Kids",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "3abn Latino (Us3abn) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "3ABN Latino",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8",
+        "xmltv_id": "3ABNLatino.us",
+        "xmltv_display_name": "3ABN Latino",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "3abn Praise Him Music Network (Us3abn) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "3ABN Praise Him Music Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8",
+        "xmltv_id": "3ABNPraiseHimMusicNetwork.us",
+        "xmltv_display_name": "3ABN Praise Him Music Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "3abn Proclaim Network (Us3abn) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "3ABN Proclaim! Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8",
+        "xmltv_id": "3ABNProclaimNetwork.us",
+        "xmltv_display_name": "3ABN Proclaim! Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Us3abn) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Три Ангела",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8",
+        "xmltv_id": "3ABNRussia.ru",
+        "xmltv_display_name": "Три Ангела",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

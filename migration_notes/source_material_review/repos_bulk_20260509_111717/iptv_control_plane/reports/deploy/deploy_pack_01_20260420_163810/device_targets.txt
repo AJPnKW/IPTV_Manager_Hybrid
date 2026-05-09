@@ -1,0 +1,10 @@
+﻿deploy_pack
+run_ts=20260420_163810
+
+x1_share_tivimate_playlist=C:\X1_Share\Tivimate_Release\current\playlist.m3u
+x1_share_tivimate_epg_xml=C:\X1_Share\Tivimate_Release\current\epg.xml
+x1_share_tivimate_epg_gz=C:\X1_Share\Tivimate_Release\current\epg.xml.gz
+
+project_runtime_playlist=C:\Users\andrew\PROJECTS\iptv\publish\deploy\current\runtime_hp\playlist.m3u
+project_runtime_epg_xml=C:\Users\andrew\PROJECTS\iptv\publish\deploy\current\runtime_hp\epg.xml
+project_runtime_epg_gz=C:\Users\andrew\PROJECTS\iptv\publish\deploy\current\runtime_hp\epg.xml.gz

@@ -1,0 +1,407 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_firetv.m3u",
+  "provider": "Usfiretv",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Gusto (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Gusto",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Gusto",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Boston News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Boston News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Chicago News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Chicago News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Connecticut News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Connecticut News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcconnecticutnews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Connecticut News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC Fortworth News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Dallas Fortworth News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcdallasfortworthnews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Dallas Fortworth News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Los Angeles News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Los Angeles News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC New York News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC New York News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Philadelphia News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Philadelphia News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC San Diego News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcsandiegonews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC San Diego News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC San Francisco News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC San Francisco News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC South Florida News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC South Florida News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcsouthfloridanews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC South Florida News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "NBC News (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBC Washington News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBC Washington News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nbcu Telemundo Florida (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBCU Telemundo Florida",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBCU Telemundo Florida",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nbcu Telemundo North (Usfiretv) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBCU Telemundo North East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBCU Telemundo North East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nbcu Telemundo Texas (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBCU Telemundo Texas",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBCU Telemundo Texas",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nbcu Telemundo (Usfiretv) (West) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NBCU Telemundo West",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NBCU Telemundo West",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nhl (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NHL",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NHL",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outside Tv (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Outside TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Outside TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pac 12 Insider (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pac 12 Insider",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://pac12-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pac 12 Insider",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsgrid (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "SportsGrid",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "SportsGrid",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Post (Usfiretv) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Washington Post",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://washingtonpost-firetv.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Washington Post",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

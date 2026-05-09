@@ -1,0 +1,29 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_distro.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Distro",
+  "channels": [
+    {
+      "canonical_name": "Humor Mill Not 24 7 Comedy (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Distro",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Humor Mill (1080p) [Not 24/7]",
+        "group_title_raw": "Comedy",
+        "logo_raw": "https://i.imgur.com/e5W91v2.png",
+        "stream_url": "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8",
+        "xmltv_id": "HumorMill.us",
+        "xmltv_display_name": "Humor Mill (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/e5W91v2.png",
+        "xmltv_categories": [
+          "Comedy"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_frequency.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Frequency",
+  "channels": [
+    {
+      "canonical_name": "Journy Travel (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Frequency",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Journy (720p)",
+        "group_title_raw": "Travel",
+        "logo_raw": "https://i.imgur.com/1JNrLxq.png",
+        "stream_url": "https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8",
+        "xmltv_id": "Journy.us",
+        "xmltv_display_name": "Journy (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/1JNrLxq.png",
+        "xmltv_categories": [
+          "Travel"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Revry Queer Lifestyle (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Frequency",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Revry Queer (720p)",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3",
+        "stream_url": "https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8",
+        "xmltv_id": "RevryQueer.us",
+        "xmltv_display_name": "Revry Queer (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    }
+  ]
+}

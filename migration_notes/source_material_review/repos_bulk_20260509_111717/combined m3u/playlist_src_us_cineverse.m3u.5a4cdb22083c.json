@@ -1,0 +1,492 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_cineverse.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Cineverse",
+  "channels": [
+    {
+      "canonical_name": "Dog Whisperer With Cesar Millan Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Dog Whisperer with Cesar Millan [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dog Whisperer with Cesar Millan [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Infamous Tv Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Infamous TV [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Infamous TV [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tastemade Home Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tastemade Home [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00047-tastemade-amg00047c2-cineverse-us-1357.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadehome-cineverseus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tastemade Home [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crime Hunters Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crime Hunters",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crime Hunters",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Meateater Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MeatEater",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MeatEater",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Asiancrush Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "AsianCrush",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/hW6z1RG.png",
+        "stream_url": "https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8",
+        "xmltv_id": "AsianCrush.us",
+        "xmltv_display_name": "AsianCrush",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/hW6z1RG.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bloody Disgusting Tv Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bloody Disgusting TV",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/cKEwuQc.png",
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8",
+        "xmltv_id": "BloodyDisgusting.us",
+        "xmltv_display_name": "Bloody Disgusting TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/cKEwuQc.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Circle Geo Blocked Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Circle [Geo-blocked]",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png",
+        "stream_url": "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8",
+        "xmltv_id": "Circle.us",
+        "xmltv_display_name": "Circle [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Comedy Dynamics Comedy (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Comedy Dynamics",
+        "group_title_raw": "Comedy",
+        "logo_raw": "https://i.imgur.com/1lEvUOa.png",
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8",
+        "xmltv_id": "ComedyDynamics.us",
+        "xmltv_display_name": "Comedy Dynamics",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/1lEvUOa.png",
+        "xmltv_categories": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dove Channel Family (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Dove Channel",
+        "group_title_raw": "Family",
+        "logo_raw": "https://i.imgur.com/FVWqYQG.png",
+        "stream_url": "https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8",
+        "xmltv_id": "DoveChannel.us",
+        "xmltv_display_name": "Dove Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/FVWqYQG.png",
+        "xmltv_categories": [
+          "Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Entrepreneur Tv Geo Blocked Business (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Entrepreneur TV [Geo-blocked]",
+        "group_title_raw": "Business",
+        "logo_raw": "https://i.imgur.com/isRfHYZ.png",
+        "stream_url": "https://amg01201-amg01201c31-cineverse-us-2915.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-entrepreneurtv-cineverseus/playlist.m3u8",
+        "xmltv_id": "EntrepreneurTV.us",
+        "xmltv_display_name": "Entrepreneur TV [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/isRfHYZ.png",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Introuble Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "InTrouble [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/a40chFI.png",
+        "stream_url": "https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8",
+        "xmltv_id": "InTrouble.nl",
+        "xmltv_display_name": "InTrouble [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/a40chFI.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Judge Nosey Series (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Judge Nosey",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/S4r98AB.png",
+        "stream_url": "https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8",
+        "xmltv_id": "JudgeNosey.us",
+        "xmltv_display_name": "Judge Nosey",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/S4r98AB.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Latv Geo Blocked Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "LATV [Geo-blocked]",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/fJxySUg.png",
+        "stream_url": "https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8",
+        "xmltv_id": "LATV.us",
+        "xmltv_display_name": "LATV [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/fJxySUg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Midnight Pulp Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Midnight Pulp",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png",
+        "stream_url": "https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8",
+        "xmltv_id": "MidnightPulp.us",
+        "xmltv_display_name": "Midnight Pulp",
+        "xmltv_network": null,
+        "xmltv_logo": "https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mytime Movie Network Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MyTime Movie Network",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/HYgxPVQ.png",
+        "stream_url": "https://mytime-tcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MyTimeMovieNetworkEast.us",
+        "xmltv_display_name": "MyTime Movie Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/HYgxPVQ.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nolly Africa Geo Blocked Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Nolly Africa [Geo-blocked]",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/IxtGpti.png",
+        "stream_url": "https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8",
+        "xmltv_id": "NollyAfrica.uk",
+        "xmltv_display_name": "Nolly Africa [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/IxtGpti.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Retro Crush Animation Classic (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Retro Crush",
+        "group_title_raw": "Animation;Classic",
+        "logo_raw": "https://i.imgur.com/M40b4YI.png",
+        "stream_url": "https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8",
+        "xmltv_id": "RetroCrush.us",
+        "xmltv_display_name": "Retro Crush",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/M40b4YI.png",
+        "xmltv_categories": [
+          "Animation",
+          "Classic"
+        ]
+      }
+    },
+    {
+      "canonical_name": "So Real Lifestyle (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "So...Real",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/wZ2uj9d.png",
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8",
+        "xmltv_id": "SoReal.us",
+        "xmltv_display_name": "So...Real",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/wZ2uj9d.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tastemade Travel Geo Blocked Cooking (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tastemade Travel [Geo-blocked]",
+        "group_title_raw": "Cooking",
+        "logo_raw": "https://i.imgur.com/8s6aRwv.png",
+        "stream_url": "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
+        "xmltv_id": "TastemadeTravel.us",
+        "xmltv_display_name": "Tastemade Travel [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/8s6aRwv.png",
+        "xmltv_categories": [
+          "Cooking"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Bob Ross Channel Spanish Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Bob Ross Channel Spanish",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/2gj2KhC.png",
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8",
+        "xmltv_id": "TheBobRossChannelenEspanol.us",
+        "xmltv_display_name": "The Bob Ross Channel Spanish",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/2gj2KhC.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Film Detective Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Film Detective",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/yfOwmsP.png",
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8",
+        "xmltv_id": "TheFilmDetective.us",
+        "xmltv_display_name": "The Film Detective",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/yfOwmsP.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Young Hollywood Geo Blocked Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Cineverse",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Young Hollywood [Geo-blocked]",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/X27MGHd.png",
+        "stream_url": "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
+        "xmltv_id": "YoungHollywood.us",
+        "xmltv_display_name": "Young Hollywood [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/X27MGHd.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    }
+  ]
+}

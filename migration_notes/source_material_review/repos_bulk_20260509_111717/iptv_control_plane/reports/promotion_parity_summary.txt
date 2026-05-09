@@ -1,0 +1,18 @@
+﻿promotion_parity
+total_source_files=0
+total_target_files=943
+total_missing_in_target=0
+total_extra_in_target=943
+total_size_mismatch=0
+
+by_mapping
+
+source_root                                                                     target_root                                                                 source_count target_count matched missing_in_target extra_in_target size_mismatch
+-----------                                                                     -----------                                                                 ------------ ------------ ------- ----------------- --------------- -------------
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\iptv__C42511BE\streams C:\Users\andrew\PROJECTS\iptv\inputs\m3u_sources\review_from_iptv__C42511BE            0          304       0                 0             304             0
+C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u               C:\Users\andrew\PROJECTS\iptv\inputs\m3u_sources                                       0          504       0                 0             504             0
+C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg               C:\Users\andrew\PROJECTS\iptv\inputs\free_epg                                          0          102       0                 0             102             0
+C:\X1_Share\IPTV_load_files                                                     C:\Users\andrew\PROJECTS\iptv\inputs\review_from_legacy_load_files                     0           33       0                 0              33             0
+
+
+

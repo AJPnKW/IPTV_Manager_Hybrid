@@ -1,0 +1,27 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us.m3u",
+  "provider": "Us",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Tutv (Us) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TUTV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TUTV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

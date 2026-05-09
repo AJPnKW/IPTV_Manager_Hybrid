@@ -1,0 +1,4853 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_apsattv_xiaomi.m3u",
+  "provider": "Playlistapsattvxiaomi",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Unknown (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "﻿#EXTM3U",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Arirang (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Arirang",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02040-amg02040c6-xiaomi-international-5845.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Arirang",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Billiards Tv Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Billiards TV (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Billiards TV (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "New Kpop Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NEW KPOP (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "NEW KPOP (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Viki Eu (Rakuten) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Viki (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rakuten Viki (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yg Tv Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "YG TV (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "YG TV (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv (Playlistapsattvxiaomi) (2160p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "2160p",
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV 4K (US)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bloomberg TV 4K (US)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bloomberg-bloombergtv-3-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bloomberg TV (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Boomberg Quicktake Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Boomberg Quicktake (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Boomberg Quicktake (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Rise Financial Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Rise Financial (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rise-financial-roi-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rise Financial (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Demand Africa (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Demand Africa",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00017-theafricachanne-demandafrica-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Demand Africa",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CNN News 18 India Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNN News 18 India Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00866-amg00866c1-xiaomi-in-3511.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "CNN News 18 India Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CNN News 18 Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNN News 18 Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00866-amg00866c5-xiaomi-in-3550.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "CNN News 18 Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cnbc Tv 18 Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNBC TV 18 Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00866-amg00866c2-xiaomi-in-3516.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "CNBC TV 18 Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "News 18 Madhya Pradesh Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "News 18 Madhya Pradesh Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00866-amg00866c3-xiaomi-in-3553.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "News 18 Madhya Pradesh Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "News 18 Uttarakhand Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "News 18 Uttarakhand Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00866-amg00866c4-xiaomi-in-3552.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "News 18 Uttarakhand Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "News 18 Tamil Nadu Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "News 18 Tamil Nadu Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00866-amg00866c6-xiaomi-in-3554.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "News 18 Tamil Nadu Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "News 18 Gujarati Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "News 18 Gujarati Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00866-amg00866c7-xiaomi-in-3551.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "News 18 Gujarati Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "News 18 Bangla Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "News 18 Bangla Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "News 18 Bangla Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ted Conferences (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TED Conferences (US)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TED Conferences (US)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cops Gb (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cops (GB)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://langleyproductions-cops-2-gb.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cops (GB)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Lovestories Tv Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Lovestories TV (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Lovestories TV (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nosey Other Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Nosey other (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nosey-3-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nosey other (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Real Nosey Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Real Nosey (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nosey-realnosey-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Real Nosey (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Shade Tv Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Shade TV (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://shadeiqllc-shadetv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Shade TV (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Red Green Show Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Red Green Show (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://answermedia-theredgreenshow-2-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Red Green Show (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ted Talks Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ted Talks (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ted Talks (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Crime And Punishment (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crime and Punishment (US)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crime and Punishment (US)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Conflict (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Conflict (US)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rightsboosterltd-conflict-1-us.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Conflict (US)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Law And Crime (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Law and Crime",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00260-lawnewzincdbala-lawandcrime-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Law and Crime",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Strongman Champions League De (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Strongman Champions League (DE)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rightsboosterltd-scl-2-de.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Strongman Champions League (DE)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Super Simple Songs Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Super Simple Songs (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Super Simple Songs (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pocketwatch (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "PocketWatch",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-pocketwatch-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "PocketWatch",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yu Gi Oh Gb (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Yu-Gi-Oh (GB)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Yu-Gi-Oh (GB)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yu Gi Oh De (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Yu-Gi-Oh (DE)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fastmedia-yu-gi-oh-2-de.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Yu-Gi-Oh (DE)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yu Gi Oh Es (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Yu-Gi-Oh (ES)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fastmedia-yu-gi-oh-5-es.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Yu-Gi-Oh (ES)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yu Gi Oh Fr (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Yu-Gi-Oh (FR)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fastmedia-yu-gi-oh-4-fr.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Yu-Gi-Oh (FR)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yu Gi Oh It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Yu-Gi-Oh (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fastmedia-yu-gi-oh-3-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Yu-Gi-Oh (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Naruto Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Naruto Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00609-palatinmedia-amg00609c1-xiaomi-international-544.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-naruto-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Naruto Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mr Bean Animated It Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mr Bean Animated (IT) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00627-amg00627c29-xiaomi-international-4920.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mr Bean Animated (IT) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mr Bean Animated Es Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mr Bean Animated (ES) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00627-amg00627c30-xiaomi-international-4916.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mr Bean Animated (ES) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mr Bean Animated Fr Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mr Bean Animated (FR) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00627-amg00627c31-xiaomi-international-4917.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mr Bean Animated (FR) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mr Bean Animated Br Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mr Bean Animated (BR) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00627-amg00627c35-xiaomi-international-4921.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mr Bean Animated (BR) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mr Bean Animated Check (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mr Bean Animated check",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00627-amg00627c32-xiaomi-international-4918.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanencc-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mr Bean Animated check",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Travel Xp Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Travel XP (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Travel XP (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Travel Xp Eu Alt (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Travel XP (EU) alt",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://travelxp-travelxp-5-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Travel XP (EU) alt",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Travel Xp De (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Travel XP (DE)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://travelxp-travelxp-2-de.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Travel XP (DE)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Travel Xp Fr (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Travel XP (FR)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Travel XP (FR)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Young Hollywood (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Young Hollywood",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Young Hollywood",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Watch Mojo Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Watch Mojo (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Watch Mojo (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trailers Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trailers (UK) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-lovetv-amg01821c3-xiaomi-international-656.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailersuk-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trailers (UK) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trailers Es Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trailers (ES) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-lovetv-amg01821c2-xiaomi-international-650.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailerses-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trailers (ES) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trailers Fr Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trailers (FR) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-lovetv-amg01821c4-xiaomi-international-657.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailersfr-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trailers (FR) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trailers De Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trailers (DE) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-lovetv-amg01821c6-xiaomi-international-659.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailersde-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trailers (DE) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trailers It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trailers (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-lovetv-amg01821c8-xiaomi-international-751.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailersit-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trailers (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mytime (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mytime (UK)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mytime (UK)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mytime Es (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mytime (ES)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mytime (ES)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mytime Fr (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mytime (FR)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mytime (FR)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mytime De (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mytime (DE)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimede-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mytime (DE)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Top True Crime Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Top True Crime Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00609-palatinmedia-amg00609c2-xiaomi-international-546.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-toptruecrime-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Top True Crime Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Craction Tv Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Craction TV Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00609-palatinmedia-amg00609c3-xiaomi-international-547.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-craction-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Craction TV Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Topfilme Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TopFilme Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00609-palatinmedia-amg00609c4-xiaomi-international-1862.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-topfilme-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TopFilme Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Drone Tv Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Drone TV (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Drone TV (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Go Usa Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Go USA (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Go USA (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Food Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Food (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://food-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Food (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Today S Homeowner Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Today's Homeowner (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://janson-todayshomeowner-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Today's Homeowner (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Homeful (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Homeful",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00090-amg00090c15-xiaomi-international-4616.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Homeful",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ditty Tv Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ditty TV (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://memphisstudios-dittytv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ditty TV (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ditty Tv (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ditty TV (US)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://memphisstudios-dittytv-1-us.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ditty TV (US)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Brat Tv (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Brat TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-bratttv-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Brat TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Whoa That Was Wild Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Whoa That Was Wild (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Whoa That Was Wild (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Brb Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BRB (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://playworksdigital-brb-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "BRB (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ninja Kidz Tv Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ninja Kidz TV (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://playworksdigital-ninjakidztv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ninja Kidz TV (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Jelly Jammy World (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Jelly Jammy World",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01553-amg01553c1-xiaomi-in-5971.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Jelly Jammy World",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Now 70s (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Now 70s",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Now 70s",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Now 80s (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Now 80s",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Now 80s",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Now 90s (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Now 90s",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Now 90s",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pulse (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pulse",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lightning-pulse-xiaomi.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pulse",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kids Tv (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Kids TV (US)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Kids TV (US)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moreu Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MoreU (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bec-moreu-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MoreU (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moreu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MoreU (US)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bec-moreu-1-us.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MoreU (US)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Xploration Station Gb (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Xploration Station (GB)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://srpdigital-xplorationstation-1-gb.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Xploration Station (GB)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wildearth (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WildEarth",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WildEarth",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Vivaldi Tv (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Vivaldi TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Vivaldi TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "My Padel (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "My Padel",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadle-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "My Padel",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Flo Cine (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Flo Cine",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Flo Cine",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Comedydynamics (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ComedyDynamics",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ComedyDynamics",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mtrsprt 1 (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mtrsprt 1",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mtrsprt 1",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fuel Tv (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fuel TV (UK)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltv-uk-en-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fuel TV (UK)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fuel Tv Fr (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fuel TV (FR)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeafrance-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fuel TV (FR)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fuel Tv Es (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fuel TV (ES)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaspa-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fuel TV (ES)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mav Tv Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mav TV Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00378-mavtv-amg00378c2-xiaomi-international-1789.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mav TV Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Strongmans Champion League Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Strongmans Champion League (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rightsboosterltd-scl-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Strongmans Champion League (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Outdoor Action Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Outdoor Action (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://careco-outdoor-action-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Outdoor Action (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Teen Vee English (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Teen Vee English",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02051-soulpublishing-amg02051c5-xiaomi-international-383.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveeenglish-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Teen Vee English",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "La La Life English (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "La LA Life English",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "La LA Life English",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Slick Slime Sam English (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Slick Slime Sam English",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02051-soulpublishing-amg02051c12-xiaomi-international-384.playouts.now.amagi.tv/playlist/amg02051-admecyltd-slickslimesamenglish-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Slick Slime Sam English",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "123 Go English In (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "123 Go! English (IN)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02051-soulpublishing-amg02051c17-xiaomi-in-399.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "123 Go! English (IN)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "123 Go Spanish (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "123 Go! Spanish",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02051-soulpublishing-amg02051c18-xiaomi-international-372.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "123 Go! Spanish",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ideas En 5 Minutos Spanish (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ideas En 5 Minutos Spanish",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02051-soulpublishing-amg02051c3-xiaomi-international-370.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ideas En 5 Minutos Spanish",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Brightside English (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Brightside English",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02051-soulpublishing-amg02051c9-xiaomi-international-385.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsideenglish-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Brightside English",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Brightside Spanish Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Brightside Spanish Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02051-soulpublishing-amg02051c16-xiaomi-international-371.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Brightside Spanish Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Powernation (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "PowerNation",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01258-raycom-amg01258c1-xiaomi-international-907.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernation-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "PowerNation",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cine Friki In Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cine Friki (IN) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00711-zylo-amg00711c1-xiaomi-in-1317.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinefriki-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cine Friki (IN) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Beond Tv Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Beond TV Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01681-beondtv-amg01681c1-xiaomi-international-378.playouts.now.amagi.tv/playlist/amg01681-amg01681c1-277/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Beond TV Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Freetv Drama Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Freetv Drama Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Freetv Drama Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Freetv Sureno Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Freetv Sureno Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Freetv Sureno Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Freetv Terror Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Freetv Terror Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Freetv Terror Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Freetv Familia Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Freetv Familia Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Freetv Familia Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Freetv Accion Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Freetv Accion Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcine-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Freetv Accion Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Freetv Accion Latm Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Freetv Accion Latm Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Freetv Accion Latm Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Freetv Estella Latm Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Freetv Estella latm Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Freetv Estella latm Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Freetv Estella Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Freetv Estella us Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineus-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Freetv Estella us Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tucine Europe Eu Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tucine Europe (EU) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tucine Europe (EU) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cine Classico Eu Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cine Classico (EU) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cine Classico (EU) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Masterchef Brasil Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Masterchef Brasil Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00627-amg00627c9-xiaomi-international-4915.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Masterchef Brasil Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tastemade",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes8intl-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tastemade",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tastemade (AU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tminaaus-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tastemade (AU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade Es (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tastemade (ES)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes16intl-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tastemade (ES)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade International (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tastemade International",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tastemade International",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade De (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Tastemade (DE)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmgermany-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tastemade (DE)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviedome (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MovieDome",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MovieDome",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviedome Family (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MovieDome Family",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MovieDome Family",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Moviedome (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MovieDome (UK)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MovieDome (UK)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Action Hollywood Movies (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Action Hollywood Movies",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Action Hollywood Movies",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Oan Encore Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "OAN Encore (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-oanencore-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "OAN Encore (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Frecuencia Novelas Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Frecuencia Novelas (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-frecuencianovelas-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Frecuencia Novelas (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cinenanar Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinenanar (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-cinenanar-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cinenanar (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Screamin Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Screamin (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-screamin-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Screamin (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Emotional Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Emotional (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-emotional-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Emotional (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Edgesports Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Edgesports (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-edgesports-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Edgesports (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsgrid Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsgrid (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sportsgridin-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sportsgrid (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trace Sports Stars Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trace Sports Stars (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-tracesportsstar-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trace Sports Stars (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Zee News Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Zee News (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Zee News (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Zee Business Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Zee Business (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebusiness-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Zee Business (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Zee 24 Ghanta Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Zee 24 Ghanta (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Zee 24 Ghanta (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Zee Bihar Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Zee Bihar (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebihar-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Zee Bihar (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Zee Taas Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Zee Taas (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeetaas-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Zee Taas (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Zee Wion Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Zee Wion (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeewion-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Zee Wion (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "9xm Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "9XM (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-9xm-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "9XM (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Abp Majha Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABP Majha (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpmajha-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ABP Majha (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "India Tv Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "India TV (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "India TV (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sbt International Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "SBT International (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "SBT International (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tv9 Bangla In Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV9 Bangla (IN) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TV9 Bangla (IN) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tv9 Bharatvarsh In Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV9 Bharatvarsh (IN) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01106-tv9-amg01106c2-xiaomi-in-1187.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bharatvarsh-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TV9 Bharatvarsh (IN) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tv9 Marathi In (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV9 Marathi (IN)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01106-tv9-amg01106c3-xiaomi-in-1149.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9marati-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TV9 Marathi (IN)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tv9 Telegu In (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV9 Telegu (IN)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01106-tv9-amg01106c5-xiaomi-in-1184.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9telugu-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TV9 Telegu (IN)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tv9 Kannada In Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV9 Kannada (IN) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01106-tv9-amg01106c6-xiaomi-in-1185.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9kannada-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TV9 Kannada (IN) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tv9 Gujarati In Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV9 Gujarati (IN) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01106-tv9-amg01106c7-xiaomi-in-1186.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9gujarathi-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TV9 Gujarati (IN) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Abp News Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABP News (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ABP News (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Abp Ganga Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABP Ganga (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpganga-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ABP Ganga (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Abp Ananda Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABP Ananda (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ABP Ananda (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Abp Asmita Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABP Asmita (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpasmita-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ABP Asmita (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Abp Sanjha Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABP Sanjha (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpsanjha-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ABP Sanjha (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "B4u Movies (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "B4U Movies",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "B4U Movies",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "B4u Kadak (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "B4U Kadak",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "B4U Kadak",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pitaara Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pitaara (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-pitaaraxiaomiin-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pitaara (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Saga Music Haryanvi Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Saga Music Haryanvi (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Saga Music Haryanvi (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wpt Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WPT (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-wpt-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WPT (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Young Hollywood Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Young Hollywood (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-younghollywood-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Young Hollywood (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "India Tv (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "India TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "India TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "India Tv Speed News (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "India TV Speed News",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "India TV Speed News",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "India Tv Speed News Alt Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "India TV Speed News alt Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01550-amg01550c3-xiaomi-in-4367.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvspeednews-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "India TV Speed News alt Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Aap Ki Adalat (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Aap Ki Adalat",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Aap Ki Adalat",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ghaint Punjabi Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Ghaint Punjabi (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-ghaintpunjab-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ghaint Punjabi (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Saga Music Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Saga Music (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Saga Music (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yrf Music Asia (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "YRF Music (Asia)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "YRF Music (Asia)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mango Tv In Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mango TV (IN) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mango TV (IN) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trace Sports Stars (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trace Sports Stars",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trace Sports Stars",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trace Sports Stars Alt (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trace Sports Stars alt",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tracetv-tracesportstars-xiaomi.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trace Sports Stars alt",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mob Tv (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Mob TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mob TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Matchroom Boxing Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Matchroom Boxing Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02302-amg02302c2-xiaomi-international-5834.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Matchroom Boxing Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pdc Darts Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "PDC Darts Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02302-amg02302c3-xiaomi-international-5835.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "PDC Darts Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unbeaten (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unbeaten",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Unbeaten",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sport Outdoor Tv Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sport Outdoor TV (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://gto2000-sportoutdoortv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sport Outdoor TV (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sports Grid (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sports Grid",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sports Grid",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bike (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bike",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg13231-amg13231c1-xiaomi-international-2911.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bike",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Skateboarding (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Skateboarding",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg13231-amg13231c2-xiaomi-international-2913.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Skateboarding",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Snowboarder (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Snowboarder",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg13231-amg13231c3-xiaomi-international-2914.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Snowboarder",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Surfer (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Surfer",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg13231-amg13231c4-xiaomi-international-2910.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Surfer",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Powder (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Powder",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg13231-amg13231c5-xiaomi-international-2912.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Powder",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Inwild (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Inwild",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Inwild",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Inwonder (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Inwonder",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Inwonder",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Inwonder (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Inwonder HD",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Inwonder HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Introuble (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "InTrouble",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "InTrouble",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Infast (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Infast",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Infast",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Infast Alt (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Infast alt",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylehd-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Infast alt",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fashion Tv (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fashion TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fashion TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wannasee (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Wannasee",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-wannasee-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Wannasee",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nature Time (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Nature Time",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01515-amg01515c13-xiaomi-international-4618.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nature Time",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nature Time C14 (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Nature Time C14",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01515-amg01515c14-xiaomi-international-4619.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nature Time C14",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Museum Tv (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Museum TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Museum TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Museum Tv Fr (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Museum TV (FR)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtvfr-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Museum TV (FR)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Myzen (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MYZEN",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MYZEN",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Myzen Fr (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MYZEN (FR)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MYZEN (FR)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Drive Tv La Chaine Auto Fr Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Drive TV La Chaine Auto (FR) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01796-amg01796c2-xiaomi-international-2756.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Drive TV La Chaine Auto (FR) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wasabi La Chaine Anime Fr Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Wasabi La Chaine Anime (FR) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01796-amg01796c3-xiaomi-international-2755.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Wasabi La Chaine Anime (FR) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Le Figaro Fr Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Le Figaro (FR) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01767-secomiftvlefiga-lefigaro-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Le Figaro (FR) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Motus La Chaine (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Motus La Chaine",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-motuslachaine-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Motus La Chaine",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Enquetesdechoc (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Enquetesdechoc",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Enquetesdechoc",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Qui Veut Gagner Des Millions Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Qui veut gagner des millions Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02393-awpg-amg02393c1-xiaomi-international-2301.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Qui veut gagner des millions Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Lesanges Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Lesanges Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02393-awpg-amg02393c2-xiaomi-international-2300.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges--xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Lesanges Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Les Z Amours Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Les Z Amours Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02393-awpg-amg02393c3-xiaomi-international-2303.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Les Z Amours Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Le Meilleur De La Tele Realite Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Le Meilleur de la Tele-Realite Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02393-awpg-amg02393c4-xiaomi-international-2302.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Le Meilleur de la Tele-Realite Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Love Crime And History (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Love Crime and History",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-amg01821c16-xiaomi-international-4605.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love Crime and History",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Love Wine (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Love Wine",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-amg01821c17-xiaomi-international-4602.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love Wine",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Historia Y Vida (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Historia Y Vida",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-amg01821c22-xiaomi-international-4608.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Historia Y Vida",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Love Crime And History Spain (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Love Crime and History Spain",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-amg01821c23-xiaomi-international-4612.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovecrimeandhistoryspain-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love Crime and History Spain",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Voyages And Saveur (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Voyages and Saveur",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-amg01821c24-xiaomi-international-4603.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Voyages and Saveur",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Viggo And Supporo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Viggo and Supporo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-amg01821c25-xiaomi-international-4607.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Viggo and Supporo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Homicide (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Homicide",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Homicide",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yaquelaverite (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Yaquelaverite",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-yaquelaverite-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Yaquelaverite",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Love The Planet Es Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Love the Planet (ES) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love the Planet (ES) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Petclub (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Petclub",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lightning-petclub-xiaomi.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Petclub",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Clubbing Tv (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Clubbing TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://clubbingtv-xiaomi.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Clubbing TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fusebeat (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fusebeat (UK)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeatuk-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fusebeat (UK)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Latido Music Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Latido Music Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00274-vidaprimo-latidomusic-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Latido Music Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wedo Movies (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Wedo Movies",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Wedo Movies",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Watch4movies (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Watch4Movies",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Watch4Movies",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trace Brazuca (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trace Brazuca",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trace Brazuca",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trace Latina (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trace Latina",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trace Latina",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trace Urban (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Trace Urban",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Trace Urban",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cgtv It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CGTV (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cgentertainment-cgtv-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "CGTV (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Love The Planet It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Love The Planet (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetit-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love The Planet (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Serially Drama It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Serially Drama (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ixmediasrl-serially-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Serially Drama (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Serially Crime It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Serially Crime (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ixmediasrl-seriallycrime-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Serially Crime (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Risate Al Sud It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Risate al Sud (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ixmedia-srl-risatealsud-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Risate al Sud (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cinemasegreto It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinemasegreto (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://minerva-cinemasegreto-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cinemasegreto (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fullmoon It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fullmoon (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://minerva-fullmoon-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fullmoon (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Risate All Italiana (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Risate All Italiana",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://minerva-risateallitaliana-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Risate All Italiana",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Boat Show It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Boat Show (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://boatshowtvsrl-theboatshow-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Boat Show (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sailing Channel It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sailing Channel (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://vitormedia-sailingchannel-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sailing Channel (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wp It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WP (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://minerva-wp-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WP (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chili Alta Tensione It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Chili Alta Tensione (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://chili-chili-alta-tensione-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Chili Alta Tensione (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chili Buonumore It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Chili Buonumore (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://chili-chilibuonumore-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Chili Buonumore (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chili Indimenticabili It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Chili Indimenticabili (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Chili Indimenticabili (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chili Velvet It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Chili Velvet (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://chili-chilivelvet-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Chili Velvet (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chili Hip Hop Tv It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Chili Hip Hop TV (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://chili-hiphop-tv-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Chili Hip Hop TV (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Chili Rock Tv It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Chili Rock TV (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://chili-rock-tv-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Chili Rock TV (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sorrisi It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sorrisi (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://chili-film-sorrisi-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sorrisi (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bizzaro Movies It (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bizzaro Movies (IT)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://minerva-bizzarromovies-1-it.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bizzaro Movies (IT)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "123 Go Es (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "123 Go! (ES)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amg02051-soulpublishing-amg02051c9-xiaomi-international-385.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-xiaomiinternational/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "123 Go! (ES)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Rcn Mas Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "RCN Mas (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rcntv-rcnmas-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "RCN Mas (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cine Classico Eu Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cine Classico (EU) Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cine Classico (EU) Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Flash Geo (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Flash Geo",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Flash Geo",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Charlie Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Charlie (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://amogonetworx-charlie-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Charlie (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Telenovela Tv Fr (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Telenovela TV (FR)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://stormcast-telenovelatv-1-fr.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Telenovela TV (FR)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bref Cinema Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bref Cinema (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lagenceducourtmetrage-brefcinema-01-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bref Cinema (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Etv Gb (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ETV (GB)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://sasuprimetv-etv-1-gb.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ETV (GB)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Etv Fr (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ETV (FR)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://sasuprimetv-etv-2-fr.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ETV (FR)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pelimex Eu (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Pelimex (EU)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pelimex (EU)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sonyone Compentencias Mx (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sonyone Compentencias (MX)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://spt-sonyonecompetencias-1-mx.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sonyone Compentencias (MX)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sonyone Sharktank Mx (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sonyone Sharktank (MX)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sonyone Sharktank (MX)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sony Comedias Mx (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sony Comedias (MX)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sony Comedias (MX)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sony Novelas Mx (Playlistapsattvxiaomi) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sony Novelas (MX)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sony Novelas (MX)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

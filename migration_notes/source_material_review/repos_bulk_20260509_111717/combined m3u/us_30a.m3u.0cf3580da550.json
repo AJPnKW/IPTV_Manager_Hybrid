@@ -1,0 +1,293 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\us_30a.m3u",
+  "provider": "Us30a",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "30a Darcizzle Offshore (Us30a) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "30A Darcizzle Offshore (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/darcizzle.m3u8",
+        "xmltv_id": "30ADarcizzleOffshore.us",
+        "xmltv_display_name": "30A Darcizzle Offshore (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Georgia Hollywood Review Tv (Us30a) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "30A Georgia Hollywood Review TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/gh.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "30A Georgia Hollywood Review TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Golf Kingdom (Us30a) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "30A Golf Kingdom",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "30A Golf Kingdom",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Investment Pitch (Us30a) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "30A Investment Pitch",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://www.30a-tv.com/InvPit.m3u8",
+        "xmltv_id": "30AInvestmentPitch.us",
+        "xmltv_display_name": "30A Investment Pitch",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Investment Pitch (Us30a) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "30A Investment Pitch (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8",
+        "xmltv_id": "30AInvestmentPitch.us",
+        "xmltv_display_name": "30A Investment Pitch (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Lionel Nation Tv (Us30a) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "30A Lionel Nation TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/ln.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "30A Lionel Nation TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Loomered Tv (Us30a) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "30A Loomered TV",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/loomer.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "30A Loomered TV",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Luxe Life Discovered (Us30a) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "30A Luxe Life Discovered",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "30A Luxe Life Discovered",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Music (Us30a) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "30A Music (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/music.m3u8",
+        "xmltv_id": "30AMusic.us",
+        "xmltv_display_name": "30A Music (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Music Channel (Us30a) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "30A Music Channel",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
+        "xmltv_id": "30AMusic.us",
+        "xmltv_display_name": "30A Music Channel",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Sidewalks (Us30a) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "30A Sidewalks (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/sidewalks.m3u8",
+        "xmltv_id": "30ASidewalks.us",
+        "xmltv_display_name": "30A Sidewalks (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Television Channel (Us30a) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "30A Television Channel",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/feeds/masters/30atv.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "30A Television Channel",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a The Beach Show (Us30a) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "30A The Beach Show (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/beachy.m3u8",
+        "xmltv_id": "30ATheBeachShow.us",
+        "xmltv_display_name": "30A The Beach Show (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a Tv Classic Movies (Us30a) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "30A TV Classic Movies",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "30A TV Classic Movies",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "30a We Love Cars (Us30a) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "30A We Love Cars",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://30a-tv.com/feeds/vidaa/cars.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "30A We Love Cars",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

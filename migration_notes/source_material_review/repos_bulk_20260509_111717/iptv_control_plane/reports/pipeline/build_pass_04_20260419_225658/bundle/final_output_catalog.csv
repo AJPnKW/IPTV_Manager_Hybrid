@@ -1,0 +1,7 @@
+﻿"output_type","target","path","size_bytes","sha256"
+"master_m3u","tivimate","C:\Users\andrew\PROJECTS\iptv\publish\tivimate\final\master_playlist.m3u","5662343","F77C291D5F6987539B905A3E381ADCE10093372F62B6FDFCFA7633DC0B0D4E62"
+"master_epg_xml","tivimate","C:\Users\andrew\PROJECTS\iptv\publish\tivimate\final\master_epg.xml","768615036","4230D3A8C7D05BAD43FBECFB2D8314FE9922FE13B84483EA3A7E38558DD66C31"
+"master_epg_gz","tivimate","C:\Users\andrew\PROJECTS\iptv\publish\tivimate\final\master_epg.xml.gz","92836155","11ED56BBEAD2DBC60E883E53CF903DE60395F9A320A09AEDBB813C6F71B6BD4E"
+"master_m3u","runtime_hp","C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\final\master_playlist.m3u","5662343","F77C291D5F6987539B905A3E381ADCE10093372F62B6FDFCFA7633DC0B0D4E62"
+"master_epg_xml","runtime_hp","C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\final\master_epg.xml","768615036","4230D3A8C7D05BAD43FBECFB2D8314FE9922FE13B84483EA3A7E38558DD66C31"
+"master_epg_gz","runtime_hp","C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\final\master_epg.xml.gz","92836155","11ED56BBEAD2DBC60E883E53CF903DE60395F9A320A09AEDBB813C6F71B6BD4E"

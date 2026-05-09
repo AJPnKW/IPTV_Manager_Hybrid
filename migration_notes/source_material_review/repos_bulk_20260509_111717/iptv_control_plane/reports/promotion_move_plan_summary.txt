@@ -1,0 +1,29 @@
+﻿promotion_move_plan
+total_candidate_files=651
+total_candidate_bytes=416681870
+target_conflicts=0
+
+by_source_target
+
+source_root                                                                     target_root                                                                 file_count total_bytes target_conflicts
+-----------                                                                     -----------                                                                 ---------- ----------- ----------------
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\iptv__C42511BE\streams C:\Users\andrew\PROJECTS\iptv\inputs\m3u_sources\review_from_iptv__C42511BE        304     2304026                0
+C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u               C:\Users\andrew\PROJECTS\iptv\inputs\m3u_sources                                   200    15187309                0
+C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg               C:\Users\andrew\PROJECTS\iptv\inputs\free_epg                                      102   254744512                0
+C:\X1_Share\IPTV_load_files                                                     C:\Users\andrew\PROJECTS\iptv\inputs\review_from_legacy_load_files                  45   144446023                0
+
+
+
+
+by_extension
+
+Count Name 
+----- ---- 
+  533 .m3u 
+   76 .xml 
+   31 .gz  
+   10 .m3u8
+    1 .ini 
+
+
+

@@ -1,0 +1,23 @@
+rule_id,enabled,action,field,pattern,flags,note
+r001,true,keep,country,^(US|CA|UK|AU)$,i,keep only US/CA/UK/AU masters
+r010,true,drop,lang,^(?!en$).+,i,drop non-english language codes when present
+
+# --- SPORTS DROP ---
+r020,true,drop,name,\b(sports?|espn|tsn|fox sports|sportsnet|nba|nfl|mlb|nhl|golf|tennis|ufc|mma|wwe|cricket|formula 1|f1|boxing)\b,i,drop sports channels
+
+# --- KIDS DROP ---
+r030,true,drop,name,\b(kids?|childrens?|disney jr|nick jr|nickelodeon|cartoon network|boomerang|pbs kids|cbeebies|cbcbc|baby tv)\b,i,drop kids channels
+
+# --- RELIGIOUS DROP ---
+r040,true,drop,name,\b(god|jesus|christian|catholic|faith|religion|church|ministry|islam|quran|mosque|bible|televangel|tbn|eWTN|daystar)\b,i,drop religious channels
+
+# --- RADIO DROP ---
+r050,true,drop,name,\b(radio|fm\b|am\b|hits radio|talk radio|cbc radio|bbc radio|iheartradio)\b,i,drop radio/audio-only channels
+
+# --- NEWS: DROP MOST, KEEP ALLOWLIST STRINGS ---
+r060,true,drop,name,\b(news)\b,i,drop news by default
+r061,true,keep,name,\b(CNN|BBC News|MSNBC|CTV News Channel|CBC News Toronto|Citytv News Toronto)\b,i,allowlisted news
+
+# --- HD de-scope is NOT in step2 ---
+# We handle HD-vs-SD pairing later when we have scoped sets by region.
+

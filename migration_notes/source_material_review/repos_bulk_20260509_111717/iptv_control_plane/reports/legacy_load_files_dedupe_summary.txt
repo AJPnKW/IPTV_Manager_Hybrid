@@ -1,0 +1,9 @@
+﻿legacy_load_files_dedupe
+target_root=C:\Users\andrew\PROJECTS\iptv\inputs\review_from_legacy_load_files
+duplicate_groups=0
+total_rows=0
+keep_candidates=0
+review_duplicates=0
+
+by_normalized_name
+

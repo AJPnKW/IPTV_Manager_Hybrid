@@ -1,0 +1,3371 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\xumo_plex_epg.m3u",
+  "provider": "Xumoplexepg",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channels>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99951139\">The Weather Channel En Español</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99951223\">Sky News</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99951250\">OuterSphere by Lionsgate</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99951256\">Alfred Hitchcock Presents</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991125\">Xumo Free Holiday Romance</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991276\">CBC NEWS</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991287\">USA TODAY News</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991299\">Xumo Free Movies</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991302\">Hi-Yah!</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991331\">The Asylum</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991336\">Maverick Black Cinema</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991350\">Xumo Free Horror &amp; Thriller Movies</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991352\">Xumo Free Action Movies</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991363\">Xumo Free Black Cinema</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991377\">ABC News Live</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991393\">Samuel Goldwyn Films</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991638\">DOCUMENTARY+</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991683\">PATTRN</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991714\">Crackle</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"0#99991755\">Tribeca Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99951123\">GlewedTV Sci-Fi</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99951134\">UFC</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99951154\">Boxing TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99951196\">MotorTrend FAST TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99951207\">Fifth Gear</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99951253\">NBC Sports</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99951265\">DraftKings Network</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99951268\">SPEEDVISION</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99951277\">Ghost Hunters Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991175\">People Are Awesome</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991196\">FOX Sports</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991278\">GLORY Kickboxing</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991291\">PowerNation</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991315\">ACC Digital Network</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991325\">Motorvision</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991356\">eSports Revolution</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991374\">Outdoor America</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991387\">beIN SPORTS XTRA</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991623\">The Walking Dead Universe</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991627\">Billiard TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991645\">CBS Sports HQ</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991660\">GOLFPASS</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991696\">Swerve Combat</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991738\">NFL Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"50#99991786\">Origin Sports</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#9999614\">ION Plus</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99951157\">ION Mystery</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99951192\">Anger Management Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99951199\">iHeart Christmas</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99951204\">Xumo Fireplace for the Holidays</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99951218\">Xumo Free Nature &amp; Wildlife TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99951232\">Laff More</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99951234\">Oxygen True Crime Archives</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99951244\">TNBC</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99951246\">American Crimes</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99951254\">Universal Action</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991123\">LOL Network</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991153\">FailArmy</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991174\">The Pet Collective</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991187\">Funny or Die</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991197\">NatureVision</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991252\">Stingray Naturescape</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991349\">It's Showtime at the Apollo</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991367\">Forensic Files</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991624\">Slightly Off IFC</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991666\">Xumo Free Christian Christmas</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"100#99991784\">Xumo Free Action &amp; Drama TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#9995114\">Heartland</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951124\">BUZZR</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951126\">Supermarket Sweep</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951130\">Fear Factor</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951151\">Lidia's Kitchen</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951156\">At Home with Family Handyman</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951178\">BBC Home &amp; Garden</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951212\">Gardening with Monty Don</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951216\">The Rifleman</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951224\">The Celebrity Name Game Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951238\">Top Chef Vault</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99951255\">Universal Westerns</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99991113\">Deal Or No Deal</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99991140\">Bon Appétit</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99991397\">Xumo Free Westerns</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99991651\">NBC LX Home</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99991693\">Homeful</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99991759\">Today's Homeowner</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"150#99991775\">Love Nature en Español</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#9995104\">iHeartRadio Beso</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99951131\">GoUSA TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99951137\">Love Quest: Powered by Banijay</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99951145\">The Girls Next Door Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99951217\">AspireTV Life</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99951241\">Bad Girls Club</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99951243\">Real Housewives Vault</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99951257\">Made in Chelsea</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99951261\">4 Adventure</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991111\">Xumo Free Travel &amp; Lifestyle TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991262\">Journy</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991280\">eScapes</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991303\">Backstage</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991344\">QVC</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991364\">Xumo Free Reality TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991370\">ShopLC</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991383\">GoTraveler</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991674\">Canela.TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991746\">EstrellaTV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991748\">Lo Mejor de Telemundo</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991762\">Sony Canal Competencias</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"200#99991950\">Madre</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99951146\">Family Affair Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99951155\">REVOLT Mixtape</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99951189\">BibleStream</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99951211\">STELLAR</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99951229\">Ninja Kidz TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99951259\">Lassie</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99951281\">Sensical Makers</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991107\">Xumo Free Kids TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991122\">The Bob Ross Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991137\">GQ</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991160\">PBS Digital Studios</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991265\">Shout! TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991273\">batteryPOP</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991296\">Revry</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991326\">pocket.watch</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991333\">Dove Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991353\">Xumo Free Family Movies</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991366\">Nosey</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991382\">MagellanTV Now</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991616\">Mystery Science Theater 3000 (MST3K)</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991625\">All Weddings WE tv</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991670\">Mixible</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991681\">Hell's Kitchen</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991756\">Xumo Free Bollywood &amp; Indian Cinema</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"250#99991772\">EncourageTV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#9995101\">iHeart Alternative Radio</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#9995103\">iHeartRadio Hip Hop Beats</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#9995108\">Boston 25</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#9995112\">KIRO Seattle</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951127\">Vevo Country</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951163\">NBC New York News</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951166\">NBC Philadelphia News</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951168\">NBC Boston News</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951170\">ABC7 Los Angeles</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951172\">6abc Philadelphia</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951174\">KTRK ABC13's 24/7 Streaming Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951176\">KFSN ABC30 Central CA</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951182\">NBC Dallas Fort Worth News</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951225\">Telemundo Noticias California</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99951227\">Telemundo Noticias Florida</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99991117\">Stingray Hitlist</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99991119\">Stingray Classic Rock</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99991121\">Stingray Soul Storm Christmas</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99991381\">Demand Africa</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99991391\">Vevo Pop</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99991642\">CBS News Los Angeles</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99991655\">CBS News Bay Area</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99991689\">WPXI Pittsburgh</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99991691\">WSOC Charlotte</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"\" site_id=\"300#99991779\">Jubao</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"AntiquesRoadshowUK.us\" site_id=\"200#99991783\">Antiques Roadshow UK</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"BBCFood.us\" site_id=\"150#99951177\">BBC Food</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"CBSNews.us\" site_id=\"0#99991158\">CBS News</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"DarkMatterTV.us\" site_id=\"50#9999615\">Dark Matter TV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"ElectricNow.us\" site_id=\"100#99991378\">ElectricNOW</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"Filmex.mx\" site_id=\"200#99951120\">FILMEX</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"Food52.us\" site_id=\"150#99991340\">Food52</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"GustoTV.us\" site_id=\"150#99991328\">GustoTV</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"LoveNature.ca\" site_id=\"150#99991398\">Love Nature</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"NBCNewsNOW.us\" site_id=\"0#99991247\">NBC News NOW</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"Newsy.us\" site_id=\"0#99991148\">Scripps News</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"StoriesbyAMC.us\" site_id=\"100#99991622\">Stories by AMC</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"es\" xmltv_id=\"TastemadeenEspanol.us\" site_id=\"200#99991743\">Tastemade en Español</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"TheJamieOliverChannel.us\" site_id=\"150#99951153\">The Jamie Oliver Channel</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"TODAYAllDay.us\" site_id=\"0#99991245\">TODAY All Day</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"en\" xmltv_id=\"WildEarth.uk\" site_id=\"150#99991628\">WildEarth</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "<channel site=\"xumo.tv\" lang=\"es\" xmltv_id=\"SonyCanalComedias.us\" site_id=\"200#99951194\">Sony Canal Comedias</channel>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unknown (Xumo) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Unknown",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "</channels>",
+        "xmltv_id": null,
+        "xmltv_display_name": null,
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

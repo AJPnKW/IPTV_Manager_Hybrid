@@ -1,0 +1,240 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_glewed.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Glewed",
+  "channels": [
+    {
+      "canonical_name": "Crime Justice Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crime & Justice [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-474.frequency.stream/dist/glewedtv/474/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crime & Justice [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Property Reno Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Property & Reno [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-476.frequency.stream/dist/glewedtv/476/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Property & Reno [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Real Disaster Channel Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Real Disaster Channel [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Real Disaster Channel [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bleav Football Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bleav Football",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Bleav Football",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Always Funny Videos Series (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Always Funny Videos",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/vfdN5Xl.png",
+        "stream_url": "https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8",
+        "xmltv_id": "AlwaysFunnyVideos.us",
+        "xmltv_display_name": "Always Funny Videos",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vfdN5Xl.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Campuslore Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CampusLore (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/dCXl0rq.png",
+        "stream_url": "https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8",
+        "xmltv_id": "CampusLore.us",
+        "xmltv_display_name": "CampusLore (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/dCXl0rq.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Choppertown Auto Series (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Choppertown (720p)",
+        "group_title_raw": "Auto;Series",
+        "logo_raw": "https://i.imgur.com/U6cu5Ms.png",
+        "stream_url": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8",
+        "xmltv_id": "Choppertown.us",
+        "xmltv_display_name": "Choppertown (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/U6cu5Ms.png",
+        "xmltv_categories": [
+          "Auto",
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Defiance Media Business (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "DeFiance Media (1080p)",
+        "group_title_raw": "Business",
+        "logo_raw": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU",
+        "stream_url": "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
+        "xmltv_id": "DeFianceMedia.pr",
+        "xmltv_display_name": "DeFiance Media (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pursuit Up Outdoor (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pursuit UP (720p)",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://i.imgur.com/5Vzwqts.png",
+        "stream_url": "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
+        "xmltv_id": "PursuitUP.us",
+        "xmltv_display_name": "Pursuit UP (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/5Vzwqts.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Swerve Sports Sports (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Swerve Sports (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/GT0Yi2T.png",
+        "stream_url": "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8",
+        "xmltv_id": "SwerveSports.us",
+        "xmltv_display_name": "Swerve Sports (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/GT0Yi2T.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "True History Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Glewed",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "True History (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/1BHDGXx.png",
+        "stream_url": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8",
+        "xmltv_id": "TrueHistory.us",
+        "xmltv_display_name": "True History (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/1BHDGXx.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}

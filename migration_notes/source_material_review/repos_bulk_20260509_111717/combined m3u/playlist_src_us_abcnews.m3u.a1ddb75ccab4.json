@@ -1,0 +1,218 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_abcnews.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Abcnews",
+  "channels": [
+    {
+      "canonical_name": "ABC News Live 1 News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Abcnews",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 1 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8",
+        "xmltv_id": "ABCNewsLive1.us",
+        "xmltv_display_name": "ABC News Live 1 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 2 News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Abcnews",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 2 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8",
+        "xmltv_id": "ABCNewsLive2.us",
+        "xmltv_display_name": "ABC News Live 2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 3 News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Abcnews",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 3 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8",
+        "xmltv_id": "ABCNewsLive3.us",
+        "xmltv_display_name": "ABC News Live 3 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 4 News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Abcnews",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 4 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8",
+        "xmltv_id": "ABCNewsLive4.us",
+        "xmltv_display_name": "ABC News Live 4 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 5 News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Abcnews",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 5 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8",
+        "xmltv_id": "ABCNewsLive5.us",
+        "xmltv_display_name": "ABC News Live 5 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 6 News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Abcnews",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 6 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8",
+        "xmltv_id": "ABCNewsLive6.us",
+        "xmltv_display_name": "ABC News Live 6 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 7 News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Abcnews",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 7 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8",
+        "xmltv_id": "ABCNewsLive7.us",
+        "xmltv_display_name": "ABC News Live 7 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 8 News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Abcnews",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 8 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8",
+        "xmltv_id": "ABCNewsLive8.us",
+        "xmltv_display_name": "ABC News Live 8 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 9 News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Abcnews",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 9 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
+        "xmltv_id": "ABCNewsLive9.us",
+        "xmltv_display_name": "ABC News Live 9 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC News Live 10 News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Abcnews",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Live 10 (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "stream_url": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8",
+        "xmltv_id": "ABCNewsLive10.us",
+        "xmltv_display_name": "ABC News Live 10 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    }
+  ]
+}

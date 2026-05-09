@@ -1,0 +1,56 @@
+[
+  {
+    "path": "C:\\Users\\andrew\\PROJECTS\\GitHub\\get_xmltvlisting",
+    "role": "paid_xmltv_source",
+    "status": "active",
+    "notes": "Fetch paid provider XMLTV lineups only"
+  },
+  {
+    "path": "C:\\Users\\andrew\\PROJECTS\\iptv",
+    "role": "umbrella_system",
+    "status": "active",
+    "notes": "Canonical architecture, inventory, normalization, validation, publish orchestration"
+  },
+  {
+    "path": "C:\\Users\\andrew\\PROJECTS\\GitHub\\M3U_Manager-v3",
+    "role": "donor_repo",
+    "status": "read_only_for_now",
+    "notes": "Mine logic only, do not treat as source-of-truth"
+  },
+  {
+    "path": "C:\\Users\\andrew\\PROJECTS\\GitHub\\dispatcharr-plugin",
+    "role": "donor_repo",
+    "status": "read_only_for_now",
+    "notes": "Mine logic only, do not treat as source-of-truth"
+  },
+  {
+    "path": "C:\\Users\\andrew\\PROJECTS\\GitHub\\ZedTV-IPTV-Player-Recorder-Scraper-DEV",
+    "role": "tool_eval_donor",
+    "status": "read_only_for_now",
+    "notes": "Evaluate and extract only"
+  },
+  {
+    "path": "C:\\X1_Share\\Tivimate",
+    "role": "legacy_local_staging",
+    "status": "freeze",
+    "notes": "Do not add new permanent source files here"
+  },
+  {
+    "path": "C:\\Utilities\\Downloads",
+    "role": "download_staging",
+    "status": "freeze",
+    "notes": "Temporary acquisition only"
+  },
+  {
+    "path": "C:\\X1_Share\\IPTV_load_files",
+    "role": "legacy_load_files",
+    "status": "freeze",
+    "notes": "Legacy staging area only"
+  },
+  {
+    "path": "\\\\theboys-hp290\\runtime\\tvheadend_dispatcharr",
+    "role": "runtime_only",
+    "status": "active",
+    "notes": "HP server apps and runtime outputs only, not source-of-truth"
+  }
+]

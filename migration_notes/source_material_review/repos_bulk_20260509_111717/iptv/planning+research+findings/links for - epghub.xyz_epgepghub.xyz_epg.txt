@@ -1,0 +1,24 @@
+
+Country	Country code	Download Url
+Australia	AU	
+https://epg.pw/xmltv/epg_AU.xml
+https://epg.pw/xmltv/epg_AU.xml.gz
+Canada	CA	
+https://epg.pw/xmltv/epg_CA.xml
+https://epg.pw/xmltv/epg_CA.xml.gz
+United Kingdom of Great Britain and Northern Ireland	GB	
+https://epg.pw/xmltv/epg_GB.xml
+https://epg.pw/xmltv/epg_GB.xml.gz
+US	US	
+https://epg.pw/xmltv/epg_US.xml
+https://epg.pw/xmltv/epg_US.xml.gz
+
+https://epghub.xyz/epg/EPG-US-LOCALS.xml.gz
+https://epghub.xyz/epg/EPG-LOCOMOTIONTV.xml.gz
+https://epghub.xyz/epg/EPG-PLEX.xml.gz
+https://epghub.xyz/epg/EPG-RAKUTEN.xml.gz
+
+
+Other URL examples
+https://epg.pw/api/epg.json?lang=en&date=20251217&channel_id=470370
+https://epg.pw/api/epg.xml?lang=en&date=20251217&channel_id=470370

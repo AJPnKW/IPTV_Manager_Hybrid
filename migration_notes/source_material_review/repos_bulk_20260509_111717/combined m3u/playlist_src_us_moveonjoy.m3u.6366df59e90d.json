@@ -1,0 +1,2089 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_moveonjoy.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Moveonjoy",
+  "channels": [
+    {
+      "canonical_name": "Fox Sports 1 Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports 1",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fox Sports 1",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Accn Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ACCN (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/TpCkbkT.png",
+        "stream_url": "https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8",
+        "xmltv_id": "ACCNetwork.us",
+        "xmltv_display_name": "ACCN (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/TpCkbkT.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Amc Movies (Playlistsrc) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "AMC East (1080p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+        "stream_url": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+        "xmltv_id": "AMC.us@East",
+        "xmltv_display_name": "AMC East (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Aspire Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Aspire",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/TOM5qO6.png",
+        "stream_url": "https://fl3.moveonjoy.com/Aspire/index.m3u8",
+        "xmltv_id": "Aspire.us",
+        "xmltv_display_name": "Aspire",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/TOM5qO6.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bet Undefined (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BET East",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/copIbc9.png",
+        "stream_url": "https://fl3.moveonjoy.com/BET_EAST/index.m3u8",
+        "xmltv_id": "BET.us@East",
+        "xmltv_display_name": "BET East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/copIbc9.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bet Gospel Religious (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BET Gospel",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/jbOkq8C.png",
+        "stream_url": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8",
+        "xmltv_id": "BETGospel.us",
+        "xmltv_display_name": "BET Gospel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/jbOkq8C.png",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bet Her Entertainment (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BET Her East",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/oafsrlo.png",
+        "stream_url": "https://fl3.moveonjoy.com/BET_HER/index.m3u8",
+        "xmltv_id": "BETHer.us@East",
+        "xmltv_display_name": "BET Her East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/oafsrlo.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bet Jams Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BET Jams",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png",
+        "stream_url": "https://fl3.moveonjoy.com/BET_Jams/index.m3u8",
+        "xmltv_id": "BETJams.us",
+        "xmltv_display_name": "BET Jams",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/512px-BET_Jams_2021.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bet Soul Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BET Soul",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/VeuTWUb.png",
+        "stream_url": "https://fl3.moveonjoy.com/BET_SOUL/index.m3u8",
+        "xmltv_id": "BETSoul.us",
+        "xmltv_display_name": "BET Soul",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/VeuTWUb.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Big Ten Network Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Big Ten Network",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
+        "xmltv_id": "BigTenNetwork.us",
+        "xmltv_display_name": "Big Ten Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bounce Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bounce",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8",
+        "xmltv_id": "Bounce.us",
+        "xmltv_display_name": "Bounce",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bravo Undefined (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bravo East",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/JmTIRLF.png",
+        "stream_url": "https://fl3.moveonjoy.com/BRAVO/index.m3u8",
+        "xmltv_id": "Bravo.us@East",
+        "xmltv_display_name": "Bravo East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/JmTIRLF.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Buzzr Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Buzzr",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/Buzzr/index.m3u8",
+        "xmltv_id": "Buzzr.us",
+        "xmltv_display_name": "Buzzr",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS General (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS East (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/CBS_News/index.m3u8",
+        "xmltv_id": "CBS.us@East",
+        "xmltv_display_name": "CBS East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS Sports Network Usa Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBS Sports Network USA",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/A8CnA8g.png",
+        "stream_url": "https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+        "xmltv_id": "CBSSportsNetworkUSA.us",
+        "xmltv_display_name": "CBS Sports Network USA",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/A8CnA8g.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cleo Tv Lifestyle (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cleo TV (720p)",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/US0T6DC.png",
+        "stream_url": "https://fl3.moveonjoy.com/Cleo_TV/index.m3u8",
+        "xmltv_id": "CleoTV.us",
+        "xmltv_display_name": "Cleo TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/US0T6DC.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cmt Music (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CMT East",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/S7DOpdY.png",
+        "stream_url": "https://fl3.moveonjoy.com/CMT/index.m3u8",
+        "xmltv_id": "CMT.us@East",
+        "xmltv_display_name": "CMT East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/S7DOpdY.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cnbc Business (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNBC",
+        "group_title_raw": "Business",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/CNBC/index.m3u8",
+        "xmltv_id": "CNBC.us",
+        "xmltv_display_name": "CNBC",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",
+        "xmltv_categories": [
+          "Business"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Comedy Central Comedy (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Comedy Central East (720p)",
+        "group_title_raw": "Comedy",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/Comedy_Central/index.m3u8",
+        "xmltv_id": "ComedyCentral.us@East",
+        "xmltv_display_name": "Comedy Central East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
+        "xmltv_categories": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Comet Entertainment (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Comet (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/COMET/index.m3u8",
+        "xmltv_id": "Comet.us",
+        "xmltv_display_name": "Comet (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cozi Tv Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cozi TV",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/COZI_TV/index.m3u8",
+        "xmltv_id": "CoziTV.us",
+        "xmltv_display_name": "Cozi TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 1 Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 1",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/ZkRQ0r1.png",
+        "stream_url": "https://fl3.moveonjoy.com/CRAVE_1/index.m3u8",
+        "xmltv_id": "Crave1.ca",
+        "xmltv_display_name": "Crave 1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ZkRQ0r1.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 2 Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 2",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/e1qJ5Bp.png",
+        "stream_url": "https://fl3.moveonjoy.com/CRAVE_2/index.m3u8",
+        "xmltv_id": "Crave2.ca",
+        "xmltv_display_name": "Crave 2",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/e1qJ5Bp.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 3 Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 3",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/kOi0Adn.png",
+        "stream_url": "https://fl3.moveonjoy.com/CRAVE_3/index.m3u8",
+        "xmltv_id": "Crave3.ca",
+        "xmltv_display_name": "Crave 3",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/kOi0Adn.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 4 Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Crave 4",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/MyH3Q2p.png",
+        "stream_url": "https://fl3.moveonjoy.com/CRAVE_4/index.m3u8",
+        "xmltv_id": "Crave4.ca",
+        "xmltv_display_name": "Crave 4",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/MyH3Q2p.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "C Span Legislative (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "C-SPAN",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/C-SPAN/index.m3u8",
+        "xmltv_id": "CSPAN.us",
+        "xmltv_display_name": "C-SPAN",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/512px-C-SPAN_Logo_%282019%29.svg.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Curiositystream Education (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CuriosityStream (720p)",
+        "group_title_raw": "Education",
+        "logo_raw": "https://i.imgur.com/KUb4vEz.png",
+        "stream_url": "https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8",
+        "xmltv_id": "CuriosityStream.us",
+        "xmltv_display_name": "CuriosityStream (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KUb4vEz.png",
+        "xmltv_categories": [
+          "Education"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Disney Channel Kids (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Disney Channel East",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+        "stream_url": "https://fl5.moveonjoy.com/DISNEY/index.m3u8",
+        "xmltv_id": "DisneyChannel.us@East",
+        "xmltv_display_name": "Disney Channel East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Disney Junior Kids (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Disney Junior East",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
+        "stream_url": "https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8",
+        "xmltv_id": "DisneyJunior.us@East",
+        "xmltv_display_name": "Disney Junior East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "E Entertainment (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "E! East",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/TWFDkap.png",
+        "stream_url": "https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
+        "xmltv_id": "E.us@East",
+        "xmltv_display_name": "E! East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/TWFDkap.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Espnews News Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ESPNews (720p)",
+        "group_title_raw": "News;Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8",
+        "xmltv_id": "ESPNews.us",
+        "xmltv_display_name": "ESPNews (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png",
+        "xmltv_categories": [
+          "News",
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ESPN U Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ESPN U (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/HiBrysh.png",
+        "stream_url": "https://fl3.moveonjoy.com/ESPN_U/index.m3u8",
+        "xmltv_id": "ESPNU.us",
+        "xmltv_display_name": "ESPN U (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/HiBrysh.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox Soul Culture (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fox Soul",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/YIamDGn.png",
+        "stream_url": "https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8",
+        "xmltv_id": "FoxSoul.us",
+        "xmltv_display_name": "Fox Soul",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/YIamDGn.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fuse Entertainment (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fuse East (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/mijRpPQ.jpg",
+        "stream_url": "https://fl3.moveonjoy.com/FUSE/index.m3u8",
+        "xmltv_id": "Fuse.us@East",
+        "xmltv_display_name": "Fuse East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mijRpPQ.jpg",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FX Entertainment (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FX East",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/ZScwrpi.png",
+        "stream_url": "https://fl5.moveonjoy.com/FX/index.m3u8",
+        "xmltv_id": "FX.us@East",
+        "xmltv_display_name": "FX East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ZScwrpi.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fxm Movies (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FXM East",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://comteco.com.bo/img/upload/canales/svCJXa.png",
+        "stream_url": "https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8",
+        "xmltv_id": "FXM.us@East",
+        "xmltv_display_name": "FXM East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://comteco.com.bo/img/upload/canales/svCJXa.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FXX Entertainment (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FXX East",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/FXX/index.m3u8",
+        "xmltv_id": "FXX.us@East",
+        "xmltv_display_name": "FXX East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fyi Lifestyle (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FYI East",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/PggQk7F.png",
+        "stream_url": "https://fl3.moveonjoy.com/FYI/index.m3u8",
+        "xmltv_id": "FYI.us@East",
+        "xmltv_display_name": "FYI East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/PggQk7F.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gettv Entertainment (Playlistsrc) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "GetTV (480p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/evOWORd.png",
+        "stream_url": "https://fl3.moveonjoy.com/GET_TV/index.m3u8",
+        "xmltv_id": "GetTV.us",
+        "xmltv_display_name": "GetTV (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/evOWORd.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Grit Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Grit",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/6w1Wj3j.png",
+        "stream_url": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8",
+        "xmltv_id": "Grit.us",
+        "xmltv_display_name": "Grit",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/6w1Wj3j.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hallmark Channel Family (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Hallmark Channel East",
+        "group_title_raw": "Family",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
+        "xmltv_id": "HallmarkChannel.us@East",
+        "xmltv_display_name": "Hallmark Channel East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png",
+        "xmltv_categories": [
+          "Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hallmark Drama Series (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hallmark Drama (720p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png",
+        "stream_url": "https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8",
+        "xmltv_id": "HallmarkDrama.us",
+        "xmltv_display_name": "Hallmark Drama (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hallmark Movies Mysteries Movies (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Hallmark Movies Mysteries East",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/GPRGA9C.png",
+        "stream_url": "https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8",
+        "xmltv_id": "HallmarkMoviesMysteries.us@East",
+        "xmltv_display_name": "Hallmark Movies Mysteries East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/GPRGA9C.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Insp Entertainment (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "INSP",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/YgOC51j.png",
+        "stream_url": "https://fl3.moveonjoy.com/INSP/index.m3u8",
+        "xmltv_id": "INSP.us",
+        "xmltv_display_name": "INSP",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/YgOC51j.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ion Plus Entertainment (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ION Plus East (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/1dgCvNE.png",
+        "stream_url": "https://fl3.moveonjoy.com/ION_Plus/index.m3u8",
+        "xmltv_id": "IONPlus.us@East",
+        "xmltv_display_name": "ION Plus East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/1dgCvNE.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ion Tv Entertainment (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ION TV East",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/ION_TV/index.m3u8",
+        "xmltv_id": "IONTV.us@East",
+        "xmltv_display_name": "ION TV East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lifetime Entertainment (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Lifetime East",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/LIFETIME/index.m3u8",
+        "xmltv_id": "Lifetime.us@East",
+        "xmltv_display_name": "Lifetime East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lifetime Movies Movies (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Lifetime Movies East",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/BWmqYTO.png",
+        "stream_url": "https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
+        "xmltv_id": "LifetimeMovies.us@East",
+        "xmltv_display_name": "Lifetime Movies East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/BWmqYTO.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mgm Movies (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MGM+ East",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/EPIX/index.m3u8",
+        "xmltv_id": "MGMPlus.us@East",
+        "xmltv_display_name": "MGM+ East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mgm Marquee Movies (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MGM+ Marquee",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
+        "xmltv_id": "MGMPlusMarquee.us",
+        "xmltv_display_name": "MGM+ Marquee",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mlb Network Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MLB Network",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/sA5V39D.png",
+        "stream_url": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
+        "xmltv_id": "MLBNetwork.us",
+        "xmltv_display_name": "MLB Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/sA5V39D.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Msg Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MSG",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/SEQFh0P.png",
+        "stream_url": "https://fl3.moveonjoy.com/MSG/index.m3u8",
+        "xmltv_id": "MSG.us",
+        "xmltv_display_name": "MSG",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/SEQFh0P.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtv2 Entertainment (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MTV2 (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png",
+        "stream_url": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
+        "xmltv_id": "MTV2.us@East",
+        "xmltv_display_name": "MTV2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtv Entertainment (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MTV East",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/MTV/index.m3u8",
+        "xmltv_id": "MTV.us@East",
+        "xmltv_display_name": "MTV East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtv Classic Music (Playlistsrc) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "MTV Classic (360p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png",
+        "stream_url": "https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8",
+        "xmltv_id": "MTVClassic.us@East",
+        "xmltv_display_name": "MTV Classic (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtv Live Music (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MTV Live (720p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/3UByLqb.png",
+        "stream_url": "https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8",
+        "xmltv_id": "MTVLive.us",
+        "xmltv_display_name": "MTV Live (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/3UByLqb.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mtvu Entertainment (Playlistsrc) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "mtvU (480p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png",
+        "stream_url": "https://fl5.moveonjoy.com/MTV_U/index.m3u8",
+        "xmltv_id": "MTVU.us",
+        "xmltv_display_name": "mtvU (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Much Music (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Much (720p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/JjYki5V.png",
+        "stream_url": "https://fl1.moveonjoy.com/MUCH/index.m3u8",
+        "xmltv_id": "Much.ca",
+        "xmltv_display_name": "Much (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/JjYki5V.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "National Geographic Documentary (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "National Geographic East",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/National_Geographic/index.m3u8",
+        "xmltv_id": "NationalGeographic.us@East",
+        "xmltv_display_name": "National Geographic East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "National Geographic Wild Documentary (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "National Geographic Wild East",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
+        "xmltv_id": "NationalGeographicWild.us@East",
+        "xmltv_display_name": "National Geographic Wild East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "News Nation News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "News Nation (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://zap2it.tmsimg.com/h3/NowShowing/91097/s91097_ll_h15_ae.png?w=512",
+        "stream_url": "https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8",
+        "xmltv_id": "NewsNation.us@East",
+        "xmltv_display_name": "News Nation (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://zap2it.tmsimg.com/h3/NowShowing/91097/s91097_ll_h15_ae.png?w=512",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nfl Network Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NFL Network",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8",
+        "xmltv_id": "NFLNetwork.us",
+        "xmltv_display_name": "NFL Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nfl Redzone Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NFL RedZone",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/5lPqQj5.png",
+        "stream_url": "https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
+        "xmltv_id": "NFLRedZone.us",
+        "xmltv_display_name": "NFL RedZone",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/5lPqQj5.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nick Jr Kids (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Nick Jr East",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/KT4tdQs.png",
+        "stream_url": "https://fl3.moveonjoy.com/NICK_JR/index.m3u8",
+        "xmltv_id": "NickJr.us@East",
+        "xmltv_display_name": "Nick Jr East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/KT4tdQs.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nick Music Music (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Nick Music (720p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8",
+        "xmltv_id": "NickMusic.us",
+        "xmltv_display_name": "Nick Music (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Outermax Movies (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "OuterMax East (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8",
+        "xmltv_id": "OuterMax.us@East",
+        "xmltv_display_name": "OuterMax East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ovation Culture (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ovation (1080p)",
+        "group_title_raw": "Culture",
+        "logo_raw": "https://i.imgur.com/A3o9gvc.png",
+        "stream_url": "https://fl3.moveonjoy.com/Ovation/index.m3u8",
+        "xmltv_id": "Ovation.us",
+        "xmltv_display_name": "Ovation (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/A3o9gvc.png",
+        "xmltv_categories": [
+          "Culture"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Oxygen Entertainment (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Oxygen East",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/OXYGEN/index.m3u8",
+        "xmltv_id": "Oxygen.us@East",
+        "xmltv_display_name": "Oxygen East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount Network Movies Series (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount Network East",
+        "group_title_raw": "Movies;Series",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+        "xmltv_id": "ParamountNetwork.us@East",
+        "xmltv_display_name": "Paramount Network East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+        "xmltv_categories": [
+          "Movies",
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pursuit Channel Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pursuit Channel (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png",
+        "stream_url": "https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8",
+        "xmltv_id": "PursuitChannel.us",
+        "xmltv_display_name": "Pursuit Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Reelz Documentary (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Reelz (720p)",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/REELZ/index.m3u8",
+        "xmltv_id": "Reelz.us",
+        "xmltv_display_name": "Reelz (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Revolt Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Revolt",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/eaYnGpH.png",
+        "stream_url": "https://fl3.moveonjoy.com/REVOLT/index.m3u8",
+        "xmltv_id": "Revolt.us",
+        "xmltv_display_name": "Revolt",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/eaYnGpH.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Showtime 2 Undefined (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime 2 East",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8",
+        "xmltv_id": "Showtime2.us@East",
+        "xmltv_display_name": "Showtime 2 East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Showtime Undefined (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime East",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/Or0LKsu.png",
+        "stream_url": "https://fl3.moveonjoy.com/SHOWTIME/index.m3u8",
+        "xmltv_id": "Showtime.us@East",
+        "xmltv_display_name": "Showtime East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Or0LKsu.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Showtime Undefined (Playlistsrc) (West) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "West",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Showtime West (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/Or0LKsu.png",
+        "stream_url": "https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8",
+        "xmltv_id": "Showtime.us@West",
+        "xmltv_display_name": "Showtime West (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Or0LKsu.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Showtime Next Undefined (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime Next East",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/1Ak2MX2.png",
+        "stream_url": "https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
+        "xmltv_id": "ShowtimeNext.us@East",
+        "xmltv_display_name": "Showtime Next East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/1Ak2MX2.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Showtime Women Undefined (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime Women East",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
+        "xmltv_id": "ShowtimeWomen.us@East",
+        "xmltv_display_name": "Showtime Women East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Smithsonian Channel Science (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Smithsonian Channel East",
+        "group_title_raw": "Science",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png",
+        "stream_url": "https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
+        "xmltv_id": "SmithsonianChannel.us@East",
+        "xmltv_display_name": "Smithsonian Channel East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png",
+        "xmltv_categories": [
+          "Science"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sportsman Channel Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sportsman Channel",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/CXauv8M.png",
+        "stream_url": "https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
+        "xmltv_id": "SportsmanChannel.us",
+        "xmltv_display_name": "Sportsman Channel",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/CXauv8M.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sportsnet 540p Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "SportsNet New York (540p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/SNY/index.m3u8",
+        "xmltv_id": "SportsNetNewYork.us",
+        "xmltv_display_name": "SportsNet New York (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Start Tv Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Start TV",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/Start_Tv/index.m3u8",
+        "xmltv_id": "StartTV.us",
+        "xmltv_display_name": "Start TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Undefined (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz East",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/N7oSm4d.png",
+        "stream_url": "https://fl3.moveonjoy.com/STARZ/index.m3u8",
+        "xmltv_id": "Starz.us@East",
+        "xmltv_display_name": "Starz East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/N7oSm4d.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Undefined (Playlistsrc) (West) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "West",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz West",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/N7oSm4d.png",
+        "stream_url": "https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8",
+        "xmltv_id": "Starz.us@West",
+        "xmltv_display_name": "Starz West",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/N7oSm4d.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Starz Encore Classic Classic (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Encore Classic East",
+        "group_title_raw": "Classic",
+        "logo_raw": "https://i.imgur.com/L6GjoS4.png",
+        "stream_url": "https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
+        "xmltv_id": "StarzEncoreClassic.us@East",
+        "xmltv_display_name": "Starz Encore Classic East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/L6GjoS4.png",
+        "xmltv_categories": [
+          "Classic"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sundance Tv Movies (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sundance TV East",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/SUNDANCE/index.m3u8",
+        "xmltv_id": "SundanceTV.us@East",
+        "xmltv_display_name": "Sundance TV East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Syfy Undefined (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Syfy East",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/4fMWhUE.png",
+        "stream_url": "https://fl3.moveonjoy.com/SYFY/index.m3u8",
+        "xmltv_id": "Syfy.us@East",
+        "xmltv_display_name": "Syfy East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/4fMWhUE.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tsn1 Sports (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TSN1 (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/eRFE0jZ.png",
+        "stream_url": "https://fl5.moveonjoy.com/TSN_1/index.m3u8",
+        "xmltv_id": "TSN1.ca",
+        "xmltv_display_name": "TSN1 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/eRFE0jZ.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tsn2 Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN2",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png",
+        "stream_url": "https://fl5.moveonjoy.com/TSN_2/index.m3u8",
+        "xmltv_id": "TSN2.ca",
+        "xmltv_display_name": "TSN2",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tsn3 Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN3",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/AYza8KO.png",
+        "stream_url": "https://fl5.moveonjoy.com/TSN_3/index.m3u8",
+        "xmltv_id": "TSN3.ca",
+        "xmltv_display_name": "TSN3",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/AYza8KO.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tsn4 Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN4",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/qJyAWU8.png",
+        "stream_url": "https://fl5.moveonjoy.com/TSN_4/index.m3u8",
+        "xmltv_id": "TSN4.ca",
+        "xmltv_display_name": "TSN4",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qJyAWU8.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tsn5 Sports (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TSN5",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/HEzHpzz.png",
+        "stream_url": "https://fl5.moveonjoy.com/TSN_5/index.m3u8",
+        "xmltv_id": "TSN5.ca",
+        "xmltv_display_name": "TSN5",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/HEzHpzz.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv One Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "TV One",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/tthm8Q5.png",
+        "stream_url": "https://fl3.moveonjoy.com/TV_ONE/index.m3u8",
+        "xmltv_id": "TVOne.us",
+        "xmltv_display_name": "TV One",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/tthm8Q5.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Up Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Up TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/AvR9LSn.png",
+        "stream_url": "https://fl3.moveonjoy.com/Up_Tv/index.m3u8",
+        "xmltv_id": "UpTV.us",
+        "xmltv_display_name": "Up TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/AvR9LSn.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vh1 Music (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "VH1 East",
+        "group_title_raw": "Music",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",
+        "stream_url": "https://fl3.moveonjoy.com/VH1/index.m3u8",
+        "xmltv_id": "VH1.us@East",
+        "xmltv_display_name": "VH1 East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "We Tv Series (Playlistsrc) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "We TV East",
+        "group_title_raw": "Series",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/512px-We_TV_logo_2014.svg.png",
+        "stream_url": "https://fl1.moveonjoy.com/WE_TV/index.m3u8",
+        "xmltv_id": "WeTV.us@East",
+        "xmltv_display_name": "We TV East",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/512px-We_TV_logo_2014.svg.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wnbc Dt1 Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WNBC-DT1",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png",
+        "stream_url": "https://fl1.moveonjoy.com/NBC_EAST/index.m3u8",
+        "xmltv_id": "WNBCDT1.us",
+        "xmltv_display_name": "WNBC-DT1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "W Network Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "W Network (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/t7XdBh8.png",
+        "stream_url": "https://fl3.moveonjoy.com/W_NETWORK/index.m3u8",
+        "xmltv_id": "WNetwork.ca@East",
+        "xmltv_display_name": "W Network (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/t7XdBh8.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wnyw Dt1 Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WNYW-DT1",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/zZd9Tkt.png",
+        "stream_url": "https://fl1.moveonjoy.com/FOX_EAST/index.m3u8",
+        "xmltv_id": "WNYWDT1.us",
+        "xmltv_display_name": "WNYW-DT1",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/zZd9Tkt.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Yes Network Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Moveonjoy",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Yes Network",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/wMQEeCF.png",
+        "stream_url": "https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8",
+        "xmltv_id": "YesNetwork.us",
+        "xmltv_display_name": "Yes Network",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/wMQEeCF.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}

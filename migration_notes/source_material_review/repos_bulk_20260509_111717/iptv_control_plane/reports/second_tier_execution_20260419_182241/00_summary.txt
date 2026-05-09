@@ -1,0 +1,25 @@
+﻿execute_second_tier_move
+run_ts=20260419_182241
+plan_path=C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\second_tier_move_plan.csv
+quarantine_root=C:\Users\andrew\PROJECTS\iptv_quarantine\pending_review
+total_rows=8092
+moved_count=8092
+moved_bytes=648651412
+source_missing_count=0
+target_conflict_count=0
+error_count=0
+
+by_root
+
+candidate_root                                                                    total_rows moved source_missing target_conflict errors
+--------------                                                                    ---------- ----- -------------- --------------- ------
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__C88298A5                  2459  2459              0               0      0
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__69B40A25                  2459  2459              0               0      0
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__BE5F3E8D                  1226  1226              0               0      0
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg__CEF6D209                  1226  1226              0               0      0
+C:\X1_Share\Tivimate\get_all_channels\pre-processed_data\stage5_outputs\providers        282   282              0               0      0
+C:\X1_Share\Tivimate\get_all_channels\pre-processed_data\stage1_raw_parsed               220   220              0               0      0
+C:\X1_Share\Tivimate\get_all_channels\pre-processed_data\stage2_normalized               220   220              0               0      0
+
+
+

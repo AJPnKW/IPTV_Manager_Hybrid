@@ -1,0 +1,730 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\us_vizio.m3u",
+  "provider": "Usvizio",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "America S Voice (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "America's Voice (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "AmericasVoice.us",
+        "xmltv_display_name": "America's Voice (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ameritrade Not 24 7 (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ameritrade (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tdameritrade-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Ameritrade.us",
+        "xmltv_display_name": "Ameritrade (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Awe Encore (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "AWE Encore (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "AWEEncore.us",
+        "xmltv_display_name": "AWE Encore (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Black News Channel (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Black News Channel (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "BlackNewsChannel.us",
+        "xmltv_display_name": "Black News Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bon App Tit (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "bon appétit (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "bonappetit.us",
+        "xmltv_display_name": "bon appétit (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cinevault 80s 540p (Usvizio) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinevault 80s (540p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8",
+        "xmltv_id": "Cinevault80s.us",
+        "xmltv_display_name": "Cinevault 80s (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cinevault Westerns 540p (Usvizio) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Cinevault Westerns (540p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8",
+        "xmltv_id": "CinevaultWesterns.us",
+        "xmltv_display_name": "Cinevault Westerns (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Circle (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Circle (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://circle-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Circle.us",
+        "xmltv_display_name": "Circle (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dove Channel (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dove Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "DoveChannel.us",
+        "xmltv_display_name": "Dove Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox News Now (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX News Now (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "LiveNOWfromFOX.us",
+        "xmltv_display_name": "FOX News Now (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Soul (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Soul (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "FoxSoul.us",
+        "xmltv_display_name": "Fox Soul (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Happykids (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "HappyKids (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://happykids-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "HappyKids.us",
+        "xmltv_display_name": "HappyKids (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Happykids Junior (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "HappyKids Junior (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://happykidsjunior-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "HappyKidsJunior.us",
+        "xmltv_display_name": "HappyKids Junior (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hnc Free (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "HNC Free (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://hncfree-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "HNCFree.us",
+        "xmltv_display_name": "HNC Free (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ifood Tv (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "iFood.TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ifood-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "iFoodTV.us",
+        "xmltv_display_name": "iFood.TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Insight Tv (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Insight TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://insighttv-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InsightTV.nl",
+        "xmltv_display_name": "Insight TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ion Plus (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ion Plus (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "IONPlusEast.us",
+        "xmltv_display_name": "Ion Plus (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Johnny Carson Tv (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Johnny Carson TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://johnnycarson-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "JohnnyCarsonTV.us",
+        "xmltv_display_name": "Johnny Carson TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Latido Music (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Latido Music (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8",
+        "xmltv_id": "LatidoMusic.us",
+        "xmltv_display_name": "Latido Music (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Lego Channel (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "LEGO Channel (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://legochannel-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "LegoChannel.us",
+        "xmltv_display_name": "LEGO Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mystery Science Theater 3000 (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Mystery Science Theater 3000 (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://mst3k-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "MysteryScienceTheater3000.us",
+        "xmltv_display_name": "Mystery Science Theater 3000 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mytime Movie Network (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MyTime Movie Network (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8",
+        "xmltv_id": "MyTimeMovieNetworkEast.us",
+        "xmltv_display_name": "MyTime Movie Network (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Newsmax 2 (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Newsmax 2 (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://newsmax-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Newsmax2.us",
+        "xmltv_display_name": "Newsmax 2 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Oan (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "OAN (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://oneamericanews-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "OneAmericaNewsNetwork.us",
+        "xmltv_display_name": "OAN (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pac 12 Insider (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pac 12 Insider (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://pac12-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Pac12Insider.us",
+        "xmltv_display_name": "Pac 12 Insider (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Players Tv (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Players TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://playerstv-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "PlayersTV.ca",
+        "xmltv_display_name": "Players TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Pocket Watch (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "pocket.watch (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://pocketwatch-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "pocketwatch.us",
+        "xmltv_display_name": "pocket.watch (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sportsgrid (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SportsGrid (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://sportsgrid-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "SportsGrid.us",
+        "xmltv_display_name": "SportsGrid (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Spotlight (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Spotlight (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://spotlight-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "RedboxSpotlight.us",
+        "xmltv_display_name": "Spotlight (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Tastemade (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Tastemade.us",
+        "xmltv_display_name": "Tastemade (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade En Espa Ol (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Tastemade en Español (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TastemadeenEspanol.us",
+        "xmltv_display_name": "Tastemade en Español (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade Travel (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Tastemade Travel (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tastemadetravel-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TastemadeTravel.us",
+        "xmltv_display_name": "Tastemade Travel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Carol Burnett Show (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Carol Burnett Show (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://carolburnett-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TheCarolBurnettShow.us",
+        "xmltv_display_name": "The Carol Burnett Show (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The First (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The First (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TheFirstTV.us",
+        "xmltv_display_name": "The First (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Venn (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "VENN (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://venntv-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "VENN.us",
+        "xmltv_display_name": "VENN (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Xplore (Usvizio) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Xplore (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://xplore-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "XploreTV.us",
+        "xmltv_display_name": "Xplore (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yahoo Finance (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Yahoo! Finance (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://yahoo-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "YahooFinance.us",
+        "xmltv_display_name": "Yahoo! Finance (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Young Hollywood (Usvizio) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Young Hollywood (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://younghollywood-vizio.amagi.tv/playlist.m3u8",
+        "xmltv_id": "YoungHollywood.us",
+        "xmltv_display_name": "Young Hollywood (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

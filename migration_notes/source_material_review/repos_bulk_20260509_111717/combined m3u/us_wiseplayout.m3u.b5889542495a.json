@@ -1,0 +1,616 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\us_wiseplayout.m3u",
+  "provider": "Uswiseplayout",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Ace Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ace TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_30/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ace TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Automotion (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Automotion (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_4/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Automotion (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Babyfirst (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "BabyFirst (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8",
+        "xmltv_id": "BabyFirst.us",
+        "xmltv_display_name": "BabyFirst (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Beani Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Beani TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_13/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Beani TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Best Action Movies (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Best Action Movies (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_14/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Best Action Movies (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Best Classic Movies (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Best Classic Movies (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_15/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Best Classic Movies (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Best Drama Movies (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Best Drama Movies (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_16/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Best Drama Movies (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Best Thriller Movies (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Best Thriller Movies (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_17/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Best Thriller Movies (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Billiards (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Billiards+ (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_18/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Billiards+ (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cartoon Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cartoon TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_5/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cartoon TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cinepast (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CinePast (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_6/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "CinePast (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Comedy Tadka (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Comedy Tadka (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_27/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Comedy Tadka (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Drive Speed (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Drive + Speed (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_8/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Drive + Speed (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Escape Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Escape TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_7/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Escape TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Face Culture Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Face Culture TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_3/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Face Culture TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fight Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fight TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_23/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fight TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Goal Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Goal TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_1/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Goal TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hi 5 (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hi-5 (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_31/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hi-5 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Homerun Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Homerun TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_29/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Homerun TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hoop Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hoop TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_28/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hoop TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hunt Fish Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hunt Fish TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_2/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hunt Fish TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Just For Laughs Gags (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Just for Laughs Gags (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/wisem3u8_9/master.m3u8",
+        "xmltv_id": "JustforLaughsGags.us",
+        "xmltv_display_name": "Just for Laughs Gags (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Kung Fu (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Kung Fu+ (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_10/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Kung Fu+ (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Naija Gold Reels (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Naija Gold Reels (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_11/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Naija Gold Reels (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Peekflick (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "PeekFlick (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_26/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "PeekFlick (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ric (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ric+ (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_32/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ric+ (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Rugby Zone Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rugby Zone TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8",
+        "xmltv_id": "RugbyZoneTV.fr",
+        "xmltv_display_name": "Rugby Zone TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sacred Sites Tv (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sacred Sites TV (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_20/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sacred Sites TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Test My Ride (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Test My Ride (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_21/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Test My Ride (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Explorers (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Explorers (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_22/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Explorers (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "The Ring (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Ring (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_24/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Ring (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wai Lana Yoga (Uswiseplayout) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Wai Lana Yoga (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lte.wiseplayout.com/WiseM3U8_25/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Wai Lana Yoga (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

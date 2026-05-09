@@ -1,0 +1,449 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_tvpass.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Tvpass",
+  "channels": [
+    {
+      "canonical_name": "Fox Sports 2 Undefined (Playlistsrc) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports 2 (360p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FoxSports2/sd",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fox Sports 2 (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox Sports 2 Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports 2 (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://tvpass.org/live/FoxSports2/hd",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fox Sports 2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "A E Entertainment (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "A&E East (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+        "stream_url": "https://tvpass.org/live/AEEast/hd",
+        "xmltv_id": "AE.us@East",
+        "xmltv_display_name": "A&E East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crime Investigation Entertainment (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Crime + Investigation (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+        "stream_url": "https://tvpass.org/live/CrimePlusInvestigation/hd",
+        "xmltv_id": "CrimePlusInvestigation.us",
+        "xmltv_display_name": "Crime + Investigation (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "C Span 2 Legislative (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "C-SPAN 2 (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/9B6XIQC.png",
+        "stream_url": "https://tvpass.org/live/CSPAN2/hd",
+        "xmltv_id": "CSPAN2.us",
+        "xmltv_display_name": "C-SPAN 2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9B6XIQC.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FX Movie Channel Movies (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FX Movie Channel (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",
+        "stream_url": "https://tvpass.org/live/FXMovieChannel/hd",
+        "xmltv_id": "FXMovieChannel.us",
+        "xmltv_display_name": "FX Movie Channel (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ifc Movies (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "IFC East (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/bQdkyF9.png",
+        "stream_url": "https://tvpass.org/live/IFCEast/hd",
+        "xmltv_id": "IFC.us@East",
+        "xmltv_display_name": "IFC East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/bQdkyF9.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kabc Dt1 General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "KABC-DT1 (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png",
+        "stream_url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/hd",
+        "xmltv_id": "KABCDT1.us",
+        "xmltv_display_name": "KABC-DT1 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kcbs Dt1 General (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "KCBS-DT1 (1080p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/RIFC1Y6.jpg",
+        "stream_url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd",
+        "xmltv_id": "KCBSDT1.us",
+        "xmltv_display_name": "KCBS-DT1 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/RIFC1Y6.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Kfmb Dt2 Entertainment (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "KFMB-DT2 (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/GCB3vun.png",
+        "stream_url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
+        "xmltv_id": "KFMBDT2.us",
+        "xmltv_display_name": "KFMB-DT2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/GCB3vun.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Knbc Dt1 General (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "KNBC-DT1 (1080p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd",
+        "xmltv_id": "KNBCDT1.us",
+        "xmltv_display_name": "KNBC-DT1 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Logo Entertainment (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Logo East (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png",
+        "stream_url": "https://tvpass.org/live/LogoEast/hd",
+        "xmltv_id": "Logo.us@East",
+        "xmltv_display_name": "Logo East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/512px-Logo_TV_2015.svg.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Msg Plus Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MSG Plus (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/7suDpSK.png",
+        "stream_url": "https://tvpass.org/live/msg-plus/hd",
+        "xmltv_id": "MSGPlus.us",
+        "xmltv_display_name": "MSG Plus (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/7suDpSK.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "National Geographic Documentary (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "National Geographic HD East (720p)",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "stream_url": "https://tvpass.org/live/NationalGeographicEast/hd",
+        "xmltv_id": "NationalGeographic.us@HDEast",
+        "xmltv_display_name": "National Geographic HD East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "National Geographic Wild Documentary (Playlistsrc) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "National Geographic Wild HD East (720p)",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "stream_url": "https://tvpass.org/live/NationalGeographicWildEast/hd",
+        "xmltv_id": "NationalGeographicWild.us@HDEast",
+        "xmltv_display_name": "National Geographic Wild HD East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Sports Bay Area Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC Sports Bay Area (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/MTgUVKx.png",
+        "stream_url": "https://tvpass.org/live/nbc-sports-bay-area/hd",
+        "xmltv_id": "NBCSportsBayArea.us",
+        "xmltv_display_name": "NBC Sports Bay Area (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/MTgUVKx.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Sports Sports (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NBC Sports Boston (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png",
+        "stream_url": "https://tvpass.org/live/nbc-sports-boston/hd",
+        "xmltv_id": "NBCSportsBoston.us",
+        "xmltv_display_name": "NBC Sports Boston (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC Sports Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC Sports Philadelphia (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png",
+        "stream_url": "https://tvpass.org/live/nbc-sports-philadelphia/hd",
+        "xmltv_id": "NBCSportsPhiladelphia.us",
+        "xmltv_display_name": "NBC Sports Philadelphia (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wabc Dt1 Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WABC-DT1 (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",
+        "stream_url": "https://tvpass.org/live/WABCDT1/hd",
+        "xmltv_id": "WABCDT1.us",
+        "xmltv_display_name": "WABC-DT1 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wis Dt2 Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WIS-DT2 (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png",
+        "stream_url": "https://tvpass.org/live/cw-wdcw-district-of-columbia/hd",
+        "xmltv_id": "WISDT2.us",
+        "xmltv_display_name": "WIS-DT2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/512px-The_CW_2024.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wnju Dt1 Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tvpass",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "WNJU-DT1 (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+        "stream_url": "https://tvpass.org/live/TelemundoEast/hd",
+        "xmltv_id": "WNJUDT1.us",
+        "xmltv_display_name": "WNJU-DT1 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}

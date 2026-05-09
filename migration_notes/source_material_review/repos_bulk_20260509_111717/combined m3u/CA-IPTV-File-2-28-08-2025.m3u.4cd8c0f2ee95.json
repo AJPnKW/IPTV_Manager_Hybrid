@@ -1,0 +1,1416 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\CA-IPTV-File-2-28-08-2025.m3u",
+  "provider": "Caiptvfile228082025",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Fr Cine Pop Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| CINE POP",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/PICON/entrepicon.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/68848",
+        "xmltv_id": "Cinepop.ca_1",
+        "xmltv_display_name": "CA-FR| CINE POP",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/PICON/entrepicon.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Canal Savoir Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| CANAL SAVOIR",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/PICON/OLD PICON/picon-canada/Canal Savoir.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/68849",
+        "xmltv_id": "CanalSavoir.ca_1",
+        "xmltv_display_name": "CA-FR| CANAL SAVOIR",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/PICON/OLD PICON/picon-canada/Canal Savoir.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Casa Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| CASA",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CASA.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/68858",
+        "xmltv_id": "CasaTV.ca_1",
+        "xmltv_display_name": "CA-FR| CASA",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CASA.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cafr Lcn Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CAFR| LCN",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/full-picon/LCN.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/175586",
+        "xmltv_id": "LeCanalNouvelles.ca_1",
+        "xmltv_display_name": "CAFR| LCN",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/full-picon/LCN.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ytv Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| YTV HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/YTV%20HD.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191644",
+        "xmltv_id": "CHMI.ca_1",
+        "xmltv_display_name": "CA-US| YTV HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/YTV%20HD.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Yes Tv Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| YES TV HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/YES%20TV%20HD.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191645",
+        "xmltv_id": "CITS.ca_1",
+        "xmltv_display_name": "CA-US| YES TV HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/YES%20TV%20HD.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "TSN 5 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| TSN 5 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TSN%205.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191658",
+        "xmltv_id": "TSN5.ca_1",
+        "xmltv_display_name": "CA-US| TSN 5 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TSN%205.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "TSN 4 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| TSN 4 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TSN%204.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191659",
+        "xmltv_id": "TSN4.ca_1",
+        "xmltv_display_name": "CA-US| TSN 4 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TSN%204.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "TSN 3 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| TSN 3 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TSN%203.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191660",
+        "xmltv_id": "TSN3.ca_1",
+        "xmltv_display_name": "CA-US| TSN 3 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TSN%203.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "TSN 1 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| TSN 1 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TSN%202%20hd.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191661",
+        "xmltv_id": "TSN2.ca_1",
+        "xmltv_display_name": "CA-US| TSN 1 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TSN%202%20hd.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Movietime Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| MovieTime",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TELE%20TOON%20FRENCH.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191670",
+        "xmltv_id": "Teletoon.ca_1",
+        "xmltv_display_name": "CA-US| MovieTime",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TELE%20TOON%20FRENCH.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Super Channel Heart Home Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| SUPER Channel HEART & HOME",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/SUPER%20Channel%20HEART%20%26%20HOME.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191675",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| SUPER Channel HEART & HOME",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/SUPER%20Channel%20HEART%20%26%20HOME.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Paramount Network Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| PARAMOUNT NETWORK",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/PARAMOUNT%20NETWORK.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191695",
+        "xmltv_id": "ParamountNetwork.us_1",
+        "xmltv_display_name": "CA-US| PARAMOUNT NETWORK",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/PARAMOUNT%20NETWORK.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Global Canada (Caiptvfile228082025) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CA-US| Global FHD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Global%20HD.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191748",
+        "xmltv_id": "GlobalRegina.ca_1",
+        "xmltv_display_name": "CA-US| Global FHD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Global%20HD.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Game Tv Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| Game TV HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Game%20TV.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191749",
+        "xmltv_id": "GameTV.ca_1",
+        "xmltv_display_name": "CA-US| Game TV HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Game%20TV.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "FX Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| FX HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/FX%20HD.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191753",
+        "xmltv_id": "FX.us_1",
+        "xmltv_display_name": "CA-US| FX HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/FX%20HD.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Family Jr Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| FAMILY JR HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/FAMILY%20JR%20HD.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191761",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| FAMILY JR HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/FAMILY%20JR%20HD.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Family Canada (Caiptvfile228082025) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| FAMILY (East)",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/FAMILY%20Channel%20HD.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191764",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| FAMILY (East)",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/FAMILY%20Channel%20HD.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Food Network Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| FOOD NETWORK HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/FOOD%20NETWORK%20HD.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191765",
+        "xmltv_id": "FoodNetwork.ca_1",
+        "xmltv_display_name": "CA-US| FOOD NETWORK HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/FOOD%20NETWORK%20HD.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Super Channel Vault Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| Super Channel Vault",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/DAYSTAR%20TV.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191784",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| Super Channel Vault",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/DAYSTAR%20TV.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| CTV VANCOUVER HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CTV%20VANCOUVER%20HD.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191788",
+        "xmltv_id": "CTV2Vancouver.ca_1",
+        "xmltv_display_name": "CA-US| CTV VANCOUVER HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CTV%20VANCOUVER%20HD.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| CTV OTTAWA HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CTV%20OTTAWA%20HD.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191792",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| CTV OTTAWA HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CTV%20OTTAWA%20HD.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CTV Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| CTV MONTREAL HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CTV%20MONTREAL.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191796",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| CTV MONTREAL HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CTV%20MONTREAL.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 4 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| CRAVE 4 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CRAVE%204.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191806",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| CRAVE 4 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CRAVE%204.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 3 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| CRAVE 3 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CRAVE%203.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191807",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| CRAVE 3 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CRAVE%203.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 2 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| CRAVE 2 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CRAVE%202.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191808",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| CRAVE 2 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CRAVE%202.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crave 1 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| CRAVE 1 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CRAVE%201%20HD.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191809",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| CRAVE 1 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CRAVE%201%20HD.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cpac En Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| CPAC EN",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CPAC%20FRENCH.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191810",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| CPAC EN",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CPAC%20FRENCH.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr TVA Sports 2 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| TVA Sports 2",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Bravo.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191851",
+        "xmltv_id": "Bravo.us_1",
+        "xmltv_display_name": "CA-FR| TVA Sports 2",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Bravo.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bein Sports Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| beIN Sports HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/beIN%20Sports.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191856",
+        "xmltv_id": "beINSports.us_1",
+        "xmltv_display_name": "CA-US| beIN Sports HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/beIN%20Sports.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Aptn Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| APTN",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/APTN.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191860",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| APTN",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/APTN.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Animal Planet Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| ANIMAL PLANET HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/ANIMAL%20PLANET.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191861",
+        "xmltv_id": "AnimalPlanet.us_1",
+        "xmltv_display_name": "CA-US| ANIMAL PLANET HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/ANIMAL%20PLANET.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-US| Adult Swim HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Adult%20Swim.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191863",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-US| Adult Swim HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Adult%20Swim.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "A E Canada (Caiptvfile228082025) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CA-US| A&E FHD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/A%26E.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191868",
+        "xmltv_id": "AandE.ca_1",
+        "xmltv_display_name": "CA-US| A&E FHD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/A%26E.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canada Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "|CA| CANADA-US |CA|",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/PICON/entrepicon.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191869",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "|CA| CANADA-US |CA|",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/PICON/entrepicon.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr TVA Sports Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| TVA Sports HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TVA%20SPORTS%20QC.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191873",
+        "xmltv_id": "TVASports.ca_1",
+        "xmltv_display_name": "CA-FR| TVA Sports HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TVA%20SPORTS%20QC.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Teletoon French Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Teletoon French HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TELE%20TOON%20FRENCH.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191874",
+        "xmltv_id": "TeletoonFrench.ca_1",
+        "xmltv_display_name": "CA-FR| Teletoon French HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TELE%20TOON%20FRENCH.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Tfo Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| TFO HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TFO.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191877",
+        "xmltv_id": "TFO.ca_1",
+        "xmltv_display_name": "CA-FR| TFO HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TFO.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Yoopa Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| YOOPA",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/DISNEY%20FRENCH.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191878",
+        "xmltv_id": "LachaineDisney.ca_1",
+        "xmltv_display_name": "CA-FR| YOOPA",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/DISNEY%20FRENCH.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Weather Network Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Weather Network Montreal",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Weather%20Network%20Montreal.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191879",
+        "xmltv_id": "TheWeatherNetwork.ca_1",
+        "xmltv_display_name": "CA-FR| Weather Network Montreal",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Weather%20Network%20Montreal.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Tv5 Quebec Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| TV5 Quebec HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TV5%20Quebec.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191880",
+        "xmltv_id": "TV5MondeEurope.fr_1",
+        "xmltv_display_name": "CA-FR| TV5 Quebec HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TV5%20Quebec.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Zeste Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Zeste HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/ZESTE.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191883",
+        "xmltv_id": "Zeste.ca_1",
+        "xmltv_display_name": "CA-FR| Zeste HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/ZESTE.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr TVA Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| TVA Montreal HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/V%20MONTREAL.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191888",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-FR| TVA Montreal HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/V%20MONTREAL.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr TVA Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| TVA Montreal HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TVA%20MONTREAL.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191895",
+        "xmltv_id": "TVA.ca_1",
+        "xmltv_display_name": "CA-FR| TVA Montreal HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/TVA%20MONTREAL.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Lcn Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| LCN HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/LCN.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191904",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-FR| LCN HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/LCN.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Ici Rdi Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| ICI RDI HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/ICI%20RDI.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191910",
+        "xmltv_id": "ICIRadioCanadaMontreal.ca_1",
+        "xmltv_display_name": "CA-FR| ICI RDI HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/ICI%20RDI.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Unis Tv Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Unis TV HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": null,
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191914",
+        "xmltv_id": "CrimeAndInvestigationNetwork.uk_1",
+        "xmltv_display_name": "CA-FR| Unis TV HD",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Seasons Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Seasons HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/HISTORIO.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191915",
+        "xmltv_id": "Seasons.fr_1",
+        "xmltv_display_name": "CA-FR| Seasons HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/HISTORIO.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Evasion Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Evasion HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/EVASION.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191916",
+        "xmltv_id": "CanalEvasion.ca_1",
+        "xmltv_display_name": "CA-FR| Evasion HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/EVASION.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Canal Vie Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Canal Vie HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CANAL%20VIE.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191919",
+        "xmltv_id": "CanalVie.ca_1",
+        "xmltv_display_name": "CA-FR| Canal Vie HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CANAL%20VIE.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Ici Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| ICI VANCOUVER",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CANAL%20D.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191920",
+        "xmltv_id": "CanalD.ca_1",
+        "xmltv_display_name": "CA-FR| ICI VANCOUVER",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CANAL%20D.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Moi Cie Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| MOI&cie HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/MOI%20CIE.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191922",
+        "xmltv_id": "Moicie.ca_1",
+        "xmltv_display_name": "CA-FR| MOI&cie HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/MOI%20CIE.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Vision Tv Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Vision TV",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Series%2B.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191923",
+        "xmltv_id": "SeriesPlus.ca_1",
+        "xmltv_display_name": "CA-FR| Vision TV",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Series%2B.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Addiktv Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| addikTV HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/ADDIK%20TV.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191925",
+        "xmltv_id": "AddikTV.ca_1",
+        "xmltv_display_name": "CA-FR| addikTV HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/ADDIK%20TV.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Series Plus Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Series Plus",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Frissons%20TV.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191927",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "CA-FR| Series Plus",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/Frissons%20TV.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Cinepop Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Cinepop HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CINEPOP.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191928",
+        "xmltv_id": "Cinepop.ca_1",
+        "xmltv_display_name": "CA-FR| Cinepop HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/CINEPOP.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr RDS Info Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| RDS INFO",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/RDS%20INFO.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191929",
+        "xmltv_id": "RDSInfo.ca_1",
+        "xmltv_display_name": "CA-FR| RDS INFO",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/RDS%20INFO.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Rds2 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| RDS2 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/RDS%202.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191930",
+        "xmltv_id": "RDS2.ca_1",
+        "xmltv_display_name": "CA-FR| RDS2 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/RDS%202.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr RDS Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| RDS HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/RDS.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191931",
+        "xmltv_id": "RDS.ca_1",
+        "xmltv_display_name": "CA-FR| RDS HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/RDS.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Super Ecran 4 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Super Ecran 4 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/SUPER%20ECRAN%204.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191937",
+        "xmltv_id": "SuperEcran4.ca_1",
+        "xmltv_display_name": "CA-FR| Super Ecran 4 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/SUPER%20ECRAN%204.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Super Ecran 3 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Super Ecran 3 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/SUPER%20ECRAN%203.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191938",
+        "xmltv_id": "SuperEcran3.ca_1",
+        "xmltv_display_name": "CA-FR| Super Ecran 3 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/SUPER%20ECRAN%203.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Super Ecran 2 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Super Ecran 2 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/SUPER%20ECRAN%202.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191939",
+        "xmltv_id": "SuperEcran2.ca_1",
+        "xmltv_display_name": "CA-FR| Super Ecran 2 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/SUPER%20ECRAN%202.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fr Super Ecran 1 Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CA-FR| Super Ecran 1 HD",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/SUPER%20ECRAN%201.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191940",
+        "xmltv_id": "SuperEcran.ca_1",
+        "xmltv_display_name": "CA-FR| Super Ecran 1 HD",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-canada/SUPER%20ECRAN%201.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Canada Fr Canada (Caiptvfile228082025) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "|CA| CANADA-FR |CA|",
+        "group_title_raw": "CA| CANADA",
+        "logo_raw": "http://covers.ddns.net/PICON/entrepicon.png",
+        "stream_url": "http://ini-mes.com:8080/YUy6V4kFzc8anXF/xE2VdfWCA0awd94/191942",
+        "xmltv_id": "_1",
+        "xmltv_display_name": "|CA| CANADA-FR |CA|",
+        "xmltv_network": null,
+        "xmltv_logo": "http://covers.ddns.net/PICON/entrepicon.png",
+        "xmltv_categories": [
+          "CA",
+          "CANADA"
+        ]
+      }
+    }
+  ]
+}

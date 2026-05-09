@@ -1,0 +1,38 @@
+api: { host: 127.0.0.1, port: 8901, web_root: /home/m3u-filter/web }
+threads: 0
+working_dir: /home/m3u-filter/data
+backup_dir: /home/m3u-filter/.backup
+update_on_boot: false
+# sec  min   hour   day of month   month   day of week   year
+schedule: "0  0  8,12,16,20,22,1  *  *  *  *"
+web_ui_enabled: true
+web_auth:
+  enabled: false
+  secret: ef9ab256a8c0abe5de92c2e05ca92baa810472ab702ff1674e9248308ceeec92
+  issuer: m3u_filter
+  userfile: user.txt
+messaging:
+  notify_on:
+    - error
+    - info
+    - stats
+    - watch
+  telegram:
+    bot_token: '<your telegram bot token>'
+    chat_ids:
+      - <your telegram chat_id>
+  rest:
+    url: http://<ip>/<maybe_path>/<notification>
+video:
+  web_search: 'https://www.imdb.com/search/title/?title={}'
+  extensions:
+    - mkv
+    - mp4
+    - avi
+  download:
+    headers:
+      User-Agent: "AppleTV/tvOS/9.1.1."
+      Accept: "video/*"
+    directory: /tmp/
+    organize_into_directories: true
+    episode_pattern: '.*(?P<episode>[Ss]\d{1,2}(.*?)[Ee]\d{1,2}).*'

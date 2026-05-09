@@ -1,0 +1,787 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_moveonjoy.m3u",
+  "provider": "Usmoveonjoy",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "ABC 25 Columbia (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "ABC 25 Columbia",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl1.moveonjoy.com/ABC_EAST/index.m3u8",
+        "xmltv_id": "WOLODT1.us",
+        "xmltv_display_name": "ABC 25 Columbia",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Amc (Usmoveonjoy) (East) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "AMC East (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+        "xmltv_id": "AMCEast.us",
+        "xmltv_display_name": "AMC East (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "BBC America (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BBC America East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8",
+        "xmltv_id": "BBCAmericaEast.us",
+        "xmltv_display_name": "BBC America East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bet Gospel (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BET Gospel",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8",
+        "xmltv_id": "BETGospel.us",
+        "xmltv_display_name": "BET Gospel",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bet Her (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BET Her East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/BET_HER/index.m3u8",
+        "xmltv_id": "BETHerEast.us",
+        "xmltv_display_name": "BET Her East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bet Jams (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BET Jams",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl3.moveonjoy.com/BET_Jams/index.m3u8",
+        "xmltv_id": "BETJams.us",
+        "xmltv_display_name": "BET Jams",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bet Soul (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "BET Soul",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/BET_SOUL/index.m3u8",
+        "xmltv_id": "BETSoul.us",
+        "xmltv_display_name": "BET Soul",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Big Ten Network (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Big Ten Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
+        "xmltv_id": "BigTenNetwork.us",
+        "xmltv_display_name": "Big Ten Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "C Span (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "C-SPAN",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/C-SPAN/index.m3u8",
+        "xmltv_id": "CSPAN.us",
+        "xmltv_display_name": "C-SPAN",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "CBS Sports Network Usa (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CBS Sports Network USA",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+        "xmltv_id": "CBSSportsNetworkUSA.us",
+        "xmltv_display_name": "CBS Sports Network USA",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Cnbc (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "CNBC",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/CNBC/index.m3u8",
+        "xmltv_id": "CNBC.us",
+        "xmltv_display_name": "CNBC",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Comedy Central (Usmoveonjoy) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Comedy Central East (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl3.moveonjoy.com/Comedy_Central/index.m3u8",
+        "xmltv_id": "ComedyCentralEast.us",
+        "xmltv_display_name": "Comedy Central East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Sports 1 (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports 1",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8",
+        "xmltv_id": "FoxSports1.us",
+        "xmltv_display_name": "Fox Sports 1",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fox Sports 2 (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports 2",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8",
+        "xmltv_id": "FoxSports2.us",
+        "xmltv_display_name": "Fox Sports 2",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Fyi (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "FYI East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/FYI/index.m3u8",
+        "xmltv_id": "FYIEast.us",
+        "xmltv_display_name": "FYI East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hallmark Channel (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Hallmark Channel East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
+        "xmltv_id": "HallmarkChannelEast.us",
+        "xmltv_display_name": "Hallmark Channel East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Logo (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Logo East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl3.moveonjoy.com/Logo/index.m3u8",
+        "xmltv_id": "LogoEast.us",
+        "xmltv_display_name": "Logo East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mgm (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MGM+ East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/EPIX/index.m3u8",
+        "xmltv_id": "MGMPlusEast.us",
+        "xmltv_display_name": "MGM+ East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mgm Marquee (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MGM+ Marquee",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
+        "xmltv_id": "MGMPlusMarquee.us",
+        "xmltv_display_name": "MGM+ Marquee",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mlb Network (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MLB Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8",
+        "xmltv_id": "MLBNetwork.us",
+        "xmltv_display_name": "MLB Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mtv2 (Usmoveonjoy) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MTV2 (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fl5.moveonjoy.com/MTV_2/index.m3u8",
+        "xmltv_id": "MTV2East.us",
+        "xmltv_display_name": "MTV2 (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mtv Classic (Usmoveonjoy) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "MTV Classic (360p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8",
+        "xmltv_id": "MTVClassicEast.us",
+        "xmltv_display_name": "MTV Classic (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mtv Live (Usmoveonjoy) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "MTV Live (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8",
+        "xmltv_id": "MTVLive.us",
+        "xmltv_display_name": "MTV Live (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Mtvu (Usmoveonjoy) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "mtvU (480p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fl5.moveonjoy.com/MTV_U/index.m3u8",
+        "xmltv_id": "MTVU.us",
+        "xmltv_display_name": "mtvU (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Newsnation (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NewsNation East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8",
+        "xmltv_id": "NewsNationEast.us",
+        "xmltv_display_name": "NewsNation East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nfl Network (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "NFL Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8",
+        "xmltv_id": "NFLNetwork.us",
+        "xmltv_display_name": "NFL Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nick Jr (Usmoveonjoy) (East) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Nick Jr. East (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://fl5.moveonjoy.com/NICK_JR/index.m3u8",
+        "xmltv_id": "NickJrEast.us",
+        "xmltv_display_name": "Nick Jr. East (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Nick Music (Usmoveonjoy) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Nick Music (480p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8",
+        "xmltv_id": "NickMusic.us",
+        "xmltv_display_name": "Nick Music (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Oxygen (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Oxygen East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/OXYGEN/index.m3u8",
+        "xmltv_id": "OxygenEast.us",
+        "xmltv_display_name": "Oxygen East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Paramount Network (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Paramount Network East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+        "xmltv_id": "ParamountNetworkEast.us",
+        "xmltv_display_name": "Paramount Network East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Showtime 2 (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime 2 East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
+        "xmltv_id": "Showtime2East.us",
+        "xmltv_display_name": "Showtime 2 East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Showtime (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/SHOWTIME/index.m3u8",
+        "xmltv_id": "ShowtimeEast.us",
+        "xmltv_display_name": "Showtime East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Showtime Extreme (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime Extreme East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8",
+        "xmltv_id": "ShowtimeExtremeEast.us",
+        "xmltv_display_name": "Showtime Extreme East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Showtime Next (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime Next East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
+        "xmltv_id": "ShowtimeNextEast.us",
+        "xmltv_display_name": "Showtime Next East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Showtime Women (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Showtime Women East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8",
+        "xmltv_id": "ShowtimeWomenEast.us",
+        "xmltv_display_name": "Showtime Women East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Starz Comedy (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Comedy East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8",
+        "xmltv_id": "StarzComedyEast.us",
+        "xmltv_display_name": "Starz Comedy East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Starz Edge (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Edge East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8",
+        "xmltv_id": "StarzEdgeEast.us",
+        "xmltv_display_name": "Starz Edge East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Starz Encore Action (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Encore Action East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8",
+        "xmltv_id": "StarzEncoreActionEast.us",
+        "xmltv_display_name": "Starz Encore Action East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Starz Encore (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Starz Encore East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8",
+        "xmltv_id": "StarzEncoreEast.us",
+        "xmltv_display_name": "Starz Encore East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Syfy (Usmoveonjoy) (East) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "East",
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Syfy East",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/SYFY/index.m3u8",
+        "xmltv_id": "SyfyEast.us",
+        "xmltv_display_name": "Syfy East",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Yes Network (Usmoveonjoy) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Yes Network",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8",
+        "xmltv_id": "YesNetwork.us",
+        "xmltv_display_name": "Yes Network",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

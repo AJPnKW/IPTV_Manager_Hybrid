@@ -1,0 +1,183 @@
+{
+  "country": "AU",
+  "generated_at": "2026-04-10T02:18:47Z",
+  "decision_source": "C:\\Users\\andrew\\PROJECTS\\GitHub\\get_xmltvlisting\\IPTV\\scope_outputs\\INPUT_SCOPE_DECISIONS.seed.json",
+  "included_channels": [
+    {
+      "channel_name": "10",
+      "name": "10",
+      "tvg_id": "ten.au",
+      "call_sign": "TEN",
+      "channel_number": "",
+      "country": "AU",
+      "network": "Network 10",
+      "broadcaster": "Network 10",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "Network 10"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "Network 10"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "Network 10",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/3/3e/Network_10_logo_2018.svg"
+      ],
+      "source_notes": [
+        "Main Network 10 channel."
+      ],
+      "scope_hint": "core",
+      "notes": "Main Network 10 channel.",
+      "review": {
+        "decision": "include",
+        "target_group": "AU • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    },
+    {
+      "channel_name": "Nine",
+      "name": "Nine",
+      "tvg_id": "nine.au",
+      "call_sign": "NINE",
+      "channel_number": "",
+      "country": "AU",
+      "network": "Nine Network",
+      "broadcaster": "Nine Network",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "Nine Network"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "Nine Network"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "Nine Network",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/4/4e/Nine_Network_logo_2020.svg"
+      ],
+      "source_notes": [
+        "Main Nine Network channel."
+      ],
+      "scope_hint": "core",
+      "notes": "Main Nine Network channel.",
+      "review": {
+        "decision": "include",
+        "target_group": "AU • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    },
+    {
+      "channel_name": "SBS World Movies",
+      "name": "SBS World Movies",
+      "tvg_id": "sbsworldmovies.au",
+      "call_sign": "SBSWORLDMOVIES",
+      "channel_number": "",
+      "country": "AU",
+      "network": "SBS",
+      "broadcaster": "SBS",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "SBS (Special Broadcasting Service)"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "SBS (Special Broadcasting Service)"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "SBS (Special Broadcasting Service)",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/3/3f/SBS_World_Movies_logo_2019.svg"
+      ],
+      "source_notes": [
+        "International films."
+      ],
+      "scope_hint": "core",
+      "notes": "International films.",
+      "review": {
+        "decision": "include",
+        "target_group": "AU • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    },
+    {
+      "channel_name": "Seven",
+      "name": "Seven",
+      "tvg_id": "seven.au",
+      "call_sign": "SEVEN",
+      "channel_number": "",
+      "country": "AU",
+      "network": "Seven Network",
+      "broadcaster": "Seven Network",
+      "channel_type": "FTA Terrestrial",
+      "platforms": [
+        "AU Freeview"
+      ],
+      "lineups": [
+        "Seven Network"
+      ],
+      "sections": [
+        "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)"
+      ],
+      "article_titles": [
+        "Seven Network"
+      ],
+      "source_links": [
+        {
+          "section_id": "au-freeview",
+          "section_title": "AU Freeview (ABC, SBS, Seven, Nine, Ten, Regionals)",
+          "article_title": "Seven Network",
+          "href": "file:///C:/Users/andrew/PROJECTS/iptv/temp/XTENDED%20IPTV%20MASTER%20SECTIONS.html#au-freeview"
+        }
+      ],
+      "logo_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/6/6b/Seven_Network_logo_2019.svg"
+      ],
+      "source_notes": [
+        "Main Seven Network channel."
+      ],
+      "scope_hint": "core",
+      "notes": "Main Seven Network channel.",
+      "review": {
+        "decision": "include",
+        "target_group": "AU • Seeded",
+        "notes": "Auto-seeded from country and scope hint."
+      }
+    }
+  ]
+}

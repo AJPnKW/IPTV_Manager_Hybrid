@@ -1,0 +1,194 @@
+sources:
+  # 🇺🇸 United States
+  - name: m3u_US_main
+    type: m3u
+    country: US
+    category: General
+    url: https://freetv.fun/test_channels_united_states_new.m3u
+    enabled: true
+
+  - name: epg_US_main
+    type: epg
+    country: US
+    category: Standard
+    url: https://epg.pw/xmltv/epg_US.xml
+    enabled: true
+
+  - name: epg_US_main_gz
+    type: epg
+    country: US
+    category: Standard
+    url: https://epg.pw/xmltv/epg_US.xml.gz
+    enabled: true
+
+  - name: epg_US_ripper_2
+    type: epg
+    country: US
+    category: Ripper
+    url: https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz
+    enabled: true
+
+  - name: epg_US_locals
+    type: epg
+    country: US
+    category: Ripper
+    url: https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz
+    enabled: true
+
+  - name: epg_POWERNATION
+    type: epg
+    country: US
+    category: Ripper
+    url: https://epgshare01.online/epgshare01/epg_ripper_POWERNATION1.xml.gz
+    enabled: true
+
+  # 🇨🇦 Canada
+  - name: m3u_CA_backup
+    type: m3u
+    country: CA
+    category: General
+    url: https://freetv.fun/test_channels_canada_new.m3u
+    enabled: true
+
+  - name: epg_CA_main
+    type: epg
+    country: CA
+    category: Standard
+    url: https://epg.pw/xmltv/epg_CA.xml
+    enabled: true
+
+  - name: epg_CA_main_gz
+    type: epg
+    country: CA
+    category: Standard
+    url: https://epg.pw/xmltv/epg_CA.xml.gz
+    enabled: true
+
+  - name: epg_CA_ripper_1
+    type: epg
+    country: CA
+    category: Ripper
+    url: https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz
+    enabled: true
+
+  - name: epg_CA_ripper_2
+    type: epg
+    country: CA
+    category: Ripper
+    url: https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz
+    enabled: true
+
+  # 🇬🇧 United Kingdom
+  - name: m3u_GB_main
+    type: m3u
+    country: GB
+    category: General
+    url: https://freetv.fun/test_channels_united_kingdom_new.m3u
+    enabled: true
+
+  - name: epg_GB_main
+    type: epg
+    country: GB
+    category: Standard
+    url: https://epg.pw/xmltv/epg_GB.xml
+    enabled: true
+
+  - name: epg_GB_main_gz
+    type: epg
+    country: GB
+    category: Standard
+    url: https://epg.pw/xmltv/epg_GB.xml.gz
+    enabled: true
+
+  - name: epg_UK_ripper_1
+    type: epg
+    country: GB
+    category: Ripper
+    url: https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz
+    enabled: true
+
+  # 🇦🇺 Australia
+  - name: m3u_AU_main
+    type: m3u
+    country: AU
+    category: General
+    url: https://freetv.fun/test_channels_australia_new.m3u
+    enabled: true
+
+  - name: epg_AU_main
+    type: epg
+    country: AU
+    category: Standard
+    url: https://epg.pw/xmltv/epg_AU.xml
+    enabled: true
+
+  - name: epg_AU_main_gz
+    type: epg
+    country: AU
+    category: Standard
+    url: https://epg.pw/xmltv/epg_AU.xml.gz
+    enabled: true
+
+  - name: epg_AU_ripper_1
+    type: epg
+    country: AU
+    category: Ripper
+    url: https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz
+    enabled: true
+
+  # 🌐 Global / Other
+  - name: epg_global_full
+    type: epg
+    country: GLOBAL
+    category: Full
+    url: https://epg.pw/xmltv/epg.xml.gz
+    enabled: true
+
+  - name: epg_global_lite
+    type: epg
+    country: GLOBAL
+    category: Lite
+    url: https://epg.pw/xmltv/epg_lite.xml.gz
+    enabled: true
+
+  - name: epg_RAKUTEN_EN
+    type: epg
+    country: GLOBAL
+    category: Ripper
+    url: https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz
+    enabled: true
+
+  - name: epg_mjh_nzau
+    type: epg
+    country: NZ/AU
+    category: Regional
+    url: https://i.mjh.nz/nzau/epg.xml.gz
+    enabled: true
+
+  - name: epg_tvguide_com
+    type: epg
+    country: US
+    category: External
+    url: https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml
+    enabled: true
+
+  - name: m3u_movies
+    type: m3u
+    country: GLOBAL
+    category: Movies
+    url: https://freetv.fun/test_channels_movies_new.m3u
+    enabled: true
+
+  - name: m3u_entertainment
+    type: m3u
+    country: GLOBAL
+    category: Entertainment
+    url: https://freetv.fun/test_channels_entertainment_new.m3u
+    enabled: true
+
+  - name: m3u_generic
+    type: m3u
+    country: GLOBAL
+    category: Generic
+    url: https://freetv.fun/test_channels_generic_new.m3u
+    enabled: true

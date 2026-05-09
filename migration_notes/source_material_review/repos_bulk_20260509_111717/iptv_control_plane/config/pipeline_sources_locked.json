@@ -1,0 +1,22 @@
+﻿[
+    {
+        "label":  "canonical_m3u_sources",
+        "path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\inputs\\m3u_sources",
+        "mode":  "active_input"
+    },
+    {
+        "label":  "canonical_free_epg",
+        "path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\inputs\\free_epg",
+        "mode":  "active_input"
+    },
+    {
+        "label":  "legacy_review_input",
+        "path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\inputs\\review_from_legacy_load_files",
+        "mode":  "review_input"
+    },
+    {
+        "label":  "paid_xmltv_reference",
+        "path":  "C:\\Users\\andrew\\PROJECTS\\GitHub\\get_xmltvlisting\\IPTV",
+        "mode":  "reference_only"
+    }
+]

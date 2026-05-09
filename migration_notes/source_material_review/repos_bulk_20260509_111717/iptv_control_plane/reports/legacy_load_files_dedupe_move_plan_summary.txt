@@ -1,0 +1,28 @@
+﻿legacy_load_files_dedupe_move_plan
+target_root=C:\Users\andrew\PROJECTS\iptv\inputs\review_from_legacy_load_files
+quarantine_root=C:\Users\andrew\PROJECTS\iptv_quarantine\pending_review\legacy_load_files_dedupe
+duplicate_groups=12
+total_rows=24
+keep_in_place=12
+move_to_quarantine_review=12
+target_conflicts=0
+
+by_normalized_name
+
+normalized_name                          overlap_rows keep_in_place move_to_quarantine_review target_conflicts
+---------------                          ------------ ------------- ------------------------- ----------------
+playlist_local_us                                   2             1                         1                0
+playlist_iptv_org_us                                2             1                         1                0
+playlist_iptv_org_index                             2             1                         1                0
+usa_british_drama_alliptvlinks_com                  2             1                         1                0
+usa_britbox_mysteries_alliptvlinks_com              2             1                         1                0
+step4_url_health_20251226_234610_preview            2             1                         1                0
+localnow                                            2             1                         1                0
+consolidated_20251105_060832                        2             1                         1                0
+ca_iptv_file_1_28_08_2025                           2             1                         1                0
+playlist_apsattv_localnow                           2             1                         1                0
+playlist_apsattv_distro                             2             1                         1                0
+merged                                              2             1                         1                0
+
+
+

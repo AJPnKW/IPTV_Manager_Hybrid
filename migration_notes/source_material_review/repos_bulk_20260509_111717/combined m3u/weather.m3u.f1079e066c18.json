@@ -1,0 +1,29 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\weather.m3u",
+  "provider": "Weather",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Meteomedia (Weather) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Meteomedia",
+        "group_title_raw": "Weather",
+        "logo_raw": "https://s1.twnmm.com/images/en_ca/mobile/logos/twn-mobile-logo.png",
+        "stream_url": "http://encodercdn1.frontline.ca/encoder181/output/Meteo_Media_720p/playlist.m3u8",
+        "xmltv_id": "MeteoMedia.ca",
+        "xmltv_display_name": "Meteomedia",
+        "xmltv_network": null,
+        "xmltv_logo": "https://s1.twnmm.com/images/en_ca/mobile/logos/twn-mobile-logo.png",
+        "xmltv_categories": [
+          "Weather"
+        ]
+      }
+    }
+  ]
+}

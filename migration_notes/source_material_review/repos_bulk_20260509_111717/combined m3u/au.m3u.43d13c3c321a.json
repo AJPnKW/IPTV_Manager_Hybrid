@@ -1,0 +1,920 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\au.m3u",
+  "provider": "Au",
+  "country": "AU",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "2gb (Au) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "2GB Sydney (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+        "xmltv_id": "2GB.au",
+        "xmltv_display_name": "2GB Sydney (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "3aw (Au) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "3AW Melbourne (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
+        "xmltv_id": "3AW.au",
+        "xmltv_display_name": "3AW Melbourne (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "3 Tamil Tv Not 24 7 (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "3 Tamil TV (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+        "xmltv_id": "3TamilTV.au",
+        "xmltv_display_name": "3 Tamil TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "6pr (Au) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "6PR Perth (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+        "xmltv_id": "6PR.au",
+        "xmltv_display_name": "6PR Perth (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "9gem Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "9Gem (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8",
+        "xmltv_id": "9GemSydney.au",
+        "xmltv_display_name": "9Gem (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "9go Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "9Go! (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8",
+        "xmltv_id": "9GoSydney.au",
+        "xmltv_display_name": "9Go! (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "9life Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "9Life (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8",
+        "xmltv_id": "9LifeSydney.au",
+        "xmltv_display_name": "9Life (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "9rush Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "9Rush (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8",
+        "xmltv_id": "9RushSydney.au",
+        "xmltv_display_name": "9Rush (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "10 Bold Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "10 Bold (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://i.mjh.nz/10bold-nsw.m3u8",
+        "xmltv_id": "10BoldSydney.au",
+        "xmltv_display_name": "10 Bold (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "10 Peach Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "10 Peach (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://i.mjh.nz/10peach-nsw.m3u8",
+        "xmltv_id": "10PeachSydney.au",
+        "xmltv_display_name": "10 Peach (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Me (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC Me (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-me.m3u8",
+        "xmltv_id": "ABCMESydney.au",
+        "xmltv_display_name": "ABC Me (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC News Australia (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC News Australia (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
+        "xmltv_id": "ABCNewsSydney.au",
+        "xmltv_display_name": "ABC News Australia (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Tv (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV Adelaide (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-sa.m3u8",
+        "xmltv_id": "ABCTVSA.au",
+        "xmltv_display_name": "ABC TV Adelaide (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Tv (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV Brisbane (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-qld.m3u8",
+        "xmltv_id": "ABCTVQLD.au",
+        "xmltv_display_name": "ABC TV Brisbane (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Tv (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV Canberra (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-act.m3u8",
+        "xmltv_id": "ABCTVACT.au",
+        "xmltv_display_name": "ABC TV Canberra (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Tv (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV Darwin (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-nt.m3u8",
+        "xmltv_id": "ABCTVNT.au",
+        "xmltv_display_name": "ABC TV Darwin (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Tv (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV Hobart (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-tas.m3u8",
+        "xmltv_id": "ABCTVTAS.au",
+        "xmltv_display_name": "ABC TV Hobart (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Tv (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV Melbourne (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-vic.m3u8",
+        "xmltv_id": "ABCTVVIC.au",
+        "xmltv_display_name": "ABC TV Melbourne (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Tv (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV Perth (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-wa.m3u8",
+        "xmltv_id": "ABCTVWA.au",
+        "xmltv_display_name": "ABC TV Perth (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Tv Plus (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV Plus (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-tv-plus.m3u8",
+        "xmltv_id": "ABCTVPlusSydney.au",
+        "xmltv_display_name": "ABC TV Plus (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "ABC Tv (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC TV Sydney (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://c.mjh.nz/abc-nsw.m3u8",
+        "xmltv_id": "ABCTVNSW.au",
+        "xmltv_display_name": "ABC TV Sydney (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Aus Tamil Tv Not 24 7 (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "AUS Tamil TV (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8",
+        "xmltv_id": "AUSTamilTV.au",
+        "xmltv_display_name": "AUS Tamil TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ausbiz Tv Not 24 7 (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ausbiz TV (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+        "xmltv_id": "AusbizTV.au",
+        "xmltv_display_name": "ausbiz TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Bloomberg Tv Australia 270p (Au) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Bloomberg TV Australia (270p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bloomberg.com/media-manifest/streams/aus.m3u8",
+        "xmltv_id": "BloombergTVAustralia.au",
+        "xmltv_display_name": "Bloomberg TV Australia (270p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "C31 240p (Au) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "C31 Melbourne (240p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8",
+        "xmltv_id": "C31Melbourne.au",
+        "xmltv_display_name": "C31 Melbourne (240p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Channel 7 Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Channel 7 (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8",
+        "xmltv_id": "Channel7Sydney.au",
+        "xmltv_display_name": "Channel 7 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Channel 9 Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Channel 9 Adelaide (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8",
+        "xmltv_id": "Channel9Adelaide.au",
+        "xmltv_display_name": "Channel 9 Adelaide (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Channel 9 Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Channel 9 Brisbane (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8",
+        "xmltv_id": "Channel9Brisbane.au",
+        "xmltv_display_name": "Channel 9 Brisbane (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Channel 9 Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Channel 9 Melbourne (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8",
+        "xmltv_id": "Channel9Melbourne.au",
+        "xmltv_display_name": "Channel 9 Melbourne (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Channel 9 Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Channel 9 Perth (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8",
+        "xmltv_id": "Channel9Perth.au",
+        "xmltv_display_name": "Channel 9 Perth (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Channel 9 Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Channel 9 Sydney (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8",
+        "xmltv_id": "Channel9Sydney.au",
+        "xmltv_display_name": "Channel 9 Sydney (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Channel 10 Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Channel 10 (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://i.mjh.nz/10-nsw.m3u8",
+        "xmltv_id": "10Sydney.au",
+        "xmltv_display_name": "Channel 10 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Channel 44 (Au) (480p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Channel 44 (480p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8",
+        "xmltv_id": "Channel44.au",
+        "xmltv_display_name": "Channel 44 (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Expo Channel (Au) (360p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Expo Channel (360p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+        "xmltv_id": "ExpoChannel.au",
+        "xmltv_display_name": "Expo Channel (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Hope Channel Australia (Au) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hope Channel Australia (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8",
+        "xmltv_id": "HopeChannelAustralia.au",
+        "xmltv_display_name": "Hope Channel Australia (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Jonmobhumi Tv Not 24 7 (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "JonmoBhumi TV (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8",
+        "xmltv_id": "JonmoBhumiTV.au",
+        "xmltv_display_name": "JonmoBhumi TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "M4tv Malayalam Not 24 7 (Au) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "M4TV Malayalam (1080p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://app.m4stream.live/mfourmalayalamhls/live.m3u8",
+        "xmltv_id": "M4TVMalayalam.au",
+        "xmltv_display_name": "M4TV Malayalam (1080p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Race Central Tv Not 24 7 (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Race Central TV (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Race Central TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Racing Com (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Racing.com (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
+        "xmltv_id": "Racingcom.au",
+        "xmltv_display_name": "Racing.com (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sky News Extra 1 540p (Au) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sky News Extra 1 (540p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+        "xmltv_id": "SkyNewsExtra1.au",
+        "xmltv_display_name": "Sky News Extra 1 (540p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sky News Extra 2 540p Not 24 7 (Au) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Sky News Extra 2 (540p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8",
+        "xmltv_id": "SkyNewsExtra2.au",
+        "xmltv_display_name": "Sky News Extra 2 (540p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sky News Extra 3 (Au) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sky News Extra 3 (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+        "xmltv_id": "SkyNewsExtra3.au",
+        "xmltv_display_name": "Sky News Extra 3 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sky Racing 1 Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Racing 1 (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8",
+        "xmltv_id": "SkyRacing1.au",
+        "xmltv_display_name": "Sky Racing 1 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sky Racing 2 Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Racing 2 (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8",
+        "xmltv_id": "SkyRacing2.au",
+        "xmltv_display_name": "Sky Racing 2 (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Sky Thoroughbred Central Geo Blocked (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Sky Thoroughbred Central (720p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8",
+        "xmltv_id": "SkyThoroughbredCentral.au",
+        "xmltv_display_name": "Sky Thoroughbred Central (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ticker News (Au) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ticker News (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8",
+        "xmltv_id": "tickerNews.au",
+        "xmltv_display_name": "Ticker News (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Travel Food Tv (Au) (720p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Travel & Food TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Travel & Food TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tvsn (Au) (1080p) [AU]",
+      "canonical_network": null,
+      "canonical_country": "AU",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TVSN (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+        "xmltv_id": "TVSN.au",
+        "xmltv_display_name": "TVSN (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

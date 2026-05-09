@@ -1,0 +1,31 @@
+﻿quarantine_move_plan
+total_candidate_files=80388
+total_candidate_bytes=4577459159
+existing_target_conflicts=0
+quarantine_root=C:\Users\andrew\PROJECTS\iptv_quarantine\pending_review
+
+by_root
+
+candidate_root                                                             file_count total_bytes existing_target_conflicts
+--------------                                                             ---------- ----------- -------------------------
+C:\Users\andrew\PROJECTS\iptv\temp\Collections-IPTV-files\copied_from_repo      56151  2557165460                         0
+C:\X1_Share\Tivimate\archived\epg_inventory_non_channels                        22270  1856170308                         0
+C:\X1_Share\Tivimate\archived\epg_inventory_non_region                           1400    30650560                         0
+C:\X1_Share\Tivimate\archived\Other_Countries                                     366    76123301                         0
+C:\X1_Share\Tivimate\m3u temp files                                               201    57349530                         0
+
+
+
+
+by_extension
+
+Count Name 
+----- ---- 
+78859 .xml 
+ 1240 .m3u 
+  182 .gz  
+  106 .m3u8
+    1 .ini 
+
+
+

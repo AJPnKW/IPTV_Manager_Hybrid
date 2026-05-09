@@ -1,0 +1,176 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_ca_samsung.m3u",
+  "provider": "Playlistsrc",
+  "country": "CA",
+  "region": "Samsung",
+  "channels": [
+    {
+      "canonical_name": "Drybar Comedy Undefined (Playlistsrc) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "DryBar Comedy",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "DryBar Comedy",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Jack Hannah Channel Undefined (Playlistsrc) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "The Jack Hannah Channel",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Jack Hannah Channel",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Baywatch Series (Playlistsrc) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Baywatch",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/c2esKHg.png",
+        "stream_url": "https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8",
+        "xmltv_id": "Baywatch.us",
+        "xmltv_display_name": "Baywatch",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/c2esKHg.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Haunt Tv Entertainment (Playlistsrc) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Haunt TV",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://yt3.googleusercontent.com/ytc/AIdro_kFORSMlXKT0V9fBpkp5TS7VbpwlNC6XbfZxrSSWUt1UA=s512-c-k-c0x00ffffff-no-rj",
+        "stream_url": "https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8",
+        "xmltv_id": "HauntTV.us",
+        "xmltv_display_name": "Haunt TV",
+        "xmltv_network": null,
+        "xmltv_logo": "https://yt3.googleusercontent.com/ytc/AIdro_kFORSMlXKT0V9fBpkp5TS7VbpwlNC6XbfZxrSSWUt1UA=s512-c-k-c0x00ffffff-no-rj",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Heartland Entertainment (Playlistsrc) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "Heartland",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/djCq2Z5.png",
+        "stream_url": "https://d76toswjmqqzm.cloudfront.net/playlist.m3u8",
+        "xmltv_id": "Heartland.us@Web",
+        "xmltv_display_name": "Heartland",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/djCq2Z5.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Inwonder Science (Playlistsrc) (720p) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "InWonder (720p)",
+        "group_title_raw": "Science",
+        "logo_raw": "https://i.imgur.com/7kOhGef.png",
+        "stream_url": "https://inwonder-samsung-canada.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InWonder.nl",
+        "xmltv_display_name": "InWonder (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/7kOhGef.png",
+        "xmltv_categories": [
+          "Science"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mhz Entertainment (Playlistsrc) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "MHZ",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/a5fw83n.jpg",
+        "stream_url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "MHZ.ca",
+        "xmltv_display_name": "MHZ",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/a5fw83n.jpg",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "People Are Awesome Entertainment (Playlistsrc) [CA]",
+      "canonical_network": null,
+      "canonical_country": "CA",
+      "canonical_region": "Samsung",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "People are Awesome",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/MsIx7Ax.png",
+        "stream_url": "https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8",
+        "xmltv_id": "PeopleAreAwesome.us",
+        "xmltv_display_name": "People are Awesome",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/MsIx7Ax.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    }
+  ]
+}

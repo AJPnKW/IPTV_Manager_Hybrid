@@ -1,0 +1,540 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\us_adultswim.m3u",
+  "provider": "Usadultswim",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Adult Swim Aqua Teen Hunger Force Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8",
+        "xmltv_id": "AdultSwimAquaTeenHungerForce.us",
+        "xmltv_display_name": "Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Black Jesus Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Black Jesus (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8",
+        "xmltv_id": "AdultSwimBlackJesus.us",
+        "xmltv_display_name": "Adult Swim Black Jesus (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Channel 5 Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Channel 5 (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
+        "xmltv_id": "AdultSwimChannel5.us",
+        "xmltv_display_name": "Adult Swim Channel 5 (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Daily Animated Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Daily Animated (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Adult Swim Daily Animated (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Daily Live Action Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Daily Live Action (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Adult Swim Daily Live Action (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Dream Corp Llc Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Dream Corp LLC (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8",
+        "xmltv_id": "AdultSwimDreamCorpLLC.us",
+        "xmltv_display_name": "Adult Swim Dream Corp LLC (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Home Movies Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Home Movies (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Adult Swim Home Movies (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Infomercials Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Infomercials (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8",
+        "xmltv_id": "AdultSwimInfomercials.us",
+        "xmltv_display_name": "Adult Swim Infomercials (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Last Stream On The Left Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Last Stream On The Left (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8",
+        "xmltv_id": "AdultSwimLastStreamOnTheLeft.us",
+        "xmltv_display_name": "Adult Swim Last Stream On The Left (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Metalocalypse Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Metalocalypse (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8",
+        "xmltv_id": "AdultSwimMetalocalypse.us",
+        "xmltv_display_name": "Adult Swim Metalocalypse (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Mr Pickles Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Mr. Pickles (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Adult Swim Mr. Pickles (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Off The Air Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Off The Air (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8",
+        "xmltv_id": "AdultSwimOffTheAir.us",
+        "xmltv_display_name": "Adult Swim Off The Air (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Primal Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Primal (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Adult Swim Primal (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Rick And Morty Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Rick and Morty (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8",
+        "xmltv_id": "AdultSwimRickandMorty.us",
+        "xmltv_display_name": "Adult Swim Rick and Morty (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Robot Chicken Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Robot Chicken (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8",
+        "xmltv_id": "AdultSwimRobotChicken.us",
+        "xmltv_display_name": "Adult Swim Robot Chicken (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Samurai Jack Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Samurai Jack (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8",
+        "xmltv_id": "AdultSwimSamuraiJack.us",
+        "xmltv_display_name": "Adult Swim Samurai Jack (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Squidbillies Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Squidbillies (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Adult Swim Squidbillies (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Superjail Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Superjail! (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Adult Swim Superjail! (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim The Eric Andre Show Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim The Eric Andre Show (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8",
+        "xmltv_id": "AdultSwimTheEricAndreShow.us",
+        "xmltv_display_name": "Adult Swim The Eric Andre Show (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim The Venture Bros Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim The Venture Bros. (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8",
+        "xmltv_id": "AdultSwimTheVentureBros.us",
+        "xmltv_display_name": "Adult Swim The Venture Bros. (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Tim And Eric Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Tim and Eric (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Adult Swim Tim and Eric (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Williams Stream Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Williams Stream (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Adult Swim Williams Stream (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Adult Swim Your Pretty Face Is Going To Hell Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Adult Swim Your Pretty Face Is Going To Hell (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8",
+        "xmltv_id": "AdultSwimYourPrettyFaceIsGoingToHell.us",
+        "xmltv_display_name": "Adult Swim Your Pretty Face Is Going To Hell (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Test Channel 1 Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "test Channel 1 (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/test-1/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "test Channel 1 (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Test Channel 3 Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "test Channel 3 (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/test-3/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "test Channel 3 (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Test Channel 4 Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "test Channel 4 (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/test-4/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "test Channel 4 (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Test Channel 5 Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "test Channel 5 (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/test-5/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "test Channel 5 (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Toonami Geo Blocked (Usadultswim) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Toonami (1080p) [Geo-blocked]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Toonami (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1605 @@
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                .venv
+d----          2025-08-19  1:11 PM                archive
+d----          2025-08-19  1:11 PM                backups
+d----          2025-08-19  1:11 PM                cache
+d----          2025-08-19  1:11 PM                config
+d----          2025-08-19  1:11 PM                data
+d----          2025-08-19  1:11 PM                docs
+d----          2025-08-19  1:11 PM                logs
+d----          2025-08-19  1:11 PM                outputs
+d----          2025-08-19  1:11 PM                results
+d----          2025-08-19  1:11 PM                scripts
+d----          2025-08-19  1:11 PM                secrets
+d----          2025-08-19  1:16 PM                src
+d----          2025-08-19  1:11 PM                tests
+d----          2025-08-19  1:11 PM                tmp
+d----          2025-08-19  1:11 PM                webapp
+-a---          2025-08-19  1:11 PM            211 .gitignore
+-a---          2025-08-19  1:18 PM              0 output.txt
+-a---          2025-08-19  1:11 PM             69 requirements.txt
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                Include
+d----          2025-08-19  1:13 PM                Lib
+d----          2025-08-19  1:13 PM                Scripts
+-a---          2025-08-19  1:13 PM             71 .gitignore
+-a---          2025-08-19  1:13 PM            208 pyvenv.cfg
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                site-packages
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                pip
+d----          2025-08-19  1:13 PM                pip-25.1.1.dist-info
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                _internal
+d----          2025-08-19  1:13 PM                _vendor
+-a---          2025-08-19  1:13 PM            357 __init__.py
+-a---          2025-08-19  1:13 PM            854 __main__.py
+-a---          2025-08-19  1:13 PM           1450 __pip-runner__.py
+-a---          2025-08-19  1:13 PM            286 py.typed
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                cli
+d----          2025-08-19  1:13 PM                commands
+d----          2025-08-19  1:13 PM                distributions
+d----          2025-08-19  1:13 PM                index
+d----          2025-08-19  1:13 PM                locations
+d----          2025-08-19  1:13 PM                metadata
+d----          2025-08-19  1:13 PM                models
+d----          2025-08-19  1:13 PM                network
+d----          2025-08-19  1:13 PM                operations
+d----          2025-08-19  1:13 PM                req
+d----          2025-08-19  1:13 PM                resolution
+d----          2025-08-19  1:13 PM                utils
+d----          2025-08-19  1:13 PM                vcs
+-a---          2025-08-19  1:13 PM            513 __init__.py
+-a---          2025-08-19  1:13 PM          10924 build_env.py
+-a---          2025-08-19  1:13 PM          10368 cache.py
+-a---          2025-08-19  1:13 PM          14005 configuration.py
+-a---          2025-08-19  1:13 PM          28464 exceptions.py
+-a---          2025-08-19  1:13 PM            340 main.py
+-a---          2025-08-19  1:13 PM           7286 pyproject.py
+-a---          2025-08-19  1:13 PM           8318 self_outdated_check.py
+-a---          2025-08-19  1:13 PM          11212 wheel_builder.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\cli
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            131 __init__.py
+-a---          2025-08-19  1:13 PM           6864 autocompletion.py
+-a---          2025-08-19  1:13 PM           8351 base_command.py
+-a---          2025-08-19  1:13 PM          31909 cmdoptions.py
+-a---          2025-08-19  1:13 PM            774 command_context.py
+-a---          2025-08-19  1:13 PM           5720 index_command.py
+-a---          2025-08-19  1:13 PM           4337 main_parser.py
+-a---          2025-08-19  1:13 PM           2816 main.py
+-a---          2025-08-19  1:13 PM          10825 parser.py
+-a---          2025-08-19  1:13 PM           4435 progress_bars.py
+-a---          2025-08-19  1:13 PM          12934 req_command.py
+-a---          2025-08-19  1:13 PM           5118 spinners.py
+-a---          2025-08-19  1:13 PM            116 status_codes.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\cli\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            279 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8963 autocompletion.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10458 base_command.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          31937 cmdoptions.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1874 command_context.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7502 index_command.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5004 main_parser.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2301 main.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          15382 parser.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5735 progress_bars.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12914 req_command.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8180 spinners.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            379 status_codes.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\commands
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM           4009 __init__.py
+-a---          2025-08-19  1:13 PM           8107 cache.py
+-a---          2025-08-19  1:13 PM           2268 check.py
+-a---          2025-08-19  1:13 PM           4554 completion.py
+-a---          2025-08-19  1:13 PM           9766 configuration.py
+-a---          2025-08-19  1:13 PM           6797 debug.py
+-a---          2025-08-19  1:13 PM           5273 download.py
+-a---          2025-08-19  1:13 PM           3144 freeze.py
+-a---          2025-08-19  1:13 PM           1703 hash.py
+-a---          2025-08-19  1:13 PM           1132 help.py
+-a---          2025-08-19  1:13 PM           5068 index.py
+-a---          2025-08-19  1:13 PM           3189 inspect.py
+-a---          2025-08-19  1:13 PM          29757 install.py
+-a---          2025-08-19  1:13 PM          13274 list.py
+-a---          2025-08-19  1:13 PM           5941 lock.py
+-a---          2025-08-19  1:13 PM           5784 search.py
+-a---          2025-08-19  1:13 PM           8028 show.py
+-a---          2025-08-19  1:13 PM           3892 uninstall.py
+-a---          2025-08-19  1:13 PM           6346 wheel.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\commands\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           4126 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10088 cache.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2686 check.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5497 completion.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          13234 configuration.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10292 debug.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7553 download.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4403 freeze.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3035 hash.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1749 help.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7039 index.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4038 inspect.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          29756 install.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          16972 list.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8042 lock.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7906 search.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          11474 show.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4774 uninstall.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8887 wheel.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\distributions
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            858 __init__.py
+-a---          2025-08-19  1:13 PM           1783 base.py
+-a---          2025-08-19  1:13 PM            842 installed.py
+-a---          2025-08-19  1:13 PM           6751 sdist.py
+-a---          2025-08-19  1:13 PM           1317 wheel.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\distributions\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            967 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2907 base.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1758 installed.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8635 sdist.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2347 wheel.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\index
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM             29 __init__.py
+-a---          2025-08-19  1:13 PM          16265 collector.py
+-a---          2025-08-19  1:13 PM          38446 package_finder.py
+-a---          2025-08-19  1:13 PM           8632 sources.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\index\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            233 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          21837 collector.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          40933 package_finder.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12757 sources.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\locations
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM          14309 __init__.py
+-a---          2025-08-19  1:13 PM           6013 _distutils.py
+-a---          2025-08-19  1:13 PM           7724 _sysconfig.py
+-a---          2025-08-19  1:13 PM           2556 base.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\locations\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM          16139 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6901 _distutils.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8136 _sysconfig.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3772 base.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\metadata
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                importlib
+-a---          2025-08-19  1:13 PM           5723 __init__.py
+-a---          2025-08-19  1:13 PM           2707 _json.py
+-a---          2025-08-19  1:13 PM          25467 base.py
+-a---          2025-08-19  1:13 PM          10542 pkg_resources.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\metadata\importlib
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            135 __init__.py
+-a---          2025-08-19  1:13 PM           2796 _compat.py
+-a---          2025-08-19  1:13 PM           8279 _dists.py
+-a---          2025-08-19  1:13 PM           5297 _envs.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\metadata\importlib\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            362 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4540 _compat.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          13117 _dists.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8160 _envs.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\metadata\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           6634 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3016 _json.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          34644 base.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          16324 pkg_resources.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\models
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM             62 __init__.py
+-a---          2025-08-19  1:13 PM            753 candidate.py
+-a---          2025-08-19  1:13 PM           6576 direct_url.py
+-a---          2025-08-19  1:13 PM           2486 format_control.py
+-a---          2025-08-19  1:13 PM           1030 index.py
+-a---          2025-08-19  1:13 PM           2818 installation_report.py
+-a---          2025-08-19  1:13 PM          21511 link.py
+-a---          2025-08-19  1:13 PM           6196 pylock.py
+-a---          2025-08-19  1:13 PM            575 scheme.py
+-a---          2025-08-19  1:13 PM           4531 search_scope.py
+-a---          2025-08-19  1:13 PM           2015 selection_prefs.py
+-a---          2025-08-19  1:13 PM           4271 target_python.py
+-a---          2025-08-19  1:13 PM           5506 wheel.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\models\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            267 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1666 candidate.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          11003 direct_url.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4260 format_control.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1769 index.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2381 installation_report.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          27154 link.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8358 pylock.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1071 scheme.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5111 search_scope.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1834 selection_prefs.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4835 target_python.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7474 wheel.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\network
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM             49 __init__.py
+-a---          2025-08-19  1:13 PM          20809 auth.py
+-a---          2025-08-19  1:13 PM           4613 cache.py
+-a---          2025-08-19  1:13 PM          11078 download.py
+-a---          2025-08-19  1:13 PM           7622 lazy_wheel.py
+-a---          2025-08-19  1:13 PM          18771 session.py
+-a---          2025-08-19  1:13 PM           4088 utils.py
+-a---          2025-08-19  1:13 PM           1837 xmlrpc.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\network\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            255 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          22566 auth.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7203 cache.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12844 download.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          11506 lazy_wheel.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          19202 session.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2299 utils.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3045 xmlrpc.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\operations
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                build
+d----          2025-08-19  1:13 PM                install
+-a---          2025-08-19  1:13 PM              0 __init__.py
+-a---          2025-08-19  1:13 PM           5911 check.py
+-a---          2025-08-19  1:13 PM           9843 freeze.py
+-a---          2025-08-19  1:13 PM          28363 prepare.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\operations\build
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM              0 __init__.py
+-a---          2025-08-19  1:13 PM           4774 build_tracker.py
+-a---          2025-08-19  1:13 PM           1509 metadata_editable.py
+-a---          2025-08-19  1:13 PM           2189 metadata_legacy.py
+-a---          2025-08-19  1:13 PM           1421 metadata.py
+-a---          2025-08-19  1:13 PM           1417 wheel_editable.py
+-a---          2025-08-19  1:13 PM           3620 wheel_legacy.py
+-a---          2025-08-19  1:13 PM           1075 wheel.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\operations\build\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            207 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7745 build_tracker.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1912 metadata_editable.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2993 metadata_legacy.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1860 metadata.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2028 wheel_editable.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4382 wheel_legacy.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1687 wheel.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\operations\install
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM             50 __init__.py
+-a---          2025-08-19  1:13 PM           1282 editable_legacy.py
+-a---          2025-08-19  1:13 PM          27553 wheel.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\operations\install\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            267 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1796 editable_legacy.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          34716 wheel.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\operations\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            201 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7223 check.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10482 freeze.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          26717 prepare.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\req
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM           3096 __init__.py
+-a---          2025-08-19  1:13 PM          18430 constructors.py
+-a---          2025-08-19  1:13 PM           2677 req_dependency_group.py
+-a---          2025-08-19  1:13 PM          20234 req_file.py
+-a---          2025-08-19  1:13 PM          35788 req_install.py
+-a---          2025-08-19  1:13 PM           2858 req_set.py
+-a---          2025-08-19  1:13 PM          24075 req_uninstall.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\req\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           4143 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          21545 constructors.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4103 req_dependency_group.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          24613 req_file.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          39350 req_install.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5617 req_set.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          32838 req_uninstall.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\resolution
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                legacy
+d----          2025-08-19  1:13 PM                resolvelib
+-a---          2025-08-19  1:13 PM              0 __init__.py
+-a---          2025-08-19  1:13 PM            583 base.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\resolution\legacy
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM              0 __init__.py
+-a---          2025-08-19  1:13 PM          24068 resolver.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\resolution\legacy\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            208 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          22885 resolver.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM              0 __init__.py
+-a---          2025-08-19  1:13 PM           5023 base.py
+-a---          2025-08-19  1:13 PM          20241 candidates.py
+-a---          2025-08-19  1:13 PM          32668 factory.py
+-a---          2025-08-19  1:13 PM           6000 found_candidates.py
+-a---          2025-08-19  1:13 PM          11190 provider.py
+-a---          2025-08-19  1:13 PM           3260 reporter.py
+-a---          2025-08-19  1:13 PM           8065 requirements.py
+-a---          2025-08-19  1:13 PM          12785 resolver.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\resolution\resolvelib\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            212 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8269 base.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          30041 candidates.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          33149 factory.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6840 found_candidates.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          11035 provider.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5234 reporter.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          15745 requirements.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12561 resolver.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\resolution\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            201 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1251 base.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\utils
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM              0 __init__.py
+-a---          2025-08-19  1:13 PM           3350 _jaraco_text.py
+-a---          2025-08-19  1:13 PM           1015 _log.py
+-a---          2025-08-19  1:13 PM           1705 appdirs.py
+-a---          2025-08-19  1:13 PM           2399 compat.py
+-a---          2025-08-19  1:13 PM           6662 compatibility_tags.py
+-a---          2025-08-19  1:13 PM            241 datetime.py
+-a---          2025-08-19  1:13 PM           3707 deprecation.py
+-a---          2025-08-19  1:13 PM           3196 direct_url_helpers.py
+-a---          2025-08-19  1:13 PM           2463 egg_link.py
+-a---          2025-08-19  1:13 PM           3325 entrypoints.py
+-a---          2025-08-19  1:13 PM           4950 filesystem.py
+-a---          2025-08-19  1:13 PM            715 filetypes.py
+-a---          2025-08-19  1:13 PM           3734 glibc.py
+-a---          2025-08-19  1:13 PM           4972 hashes.py
+-a---          2025-08-19  1:13 PM          12076 logging.py
+-a---          2025-08-19  1:13 PM          23450 misc.py
+-a---          2025-08-19  1:13 PM           1603 packaging.py
+-a---          2025-08-19  1:13 PM           1392 retry.py
+-a---          2025-08-19  1:13 PM           4482 setuptools_build.py
+-a---          2025-08-19  1:13 PM           8988 subprocess.py
+-a---          2025-08-19  1:13 PM           9310 temp_dir.py
+-a---          2025-08-19  1:13 PM          11926 unpacking.py
+-a---          2025-08-19  1:13 PM           1599 urls.py
+-a---          2025-08-19  1:13 PM           3456 virtualenv.py
+-a---          2025-08-19  1:13 PM           4493 wheel.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\utils\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            196 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4442 _jaraco_text.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1915 _log.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2499 appdirs.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2934 compat.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6937 compatibility_tags.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            676 datetime.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4245 deprecation.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3635 direct_url_helpers.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3216 egg_link.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4190 entrypoints.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7437 filesystem.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1166 filetypes.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2451 glibc.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7735 hashes.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          14527 logging.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          33477 misc.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1869 packaging.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2111 retry.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4618 setuptools_build.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8869 subprocess.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12138 temp_dir.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          13773 unpacking.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2131 urls.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4471 virtualenv.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5888 wheel.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\vcs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            596 __init__.py
+-a---          2025-08-19  1:13 PM           3528 bazaar.py
+-a---          2025-08-19  1:13 PM          18591 git.py
+-a---          2025-08-19  1:13 PM           5249 mercurial.py
+-a---          2025-08-19  1:13 PM          11735 subversion.py
+-a---          2025-08-19  1:13 PM          22440 versioncontrol.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\vcs\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            535 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5140 bazaar.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          19420 git.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7602 mercurial.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12665 subversion.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          28294 versioncontrol.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_internal\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            781 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          15160 build_env.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12894 cache.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          17846 configuration.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          39920 exceptions.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            666 main.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5223 pyproject.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10567 self_outdated_check.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          13545 wheel_builder.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                cachecontrol
+d----          2025-08-19  1:13 PM                certifi
+d----          2025-08-19  1:13 PM                dependency_groups
+d----          2025-08-19  1:13 PM                distlib
+d----          2025-08-19  1:13 PM                distro
+d----          2025-08-19  1:13 PM                idna
+d----          2025-08-19  1:13 PM                msgpack
+d----          2025-08-19  1:13 PM                packaging
+d----          2025-08-19  1:13 PM                pkg_resources
+d----          2025-08-19  1:13 PM                platformdirs
+d----          2025-08-19  1:13 PM                pygments
+d----          2025-08-19  1:13 PM                pyproject_hooks
+d----          2025-08-19  1:13 PM                requests
+d----          2025-08-19  1:13 PM                resolvelib
+d----          2025-08-19  1:13 PM                rich
+d----          2025-08-19  1:13 PM                tomli
+d----          2025-08-19  1:13 PM                tomli_w
+d----          2025-08-19  1:13 PM                truststore
+d----          2025-08-19  1:13 PM                urllib3
+-a---          2025-08-19  1:13 PM           4907 __init__.py
+-a---          2025-08-19  1:13 PM         172702 typing_extensions.py
+-a---          2025-08-19  1:13 PM            373 vendor.txt
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\cachecontrol
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                caches
+-a---          2025-08-19  1:13 PM            677 __init__.py
+-a---          2025-08-19  1:13 PM           1737 _cmd.py
+-a---          2025-08-19  1:13 PM           6599 adapter.py
+-a---          2025-08-19  1:13 PM           1953 cache.py
+-a---          2025-08-19  1:13 PM          19101 controller.py
+-a---          2025-08-19  1:13 PM           4291 filewrapper.py
+-a---          2025-08-19  1:13 PM           4881 heuristics.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+-a---          2025-08-19  1:13 PM           5163 serialize.py
+-a---          2025-08-19  1:13 PM           1417 wrapper.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            303 __init__.py
+-a---          2025-08-19  1:13 PM           4117 file_cache.py
+-a---          2025-08-19  1:13 PM           1386 redis_cache.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\cachecontrol\caches\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            440 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7168 file_cache.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2821 redis_cache.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\cachecontrol\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            902 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2680 _cmd.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6855 adapter.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3932 cache.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          16854 controller.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4438 filewrapper.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6774 heuristics.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5369 serialize.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1699 wrapper.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\certifi
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM             94 __init__.py
+-a---          2025-08-19  1:13 PM            255 __main__.py
+-a---          2025-08-19  1:13 PM         297255 cacert.pem
+-a---          2025-08-19  1:13 PM           4486 core.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\certifi\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            323 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            652 __main__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3232 core.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\dependency_groups
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            250 __init__.py
+-a---          2025-08-19  1:13 PM           1709 __main__.py
+-a---          2025-08-19  1:13 PM           8041 _implementation.py
+-a---          2025-08-19  1:13 PM           1710 _lint_dependency_groups.py
+-a---          2025-08-19  1:13 PM           1865 _pip_wrapper.py
+-a---          2025-08-19  1:13 PM            285 _toml_compat.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\dependency_groups\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            382 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2684 __main__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           9655 _implementation.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2884 _lint_dependency_groups.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3455 _pip_wrapper.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            490 _toml_compat.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\distlib
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            625 __init__.py
+-a---          2025-08-19  1:13 PM          41467 compat.py
+-a---          2025-08-19  1:13 PM          51160 database.py
+-a---          2025-08-19  1:13 PM          20797 index.py
+-a---          2025-08-19  1:13 PM          51026 locators.py
+-a---          2025-08-19  1:13 PM          14168 manifest.py
+-a---          2025-08-19  1:13 PM           5164 markers.py
+-a---          2025-08-19  1:13 PM          38724 metadata.py
+-a---          2025-08-19  1:13 PM          10820 resources.py
+-a---          2025-08-19  1:13 PM          18608 scripts.py
+-a---          2025-08-19  1:13 PM          97792 t32.exe
+-a---          2025-08-19  1:13 PM         182784 t64-arm.exe
+-a---          2025-08-19  1:13 PM         108032 t64.exe
+-a---          2025-08-19  1:13 PM          66682 util.py
+-a---          2025-08-19  1:13 PM          23727 version.py
+-a---          2025-08-19  1:13 PM          91648 w32.exe
+-a---          2025-08-19  1:13 PM         168448 w64-arm.exe
+-a---          2025-08-19  1:13 PM         101888 w64.exe
+-a---          2025-08-19  1:13 PM          43979 wheel.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\distlib\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           1360 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          45856 compat.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          65230 database.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          23557 index.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          59534 locators.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          15029 manifest.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7690 markers.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          42573 metadata.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          17660 resources.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          20236 scripts.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          90108 util.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          30962 version.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          53774 wheel.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\distro
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            981 __init__.py
+-a---          2025-08-19  1:13 PM             64 __main__.py
+-a---          2025-08-19  1:13 PM          49430 distro.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\distro\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            965 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            299 __main__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          52146 distro.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\idna
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            868 __init__.py
+-a---          2025-08-19  1:13 PM           3422 codec.py
+-a---          2025-08-19  1:13 PM            316 compat.py
+-a---          2025-08-19  1:13 PM          13239 core.py
+-a---          2025-08-19  1:13 PM          78306 idnadata.py
+-a---          2025-08-19  1:13 PM           1898 intranges.py
+-a---          2025-08-19  1:13 PM             21 package_data.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+-a---          2025-08-19  1:13 PM         239289 uts46data.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\idna\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            891 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5315 codec.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            901 compat.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          16937 core.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          99481 idnadata.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2614 intranges.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            222 package_data.cpython-313.pyc
+-a---          2025-08-19  1:13 PM         159015 uts46data.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\msgpack
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM           1109 __init__.py
+-a---          2025-08-19  1:13 PM           1081 exceptions.py
+-a---          2025-08-19  1:13 PM           5726 ext.py
+-a---          2025-08-19  1:13 PM          32390 fallback.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\msgpack\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           1720 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2169 exceptions.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8098 ext.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          42071 fallback.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\packaging
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                licenses
+-a---          2025-08-19  1:13 PM            494 __init__.py
+-a---          2025-08-19  1:13 PM           3286 _elffile.py
+-a---          2025-08-19  1:13 PM           9596 _manylinux.py
+-a---          2025-08-19  1:13 PM           2694 _musllinux.py
+-a---          2025-08-19  1:13 PM          10221 _parser.py
+-a---          2025-08-19  1:13 PM           1431 _structures.py
+-a---          2025-08-19  1:13 PM           5310 _tokenizer.py
+-a---          2025-08-19  1:13 PM          12049 markers.py
+-a---          2025-08-19  1:13 PM          34739 metadata.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+-a---          2025-08-19  1:13 PM           2947 requirements.py
+-a---          2025-08-19  1:13 PM          40079 specifiers.py
+-a---          2025-08-19  1:13 PM          22745 tags.py
+-a---          2025-08-19  1:13 PM           5050 utils.py
+-a---          2025-08-19  1:13 PM          16688 version.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\packaging\licenses
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM           5727 __init__.py
+-a---          2025-08-19  1:13 PM          48398 _spdx.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\packaging\licenses\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           4314 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          47445 _spdx.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\packaging\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            563 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5222 _elffile.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10007 _manylinux.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4624 _musllinux.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          14192 _parser.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3358 _structures.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8113 _tokenizer.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          13097 markers.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          27368 metadata.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4639 requirements.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          37661 specifiers.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          24975 tags.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6763 utils.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          19972 version.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pkg_resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM         124463 __init__.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pkg_resources\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM         161595 __init__.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\platformdirs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM          22344 __init__.py
+-a---          2025-08-19  1:13 PM           1505 __main__.py
+-a---          2025-08-19  1:13 PM           9013 android.py
+-a---          2025-08-19  1:13 PM           9277 api.py
+-a---          2025-08-19  1:13 PM           6154 macos.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+-a---          2025-08-19  1:13 PM          10458 unix.py
+-a---          2025-08-19  1:13 PM            511 version.py
+-a---          2025-08-19  1:13 PM          10125 windows.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\platformdirs\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM          19370 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1937 __main__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10768 android.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          13473 api.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8833 macos.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          14769 unix.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            671 version.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          13787 windows.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pygments
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                filters
+d----          2025-08-19  1:13 PM                formatters
+d----          2025-08-19  1:13 PM                lexers
+d----          2025-08-19  1:13 PM                styles
+-a---          2025-08-19  1:13 PM           2983 __init__.py
+-a---          2025-08-19  1:13 PM            353 __main__.py
+-a---          2025-08-19  1:13 PM           1718 console.py
+-a---          2025-08-19  1:13 PM           1910 filter.py
+-a---          2025-08-19  1:13 PM           4390 formatter.py
+-a---          2025-08-19  1:13 PM          35349 lexer.py
+-a---          2025-08-19  1:13 PM           1005 modeline.py
+-a---          2025-08-19  1:13 PM           1891 plugin.py
+-a---          2025-08-19  1:13 PM           3072 regexopt.py
+-a---          2025-08-19  1:13 PM           3092 scanner.py
+-a---          2025-08-19  1:13 PM           7981 sphinxext.py
+-a---          2025-08-19  1:13 PM           6420 style.py
+-a---          2025-08-19  1:13 PM           6226 token.py
+-a---          2025-08-19  1:13 PM          63208 unistring.py
+-a---          2025-08-19  1:13 PM          10031 util.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pygments\filters
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM          40392 __init__.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pygments\filters\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM          37973 __init__.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pygments\formatters
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM           5385 __init__.py
+-a---          2025-08-19  1:13 PM           4176 _mapping.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pygments\formatters\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           6932 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4221 _mapping.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pygments\lexers
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM          12115 __init__.py
+-a---          2025-08-19  1:13 PM          77602 _mapping.py
+-a---          2025-08-19  1:13 PM          53853 python.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pygments\lexers\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM          14760 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          69850 _mapping.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          43048 python.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pygments\styles
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM           2042 __init__.py
+-a---          2025-08-19  1:13 PM           3312 _mapping.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pygments\styles\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           2643 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3654 _mapping.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pygments\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           3438 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            718 __main__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2606 console.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3232 filter.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4563 formatter.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          38479 lexer.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1579 modeline.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2553 plugin.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4102 regexopt.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4689 scanner.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12240 sphinxext.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6945 style.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8249 token.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          33027 unistring.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          14177 util.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                _in_process
+-a---          2025-08-19  1:13 PM            691 __init__.py
+-a---          2025-08-19  1:13 PM          14936 _impl.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            557 __init__.py
+-a---          2025-08-19  1:13 PM          12216 _in_process.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           1090 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          15515 _in_process.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            763 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          17733 _impl.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\requests
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM           5057 __init__.py
+-a---          2025-08-19  1:13 PM            435 __version__.py
+-a---          2025-08-19  1:13 PM           1495 _internal_utils.py
+-a---          2025-08-19  1:13 PM          27607 adapters.py
+-a---          2025-08-19  1:13 PM           6449 api.py
+-a---          2025-08-19  1:13 PM          10186 auth.py
+-a---          2025-08-19  1:13 PM            441 certs.py
+-a---          2025-08-19  1:13 PM           1485 compat.py
+-a---          2025-08-19  1:13 PM          18590 cookies.py
+-a---          2025-08-19  1:13 PM           4272 exceptions.py
+-a---          2025-08-19  1:13 PM           3813 help.py
+-a---          2025-08-19  1:13 PM            733 hooks.py
+-a---          2025-08-19  1:13 PM          35483 models.py
+-a---          2025-08-19  1:13 PM           1057 packages.py
+-a---          2025-08-19  1:13 PM          30495 sessions.py
+-a---          2025-08-19  1:13 PM           4322 status_codes.py
+-a---          2025-08-19  1:13 PM           2912 structures.py
+-a---          2025-08-19  1:13 PM          33631 utils.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\requests\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           5281 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            590 __version__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2024 _internal_utils.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          27477 adapters.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6876 api.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          14238 auth.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            686 certs.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1683 compat.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          25031 cookies.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8029 exceptions.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4267 help.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1098 hooks.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          35857 models.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1320 packages.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          27384 sessions.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6046 status_codes.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5649 structures.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          36520 utils.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\resolvelib
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                resolvers
+-a---          2025-08-19  1:13 PM            541 __init__.py
+-a---          2025-08-19  1:13 PM           8914 providers.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+-a---          2025-08-19  1:13 PM           2038 reporters.py
+-a---          2025-08-19  1:13 PM           6420 structs.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            640 __init__.py
+-a---          2025-08-19  1:13 PM           1558 abstract.py
+-a---          2025-08-19  1:13 PM           1768 criterion.py
+-a---          2025-08-19  1:13 PM           1768 exceptions.py
+-a---          2025-08-19  1:13 PM          20671 resolution.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            745 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2509 abstract.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3297 criterion.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4293 exceptions.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          22570 resolution.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\resolvelib\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            640 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           9366 providers.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3276 reporters.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12757 structs.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\rich
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM           6090 __init__.py
+-a---          2025-08-19  1:13 PM           8477 __main__.py
+-a---          2025-08-19  1:13 PM          10209 _cell_widths.py
+-a---          2025-08-19  1:13 PM         140235 _emoji_codes.py
+-a---          2025-08-19  1:13 PM           1064 _emoji_replace.py
+-a---          2025-08-19  1:13 PM           2128 _export_format.py
+-a---          2025-08-19  1:13 PM            265 _extension.py
+-a---          2025-08-19  1:13 PM            799 _fileno.py
+-a---          2025-08-19  1:13 PM           9655 _inspect.py
+-a---          2025-08-19  1:13 PM           3225 _log_render.py
+-a---          2025-08-19  1:13 PM           1236 _loop.py
+-a---          2025-08-19  1:13 PM           1394 _null_file.py
+-a---          2025-08-19  1:13 PM           7063 _palettes.py
+-a---          2025-08-19  1:13 PM            423 _pick.py
+-a---          2025-08-19  1:13 PM           5471 _ratio.py
+-a---          2025-08-19  1:13 PM          19919 _spinners.py
+-a---          2025-08-19  1:13 PM            351 _stack.py
+-a---          2025-08-19  1:13 PM            417 _timer.py
+-a---          2025-08-19  1:13 PM          22755 _win32_console.py
+-a---          2025-08-19  1:13 PM           2783 _windows_renderer.py
+-a---          2025-08-19  1:13 PM           1925 _windows.py
+-a---          2025-08-19  1:13 PM           3404 _wrap.py
+-a---          2025-08-19  1:13 PM            890 abc.py
+-a---          2025-08-19  1:13 PM          10469 align.py
+-a---          2025-08-19  1:13 PM           6921 ansi.py
+-a---          2025-08-19  1:13 PM           3263 bar.py
+-a---          2025-08-19  1:13 PM          10831 box.py
+-a---          2025-08-19  1:13 PM           5130 cells.py
+-a---          2025-08-19  1:13 PM           1054 color_triplet.py
+-a---          2025-08-19  1:13 PM          18211 color.py
+-a---          2025-08-19  1:13 PM           7131 columns.py
+-a---          2025-08-19  1:13 PM         100565 console.py
+-a---          2025-08-19  1:13 PM           1288 constrain.py
+-a---          2025-08-19  1:13 PM           5502 containers.py
+-a---          2025-08-19  1:13 PM           6630 control.py
+-a---          2025-08-19  1:13 PM           8257 default_styles.py
+-a---          2025-08-19  1:13 PM            998 diagnose.py
+-a---          2025-08-19  1:13 PM           2501 emoji.py
+-a---          2025-08-19  1:13 PM            642 errors.py
+-a---          2025-08-19  1:13 PM           1683 file_proxy.py
+-a---          2025-08-19  1:13 PM           2484 filesize.py
+-a---          2025-08-19  1:13 PM           9586 highlighter.py
+-a---          2025-08-19  1:13 PM           5031 json.py
+-a---          2025-08-19  1:13 PM           3252 jupyter.py
+-a---          2025-08-19  1:13 PM          14004 layout.py
+-a---          2025-08-19  1:13 PM           3666 live_render.py
+-a---          2025-08-19  1:13 PM          14270 live.py
+-a---          2025-08-19  1:13 PM          12458 logging.py
+-a---          2025-08-19  1:13 PM           8451 markup.py
+-a---          2025-08-19  1:13 PM           5305 measure.py
+-a---          2025-08-19  1:13 PM           4908 padding.py
+-a---          2025-08-19  1:13 PM            828 pager.py
+-a---          2025-08-19  1:13 PM           3396 palette.py
+-a---          2025-08-19  1:13 PM          11225 panel.py
+-a---          2025-08-19  1:13 PM          36391 pretty.py
+-a---          2025-08-19  1:13 PM           8162 progress_bar.py
+-a---          2025-08-19  1:13 PM          60357 progress.py
+-a---          2025-08-19  1:13 PM          12447 prompt.py
+-a---          2025-08-19  1:13 PM           1391 protocol.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+-a---          2025-08-19  1:13 PM            166 region.py
+-a---          2025-08-19  1:13 PM           4431 repr.py
+-a---          2025-08-19  1:13 PM           4602 rule.py
+-a---          2025-08-19  1:13 PM           2843 scope.py
+-a---          2025-08-19  1:13 PM           1591 screen.py
+-a---          2025-08-19  1:13 PM          24743 segment.py
+-a---          2025-08-19  1:13 PM           4364 spinner.py
+-a---          2025-08-19  1:13 PM           4424 status.py
+-a---          2025-08-19  1:13 PM          27059 style.py
+-a---          2025-08-19  1:13 PM           1258 styled.py
+-a---          2025-08-19  1:13 PM          35763 syntax.py
+-a---          2025-08-19  1:13 PM          40049 table.py
+-a---          2025-08-19  1:13 PM           3370 terminal_theme.py
+-a---          2025-08-19  1:13 PM          47552 text.py
+-a---          2025-08-19  1:13 PM           3771 theme.py
+-a---          2025-08-19  1:13 PM            102 themes.py
+-a---          2025-08-19  1:13 PM          35170 traceback.py
+-a---          2025-08-19  1:13 PM           9451 tree.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\rich\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           6880 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10181 __main__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7878 _cell_widths.cpython-313.pyc
+-a---          2025-08-19  1:13 PM         205982 _emoji_codes.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1750 _emoji_replace.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2355 _export_format.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            545 _extension.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            847 _fileno.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12293 _inspect.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4331 _log_render.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1906 _loop.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3741 _null_file.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5166 _palettes.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            725 _pick.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6592 _ratio.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          13185 _spinners.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1033 _stack.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            874 _timer.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          28345 _win32_console.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3619 _windows_renderer.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2572 _windows.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3331 _wrap.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1694 abc.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12578 align.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           9264 ansi.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4339 bar.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          11828 box.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5505 cells.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1711 color_triplet.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          26532 color.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           8708 columns.cpython-313.pyc
+-a---          2025-08-19  1:13 PM         113936 console.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2317 constrain.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           9250 containers.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10912 control.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           9701 default_styles.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1514 diagnose.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4254 emoji.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2053 errors.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3711 file_proxy.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2963 filesize.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           9983 highlighter.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5924 json.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5388 jupyter.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          20167 layout.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4875 live_render.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          19644 live.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          14025 logging.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           9727 markup.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6202 measure.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6951 padding.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1891 pager.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5318 palette.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          12742 panel.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          41282 pretty.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10455 progress_bar.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          75530 progress.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          15810 prompt.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1874 protocol.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            631 region.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6751 repr.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6625 rule.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3800 scope.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2556 screen.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          28270 segment.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6159 spinner.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6032 status.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          34397 style.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2193 styled.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          39838 syntax.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          44304 table.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3412 terminal_theme.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          60239 text.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6322 theme.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            320 themes.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          36245 traceback.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          11923 tree.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\tomli
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            314 __init__.py
+-a---          2025-08-19  1:13 PM          25591 _parser.py
+-a---          2025-08-19  1:13 PM           3171 _re.py
+-a---          2025-08-19  1:13 PM            254 _types.py
+-a---          2025-08-19  1:13 PM             26 py.typed
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\tomli\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            344 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          29583 _parser.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4033 _re.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            372 _types.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\tomli_w
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM            169 __init__.py
+-a---          2025-08-19  1:13 PM           6961 _writer.py
+-a---          2025-08-19  1:13 PM             26 py.typed
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\tomli_w\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            333 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10778 _writer.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\truststore
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM           1320 __init__.py
+-a---          2025-08-19  1:13 PM          11246 _api.py
+-a---          2025-08-19  1:13 PM          20503 _macos.py
+-a---          2025-08-19  1:13 PM           2324 _openssl.py
+-a---          2025-08-19  1:13 PM           1130 _ssl_constants.py
+-a---          2025-08-19  1:13 PM          17993 _windows.py
+-a---          2025-08-19  1:13 PM              0 py.typed
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\truststore\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           1494 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          17166 _api.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          19307 _macos.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2294 _openssl.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1105 _ssl_constants.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          16251 _windows.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                contrib
+d----          2025-08-19  1:13 PM                packages
+d----          2025-08-19  1:13 PM                util
+-a---          2025-08-19  1:13 PM           3333 __init__.py
+-a---          2025-08-19  1:13 PM          11372 _collections.py
+-a---          2025-08-19  1:13 PM             64 _version.py
+-a---          2025-08-19  1:13 PM          20314 connection.py
+-a---          2025-08-19  1:13 PM          40408 connectionpool.py
+-a---          2025-08-19  1:13 PM           8217 exceptions.py
+-a---          2025-08-19  1:13 PM           8579 fields.py
+-a---          2025-08-19  1:13 PM           2440 filepost.py
+-a---          2025-08-19  1:13 PM          19990 poolmanager.py
+-a---          2025-08-19  1:13 PM           6691 request.py
+-a---          2025-08-19  1:13 PM          30641 response.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                _securetransport
+-a---          2025-08-19  1:13 PM              0 __init__.py
+-a---          2025-08-19  1:13 PM            957 _appengine_environ.py
+-a---          2025-08-19  1:13 PM          11036 appengine.py
+-a---          2025-08-19  1:13 PM           4528 ntlmpool.py
+-a---          2025-08-19  1:13 PM          17081 pyopenssl.py
+-a---          2025-08-19  1:13 PM          34446 securetransport.py
+-a---          2025-08-19  1:13 PM           7097 socks.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM              0 __init__.py
+-a---          2025-08-19  1:13 PM          17632 bindings.py
+-a---          2025-08-19  1:13 PM          13922 low_level.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            221 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          17507 bindings.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          14816 low_level.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\contrib\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            204 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1882 _appengine_environ.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          11774 appengine.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5742 ntlmpool.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          24783 pyopenssl.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          35984 securetransport.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7736 socks.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\packages
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+d----          2025-08-19  1:13 PM                backports
+-a---          2025-08-19  1:13 PM              0 __init__.py
+-a---          2025-08-19  1:13 PM          34665 six.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM              0 __init__.py
+-a---          2025-08-19  1:13 PM           1417 makefile.py
+-a---          2025-08-19  1:13 PM           5343 weakref_finalize.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            215 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1939 makefile.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           7530 weakref_finalize.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\packages\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            205 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          42021 six.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\util
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                __pycache__
+-a---          2025-08-19  1:13 PM           1155 __init__.py
+-a---          2025-08-19  1:13 PM           4901 connection.py
+-a---          2025-08-19  1:13 PM           1605 proxy.py
+-a---          2025-08-19  1:13 PM            498 queue.py
+-a---          2025-08-19  1:13 PM           3997 request.py
+-a---          2025-08-19  1:13 PM           3510 response.py
+-a---          2025-08-19  1:13 PM          22050 retry.py
+-a---          2025-08-19  1:13 PM          17460 ssl_.py
+-a---          2025-08-19  1:13 PM           5758 ssl_match_hostname.py
+-a---          2025-08-19  1:13 PM           6895 ssltransport.py
+-a---          2025-08-19  1:13 PM          10168 timeout.py
+-a---          2025-08-19  1:13 PM          14296 url.py
+-a---          2025-08-19  1:13 PM           5403 wait.py
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\util\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           1152 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4783 connection.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1581 proxy.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           1430 queue.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4150 request.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3047 response.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          21554 retry.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          15503 ssl_.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           5224 ssl_match_hostname.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10939 ssltransport.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10684 timeout.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          15935 url.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           4583 wait.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\urllib3\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           3359 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          16434 _collections.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            224 _version.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          20727 connection.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          36065 connectionpool.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          14185 exceptions.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          10186 fields.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           3997 filepost.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          19991 poolmanager.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           6973 request.cpython-313.pyc
+-a---          2025-08-19  1:13 PM          34272 response.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\_vendor\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           4600 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM         178190 typing_extensions.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip\__pycache__
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM            687 __init__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM            849 __main__.cpython-313.pyc
+-a---          2025-08-19  1:13 PM           2284 __pip-runner__.cpython-313.pyc
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip-25.1.1.dist-info
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:13 PM                licenses
+-a---          2025-08-19  1:13 PM             87 entry_points.txt
+-a---          2025-08-19  1:13 PM              4 INSTALLER
+-a---          2025-08-19  1:13 PM           3649 METADATA
+-a---          2025-08-19  1:13 PM          65973 RECORD
+-a---          2025-08-19  1:13 PM              0 REQUESTED
+-a---          2025-08-19  1:13 PM              4 top_level.txt
+-a---          2025-08-19  1:13 PM             91 WHEEL
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Lib\site-packages\pip-25.1.1.dist-info\licenses
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM          11223 AUTHORS.txt
+-a---          2025-08-19  1:13 PM           1093 LICENSE.txt
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\.venv\Scripts
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:13 PM           2218 activate
+-a---          2025-08-19  1:13 PM           1027 activate.bat
+-a---          2025-08-19  1:13 PM           2286 activate.fish
+-a---          2025-06-03  6:57 PM           9031 Activate.ps1
+-a---          2025-06-03  6:54 PM            393 deactivate.bat
+-a---          2025-08-19  1:13 PM         108425 pip.exe
+-a---          2025-08-19  1:13 PM         108425 pip3.13.exe
+-a---          2025-08-19  1:13 PM         108425 pip3.exe
+-a---          2025-06-03  6:55 PM         254808 python.exe
+-a---          2025-06-03  6:55 PM         251224 pythonw.exe
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\config
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:11 PM            348 default.yaml
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\data
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:11 PM                processed
+d----          2025-08-19  1:11 PM                raw
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\data\processed
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:11 PM                epg
+d----          2025-08-19  1:11 PM                registry
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\data\raw
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:11 PM                ChannelStudio
+d----          2025-08-19  1:11 PM                inbox
+d----          2025-08-19  1:11 PM                Processed
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\outputs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2025-08-19  1:11 PM                epg
+d----          2025-08-19  1:11 PM                playlists
+d----          2025-08-19  1:11 PM                reports
+
+    Directory: C:\Users\Lenovo\PROJECTS\IPTV-ChannelStudio\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2025-08-19  1:16 PM              0 scaffold_channelstudio.bak
+-a---          2025-08-19  1:16 PM            560 scaffold_channelstudio.py
+

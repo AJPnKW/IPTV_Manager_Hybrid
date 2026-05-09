@@ -1,0 +1,528 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1862-A704
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files
+
+2024-11-09  05:22 PM    <DIR>          .
+2024-11-09  11:42 AM    <DIR>          ..
+2024-11-09  03:54 PM    <DIR>          .git
+2024-11-09  03:54 PM    <DIR>          .github
+2024-11-03  03:31 PM    <DIR>          Archives
+2024-11-09  03:54 PM    <DIR>          backup
+2024-11-09  03:54 PM    <DIR>          components
+2024-11-09  03:54 PM    <DIR>          data
+2024-11-09  04:09 PM            10,298 Dir+folder+files_for-[Edit_n_Manage_IPTV_Files]-2024-11-09-16-09-51.61.txt
+2024-11-09  05:22 PM                 0 Dir+folder+files_for-[Edit_n_Manage_IPTV_Files]-2024-11-09-17-22-01.01.txt
+2024-11-09  04:09 PM             1,570 Dir.List.of-[Edit_n_Manage_IPTV_Files]-2024-11-09-16-09-49.17.txt
+2024-11-03  03:30 PM    <DIR>          Documentation
+2024-11-09  05:21 PM               715 find_files.bat
+2024-11-09  11:43 AM    <DIR>          Inputs
+2024-11-09  03:54 PM    <DIR>          Logs
+2024-11-09  04:08 PM               983 Make_DIR+folders+files_File .bat
+2024-11-09  02:57 PM               917 Make_DIR_File.bat
+2024-11-09  03:54 PM    <DIR>          media
+2024-11-09  03:54 PM    <DIR>          output
+2024-11-09  11:44 AM    <DIR>          Outputs
+2024-11-09  03:54 PM    <DIR>          patches
+2024-11-06  12:24 PM    <DIR>          Research
+2024-11-09  04:17 PM    <DIR>          Scripts
+2024-11-09  05:04 PM    <DIR>          source
+2024-11-09  03:54 PM    <DIR>          sql
+2024-11-09  03:54 PM    <DIR>          templates
+2024-11-09  04:37 PM    <DIR>          third-party
+2024-11-09  03:54 PM    <DIR>          tools
+2024-11-09  03:54 PM    <DIR>          ui
+               6 File(s)         14,483 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\.git
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\.github
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  03:54 PM    <DIR>          workflows
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\.github\workflows
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  03:54 PM    <DIR>          ..
+2024-11-09  03:54 PM                42 backup.yml
+2024-11-09  03:54 PM                42 testing.yml
+               2 File(s)             84 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Archives
+
+2024-11-03  03:31 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\backup
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  03:54 PM                44 configs_backup.zip
+2024-11-09  03:54 PM                39 db_backup.sql
+               2 File(s)             83 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\components
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  04:19 PM             2,445 archival_handler.py
+2024-11-09  04:20 PM             2,238 db_handler.py
+2024-11-09  05:10 PM             2,923 normalization_utils.py
+               3 File(s)          7,606 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\data
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  03:54 PM    <DIR>          epg
+2024-11-09  03:54 PM    <DIR>          m3u
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\data\epg
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  03:54 PM    <DIR>          ..
+2024-11-09  03:54 PM                34 epg_uk.xml
+2024-11-09  03:54 PM                41 epg_us.xml.gz
+               2 File(s)             75 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\data\m3u
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  03:54 PM    <DIR>          ..
+2024-11-09  03:54 PM                38 export_alliptvlinks_2024.m3u
+2024-11-09  03:54 PM                36 merged_output.m3u
+               2 File(s)             74 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Documentation
+
+2024-11-03  03:30 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Inputs
+
+2024-11-09  11:43 AM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-03  03:29 PM    <DIR>          Processed
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Inputs\Processed
+
+2024-11-03  03:29 PM    <DIR>          .
+2024-11-09  11:43 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Logs
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  03:54 PM                34 data_loader.log
+2024-11-09  03:54 PM                42 playlist_generation.log
+2024-11-09  03:54 PM                35 verification.log
+               3 File(s)            111 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\media
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  03:54 PM    <DIR>          logos
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\media\logos
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  03:54 PM    <DIR>          ..
+2024-11-09  03:54 PM                27 bbc_logo.png
+2024-11-09  03:54 PM                27 cnn_logo.png
+               2 File(s)             54 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\output
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  03:54 PM                37 custom_playlist_us.m3u
+2024-11-09  03:54 PM                34 playlist_report.txt
+               2 File(s)             71 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Outputs
+
+2024-11-09  11:44 AM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  11:40 AM           837,825 consolidated_channels_output.tsv
+2024-11-03  03:45 PM    <DIR>          interim
+2024-11-09  11:44 AM         1,787,248 merged_output.tsv
+               2 File(s)      2,625,073 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Outputs\interim
+
+2024-11-03  03:45 PM    <DIR>          .
+2024-11-09  11:44 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\patches
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  03:54 PM                28 epg_patch.diff
+               1 File(s)             28 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Research
+
+2024-11-06  12:24 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Scripts
+
+2024-11-09  04:17 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-03  03:30 PM    <DIR>          Archives
+2024-11-09  04:17 PM             2,358 verify_or_create_project_files.py
+               1 File(s)          2,358 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\Scripts\Archives
+
+2024-11-03  03:30 PM    <DIR>          .
+2024-11-09  04:17 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\source
+
+2024-11-09  05:04 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  04:17 PM                46 archival_handler.py
+2024-11-09  04:17 PM                68 archive_procedures.sql
+2024-11-09  04:41 PM             1,924 cleanup_archived_records.py
+2024-11-09  04:59 PM             3,602 data_loader.py
+2024-11-09  04:42 PM             1,338 db_backup_tool.py
+2024-11-09  04:17 PM                40 db_handler.py
+2024-11-09  04:17 PM                70 epg_parser_tool.jar
+2024-11-09  04:17 PM                88 fuzzywuzzy_library.zip
+2024-11-09  04:17 PM               132 index.html
+2024-11-09  04:17 PM                61 iptv_schema.sql
+2024-11-09  04:27 PM             3,599 playlist_generator.py
+2024-11-09  04:28 PM             3,099 stream_verification.py
+2024-11-09  04:17 PM                70 styles.css
+2024-11-09  04:29 PM             3,207 user_interface.py
+              14 File(s)         17,344 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\sql
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  04:31 PM             1,782 archive_procedures.sql
+2024-11-09  04:31 PM             2,317 iptv_schema.sql
+               2 File(s)          4,099 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\templates
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  03:54 PM                31 epg_template.xml
+2024-11-09  03:54 PM                34 report_template.txt
+               2 File(s)             65 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party
+
+2024-11-09  04:37 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  04:37 PM            14,724 Dir+folder+files_for-[third-party]-2024-11-09-16-37-52.25.txt
+2024-11-09  04:32 PM             2,605 epg_parser_tool.jar
+2024-11-09  04:36 PM               542 example_usage.py
+2024-11-09  04:35 PM    <DIR>          fuzzywuzzy_library
+2024-11-09  03:54 PM                37 fuzzywuzzy_library.zip
+2024-11-09  04:08 PM               983 Make_DIR+folders+files_File .bat
+               5 File(s)         18,891 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:37 PM    <DIR>          ..
+2024-11-09  04:35 PM    <DIR>          fuzzywuzzy
+2024-11-09  04:36 PM    <DIR>          fuzzywuzzy-0.18.0.dist-info
+2024-11-09  04:36 PM    <DIR>          Levenshtein
+2024-11-09  04:35 PM    <DIR>          levenshtein-0.26.1.dist-info
+2024-11-09  04:36 PM    <DIR>          python_Levenshtein-0.26.1.dist-info
+2024-11-09  04:36 PM    <DIR>          rapidfuzz
+2024-11-09  04:35 PM    <DIR>          rapidfuzz-3.10.1.dist-info
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\fuzzywuzzy
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM             9,591 fuzz.py
+2024-11-09  04:35 PM            11,481 process.py
+2024-11-09  04:35 PM             2,437 StringMatcher.py
+2024-11-09  04:35 PM               780 string_processing.py
+2024-11-09  04:35 PM             2,595 utils.py
+2024-11-09  04:35 PM                47 __init__.py
+2024-11-09  04:35 PM    <DIR>          __pycache__
+               6 File(s)         26,931 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\fuzzywuzzy\__pycache__
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM             7,099 fuzz.cpython-310.pyc
+2024-11-09  04:35 PM            10,279 process.cpython-310.pyc
+2024-11-09  04:35 PM             2,876 StringMatcher.cpython-310.pyc
+2024-11-09  04:35 PM             1,221 string_processing.cpython-310.pyc
+2024-11-09  04:35 PM             3,193 utils.cpython-310.pyc
+2024-11-09  04:35 PM               203 __init__.cpython-310.pyc
+               6 File(s)         24,871 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\fuzzywuzzy-0.18.0.dist-info
+
+2024-11-09  04:36 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM                 4 INSTALLER
+2024-11-09  04:35 PM            18,084 LICENSE.txt
+2024-11-09  04:35 PM             4,920 METADATA
+2024-11-09  04:35 PM             1,488 RECORD
+2024-11-09  04:35 PM                 0 REQUESTED
+2024-11-09  04:35 PM                11 top_level.txt
+2024-11-09  04:35 PM               110 WHEEL
+2024-11-09  04:35 PM                 1 zip-safe
+               8 File(s)         24,618 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\Levenshtein
+
+2024-11-09  04:36 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM           221,696 levenshtein_cpp.cp310-win_amd64.pyd
+2024-11-09  04:35 PM                 0 py.typed
+2024-11-09  04:35 PM             2,359 StringMatcher.py
+2024-11-09  04:35 PM            17,933 __init__.py
+2024-11-09  04:35 PM             2,918 __init__.pyi
+2024-11-09  04:35 PM    <DIR>          __pycache__
+               5 File(s)        244,906 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\Levenshtein\__pycache__
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:36 PM    <DIR>          ..
+2024-11-09  04:35 PM             2,880 StringMatcher.cpython-310.pyc
+2024-11-09  04:35 PM            16,223 __init__.cpython-310.pyc
+               2 File(s)         19,103 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\levenshtein-0.26.1.dist-info
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM                 4 INSTALLER
+2024-11-09  04:35 PM    <DIR>          licenses
+2024-11-09  04:35 PM             3,247 METADATA
+2024-11-09  04:35 PM               963 RECORD
+2024-11-09  04:35 PM               106 WHEEL
+               4 File(s)          4,320 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\levenshtein-0.26.1.dist-info\licenses
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM            18,080 COPYING
+               1 File(s)         18,080 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\python_Levenshtein-0.26.1.dist-info
+
+2024-11-09  04:36 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM            18,085 COPYING
+2024-11-09  04:35 PM                 4 INSTALLER
+2024-11-09  04:35 PM             3,683 METADATA
+2024-11-09  04:35 PM               651 RECORD
+2024-11-09  04:35 PM                 0 REQUESTED
+2024-11-09  04:35 PM                 1 top_level.txt
+2024-11-09  04:35 PM                91 WHEEL
+               7 File(s)         22,515 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\rapidfuzz
+
+2024-11-09  04:36 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM    <DIR>          distance
+2024-11-09  04:35 PM             1,107 fuzz.py
+2024-11-09  04:35 PM             4,784 fuzz.pyi
+2024-11-09  04:35 PM           862,208 fuzz_cpp.cp310-win_amd64.pyd
+2024-11-09  04:35 PM           867,328 fuzz_cpp_avx2.cp310-win_amd64.pyd
+2024-11-09  04:35 PM            25,898 fuzz_py.py
+2024-11-09  04:35 PM               425 process.py
+2024-11-09  04:35 PM            17,091 process.pyi
+2024-11-09  04:35 PM             2,814 process_cpp.py
+2024-11-09  04:35 PM           545,792 process_cpp_impl.cp310-win_amd64.pyd
+2024-11-09  04:35 PM            26,603 process_py.py
+2024-11-09  04:35 PM                 0 py.typed
+2024-11-09  04:35 PM               272 utils.py
+2024-11-09  04:35 PM               277 utils.pyi
+2024-11-09  04:35 PM           165,888 utils_cpp.cp310-win_amd64.pyd
+2024-11-09  04:35 PM               622 utils_py.py
+2024-11-09  04:35 PM             1,757 _common_py.py
+2024-11-09  04:35 PM               332 _feature_detector.py
+2024-11-09  04:35 PM            35,840 _feature_detector_cpp.cp310-win_amd64.pyd
+2024-11-09  04:35 PM             4,027 _utils.py
+2024-11-09  04:35 PM               836 __init__.py
+2024-11-09  04:35 PM               243 __init__.pyi
+2024-11-09  04:35 PM    <DIR>          __pycache__
+2024-11-09  04:35 PM    <DIR>          __pyinstaller
+              21 File(s)      2,564,144 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\rapidfuzz\distance
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:36 PM    <DIR>          ..
+2024-11-09  04:35 PM               519 DamerauLevenshtein.py
+2024-11-09  04:35 PM             1,877 DamerauLevenshtein.pyi
+2024-11-09  04:35 PM             6,591 DamerauLevenshtein_py.py
+2024-11-09  04:35 PM               575 Hamming.py
+2024-11-09  04:35 PM             2,742 Hamming.pyi
+2024-11-09  04:35 PM             9,081 Hamming_py.py
+2024-11-09  04:35 PM               563 Indel.py
+2024-11-09  04:35 PM             2,566 Indel.pyi
+2024-11-09  04:35 PM            10,034 Indel_py.py
+2024-11-09  04:35 PM               459 Jaro.py
+2024-11-09  04:35 PM             1,881 Jaro.pyi
+2024-11-09  04:35 PM               491 JaroWinkler.py
+2024-11-09  04:35 PM             2,137 JaroWinkler.pyi
+2024-11-09  04:35 PM             6,481 JaroWinkler_py.py
+2024-11-09  04:35 PM             7,345 Jaro_py.py
+2024-11-09  04:35 PM               575 LCSseq.py
+2024-11-09  04:35 PM             2,566 LCSseq.pyi
+2024-11-09  04:35 PM            11,504 LCSseq_py.py
+2024-11-09  04:35 PM               836 Levenshtein.py
+2024-11-09  04:35 PM             3,651 Levenshtein.pyi
+2024-11-09  04:35 PM            17,103 Levenshtein_py.py
+2024-11-09  04:35 PM         1,607,168 metrics_cpp.cp310-win_amd64.pyd
+2024-11-09  04:35 PM         1,600,512 metrics_cpp_avx2.cp310-win_amd64.pyd
+2024-11-09  04:35 PM            10,624 metrics_py.py
+2024-11-09  04:35 PM               455 OSA.py
+2024-11-09  04:35 PM             1,877 OSA.pyi
+2024-11-09  04:35 PM             6,251 OSA_py.py
+2024-11-09  04:35 PM               471 Postfix.py
+2024-11-09  04:35 PM             1,877 Postfix.pyi
+2024-11-09  04:35 PM             5,039 Postfix_py.py
+2024-11-09  04:35 PM               467 Prefix.py
+2024-11-09  04:35 PM             1,877 Prefix.pyi
+2024-11-09  04:35 PM             5,015 Prefix_py.py
+2024-11-09  04:35 PM               544 _initialize.py
+2024-11-09  04:35 PM             3,989 _initialize.pyi
+2024-11-09  04:35 PM           273,408 _initialize_cpp.cp310-win_amd64.pyd
+2024-11-09  04:35 PM            26,320 _initialize_py.py
+2024-11-09  04:35 PM               621 __init__.py
+2024-11-09  04:35 PM               734 __init__.pyi
+2024-11-09  04:35 PM    <DIR>          __pycache__
+              39 File(s)      3,636,826 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\rapidfuzz\distance\__pycache__
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM               619 DamerauLevenshtein.cpython-310.pyc
+2024-11-09  04:35 PM             5,827 DamerauLevenshtein_py.cpython-310.pyc
+2024-11-09  04:35 PM               636 Hamming.cpython-310.pyc
+2024-11-09  04:35 PM             8,565 Hamming_py.cpython-310.pyc
+2024-11-09  04:35 PM               622 Indel.cpython-310.pyc
+2024-11-09  04:35 PM             9,527 Indel_py.cpython-310.pyc
+2024-11-09  04:35 PM               545 Jaro.cpython-310.pyc
+2024-11-09  04:35 PM               584 JaroWinkler.cpython-310.pyc
+2024-11-09  04:35 PM             5,764 JaroWinkler_py.cpython-310.pyc
+2024-11-09  04:35 PM             5,923 Jaro_py.cpython-310.pyc
+2024-11-09  04:35 PM               635 LCSseq.cpython-310.pyc
+2024-11-09  04:35 PM            10,238 LCSseq_py.cpython-310.pyc
+2024-11-09  04:35 PM               911 Levenshtein.cpython-310.pyc
+2024-11-09  04:35 PM            14,966 Levenshtein_py.cpython-310.pyc
+2024-11-09  04:35 PM             5,127 metrics_py.cpython-310.pyc
+2024-11-09  04:35 PM               540 OSA.cpython-310.pyc
+2024-11-09  04:35 PM             5,612 OSA_py.cpython-310.pyc
+2024-11-09  04:35 PM               560 Postfix.cpython-310.pyc
+2024-11-09  04:35 PM             4,786 Postfix_py.cpython-310.pyc
+2024-11-09  04:35 PM               555 Prefix.cpython-310.pyc
+2024-11-09  04:35 PM             4,763 Prefix_py.cpython-310.pyc
+2024-11-09  04:35 PM               574 _initialize.cpython-310.pyc
+2024-11-09  04:35 PM            22,686 _initialize_py.cpython-310.pyc
+2024-11-09  04:35 PM               687 __init__.cpython-310.pyc
+              24 File(s)        111,252 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\rapidfuzz\__pycache__
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:36 PM    <DIR>          ..
+2024-11-09  04:35 PM               770 fuzz.cpython-310.pyc
+2024-11-09  04:35 PM            19,979 fuzz_py.cpython-310.pyc
+2024-11-09  04:35 PM               465 process.cpython-310.pyc
+2024-11-09  04:35 PM             2,064 process_cpp.cpython-310.pyc
+2024-11-09  04:35 PM            23,050 process_py.cpython-310.pyc
+2024-11-09  04:35 PM               365 utils.cpython-310.pyc
+2024-11-09  04:35 PM               833 utils_py.cpython-310.pyc
+2024-11-09  04:35 PM             1,995 _common_py.cpython-310.pyc
+2024-11-09  04:35 PM               523 _feature_detector.cpython-310.pyc
+2024-11-09  04:35 PM             3,744 _utils.cpython-310.pyc
+2024-11-09  04:35 PM             1,191 __init__.cpython-310.pyc
+              11 File(s)         54,979 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\rapidfuzz\__pyinstaller
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:36 PM    <DIR>          ..
+2024-11-09  04:35 PM               375 hook-rapidfuzz.py
+2024-11-09  04:35 PM             1,114 test_rapidfuzz_packaging.py
+2024-11-09  04:35 PM               195 __init__.py
+2024-11-09  04:35 PM    <DIR>          __pycache__
+               3 File(s)          1,684 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\rapidfuzz\__pyinstaller\__pycache__
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM               514 hook-rapidfuzz.cpython-310.pyc
+2024-11-09  04:35 PM             1,031 test_rapidfuzz_packaging.cpython-310.pyc
+2024-11-09  04:35 PM               533 __init__.cpython-310.pyc
+               3 File(s)          2,078 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\rapidfuzz-3.10.1.dist-info
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM               121 entry_points.txt
+2024-11-09  04:35 PM                 4 INSTALLER
+2024-11-09  04:35 PM    <DIR>          licenses
+2024-11-09  04:35 PM            11,961 METADATA
+2024-11-09  04:35 PM             8,355 RECORD
+2024-11-09  04:35 PM               106 WHEEL
+               5 File(s)         20,547 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\rapidfuzz-3.10.1.dist-info\licenses
+
+2024-11-09  04:35 PM    <DIR>          .
+2024-11-09  04:35 PM    <DIR>          ..
+2024-11-09  04:35 PM             1,092 LICENSE
+               1 File(s)          1,092 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\tools
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  03:54 PM                50 cleanup_archived_records.py
+2024-11-09  03:54 PM                46 db_backup_tool.py
+               2 File(s)             96 bytes
+
+ Directory of C:\Users\Lenovo\Documents\Projects\Edit_n_Manage_IPTV_Files\ui
+
+2024-11-09  03:54 PM    <DIR>          .
+2024-11-09  05:22 PM    <DIR>          ..
+2024-11-09  04:43 PM             3,552 index.html
+2024-11-09  04:43 PM             2,284 styles.css
+               2 File(s)          5,836 bytes
+
+     Total Files Listed:
+             201 File(s)      9,474,377 bytes
+             137 Dir(s)  222,114,328,576 bytes free

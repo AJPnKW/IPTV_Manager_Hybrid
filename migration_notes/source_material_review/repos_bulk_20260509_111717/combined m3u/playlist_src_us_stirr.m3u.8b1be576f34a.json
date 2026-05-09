@@ -1,0 +1,722 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_stirr.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Stirr",
+  "channels": [
+    {
+      "canonical_name": "Always Funny Pranks Fails Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Always Funny: Pranks & Fails (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-863.frequency.stream/dist/stirr/863/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Always Funny: Pranks & Fails (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crafty Panda Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Crafty Panda (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://bpd-cp-stirr.otteravision.com/bpd/cp/cp.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crafty Panda (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Biz Talk Today Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Biz Talk Today TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d3htp73xsa9p15.cloudfront.net/scheduler/scheduleMaster/445.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Biz Talk Today TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Channel Fight Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Channel Fight (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Channel Fight (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Craftsy Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Craftsy (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Craftsy (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cricket Gold Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cricket Gold (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cricket Gold (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crimeflix Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CrimeFlix (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "CrimeFlix (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Drone Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Drone TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://dtc192m1s5jen.cloudfront.net/scheduler/scheduleMaster/440.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Drone TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Equus Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Equus TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Equus TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Extreme Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Extreme+ (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d3p1dbb9xrkmd5.cloudfront.net/scheduler/scheduleMaster/276.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Extreme+ (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Feva Music Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Feva Music (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Feva Music (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Genb Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "GenB TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://bad-badiv-stirr.otteravision.com/bad/badiv/badiv.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "GenB TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hipstr Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hipstr (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg09501-questar-amg09501c2-stirr-us-3095.playouts.now.amagi.tv/amg09501/AMG09501C2/segmented_playlist/0/35-89-3095.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hipstr (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "My Money Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "My Money (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d3bqd6nz14unwy.cloudfront.net/scheduler/scheduleMaster/468.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "My Money (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Omstars Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Omstars (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d1too6m5v9oyet.cloudfront.net/scheduler/scheduleMaster/281.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Omstars (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Our Vinyl Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Our Vinyl (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d29rvfbwwm1vce.cloudfront.net/scheduler/scheduleMaster/459.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Our Vinyl (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Qvc The Big Dish Channel Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "QVC The Big Dish Channel (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "QVC The Big Dish Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Speed Sport 1 Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Speed Sport 1 (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Speed Sport 1 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sports First Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Sports First (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Sports First (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stellar Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Stellar TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d3kddmbw1dqgzz.cloudfront.net/scheduler/scheduleMaster/332.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Stellar TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Surfing Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Surfing+ (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://dr4jwhk0sty71.cloudfront.net/scheduler/scheduleMaster/444.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Surfing+ (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Teton Gravity Research Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Teton Gravity Research (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d1ur2fy7sesb3x.cloudfront.net/hls/main.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Teton Gravity Research (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Grappling Network Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Grappling Network (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Grappling Network (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Trace Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TRACE UK (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TRACE UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Zoomer Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Zoomer TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://d3p8ecnk6t4t73.cloudfront.net/scheduler/scheduleMaster/316.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Zoomer TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "24 Hour Free Movies Movies (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "24 Hour Free Movies (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/iSVnzR1.png",
+        "stream_url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
+        "xmltv_id": "24HourFreeMovies.us",
+        "xmltv_display_name": "24 Hour Free Movies (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/iSVnzR1.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Chive Tv Outdoor (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Chive TV (1080p)",
+        "group_title_raw": "Outdoor",
+        "logo_raw": "https://i.imgur.com/iUMAOUq.png",
+        "stream_url": "https://linear-941.frequency.stream/dist/stirr/941/hls/master/playlist.m3u8",
+        "xmltv_id": "ChiveTV.us@SD",
+        "xmltv_display_name": "Chive TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/iUMAOUq.png",
+        "xmltv_categories": [
+          "Outdoor"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Family Time Family (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Family Time (1080p)",
+        "group_title_raw": "Family",
+        "logo_raw": "https://i.imgur.com/TCKJT2x.png",
+        "stream_url": "https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501/AMG09501C3/segmented_playlist/0/35-89-3096.m3u8",
+        "xmltv_id": "FamilyTime.us",
+        "xmltv_display_name": "Family Time (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/TCKJT2x.png",
+        "xmltv_categories": [
+          "Family"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Feva Tv Entertainment (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Feva TV (1080p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/QSi0YTS.png",
+        "stream_url": "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8",
+        "xmltv_id": "FEVATV.ca",
+        "xmltv_display_name": "Feva TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/QSi0YTS.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fite 24 7 Sports (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "FITE 24/7 (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/ESV6qgH.png",
+        "stream_url": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8",
+        "xmltv_id": "FITE247.us",
+        "xmltv_display_name": "FITE 24/7 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ESV6qgH.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ontv4u Shop (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ONTV4U (1080p)",
+        "group_title_raw": "Shop",
+        "logo_raw": "https://i.imgur.com/NcEygU5.png",
+        "stream_url": "https://stirr.b-cdn.net/stirr/playlist.m3u8",
+        "xmltv_id": "OnTV4U.us",
+        "xmltv_display_name": "ONTV4U (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/NcEygU5.png",
+        "xmltv_categories": [
+          "Shop"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Poker Night In America Sports (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Poker Night in America (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/VTrKSxt.png",
+        "stream_url": "https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216.m3u8",
+        "xmltv_id": "PokerNightInAmerica.us",
+        "xmltv_display_name": "Poker Night in America (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/VTrKSxt.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Trace Brazuca Music (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TRACE Brazuca (1080p)",
+        "group_title_raw": "Music",
+        "logo_raw": "https://i.imgur.com/DFBocPu.png",
+        "stream_url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TraceBrazuca.fr",
+        "xmltv_display_name": "TRACE Brazuca (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/DFBocPu.png",
+        "xmltv_categories": [
+          "Music"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wild Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Stirr",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Wild TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png",
+        "stream_url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+        "xmltv_id": "WildTV.ca@SD",
+        "xmltv_display_name": "Wild TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}

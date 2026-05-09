@@ -1,0 +1,94 @@
+﻿build_pass_03_v2
+run_ts=20260419_224944
+current_m3u_count=504
+current_epg_count=102
+deduped_m3u_count=351
+deduped_epg_count=97
+m3u_duplicate_name_groups=0
+epg_duplicate_name_groups=0
+m3u_duplicate_hash_groups=147
+epg_duplicate_hash_groups=5
+m3u_duplicates_removed=153
+epg_duplicates_removed=5
+
+deduped_publish_roots
+tivimate_deduped_m3u=C:\Users\andrew\PROJECTS\iptv\publish\tivimate\deduped\m3u
+tivimate_deduped_epg=C:\Users\andrew\PROJECTS\iptv\publish\tivimate\deduped\epg
+runtime_deduped_m3u=C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\deduped\m3u
+runtime_deduped_epg=C:\Users\andrew\PROJECTS\iptv\publish\runtime_hp\deduped\epg
+
+top_m3u_hash_groups
+
+media_type group_size canonical_file_name          canonical_relative_path          
+---------- ---------- -------------------          -----------------------          
+m3u                 8 dj.m3u                       review_from_iptv__C42511BE\dj.m3u
+m3u                 2 01D382E78E__mx.m3u           01D382E78E__mx.m3u               
+m3u                 2 02CFDD9B0B__ng.m3u           02CFDD9B0B__ng.m3u               
+m3u                 2 04090DD121__th.m3u           04090DD121__th.m3u               
+m3u                 2 049665073F__ru_zabava.m3u    049665073F__ru_zabava.m3u        
+m3u                 2 051E8DE037__am_ucom.m3u      051E8DE037__am_ucom.m3u          
+m3u                 2 07FA5D6A8B__pt.m3u           07FA5D6A8B__pt.m3u               
+m3u                 2 0939C6EFA2__za.m3u           0939C6EFA2__za.m3u               
+m3u                 2 0AEEF02F5B__us_stirr.m3u     0AEEF02F5B__us_stirr.m3u         
+m3u                 2 0B19F7E2D9__it.m3u           0B19F7E2D9__it.m3u               
+m3u                 2 0BA775473E__br_pluto.m3u     0BA775473E__br_pluto.m3u         
+m3u                 2 0D17DCF3F7__us.m3u           0D17DCF3F7__us.m3u               
+m3u                 2 1044775114__ua.m3u           1044775114__ua.m3u               
+m3u                 2 1271C02C4A__se_samsung.m3u   1271C02C4A__se_samsung.m3u       
+m3u                 2 138ED489E4__cd.m3u           138ED489E4__cd.m3u               
+m3u                 2 160C14B64D__hr.m3u           160C14B64D__hr.m3u               
+m3u                 2 187D0C51EC__gt.m3u           187D0C51EC__gt.m3u               
+m3u                 2 21120CD4CA__sn.m3u           21120CD4CA__sn.m3u               
+m3u                 2 212E92A05A__de_adultswim.m3u 212E92A05A__de_adultswim.m3u     
+m3u                 2 24C1D97A60__us_pbs.m3u       24C1D97A60__us_pbs.m3u           
+m3u                 2 266F56FF94__az_odtv.m3u      266F56FF94__az_odtv.m3u          
+m3u                 2 27878C1164__dk.m3u           27878C1164__dk.m3u               
+m3u                 2 2B0BF86FE2__my.m3u           2B0BF86FE2__my.m3u               
+m3u                 2 2E7743AA88__us.m3u           2E7743AA88__us.m3u               
+m3u                 2 31B5AC08C1__ug.m3u           31B5AC08C1__ug.m3u               
+m3u                 2 3405DBE275__es_pluto.m3u     3405DBE275__es_pluto.m3u         
+m3u                 2 35866501BF__ps.m3u           35866501BF__ps.m3u               
+m3u                 2 36E17F172A__ci.m3u           36E17F172A__ci.m3u               
+m3u                 2 39076BBA16__ir.m3u           39076BBA16__ir.m3u               
+m3u                 2 390C6BDDBD__us_cbsn.m3u      390C6BDDBD__us_cbsn.m3u          
+
+
+
+
+top_epg_hash_groups
+
+media_type group_size canonical_file_name                                   canonical_relative_path                              
+---------- ---------- -------------------                                   -----------------------                              
+epg                 2 1DC743E9DE__ontvtonight.com_us.channels.xml           1DC743E9DE__ontvtonight.com_us.channels.xml          
+epg                 2 7BD8022151__ontvtonight.com_au.channels.xml           7BD8022151__ontvtonight.com_au.channels.xml          
+epg                 2 9D3BBFE1AC__streamingtvguides.com.channels.xml        9D3BBFE1AC__streamingtvguides.com.channels.xml       
+epg                 2 BAA2D60817__epgshare01.online_US_LOCALS2.channels.xml BAA2D60817__epgshare01.online_US_LOCALS2.channels.xml
+epg                 2 EC6817532E__ontvtonight.com_ca.channels.xml           EC6817532E__ontvtonight.com_ca.channels.xml          
+epg                 1 009C51448F__epg_openepg_au1.xml.gz                    009C51448F__epg_openepg_au1.xml.gz                   
+epg                 1 022FEAC90D__ontvtonight.com_us.channels.xml           022FEAC90D__ontvtonight.com_us.channels.xml          
+epg                 1 06B9F4A1C2__tvpassport.com.channels.xml               06B9F4A1C2__tvpassport.com.channels.xml              
+epg                 1 06C84A0106__ontvtonight.com_au.channels.xml           06C84A0106__ontvtonight.com_au.channels.xml          
+epg                 1 071C0B0A16__i.mjh.nz_pluto.channels.xml               071C0B0A16__i.mjh.nz_pluto.channels.xml              
+epg                 1 0C69D83EE7__sat.tv_ar.channels.xml                    0C69D83EE7__sat.tv_ar.channels.xml                   
+epg                 1 11063A3521__m.tv.sms.cz.channels.xml                  11063A3521__m.tv.sms.cz.channels.xml                 
+epg                 1 13585D58C8__tv24.co.uk.channels.xml                   13585D58C8__tv24.co.uk.channels.xml                  
+epg                 1 13FFF8EAF7__epg_openepg_ca1.xml.gz                    13FFF8EAF7__epg_openepg_ca1.xml.gz                   
+epg                 1 14418F8864__tv.blue.ch.channels.xml                   14418F8864__tv.blue.ch.channels.xml                  
+epg                 1 15A5795CDA__tvtv.us.channels.xml                      15A5795CDA__tvtv.us.channels.xml                     
+epg                 1 175937284B__directv.com.channels.xml                  175937284B__directv.com.channels.xml                 
+epg                 1 175B0DCE55__epg_openepg_ca3.xml.gz                    175B0DCE55__epg_openepg_ca3.xml.gz                   
+epg                 1 1834A6AF2F__chaines-tv.orange.fr.channels.xml         1834A6AF2F__chaines-tv.orange.fr.channels.xml        
+epg                 1 1D0C798028__ontvtonight.com_au.channels.xml           1D0C798028__ontvtonight.com_au.channels.xml          
+epg                 1 1F231E49EE__open-epg-ca.xml                           1F231E49EE__open-epg-ca.xml                          
+epg                 1 20961324F0__epg_epgpw_ca.xml.gz                       20961324F0__epg_epgpw_ca.xml.gz                      
+epg                 1 2265399612__epg_openepg_nz1.xml.gz                    2265399612__epg_openepg_nz1.xml.gz                   
+epg                 1 23556395A4__epg_openepg_us1.xml.gz                    23556395A4__epg_openepg_us1.xml.gz                   
+epg                 1 28A114F5B7__streamingtvguides.com.channels.xml        28A114F5B7__streamingtvguides.com.channels.xml       
+epg                 1 2AAB656874__content.xml                               2AAB656874__content.xml                              
+epg                 1 2E56DE6699__filtered_epg_08-21-2025_00-55-19.xml.gz   2E56DE6699__filtered_epg_08-21-2025_00-55-19.xml.gz  
+epg                 1 311F6B44C5__discover_us_directv.xml                   311F6B44C5__discover_us_directv.xml                  
+epg                 1 31C4D2299B__tvtv.us.channels.xml                      31C4D2299B__tvtv.us.channels.xml                     
+epg                 1 331AE3F17F__content.xml                               331AE3F17F__content.xml                              
+
+
+

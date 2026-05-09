@@ -1,0 +1,106 @@
+﻿build_source_inventory
+run_ts=20260419_183818
+total_relevant_files=10983
+total_relevant_bytes=28261253053
+
+top_roots_by_file_count
+
+root_path                                                              role                 status            exists relevant_file_count relevant_total_bytes
+---------                                                              ----                 ------            ------ ------------------- --------------------
+C:\Users\andrew\PROJECTS\iptv                                          umbrella_system      active              True                6396           2218057193
+C:\Utilities\Downloads                                                 download_staging     freeze              True                2467            193248597
+C:\Users\andrew\PROJECTS\GitHub\ZedTV-IPTV-Player-Recorder-Scraper-DEV tool_eval_donor      read_only_for_now   True                 830            254490168
+C:\Users\andrew\PROJECTS\GitHub\get_xmltvlisting                       paid_xmltv_source    active              True                 736          22642861469
+C:\X1_Share\Tivimate                                                   legacy_local_staging freeze              True                 496           2806935643
+C:\X1_Share\IPTV_load_files                                            legacy_load_files    freeze              True                  45            144446023
+C:\Users\andrew\PROJECTS\GitHub\M3U_Manager-v3                         donor_repo           read_only_for_now   True                   8                31227
+C:\Users\andrew\PROJECTS\GitHub\dispatcharr-plugin                     donor_repo           read_only_for_now   True                   5              1182733
+
+
+
+
+top_classifications
+
+Count Name                         
+----- ----                         
+ 6328 unclassified_relevant        
+ 2679 transient_or_archive         
+  830 donor_zedtv                  
+  504 canonical_input_m3u          
+  430 legacy_local_staging         
+  102 canonical_input_free_epg     
+   45 legacy_load_files            
+   42 paid_pull_logic              
+    8 donor_m3u_manager            
+    5 donor_dispatcharr_plugin     
+    5 paid_provider_channel_publish
+    5 paid_provider_xmltv_publish  
+
+
+
+
+top_extensions
+
+Count Name  
+----- ----  
+ 2046 .xml  
+ 1471 .js   
+ 1253 .m3u  
+  995 .json 
+  893 .md   
+  838 .html 
+  477 .txt  
+  369 .dll  
+  349 .dylib
+  314 .dat  
+  299 .ts   
+  275 .csv  
+  247 .py   
+  123 .gz   
+  114 .bak  
+   81 .ps1  
+   80 .yml  
+   65 .pdf  
+   63 .rs   
+   56 .tsx  
+
+
+
+
+top_folders
+
+Count Name                                                                                                                               
+----- ----                                                                                                                               
+  348 C:\Users\andrew\PROJECTS\GitHub\ZedTV-IPTV-Player-Recorder-Scraper-DEV\src\libs\mac\plugins                                        
+  304 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\iptv__C42511BE\streams                                                    
+  304 C:\Users\andrew\PROJECTS\iptv\inputs\m3u_sources\review_from_iptv__C42511BE                                                        
+  200 C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u                                                                  
+  200 C:\Users\andrew\PROJECTS\iptv\inputs\m3u_sources                                                                                   
+  156 C:\Users\andrew\PROJECTS\GitHub\get_xmltvlisting\.my_notes\files from epg.pw\Current_LMS_Dump                                      
+  156 C:\Users\andrew\PROJECTS\GitHub\get_xmltvlisting\.my_notes\files from epg.pw\01-21-2026_LMS_Dump                                   
+  121 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\IPTV-ChannelStudio\data\raw\Processed\08-21-2025_00-06-45                 
+  102 C:\Users\andrew\PROJECTS\iptv\inputs\free_epg                                                                                      
+  102 C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg                                                                  
+   99 C:\Utilities\Downloads\epg-master\epg-master\sites\epgshare01.online                                                               
+   99 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg\sites\epgshare01.online                                               
+   98 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\AJPs-custom-epg-master\sites\epgshare01.online                            
+   72 C:\Utilities\Downloads\xampp-windows-x64-8.2.12-0-VS16\xampp\php\extras\mibs                                                       
+   61 C:\Users\andrew\PROJECTS\GitHub\ZedTV-IPTV-Player-Recorder-Scraper-DEV\src\libs\win\plugins\codec                                  
+   57 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\IPTV-ChannelStudio                                                        
+   51 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\AJPs-custom-epg-master\sites\dstv.com                                     
+   51 C:\Utilities\Downloads\epg-master\epg-master\sites\dstv.com                                                                        
+   51 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg\sites\dstv.com                                                        
+   46 C:\Users\andrew\PROJECTS\GitHub\ZedTV-IPTV-Player-Recorder-Scraper-DEV\src\libs\win\plugins\demux                                  
+   44 C:\Users\andrew\PROJECTS\GitHub\get_xmltvlisting\.my_notes\files from epg.pw\baserad                                               
+   43 C:\Utilities\Downloads\epg-master\epg-master\sites\canalplus.com                                                                   
+   43 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\AJPs-custom-epg-master\sites\canalplus.com                                
+   43 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\epg\sites\canalplus.com                                                   
+   43 C:\Utilities\Downloads\xampp-windows-x64-8.2.12-0-VS16\xampp\tomcat\webapps\docs                                                   
+   41 C:\Users\andrew\PROJECTS\GitHub\ZedTV-IPTV-Player-Recorder-Scraper-DEV\src\libs\win\plugins\video_filter                           
+   39 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\Edit_n_Manage_IPTV_Files\third-party\fuzzywuzzy_library\rapidfuzz\distance
+   38 C:\Users\andrew\PROJECTS\GitHub\ZedTV-IPTV-Player-Recorder-Scraper-DEV\src\libs\win\plugins\access                                 
+   37 C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\AJPs-custom-epg-master\custom\output\archived                             
+   36 C:\Users\andrew\PROJECTS\GitHub\get_xmltvlisting\IPTV                                                                              
+
+
+

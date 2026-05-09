@@ -1,0 +1,1626 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_uk_rakuten.m3u",
+  "provider": "Playlistsrc",
+  "country": "UK",
+  "region": "Rakuten",
+  "channels": [
+    {
+      "canonical_name": "Adventure Earth Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Adventure Earth (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Adventure Earth (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ax Men Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Ax Men (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0F4TWVuX0hMUw/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ax Men (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmzie Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmzie (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Filmzie (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Flipping Nation Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Flipping Nation (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://a64543d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZsaXBwaW5nTmF0aW9uX0hMUw/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Flipping Nation (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Great British Menu Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Great British Menu (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://all3media-great-british-menu-1-gb.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Great British Menu (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hoarders Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Hoarders (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://8f2546fe.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0hvYXJkZXJzX0hMUw/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hoarders (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "I Survived Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "I Survived (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://8e979536.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0lTdXJ2aXZlZF9ITFM/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "I Survived (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ice Road Truckers Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Ice Road Truckers (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://6ffa57ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ice Road Truckers (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Jail Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Jail (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://langleyproductions-jail-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Jail (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lol Network Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "LOL! Network (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://lol-lolnetwork-2-gb.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "LOL! Network (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mech Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Mech+ (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://mechtvltd-mechplus-1-gb.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mech+ (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Popflix Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Popflix (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Popflix (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stormcast Westerns Undefined (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Stormcast Westerns (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://stormcast-cinema-llc-westernmaniafast-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Stormcast Westerns (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "21 Jump Street Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "21 Jump Street (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "21 Jump Street (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cosmic Frontiers Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cosmic Frontiers (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cosmic Frontiers (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crime Beat Tv Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Crime Beat TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://8e6c868c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lQmVhdF9ITFM/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crime Beat TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Curiosity Now Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Curiosity Now (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Curiosity Now (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Deal Masters Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Deal Masters (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00841-amg00841c8-rakuten-uk-2819.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-dealmastersrakuten-rakutenuk/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Deal Masters (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Desiplay Tv Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "DesiPlay TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "DesiPlay TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Earth Touch Tv Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Earth Touch TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://earthtouch-earthtouch-rakuten.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Earth Touch TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Eggheads Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Eggheads (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Eggheads (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Escape To The Country Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Escape to The Country (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00145-amg00145c11-rakuten-uk-5450.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Escape to The Country (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Graham Norton Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Graham Norton (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Graham Norton (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Great Real Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "GREAT! real (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01753-amg01753c5-rakuten-uk-5500.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "GREAT! real (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hardcore Pawn Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hardcore Pawn (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00627-amg00627c8-rakuten-uk-4801.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hardcore Pawn (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Highway Thru Hell Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Highway Thru Hell (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00627-amg00627c15-rakuten-uk-4803.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Highway Thru Hell (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "History Hunters Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "History Hunters (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "History Hunters (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Homeful Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Homeful (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00090-amg00090c4-rakuten-uk-2806.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-rakutenuk/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Homeful (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hotel Inspector Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hotel Inspector (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Hotel Inspector (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Love Pets Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Love Pets (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love Pets (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mr Bean Anime Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Mr. Bean Anime (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mr. Bean Anime (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mytime Movie Network Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MyTime Movie Network (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MyTime Movie Network (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Myzen Wellbeing Tv Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MyZen Wellbeing TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MyZen Wellbeing TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ninja Warrior Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ninja Warrior (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ninja Warrior (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pointless Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Pointless (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00627-amg00627c34-rakuten-uk-4005.playouts.now.amagi.tv/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Pointless (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Project Runway Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Project Runway (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg02189-amg02189c1-rakuten-us-5453.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Project Runway (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Reality Undefined (Rakuten) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten TV Reality UK (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rakuten TV Reality UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Romance Movies Undefined (Rakuten) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten TV Romance Movies UK (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rakuten TV Romance Movies UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Sci Fi Undefined (Rakuten) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten TV Sci-Fi UK (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rakuten TV Sci-Fi UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Thrillers Undefined (Rakuten) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten TV Thrillers UK (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rakuten TV Thrillers UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Trailers Undefined (Rakuten) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten TV Trailers UK (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4313/master.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Rakuten TV Trailers UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Real Crime Beta Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Real Crime Beta (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Real Crime Beta (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Red Bull Tv Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Red Bull TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Red Bull TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Romcom K Drama Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "RomCom K-Drama (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://7488d45c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JvbUNvbUtEcmFtYV9ITFM/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "RomCom K-Drama (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Squashtv Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SquashTV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg12058-amg12058c5-rakuten-gb-7997.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "SquashTV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tennis Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Tennis+ (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tennis+ (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Chat Show Channel Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Chat Show Channel (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Chat Show Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "True Crime Now Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "True Crime Now (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00376-magellan-amg00376c9-rakuten-uk-1941.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowcauk-rakutenuk/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "True Crime Now (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "True Lives Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "True Lives (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "True Lives (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vevo Hip Hop R B Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Vevo Hip-Hop & R&B (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Vevo Hip-Hop & R&B (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vevo Pop Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Vevo Pop (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Vevo Pop (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Waterbear Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Waterbear (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Waterbear (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wicked Tuna Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Wicked Tuna (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Wicked Tuna (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "World War Tv Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "World War TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "World War TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Yu Gi Oh Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Yu-Gi-Oh! (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Yu-Gi-Oh! (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Movies (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "&TV (1080p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/32W50Y6.png",
+        "stream_url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+        "xmltv_id": "AndTV.in@SD",
+        "xmltv_display_name": "&TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/32W50Y6.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Baby Shark Tv Kids (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Baby Shark TV (720p)",
+        "group_title_raw": "Kids",
+        "logo_raw": "https://i.imgur.com/SbBKr8L.png",
+        "stream_url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "BabySharkTV.us@SD",
+        "xmltv_display_name": "Baby Shark TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/SbBKr8L.png",
+        "xmltv_categories": [
+          "Kids"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cops Series (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cops (720p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/J3XO6V2.png",
+        "stream_url": "https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "Cops.us@SD",
+        "xmltv_display_name": "Cops (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/J3XO6V2.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dog The Bounty Hunter Geo Blocked Series (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dog The Bounty Hunter [Geo-blocked] (1080p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/lMICupK.png",
+        "stream_url": "https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8",
+        "xmltv_id": "DogtheBountyHunter.us@UK",
+        "xmltv_display_name": "Dog The Bounty Hunter [Geo-blocked] (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lMICupK.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hell S Kitchen Series (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Hell's Kitchen (1080p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/P9eT0O9.png",
+        "stream_url": "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8",
+        "xmltv_id": "HellsKitchen.us@UK",
+        "xmltv_display_name": "Hell's Kitchen (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/P9eT0O9.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Homes Under Hammer Series (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Homes Under Hammer (720p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/P5Haaln.png",
+        "stream_url": "https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "HomesUnderHammer.us@UK",
+        "xmltv_display_name": "Homes Under Hammer (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/P5Haaln.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Infast Undefined (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "INFAST (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/VwAMqA7.png",
+        "stream_url": "https://lifestyle-rakuten.amagi.tv/playlist.m3u8",
+        "xmltv_id": "INFAST.us@SD",
+        "xmltv_display_name": "INFAST (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/VwAMqA7.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Just For Laughs Comedy (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Just for Laughs (1080p)",
+        "group_title_raw": "Comedy",
+        "logo_raw": "https://i.imgur.com/YoK4vcm.png",
+        "stream_url": "https://distributionsjustepourrire-justforlaughstv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "JustforLaughs.us@UK",
+        "xmltv_display_name": "Just for Laughs (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/YoK4vcm.png",
+        "xmltv_categories": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mavtv Sports (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MAVTV (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/4fqvwEk.png",
+        "stream_url": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8",
+        "xmltv_id": "MAVTV.us@SD",
+        "xmltv_display_name": "MAVTV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/4fqvwEk.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mythbusters Series (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Mythbusters (1080p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/wzzjvcH.png",
+        "stream_url": "https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8",
+        "xmltv_id": "Mythbusters.us@UK",
+        "xmltv_display_name": "Mythbusters (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/wzzjvcH.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "New K Movies Movies (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NEW K.MOVIES (1080p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/wCgirjc.png",
+        "stream_url": "https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8",
+        "xmltv_id": "NEWKMOVIES.us@SD",
+        "xmltv_display_name": "NEW K.MOVIES (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/wCgirjc.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nitro Circus Sports (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Nitro Circus (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/Ri0sB6I.jpg",
+        "stream_url": "https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "NitroCircus.us@SD",
+        "xmltv_display_name": "Nitro Circus (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Ri0sB6I.jpg",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ntd Tv General (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "NTD TV (1080p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/QtFM5Oo.png",
+        "stream_url": "https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8",
+        "xmltv_id": "NTDTV.us@East",
+        "xmltv_display_name": "NTD TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/QtFM5Oo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Action Movies Movies (Rakuten) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten TV Action Movies UK (1080p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/Meew6eX.png",
+        "stream_url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8",
+        "xmltv_id": "RakutenTVActionMovies.es@UK",
+        "xmltv_display_name": "Rakuten TV Action Movies UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Meew6eX.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Comedy Movies Movies (Rakuten) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten TV Comedy Movies UK (1080p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/Meew6eX.png",
+        "stream_url": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8",
+        "xmltv_id": "RakutenTVComedyMovies.es@UK",
+        "xmltv_display_name": "Rakuten TV Comedy Movies UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Meew6eX.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Drama Movies Movies (Rakuten) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten TV Drama Movies UK (1080p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/Meew6eX.png",
+        "stream_url": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8",
+        "xmltv_id": "RakutenTVDramaMovies.es@UK",
+        "xmltv_display_name": "Rakuten TV Drama Movies UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Meew6eX.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv Family Movies Family Movies (Rakuten) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten TV Family Movies UK (1080p)",
+        "group_title_raw": "Family;Movies",
+        "logo_raw": "https://i.imgur.com/Meew6eX.png",
+        "stream_url": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8",
+        "xmltv_id": "RakutenTVFamilyMovies.es@UK",
+        "xmltv_display_name": "Rakuten TV Family Movies UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Meew6eX.png",
+        "xmltv_categories": [
+          "Family",
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Top Movies Movies (Rakuten) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rakuten Top Movies UK (1080p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/Meew6eX.png",
+        "stream_url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8",
+        "xmltv_id": "RakutenTVTopMovies.es@UK",
+        "xmltv_display_name": "Rakuten Top Movies UK (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Meew6eX.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Revry News Lifestyle (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Revry News (720p)",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/lKMYCkb.png",
+        "stream_url": "https://dcb264a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5TmV3c19ITFM/playlist.m3u8",
+        "xmltv_id": "RevryNews.us@SD",
+        "xmltv_display_name": "Revry News (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lKMYCkb.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Strongman Sports (Playlistsrc) (720p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Strongman (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/bVQBF6R.png",
+        "stream_url": "https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "xmltv_id": "Strongman.us@UK",
+        "xmltv_display_name": "Strongman (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/bVQBF6R.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tastemade Cooking (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Tastemade (1080p)",
+        "group_title_raw": "Cooking",
+        "logo_raw": "https://i.imgur.com/xP7Ehn8.png",
+        "stream_url": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Tastemade.us@UK",
+        "xmltv_display_name": "Tastemade (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/xP7Ehn8.png",
+        "xmltv_categories": [
+          "Cooking"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Design Network Lifestyle (Playlistsrc) (1080p) [UK]",
+      "canonical_network": null,
+      "canonical_country": "UK",
+      "canonical_region": "Rakuten",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Design Network (1080p)",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/J5YJ3r3.png",
+        "stream_url": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TheDesignNetwork.us@SD",
+        "xmltv_display_name": "The Design Network (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/J5YJ3r3.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    }
+  ]
+}

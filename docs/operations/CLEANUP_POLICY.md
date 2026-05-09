@@ -16,6 +16,12 @@
 - Cache, temp, build, virtual environment, logs, and compressed archive artifacts.
 - Step-named generated IPTV workflow leftovers.
 
+## Copied Upstream Repo Bulk
+
+Copied upstream repositories are not allowed inside the active repo root. They create local scan bloat and make GitHub Desktop unusable even when ignored.
+
+Future upstream source material must live outside the active repo, preferably under `C:\Users\andrew\PROJECTS\iptv_quarantine\`, or inside an explicitly ignored quarantine location only long enough to run a controlled extraction. Whole copied repos must not be staged or promoted wholesale.
+
 ## Quarantined
 
 Uncertain material is moved to `_cleanup_quarantine/<run_id>/` instead of being deleted. This includes generated typo-folder outputs, duplicate bundles, old workflow artifacts, and material that may need later review before promotion.
@@ -27,4 +33,3 @@ Only obvious local bloat is deleted: caches, bytecode, temp files, old active-pr
 ## Protected Production Boundary
 
 `C:\Users\andrew\PROJECTS\GitHub\get_xmltvlisting` is production-separate. Cleanup in this repo must not rename, move, delete, absorb, refactor, or change behavior in `get_xmltvlisting`.
-

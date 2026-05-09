@@ -1,0 +1,32 @@
+﻿canonical_input_overlap
+total_files_scanned=704
+total_overlap_rows=23
+total_overlap_names=11
+
+by_root
+
+Count Name           
+----- ----           
+   23 paid_xmltv_repo
+
+
+
+
+top_overlap_names
+
+normalized_name                            overlap_rows roots_present   extensions_present
+---------------                            ------------ -------------   ------------------
+lineups                                               3 paid_xmltv_repo .csv;.json;.xml   
+verizon_fios_newyork_ny_us_channels_10273             2 paid_xmltv_repo .xml              
+telus_optik_vancouver_bc_ca_channels_10269            2 paid_xmltv_repo .xml              
+xfinity_chicago_il_us_channels_10271                  2 paid_xmltv_repo .xml              
+manual_channel_review                                 2 paid_xmltv_repo .csv;.xlsx        
+match_for_anlysis_01_08_2025                          2 paid_xmltv_repo .csv;.xlsx        
+channels                                              2 paid_xmltv_repo .json             
+broadcast_losangeles_ca_us_channels_10272             2 paid_xmltv_repo .xml              
+remove_lists_ca                                       2 paid_xmltv_repo .bak;.txt         
+rogers_toronto_on_ca_channels_10270                   2 paid_xmltv_repo .xml              
+remove_lists_us                                       2 paid_xmltv_repo .bak;.txt         
+
+
+

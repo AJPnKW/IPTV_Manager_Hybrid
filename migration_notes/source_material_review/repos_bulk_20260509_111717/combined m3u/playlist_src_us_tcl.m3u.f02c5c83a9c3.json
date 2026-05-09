@@ -1,0 +1,29 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_tcl.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Tcl",
+  "channels": [
+    {
+      "canonical_name": "Unbeaten Sports (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tcl",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Unbeaten (1080p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/LmkNt3v.png",
+        "stream_url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Unbeaten.us",
+        "xmltv_display_name": "Unbeaten (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/LmkNt3v.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    }
+  ]
+}

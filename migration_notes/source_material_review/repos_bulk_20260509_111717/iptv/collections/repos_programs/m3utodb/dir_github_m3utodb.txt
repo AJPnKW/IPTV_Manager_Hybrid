@@ -1,0 +1,118 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1862-A704
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb
+
+2024-11-06  02:24 PM    <DIR>          .
+2024-11-06  02:09 PM    <DIR>          ..
+2024-11-06  02:24 PM                31 dir.bat
+2024-11-06  02:24 PM                 0 dir_github_m3utodb.txt
+2024-11-06  02:21 PM    <DIR>          Files
+2024-11-06  12:34 PM             1,401 m3utodb.b4j
+2024-11-06  01:45 PM               524 m3utodb.b4j.meta
+2024-11-06  02:19 PM               794 Move_m3utodb_Project_file_to_GitHub.bat
+2024-08-04  08:24 AM    <DIR>          Shared Files
+               5 File(s)          2,750 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\.git
+
+2024-11-06  02:24 PM    <DIR>          ..
+2024-11-06  02:18 PM                24 COMMIT_EDITMSG
+2024-11-06  02:10 PM               130 config
+2024-11-06  02:10 PM                73 description
+2024-11-06  02:10 PM                21 HEAD
+2024-11-06  02:10 PM    <DIR>          hooks
+2024-11-06  02:10 PM                65 index
+2024-11-06  02:10 PM    <DIR>          info
+2024-11-06  02:10 PM    <DIR>          objects
+2024-11-06  02:10 PM    <DIR>          refs
+               5 File(s)            313 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\.git\hooks
+
+2024-11-06  02:10 PM    <DIR>          .
+2024-11-06  02:10 PM               478 applypatch-msg.sample
+2024-11-06  02:10 PM               896 commit-msg.sample
+2024-11-06  02:10 PM             4,726 fsmonitor-watchman.sample
+2024-11-06  02:10 PM               189 post-update.sample
+2024-11-06  02:10 PM               424 pre-applypatch.sample
+2024-11-06  02:10 PM             1,649 pre-commit.sample
+2024-11-06  02:10 PM               416 pre-merge-commit.sample
+2024-11-06  02:10 PM             1,374 pre-push.sample
+2024-11-06  02:10 PM             4,898 pre-rebase.sample
+2024-11-06  02:10 PM               544 pre-receive.sample
+2024-11-06  02:10 PM             1,492 prepare-commit-msg.sample
+2024-11-06  02:10 PM             2,783 push-to-checkout.sample
+2024-11-06  02:10 PM             2,308 sendemail-validate.sample
+2024-11-06  02:10 PM             3,650 update.sample
+              14 File(s)         25,827 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\.git\info
+
+2024-11-06  02:10 PM    <DIR>          .
+2024-11-06  02:10 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\.git\objects
+
+2024-11-06  02:10 PM    <DIR>          .
+2024-11-06  02:10 PM    <DIR>          4b
+2024-11-06  02:10 PM    <DIR>          info
+2024-11-06  02:10 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\.git\objects\4b
+
+2024-11-06  02:10 PM    <DIR>          .
+2024-11-06  02:10 PM    <DIR>          ..
+2024-11-06  02:10 PM                15 825dc642cb6eb9a060e54bf8d69288fbee4904
+               1 File(s)             15 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\.git\objects\info
+
+2024-11-06  02:10 PM    <DIR>          .
+2024-11-06  02:10 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\.git\objects\pack
+
+2024-11-06  02:10 PM    <DIR>          .
+2024-11-06  02:10 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\.git\refs
+
+2024-11-06  02:10 PM    <DIR>          .
+2024-11-06  02:10 PM    <DIR>          heads
+2024-11-06  02:10 PM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\.git\refs\heads
+
+2024-11-06  02:10 PM    <DIR>          .
+2024-11-06  02:10 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\.git\refs\tags
+
+2024-11-06  02:10 PM    <DIR>          .
+2024-11-06  02:10 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\Files
+
+2024-11-06  02:21 PM    <DIR>          .
+2024-11-06  02:24 PM    <DIR>          ..
+2024-11-06  12:34 PM             2,837 appLogo.png
+2024-11-06  12:34 PM             7,070 MainPage.bjl
+               2 File(s)          9,907 bytes
+
+ Directory of C:\Users\Lenovo\Documents\GitHub\m3utodb\Shared Files
+
+2024-08-04  08:24 AM    <DIR>          .
+2024-11-06  02:24 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              28 File(s)         39,052 bytes
+              32 Dir(s)  229,047,947,264 bytes free

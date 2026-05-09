@@ -1,0 +1,65 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\us_ssh101.m3u",
+  "provider": "Usssh101",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Conecta Tv Not 24 7 (Usssh101) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Conecta TV (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tna5.bozztv.com/Conectatvmexico/index.m3u8",
+        "xmltv_id": "ConectaTV.mx",
+        "xmltv_display_name": "Conecta TV (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Jess Tv Lethbridge Not 24 7 (Usssh101) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Jess TV (Lethbridge) (480p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tna5.bozztv.com/jesstv/index.m3u8",
+        "xmltv_id": "JessTV.ca",
+        "xmltv_display_name": "Jess TV (Lethbridge) (480p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Uchu Tv Cusco Not 24 7 (Usssh101) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Uchu TV (Cusco) (720p) [Not 24/7]",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tna5.bozztv.com/Cusco/index.m3u8",
+        "xmltv_id": "UchuTV.pe",
+        "xmltv_display_name": "Uchu TV (Cusco) (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

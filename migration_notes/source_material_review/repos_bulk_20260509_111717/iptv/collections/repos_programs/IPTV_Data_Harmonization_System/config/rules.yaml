@@ -1,0 +1,15 @@
+﻿# Transformation Rules — rename, group, filter, logo
+rename:
+  - match: "CBLT-DT"
+    replace: "CA-CTV-CBLT (Toronto)"
+
+group:
+  - match: ".*Movie.*"
+    assign: "{country} Movie"
+
+filter:
+  - exclude: "Test Channel"
+
+logo:
+  - match: "HBO"
+    url: "https://logo.example.com/hbo.png"

@@ -1,0 +1,312 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\au_samsung.m3u",
+  "provider": "Ausamsung",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Euronews English (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Euronews English (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
+        "xmltv_id": "EuronewsEnglish.fr",
+        "xmltv_display_name": "Euronews English (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Horse And Country (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Horse and Country (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "HorseCountryTV.uk",
+        "xmltv_display_name": "Horse and Country (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Insight Tv (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Insight TV (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://insighttv-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InsightTV.nl",
+        "xmltv_display_name": "Insight TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Introuble (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "InTrouble (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://introuble-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InTrouble.nl",
+        "xmltv_display_name": "InTrouble (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Inwild (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "InWild (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://inwild-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "InWild (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Inwonder (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "InWonder (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://inwonder-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "InWonder.nl",
+        "xmltv_display_name": "InWonder (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Real Families Australia (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Real Families (Australia) (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "RealFamilies.au",
+        "xmltv_display_name": "Real Families (Australia) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Real Stories (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Real Stories (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lds-realstories-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "RealStories.uk",
+        "xmltv_display_name": "Real Stories (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Rialto (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Rialto (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Rialto.nz",
+        "xmltv_display_name": "Rialto (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Ryan And Friends (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ryan and Friends (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "RyanandFriends.us",
+        "xmltv_display_name": "Ryan and Friends (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Tastemade Australia (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Tastemade Australia (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Tastemade.au",
+        "xmltv_display_name": "Tastemade Australia (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Time Line Australia (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Time Line Australia (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Timeline.us",
+        "xmltv_display_name": "Time Line Australia (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trace Sport Stars Australia (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Trace Sport Stars (Australia) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TraceSportStars.fr",
+        "xmltv_display_name": "Trace Sport Stars (Australia) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Trace Urban Australia (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Trace Urban (Australia) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "TraceUrban.fr",
+        "xmltv_display_name": "Trace Urban (Australia) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Wonder (Samsung) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Wonder (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Wonder.uk",
+        "xmltv_display_name": "Wonder (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Zoo Moo Australia (Samsung) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Zoo Moo (Australia) (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+        "xmltv_id": "ZooMoo.sg",
+        "xmltv_display_name": "Zoo Moo (Australia) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

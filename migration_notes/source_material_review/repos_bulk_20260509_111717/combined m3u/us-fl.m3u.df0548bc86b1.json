@@ -1,0 +1,1016 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\us-fl.m3u",
+  "provider": "Usfl",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "ABC 9 Fl Wftv Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Orlando FL (WFTV) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "stream_url": "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8",
+        "xmltv_id": "WFTVDT1.us",
+        "xmltv_display_name": "ABC 9 Orlando FL (WFTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 25 Palm Beach Fl Wpbf News (Usfl) (West) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 25 West Palm Beach FL (WPBF) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wpbf.m3u8",
+        "xmltv_id": "WPBFDT1.us",
+        "xmltv_display_name": "ABC 25 West Palm Beach FL (WPBF) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 27 Tallahassee Fl Wtxl Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 27 Tallahassee FL (WTXL) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtxl.m3u8",
+        "xmltv_id": "WTXLDT1.us",
+        "xmltv_display_name": "ABC 27 Tallahassee FL (WTXL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 28 Bay Fl Wfts Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 28 Tampa Bay FL (WFTS) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wfts2.m3u8",
+        "xmltv_id": "WFTSDT1.us",
+        "xmltv_display_name": "ABC 28 Tampa Bay FL (WFTS) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC Wplg Dt1 Fl Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC (WPLG-DT1) Miami FL (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "stream_url": "https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8",
+        "xmltv_id": "WPLGDT1.us",
+        "xmltv_display_name": "ABC (WPLG-DT1) Miami FL (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Access Sarasota Sarasota County Fl Legislative (Usfl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Access Sarasota (Sarasota County FL) (1080p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/XrEXXHn.png",
+        "stream_url": "https://ythls.armelin.one/channel/UCqHDwKPPOhzLmtb4TvwIZZQ.m3u8",
+        "xmltv_id": "AccessSarasota.us",
+        "xmltv_display_name": "Access Sarasota (Sarasota County FL) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/XrEXXHn.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Brevard County Government Access Tv Brevard Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Brevard County Government Access TV (Brevard FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/eUTDIQ2.png",
+        "stream_url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8",
+        "xmltv_id": "BrevardGovernmentAccessTV.us",
+        "xmltv_display_name": "Brevard County Government Access TV (Brevard FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/eUTDIQ2.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cfm Tv Channel 98 Legislative (Usfl) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "CFM TV Channel 98 (360p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/LGs524I.png",
+        "stream_url": "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8",
+        "xmltv_id": "CFMTVChannel98.us",
+        "xmltv_display_name": "CFM TV Channel 98 (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/LGs524I.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Collier County Public Schools Ccps Education Channel Naples Fl Education (Usfl) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Collier County Public Schools CCPS Education Channel (Naples FL) (480p)",
+        "group_title_raw": "Education",
+        "logo_raw": "https://i.imgur.com/62S7dI8.png",
+        "stream_url": "https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8",
+        "xmltv_id": "CCPSEducationChannel.us",
+        "xmltv_display_name": "Collier County Public Schools CCPS Education Channel (Naples FL) (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/62S7dI8.png",
+        "xmltv_categories": [
+          "Education"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Collier Television CTV Naples Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Collier Television CTV (Naples FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/dkpTHI9.png",
+        "stream_url": "https://reflect-collier-countyboc.cablecast.tv/live-4/live/live.m3u8",
+        "xmltv_id": "CollierTV.us",
+        "xmltv_display_name": "Collier Television CTV (Naples FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/dkpTHI9.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Coral Gables Television Coral Gables Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Coral Gables Television (Coral Gables FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/Z7QvRzd.png",
+        "stream_url": "https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/coralgables/G0937_004/playlist.m3u8",
+        "xmltv_id": "CoralGablesTV.us",
+        "xmltv_display_name": "Coral Gables Television (Coral Gables FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Z7QvRzd.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fernandina Beach City Meeting Fernandina Beach Fl Not 24 7 Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fernandina Beach City Meeting (Fernandina Beach FL) (720p) [Not 24/7]",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/9UfyekJ.png",
+        "stream_url": "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8",
+        "xmltv_id": "FernandinaBeachChannel.us",
+        "xmltv_display_name": "Fernandina Beach City Meeting (Fernandina Beach FL) (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/9UfyekJ.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fort Lauderdale Fltv Fort Lauderdale Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fort Lauderdale FLTV (Fort Lauderdale FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/lQZ9RoB.png",
+        "stream_url": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8",
+        "xmltv_id": "FLTV.us",
+        "xmltv_display_name": "Fort Lauderdale FLTV (Fort Lauderdale FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/lQZ9RoB.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fort Pierce Live Stream Fort Pierce Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fort Pierce Live Stream (Fort Pierce FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/2ChoSsi.png",
+        "stream_url": "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8",
+        "xmltv_id": "CityofFortPierce.us",
+        "xmltv_display_name": "Fort Pierce Live Stream (Fort Pierce FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/2ChoSsi.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 13 Bay Fl Wtvt Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 13 Tampa Bay FL (WTVT) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtvt.m3u8",
+        "xmltv_id": "WTVTDT1.us",
+        "xmltv_display_name": "FOX 13 Tampa Bay FL (WTVT) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 35 Fl Wofl Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 35 Orlando FL (WOFL) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wofl.m3u8",
+        "xmltv_id": "WOFLDT1.us",
+        "xmltv_display_name": "FOX 35 Orlando FL (WOFL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gainesville Community 12tv Gainesville Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Gainesville Community 12TV (Gainesville FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/Oel3q43.png",
+        "stream_url": "https://lin10.isilive.ca/live/gainesville/live/index.m3u8",
+        "xmltv_id": "Community12TV.us",
+        "xmltv_display_name": "Gainesville Community 12TV (Gainesville FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Oel3q43.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Hillsborough County Tv Htv Hillsborough County Fl Legislative (Usfl) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Hillsborough County TV HTV (Hillsborough County FL) (360p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/fUne7FX.png",
+        "stream_url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8",
+        "xmltv_id": "HillsboroughTV.us",
+        "xmltv_display_name": "Hillsborough County TV HTV (Hillsborough County FL) (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/fUne7FX.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Leesburg Lakefront Tv Leesburg Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Leesburg Lakefront TV (Leesburg FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/ROb1BNG.png",
+        "stream_url": "https://reflect-lakefront-leesburgflorida.cablecast.tv/live-5/live/live.m3u8",
+        "xmltv_id": "LakeFrontTV.us",
+        "xmltv_display_name": "Leesburg Lakefront TV (Leesburg FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ROb1BNG.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lifevisiontv 406p Not 24 7 Religious (Usfl) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "LifevisionTV (406p) [Not 24/7]",
+        "group_title_raw": "Religious",
+        "logo_raw": "https://i.imgur.com/pF6Wowj.jpg",
+        "stream_url": "https://tgn.bozztv.com/lifevision/lifevision/index.m3u8",
+        "xmltv_id": "LifevisionTV.us",
+        "xmltv_display_name": "LifevisionTV (406p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/pF6Wowj.jpg",
+        "xmltv_categories": [
+          "Religious"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Manatee Schools Television Mstv Manatee County Fl Education (Usfl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Manatee Schools Television MSTV (Manatee County FL) (1080p)",
+        "group_title_raw": "Education",
+        "logo_raw": "https://i.imgur.com/x0lJqSp.png",
+        "stream_url": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8",
+        "xmltv_id": "MSTV.us",
+        "xmltv_display_name": "Manatee Schools Television MSTV (Manatee County FL) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/x0lJqSp.png",
+        "xmltv_categories": [
+          "Education"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Martin County Mctv Martin County Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Martin County MCTV (Martin County FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/7VzlbLp.png",
+        "stream_url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8",
+        "xmltv_id": "MartinCountyTV.us",
+        "xmltv_display_name": "Martin County MCTV (Martin County FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/7VzlbLp.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mega Tv Undefined (Usfl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Mega TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png",
+        "stream_url": "https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8",
+        "xmltv_id": "WSBSDT1.us",
+        "xmltv_display_name": "Mega TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Beach Tv Mbtv Beach Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Miami Beach Tv (MBTV) (Miami Beach FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/LyqFr9E.png",
+        "stream_url": "https://edge-f.swagit.com/live/miamibeachfl/smil:hd-16x9-1-a/playlist.m3u8",
+        "xmltv_id": "MBTV.us",
+        "xmltv_display_name": "Miami Beach Tv (MBTV) (Miami Beach FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/LyqFr9E.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Monroe County Television Mctv Monroe County Fl Legislative (Usfl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Monroe County Television MCTV (Monroe County FL) (1080p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/YJfzdSu.png",
+        "stream_url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8",
+        "xmltv_id": "MonroeCountyTV.us",
+        "xmltv_display_name": "Monroe County Television MCTV (Monroe County FL) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/YJfzdSu.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 2 Fl Wesh News (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 2 Orlando FL (WESH) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wesh.m3u8",
+        "xmltv_id": "WESHDT1.us",
+        "xmltv_display_name": "NBC 2 Orlando FL (WESH) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "North Beach Tv Nmbtv North Beach Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "North Miami Beach TV (NMBTV) (North Miami Beach FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/HTNoNnh.png",
+        "stream_url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8",
+        "xmltv_id": "NMBTV.us",
+        "xmltv_display_name": "North Miami Beach TV (NMBTV) (North Miami Beach FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/HTNoNnh.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Orange County Orange Tv Orange County Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Orange County Orange TV (Orange County FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/ANfTXIe.png",
+        "stream_url": "https://otv3.ocfl.net/OrangeTV/smil:OrangeTV.smil/playlist.m3u8",
+        "xmltv_id": "OrangeTV.us",
+        "xmltv_display_name": "Orange County Orange TV (Orange County FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ANfTXIe.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Orange County Vision Tv Orange County Fl Education (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Orange County Vision TV (Orange County FL) (720p)",
+        "group_title_raw": "Education",
+        "logo_raw": "https://i.imgur.com/XnxPIqn.png",
+        "stream_url": "https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8",
+        "xmltv_id": "VisionTV.us",
+        "xmltv_display_name": "Orange County Vision TV (Orange County FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/XnxPIqn.png",
+        "xmltv_categories": [
+          "Education"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Palm Beach County Tv Channel 20 Palm Beach County Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Palm Beach County TV Channel 20 (Palm Beach County FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/2bGBbOZ.png",
+        "stream_url": "https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/playlist.m3u8",
+        "xmltv_id": "PBCTVChannel20.us",
+        "xmltv_display_name": "Palm Beach County TV Channel 20 (Palm Beach County FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/2bGBbOZ.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pasco Tv Pasco County Fl Legislative (Usfl) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Pasco TV (Pasco County FL) (480p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/CM91sME.png",
+        "stream_url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8",
+        "xmltv_id": "PascoTV.us",
+        "xmltv_display_name": "Pasco TV (Pasco County FL) (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/CM91sME.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Pompano Beach Web Streaming Pompano Beach Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Pompano Beach Web Streaming (Pompano Beach FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/Bv9OGrH.png",
+        "stream_url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8",
+        "xmltv_id": "CityofPompanoBeach.us",
+        "xmltv_display_name": "Pompano Beach Web Streaming (Pompano Beach FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Bv9OGrH.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Port St Lucie Psl Tv Port St Lucie Fl Legislative (Usfl) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "Port St Lucie PSL TV (Port St Lucie FL) (360p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/kzdRmTN.png",
+        "stream_url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8",
+        "xmltv_id": "PSLTV.us",
+        "xmltv_display_name": "Port St Lucie PSL TV (Port St Lucie FL) (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/kzdRmTN.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Sgtv Seminole County Fl Legislative (Usfl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "SGTV (Seminole County FL) (1080p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/rVyWa2A.png",
+        "stream_url": "https://live.seminolecountyfl.gov/live-2/live/live.m3u8",
+        "xmltv_id": "SGTV.us",
+        "xmltv_display_name": "SGTV (Seminole County FL) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/rVyWa2A.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "St Johns County Government Gtv St Johns County Fl Legislative (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "St. Johns County Government GTV (St. Johns County FL) (720p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/xN6WM3N.png",
+        "stream_url": "https://edge-f.swagit.com/live/stjohnscountyfl/live-1-a/playlist.m3u8",
+        "xmltv_id": "GTV.us",
+        "xmltv_display_name": "St. Johns County Government GTV (St. Johns County FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/xN6WM3N.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "St Pete Tv Sptv St Petersburg Fl Legislative (Usfl) (360p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "360p",
+      "raw_entries": {
+        "channel_name_raw": "St. Pete TV (SPTV) (St Petersburg FL) (360p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://i.imgur.com/fl8I3cg.png",
+        "stream_url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8",
+        "xmltv_id": "SPTV.us",
+        "xmltv_display_name": "St. Pete TV (SPTV) (St Petersburg FL) (360p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/fl8I3cg.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Superchannel Wacx Dt1 Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "SuperChannel Orlando (WACX-DT1) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.png/512px-WACX_logo_2021.png",
+        "stream_url": "https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8",
+        "xmltv_id": "WACXDT1.us",
+        "xmltv_display_name": "SuperChannel Orlando (WACX-DT1) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.png/512px-WACX_logo_2021.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Bay Communnity Network Tbcn Bay Fl General (Usfl) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/nNxl3F4.png",
+        "stream_url": "https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8",
+        "xmltv_id": "TBCN.us",
+        "xmltv_display_name": "Tampa Bay Communnity Network TBCN (Tampa Bay FL) (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/nNxl3F4.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The CW Tallahassee Fl Wtlf1 Not 24 7 Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The CW Tallahassee FL (WTLF1) (720p) [Not 24/7]",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/oi5w1Xx.png",
+        "stream_url": "https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8",
+        "xmltv_id": "WTLFDT1.us",
+        "xmltv_display_name": "The CW Tallahassee FL (WTLF1) (720p) [Not 24/7]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/oi5w1Xx.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Florida Channel Legislative (Usfl) (480p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "480p",
+      "raw_entries": {
+        "channel_name_raw": "The Florida Channel (480p)",
+        "group_title_raw": "Legislative",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png",
+        "stream_url": "https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8",
+        "xmltv_id": "WFSUDT2.us",
+        "xmltv_display_name": "The Florida Channel (480p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png",
+        "xmltv_categories": [
+          "Legislative"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wcot 13 Tallahassee Fl General (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WCOT 13 (Tallahassee FL) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/WMUBDzY.jpg",
+        "stream_url": "https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8",
+        "xmltv_id": "WCOT.us",
+        "xmltv_display_name": "WCOT 13 (Tallahassee FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/WMUBDzY.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wftx News Fort Myers Fl Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WFTX News Fort Myers FL (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8",
+        "xmltv_id": "WFTXDT1.us",
+        "xmltv_display_name": "WFTX News Fort Myers FL (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wjax Dt1 Undefined (Usfl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "WJAX-DT1 (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/TBjVU9L.png",
+        "stream_url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8",
+        "xmltv_id": "WJAXDT1.us",
+        "xmltv_display_name": "WJAX-DT1 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/TBjVU9L.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wjxt News4jax Jacksonville Fl Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WJXT News4JAX (Jacksonville FL) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/mrWo0P1.png",
+        "stream_url": "https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8",
+        "xmltv_id": "WJXTDT1.us",
+        "xmltv_display_name": "WJXT News4JAX (Jacksonville FL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mrWo0P1.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wjxx Dt1 Undefined (Usfl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "WJXX-DT1 (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "stream_url": "https://livevideo01.firstcoastnews.com/hls/live/2014550/elvs/live.m3u8",
+        "xmltv_id": "WJXXDT1.us",
+        "xmltv_display_name": "WJXX-DT1 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wmor Tv News Lakeland Fl Undefined (Usfl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WMOR-TV News Lakeland FL (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/WMOR.svg/512px-WMOR.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wmor.m3u8",
+        "xmltv_id": "WMORDT1.us",
+        "xmltv_display_name": "WMOR-TV News Lakeland FL (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/WMOR.svg/512px-WMOR.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wptv News Palm Beach Fl Undefined (Usfl) (West) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WPTV News West Palm Beach FL (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8",
+        "xmltv_id": "WPTVDT1.us",
+        "xmltv_display_name": "WPTV News West Palm Beach FL (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wtsp CBS 10 Undefined (Usfl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "WTSP CBS 10 (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/A00pGOV.png",
+        "stream_url": "https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8",
+        "xmltv_id": "WTSPDT1.us",
+        "xmltv_display_name": "WTSP CBS 10 (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/A00pGOV.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}

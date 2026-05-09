@@ -1,0 +1,8 @@
+﻿{
+    "tivimate_m3u_root":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\tivimate\\current\\m3u",
+    "tivimate_epg_root":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\tivimate\\current\\epg",
+    "runtime_m3u_root":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\runtime_hp\\current\\m3u",
+    "runtime_epg_root":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\runtime_hp\\current\\epg",
+    "staging_policy":  "replace_current_staging_only",
+    "sources_untouched":  true
+}

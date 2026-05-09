@@ -1,0 +1,133 @@
+SHOWS
+Title	TMDB_ID	About	Premiered	Status	Source	Schedule					
+Only Murders in the Building (2021)	107113 	"Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one."	Aug 31, 2021	Running	 
+Tuesdays					
+Season 1	2021	When a grisly death occurs inside their exclusive Upper West Side apartment building, three strangers who share an obsession with true crime suspect murder and employ their precise knowledge of true crime to investigate the truth. As they record a podcast of their own to document the case, the three unravel the complex secrets of the building which stretch back years. Perhaps even more explosive are the lies they tell one another. Soon, the endangered trio comes to realize a killer might be living amongst them as they race to decipher the mounting clues before it’s too late.							
+Episode 1	True Crime 
+Upper West Side neighbors Charles, Oliver & Mabel bond over a shared love of true crime. When a fellow resident dies in their building, the trio determine to solve the mystery and record an accompanying podcast.	Aug 31, 2021	 33 min 	 	
+Episode 2	Who Is Tim Kono? 
+The group begins researching the victim. Meanwhile, Mabel's secretive past starts to be unraveled.	Aug 31, 2021	 29 min 	 	
+Episode 3	How Well Do You Know Your Neighbors? 
+Oliver employs his theater director skills to analyze the case. Charles & Mabel question an obsessive cat lover.	Aug 31, 2021	 32 min 	 	
+Episode 4	The Sting 
+Believing the murderer might be a famous resident whom is difficult to access, the group seeks advice from a renowned podcasting host.
+Sep 7, 2021	 31 min 	 	
+Episode 5	Twist 
+Mabel slips away on a solo mission tracking the victim's final days. Suspicious, Charles & Oliver follow her.	Sep 14, 2021	 30 min 	 	
+Episode 6	To Protect and Serve 
+Mabel brings her new friends (and an old one) to her childhood home to meet her mother. Meanwhile, Detective Williams starts to have her own doubts about the case as she prepares for motherhood.	Sep 21, 2021	 31 min 	 	
+Episode 7	The Boy from 6B 
+With the investigation scratching at a web of old crimes originating inside the building, a mysterious young man turns the tables to spy on Charles, Oliver & Mabel.	Sep 28, 2021	 33 min 	 	
+Episode 8	Fan Fiction 
+Oct 5, 2021	 30 min 	 	
+Episode 9	Double Time 
+Oct 12, 2021	 31 min 	 	
+Episode 10	Open and Shut 
+Oct 19, 2021	 34 min 	 	
+Season 2		Season 2 picks up with the trio following the shocking death of Arconia Board President Bunny Folger, as they race to unmask her killer. However, three (unfortunate) complications ensue—the trio is publicly implicated in Bunny’s homicide, they are now the subjects of a competing podcast, and they have to deal with a bunch of New York neighbors who all think they committed murder.							
+Episode 1	 Persons of Interest 	 Arrested for Bunny's murder; new podcast; find suspicious painting. 	 Jun 28, 2022 	 33 min 	 	
+Episode 2	 Framed 	 Painting fake; parrot knows killer's name. 	 Jun 28, 2022 	 32 min 	 	
+Episode 3	 The Last Day of Bunny Folger 	 Flashbacks to Bunny's last day; suspect Nina Lin. 	 Jul 5, 2022 	 31 min 	 	
+Episode 4	 Here's Looking at You 	 Explore secret tunnels; Lucy warns of danger. 	 Jul 12, 2022 	 30 min 	 	
+Episode 5	 The Tell 	 Suspect Alice; learn Bunny's diner meeting. 	 Jul 19, 2022 	 32 min 	 	
+Episode 6	 Performance Review 	 Glitter bomb fails; Mabel attacked, framed on video. 	 Jul 26, 2022 	 33 min 	 	
+Episode 7	 Flipping the Pieces 	 Flashbacks to Mabel's past; subway attack, blackout. 	 Aug 2, 2022 	 31 min 	 	
+Episode 8	 Hello, Darkness 	 Race to save Lucy; suspect Kreps after glitter clue. 	 Aug 9, 2022 	 30 min 	 	
+Episode 9	 Sparring Partners 	 Confront Kreps; reveal Rose Cooper connection. 	 Aug 16, 2022 	 32 min 	 	
+Episode 10	 I Know Who Did It 	 Expose Becky as killer at reveal party. 	 Aug 23, 2022 	 34 min 	 	
+Season 3	2024	Season three finds Charles, Oliver & Mabel investigating a murder behind the scenes of a Broadway show. Ben Glenroy is a Hollywood action star whose Broadway debut is cut short by his untimely death. Aided by co-star Loretta Durkin, our trio embarks on their toughest case yet, all while director Oliver desperately attempts to put his show back together. Curtain up!							
+Episode 1	 The Show Must... 	 Ben collapses on stage, revives, then falls dead from elevator. 	 Aug 8, 2023 	 33 min 	 	
+Episode 2	 The Beat Goes On 	 Kidnapped by fan; restart podcast on Ben's murder. 	 Aug 8, 2023 	 32 min 	 	
+Episode 3	 Grab Your Hankies 	 Investigate handkerchief; footage from Ben's dressing room. 	 Aug 15, 2023 	 31 min 	 	
+Episode 4	 The White Room 	 Suspect Kimber; Charles proposes to Joy accidentally. 	 Aug 22, 2023 	 30 min 	 	
+Episode 5	 Ah, Love! 	 Loretta's secret fight with Ben; Joy breaks up with Charles. 	 Aug 29, 2023 	 32 min 	 	
+Episode 6	 Ghost Light 	 Ghost in theater; trio argues over investigation. 	 Sep 5, 2023 	 33 min 	 	
+Episode 7	 CoBro 	 Suspect Dickie; Mabel starts solo podcast. 	 Sep 12, 2023 	 31 min 	 	
+Episode 8	 Sitzprobe 	 Loretta confesses to save Dickie; Oliver has heart attack. 	 Sep 19, 2023 	 30 min 	 	
+Episode 9	 Thirty 	 Recreate timeline; suspect Donna and Cliff. 	 Sep 26, 2023 	 32 min 	 	
+Episode 10	 Opening Night 	 Expose Donna and Cliff; Sazz shot in Charles's apartment. 	 Oct 3, 2023 	 34 min 	 	
+Season 4	2025	After their beloved doorman, Lester, dies under suspicious circumstances, Charles, Oliver, and Mabel refuse to believe it was an accident. Their investigation plunges them into the shadowy corners of New York and beyond - where the trio uncovers a dangerous web of secrets connecting powerful billionaires, old-school mobsters, and the mysterious residents of the Arconia. The trio discovers a deeper divide between their storied city they thought they knew and the new New York evolving around them - one where the old mob fights to hold on as newer, even more dangerous players emerge.							
+Episode 1	 Once Upon a Time in the West 	 Trio to LA for movie deal; discover Sazz murdered. 	 Aug 27, 2024 	 33 min 	 	
+Episode 2	 Gates of Heaven 	 Investigate west side residents; find "Oh Hell" code and ham radio. 	 Sep 3, 2024 	 32 min 	 	
+Episode 3	 Two for the Road 	 Pair with actors Eugene, Zach, Eva; contact via ham radio. 	 Sep 10, 2024 	 31 min 	 	
+Episode 4	 The Stunt Man 	 Delve into stunt world; encounter familiar-faced suspect. 	 Sep 17, 2024 	 30 min 	 	
+Episode 5	 Adaptation 	 Face off against deceptive Hollywood cast and crew. 	 Sep 24, 2024 	 32 min 	 	
+Episode 6	 Blow-Up 	 Documentary by The Brothers Sisters reveals clues. 	 Oct 1, 2024 	 33 min 	 	
+Episode 7	 Valley of the Dolls 	 Flee to safe house; family refuge proves unsafe. 	 Oct 8, 2024 	 31 min 	 	
+Episode 8	 Lifeboat 	 Epic showdown with Westies alongside film actors. 	 Oct 15, 2024 	 30 min 	 	
+Episode 9	 Escape From Planet Klongo 	 Infiltrate film set for Sazz murder background. 	 Oct 22, 2024 	 32 min 	 	
+Episode 10	 My Best Friend's Wedding 	 Reveal final answers amid mortal danger and Arconia wedding. 	 Oct 29, 2024 	 34 min 	 	
+Season 5	2025	After their beloved doorman, Lester, dies under suspicious circumstances, Charles, Oliver, and Mabel refuse to believe it was an accident. Their investigation plunges them into the shadowy corners of New York and beyond - where the trio uncovers a dangerous web of secrets connecting powerful billionaires, old-school mobsters, and the mysterious residents of the Arconia. The trio discovers a deeper divide between their storied city they thought they knew and the new New York evolving around them - one where the old mob fights to hold on as newer, even more dangerous players emerge.							
+Episode 1	 Nail in the Coffin 	 Investigating Lester's death lures trio out of Manhattan into dangerous territory. 	 Sep 9, 2025 	 33 min 	 	
+Episode 2	 After You 	 Flashback to Lester's early days at Arconia, sacrificing future for building secrets. 	 Sep 9, 2025 	 32 min 	 	
+Episode 3	 Rigor 	 Stumble on crucial evidence but compromise it; scramble before police close in. 	 Sep 9, 2025 	 31 min 	 	
+Episode 4	 Dirty Birds 	 Snooping caught by billionaire suspects; invited to Oliver's for evening. 	 Sep 16, 2025 	 30 min 	 	
+Episode 5	 Tongue Tied 	 Thwarted podcast plans; seek help from staff; Charles dines with suspect. 	 Sep 23, 2025 	 32 min 	 	
+Episode 6	 Flatbush 	 Investigation takes Oliver and Loretta to childhood streets; break-in leads. 	 Sep 30, 2025 	 33 min 	 	
+Episode 7	 Silver Alert 	 Mayor warns of billionaires; investigate upstate lair; Oliver's escape attempt. 	 Oct 7, 2025 	 31 min 	 	
+Episode 8	 Cuckoo Chicks 	 Mabel crashes ladies night; Charles and Oliver in couples therapy accidentally. 	 Oct 14, 2025 	 30 min 	 	
+Episode 9	 LESTR 	 Told through annoying robot's lens; Arconia party reveals killer may remain. 	 Oct 21, 2025 	 32 min 	 	
+Episode 10	 The House Always 	 Trio rushes to solve amid life-threatening peril. 	 Oct 28, 2025 	 34 min	 	
+High Potential (2024)	226637 	Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.	Sep 17, 2024	Running	 
+Tuesdays					
+Season 3	2025								
+Episode 1	Pawns	While working tirelessly to shield her family from the Game Maker's threats, another crime drags Morgan back into his game and the LAPD must decide whether to trust her instincts before the next move turns fatal.	September 16, 2025	44m	 
+Episode 2	Checkmate	As the Major Crimes team desperately seek answers amidst a string of unresolved crimes, Morgan suspects the Game Maker is responsible. Meanwhile, Daphne and Oz set out to find Roman, and Elliot prepares a surprise act for his school’s talent show.	September 23, 2025	44m	 
+Episode 3	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 4	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 5	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 6	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 7	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 8	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 9	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 10	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 11	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 12	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 13	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 14	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 15	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 16	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 17	Placeholder 	Placeholder 	Placeholder 	44m	 
+Episode 18	Placeholder 	Placeholder 	Placeholder 	44m	 
+The Diplomat (2023)	203857 	In the midst of an international crisis, a career diplomat lands in a high-profile job she’s unsuited for, with tectonic implications for her marriage and her political future.	Feb 20, 2023	Running	 						
+Season 3	2025	Ambassador Kate Wyler lives the particular nightmare that is getting what you want. She just accused Vice President Grace Penn of hatching a terrorist plot and admitted she's after the VP's job. But now the President is dead, Kate's husband Hal may have inadvertently killed him, and Grace Penn is leader of the free world. None of this slows Hal's campaign to land Kate the vice presidency. Kate steps into a role she never wanted, with a freedom she never expected, an increasingly complicated friendship with Foreign Secretary Austin Dennison, and an unnerving bond with First Gentleman Todd Penn.							
+Episode 1	Emperor Dead	Amid a growing constitutional crisis, the staff scrambles to stage an impromptu inauguration, while Hal exploits the chaos behind the scenes.	October 16, 2025	41m	 	
+Episode 2	Last Dance at the Country Club	Kate weighs a compelling offer. Eidra faces scrutiny over fallout from the Roylin debacle. Stuart pitches a proposal that goes far deeper than policy.	October 16, 2025	46m	 	
+Episode 3	The Riderless Horse	As the nation pauses to mourn, Grace considers the framework of her administration. Private strain threatens Kate and Hal's polished public image.	October 16, 2025	51m	 	
+Episode 4	Arden	Kate's unique role grants her access to anyone she wants — except the one person she needs. Dennison puts actionable intelligence to personal use.	October 16, 2025	50m	 	
+Episode 5	Birdwatchers	Forced to play the perfect couple, Kate and Hal confront a looming problem in international waters and a development that could torpedo U.S. credibility.	October 16, 2025	42m	 	
+Episode 6	Amagansett	At an emergency strategy session, Grace weighs unthinkable choices, while Kate rolls the dice on a gamble that could alter the course of history.	October 16, 2025	49m	 	
+Episode 7	PNG	Sequestered inside Winfield House as embassies go on alert and allies fall silent, Kate and Callum race to contain a potential disaster.	October 16, 2025	51m	 	
+Episode 8	Schrodinger's Wife (Season Finale)	Kate must use all her leverage and political instincts to avert a catastrophe at a high-stakes summit — with the fate of nations hanging in the balance.	October 16, 2025 	54m	 	
+English Teacher (2024)	258902 	A high school teacher in Austin tries to balance the competing demands of the students and their parents in a world where the rules seem to change every day.	Sep 3, 2024	Running	 	Tuesdays					
+Season 1	2024	Follow Evan Marquez as he navigates his relationships, his students and his fellow faculty and tries to answer the question: can you really be your full self at your job?							
+Episode 1	Pilot
+Evan is placed under school investigation.	September 2, 2024	23m	 	
+Episode 2	Powderpuff
+Evan brings in an old friend to help save a school performance.	September 2, 2024	25m	 	
+Episode 3	Kayla Syndrome
+Evan and Harry plan the Homecoming Dance, and a student struggles with a new disease.	September 9, 2024	23m	 	
+Episode 4	School Safety
+Evan tries to get a new school club shut down.	September 16, 2024	22m	 	
+Episode 5	Field Trip
+Tensions flare between Evan and Gwen on a school camping trip.	September 23, 2024	22m	 	
+Episode 6	Linda
+Evan gives failing grades to an entire class and faces the wrath of a parent from his past.	September 30, 2024	24m	 	
+Episode 7	Convention
+The teachers attend the Dallas Teaching and Learning Conference.	October 7, 2024	23m	 	
+Episode 8	Birthday (Season Finale)	Malcolm throws a surprise birthday party for Evan at a gay bar.	October 14, 2024	25m	 	
+Episode 9	Pilot
+Evan is placed under school investigation.	September 2, 2024	23m	 	
+Episode 10	Powderpuff
+Evan brings in an old friend to help save a school performance.	September 2, 2024	25m	 	
+Season 2	2025	In season 2, Evan still refuses to stay quiet when controversy arises at Morrison-Hensley High. The gang finds themselves in the crosshairs of issues including climate change, Covid, military recruitment and student phone usage. Evan also struggles to keep his relationship with Malcolm separate from his work life. Even though Malcolm no longer works at Morrison-Hensley, Evan’s excessive righteousness at school takes an increasing toll on his romantic life.							
+Episode 1	Covid in America	Evan pushes back against the students as they try to modernize the school play.	September 25, 2025	22m	 	
+Episode 2	Trash	Evan attempts to update the school's waste management system.	September 25, 2025	21m	 	
+Episode 3	Grant's Dinner Party	Grant invites the teachers to a dinner party at his home.	September 25, 2025	25m	 	
+Episode 4	College Week	As the students prepare their college applications, Evan starts to question his own hiring.	October 2, 2025	22m	 	
+Episode 5	Evan's Mom	Evan receives a surprise visit from his mother Elena.	October 2, 2025	25m	 	
+Episode 6	Recruiter	A military recruiter comes to the school, and the teachers experiment with new classroom phone policies.	October 2, 2025	21m	 	
+Episode 7	Lake Trip	Evan and Malcolm take a vacation while the other teachers administer standardized tests back at school.	October 9, 2025	20m	 	
+Episode 7	Accreditation	The teachers get evaluated by outside observers in an effort to earn the school a better rating.	October 9, 2025	25m	 	
+Episode 9	Lock In	The teachers oversee the school's overnight lock-in.	October 16, 2025	23m	 	
+Episode 10	Graduation (Season Finale)	The teachers try to prevent a student prank from ruining graduation.	October 16, 2025	25m	 	

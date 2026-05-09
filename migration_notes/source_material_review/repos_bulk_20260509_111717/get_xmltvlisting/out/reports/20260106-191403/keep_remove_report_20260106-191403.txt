@@ -1,0 +1,465 @@
+KEEP / REMOVE REPORT (channels-only downloads)
+Script: build_keep_remove_report_from_downloads.py v0.1.0
+Generated: 2026-01-06 19:14:03
+Downloads: C:\Users\andrew\PROJECTS\GitHub\get_xmltvlisting\out\downloads\20260106-185639
+Analysis:   C:\Users\andrew\PROJECTS\GitHub\get_xmltvlisting\out\analysis\20260106-190753
+Base lineup (KEEP ALL): 9330
+
+========================================================================
+LINEUP ID: 9329
+TOTAL CHANNELS: 88
+
+KEEP (UNIQUE ONLY): 39
+------------------------------------------------------------------------
+- ABC (KABC) Los Angeles, CA [2589.stations.xmltv.tvmedia.ca]
+- AMC+ [35317.stations.xmltv.tvmedia.ca]
+- CBS (KCBS) Los Angeles, CA [2172.stations.xmltv.tvmedia.ca]
+- Cinemax - Eastern HD [3567.stations.xmltv.tvmedia.ca]
+- Cinemax - Pacific Feed [1215.stations.xmltv.tvmedia.ca]
+- Comedy.TV [14995.stations.xmltv.tvmedia.ca]
+- Crime & Investigation Network USA HD [6216.stations.xmltv.tvmedia.ca]
+- CW (KFMB-TV2) San Diego, CA [10264.stations.xmltv.tvmedia.ca]
+- Discovery Family Channel [4225.stations.xmltv.tvmedia.ca]
+- Disney - Pacific Feed [1271.stations.xmltv.tvmedia.ca]
+- FOX (KTTV) Los Angeles, CA [1949.stations.xmltv.tvmedia.ca]
+- HBO - Pacific Feed [1472.stations.xmltv.tvmedia.ca]
+- HBO 2 - Pacific Feed [2205.stations.xmltv.tvmedia.ca]
+- HBO Comedy HD - East [7105.stations.xmltv.tvmedia.ca]
+- HBO Zone HD - East [7102.stations.xmltv.tvmedia.ca]
+- History Channel Espanol - Eastern [3252.stations.xmltv.tvmedia.ca]
+- ION  - Eastern Feed [1274.stations.xmltv.tvmedia.ca]
+- LOGO - East [2091.stations.xmltv.tvmedia.ca]
+- MBC Drama (Korean) [15014.stations.xmltv.tvmedia.ca]
+- MTV Live HD [6081.stations.xmltv.tvmedia.ca]
+- MTV Tr3s - East [3808.stations.xmltv.tvmedia.ca]
+- NBC (KNBC) Los Angeles, CA [2588.stations.xmltv.tvmedia.ca]
+- Paramount+ with Showtime  West [10734.stations.xmltv.tvmedia.ca]
+- PBS - Network HD - Eastern [4259.stations.xmltv.tvmedia.ca]
+- Showtime Next HD - Eastern [7109.stations.xmltv.tvmedia.ca]
+- Showtime Showcase HD - East [7106.stations.xmltv.tvmedia.ca]
+- SHOXBET - Eastern [2077.stations.xmltv.tvmedia.ca]
+- Smithsonian Channel USA HD [6237.stations.xmltv.tvmedia.ca]
+- Sony Movies [17063.stations.xmltv.tvmedia.ca]
+- Starz - Pacific [1217.stations.xmltv.tvmedia.ca]
+- Starz Cinema HD - Eastern [7087.stations.xmltv.tvmedia.ca]
+- Starz Comedy HD - Eastern [7088.stations.xmltv.tvmedia.ca]
+- Starz Encore - Pacific [1218.stations.xmltv.tvmedia.ca]
+- Starz In Black - Eastern [1957.stations.xmltv.tvmedia.ca]
+- Starz Kids & Family - Eastern [1194.stations.xmltv.tvmedia.ca]
+- TMC (US) - Pacific Feed [1222.stations.xmltv.tvmedia.ca]
+- TMC Xtra HD - Eastern [7113.stations.xmltv.tvmedia.ca]
+- Univision - Eastern Feed [1305.stations.xmltv.tvmedia.ca]
+- Univision - Pacific Feed [1306.stations.xmltv.tvmedia.ca]
+
+REMOVE (DUPLICATES): 49
+------------------------------------------------------------------------
+- A&E US - Eastern Feed [2.stations.xmltv.tvmedia.ca]
+- ABC (WABC) New York, NY [1769.stations.xmltv.tvmedia.ca]
+- AMC - Eastern Feed [177.stations.xmltv.tvmedia.ca]
+- Animal Planet US - East [645.stations.xmltv.tvmedia.ca]
+- BBC America - East [615.stations.xmltv.tvmedia.ca]
+- BBC News - North America HD [10294.stations.xmltv.tvmedia.ca]
+- CBS (WCBS) New York, NY [1766.stations.xmltv.tvmedia.ca]
+- Cinemax - Eastern Feed [632.stations.xmltv.tvmedia.ca]
+- Cinemax Action - Eastern [1377.stations.xmltv.tvmedia.ca]
+- Cinemax Classics - Eastern [636.stations.xmltv.tvmedia.ca]
+- Cinemax Hits Eastern [634.stations.xmltv.tvmedia.ca]
+- CMT US - Eastern Feed [1076.stations.xmltv.tvmedia.ca]
+- CNBC USA [201.stations.xmltv.tvmedia.ca]
+- CNBC World [2664.stations.xmltv.tvmedia.ca]
+- Discovery Channel (US) - Eastern Feed [649.stations.xmltv.tvmedia.ca]
+- Disney - Eastern Feed [595.stations.xmltv.tvmedia.ca]
+- FOX (WNYW) New York, NY [1638.stations.xmltv.tvmedia.ca]
+- FYI USA - Eastern [1971.stations.xmltv.tvmedia.ca]
+- HBO - Eastern Feed [614.stations.xmltv.tvmedia.ca]
+- HBO Drama (HBO 3) - Eastern [1651.stations.xmltv.tvmedia.ca]
+- HBO Hits - Eastern Feed [626.stations.xmltv.tvmedia.ca]
+- History Channel US - Eastern Feed [621.stations.xmltv.tvmedia.ca]
+- Investigation Discovery USA - Eastern [2090.stations.xmltv.tvmedia.ca]
+- MGM HD (USA) [6107.stations.xmltv.tvmedia.ca]
+- MS NOW USA [655.stations.xmltv.tvmedia.ca]
+- MSG Plus [1088.stations.xmltv.tvmedia.ca]
+- MTV 2 - East [1515.stations.xmltv.tvmedia.ca]
+- MTV Classic - East [2093.stations.xmltv.tvmedia.ca]
+- MTV USA - Eastern Feed [656.stations.xmltv.tvmedia.ca]
+- National Geographic US - Eastern [657.stations.xmltv.tvmedia.ca]
+- National Geographic Wild [7537.stations.xmltv.tvmedia.ca]
+- NBC (WNBC) New York, NY [1767.stations.xmltv.tvmedia.ca]
+- Oprah Winfrey Network USA Eastern [1159.stations.xmltv.tvmedia.ca]
+- Paramount+ with Showtime - Eastern Feed [665.stations.xmltv.tvmedia.ca]
+- Science [1960.stations.xmltv.tvmedia.ca]
+- Showtime 2 - Eastern [1387.stations.xmltv.tvmedia.ca]
+- Showtime Extreme - Eastern [1615.stations.xmltv.tvmedia.ca]
+- Starz - Eastern [583.stations.xmltv.tvmedia.ca]
+- Starz Edge - Eastern [2120.stations.xmltv.tvmedia.ca]
+- Starz Encore - Eastern [667.stations.xmltv.tvmedia.ca]
+- Starz Encore Action - Eastern [2078.stations.xmltv.tvmedia.ca]
+- Starz Encore Suspense - Eastern [1958.stations.xmltv.tvmedia.ca]
+- The Cooking Channel [4226.stations.xmltv.tvmedia.ca]
+- ThrillerMax - East [1652.stations.xmltv.tvmedia.ca]
+- TLC USA - Eastern [5005.stations.xmltv.tvmedia.ca]
+- TMC (US) - Eastern Feed [666.stations.xmltv.tvmedia.ca]
+- TV Land - Eastern [1252.stations.xmltv.tvmedia.ca]
+- VH1 - Eastern Feed [663.stations.xmltv.tvmedia.ca]
+- VICE [624.stations.xmltv.tvmedia.ca]
+
+========================================================================
+LINEUP ID: 9330
+TOTAL CHANNELS: 157
+
+KEEP (BASE LINEUP): ALL (157)
+REMOVE: NONE
+
+========================================================================
+LINEUP ID: 9331
+TOTAL CHANNELS: 258
+
+KEEP (UNIQUE ONLY): 250
+------------------------------------------------------------------------
+- A&E Canada [4311.stations.xmltv.tvmedia.ca]
+- A&E Canada HD [3886.stations.xmltv.tvmedia.ca]
+- ABC (KOMO) Seattle, WA [181.stations.xmltv.tvmedia.ca]
+- ABC (KOMO) Seattle, WA HD [2829.stations.xmltv.tvmedia.ca]
+- ABC (WKBW) Buffalo, NY [89.stations.xmltv.tvmedia.ca]
+- ABC (WXYZ) Detroit, MI - Canada HD [2811.stations.xmltv.tvmedia.ca]
+- Adult Swim - East [607.stations.xmltv.tvmedia.ca]
+- Adult Swim - East HD [7336.stations.xmltv.tvmedia.ca]
+- AMC - Canada [3822.stations.xmltv.tvmedia.ca]
+- AMC - Canada HD [8368.stations.xmltv.tvmedia.ca]
+- American Heroes Channel HD [10881.stations.xmltv.tvmedia.ca]
+- APTN HD [5997.stations.xmltv.tvmedia.ca]
+- BBC Earth HD [3908.stations.xmltv.tvmedia.ca]
+- BBC First HD [3906.stations.xmltv.tvmedia.ca]
+- BNN Bloomberg HD [10043.stations.xmltv.tvmedia.ca]
+- Boomerang Canada HD [10691.stations.xmltv.tvmedia.ca]
+- Bravo Canada HD [9505.stations.xmltv.tvmedia.ca]
+- Cartoon Network Canada - East HD [10331.stations.xmltv.tvmedia.ca]
+- CBC (CBAT) Fredericton, NB [114.stations.xmltv.tvmedia.ca]
+- CBC (CBHT) Halifax, NS HD [6805.stations.xmltv.tvmedia.ca]
+- CBC (CBLT) Toronto, ON [34.stations.xmltv.tvmedia.ca]
+- CBC (CBLT) Toronto, ON HD [2826.stations.xmltv.tvmedia.ca]
+- CBC (CBMT) Montreal, QC [107.stations.xmltv.tvmedia.ca]
+- CBC (CBMT) Montreal, QC HD [4022.stations.xmltv.tvmedia.ca]
+- CBC (CBOT) Ottawa, ON [49.stations.xmltv.tvmedia.ca]
+- CBC (CBOT) Ottawa, ON HD [6808.stations.xmltv.tvmedia.ca]
+- CBC (CBRT) Calgary, AB [147.stations.xmltv.tvmedia.ca]
+- CBC (CBRT) Calgary, AB HD [6809.stations.xmltv.tvmedia.ca]
+- CBC (CBUT) Vancouver, BC [180.stations.xmltv.tvmedia.ca]
+- CBC (CBUT) Vancouver, BC HD [6257.stations.xmltv.tvmedia.ca]
+- CBC (CBWT) Winnipeg, MB [110.stations.xmltv.tvmedia.ca]
+- CBC (CBWT) Winnipeg, MB HD [6810.stations.xmltv.tvmedia.ca]
+- CBC (CBXT) Edmonton, AB [146.stations.xmltv.tvmedia.ca]
+- CBC (CBXT) Edmonton, AB HD [6811.stations.xmltv.tvmedia.ca]
+- CBC News Network [74.stations.xmltv.tvmedia.ca]
+- CBC News Network HD [6421.stations.xmltv.tvmedia.ca]
+- CBS (KIRO) Seattle, WA [184.stations.xmltv.tvmedia.ca]
+- CBS (KIRO) Seattle, WA HD [2830.stations.xmltv.tvmedia.ca]
+- CBS (WIVB) Buffalo, NY [88.stations.xmltv.tvmedia.ca]
+- CBS (WWJ) Detroit, MI HD [2812.stations.xmltv.tvmedia.ca]
+- CHCH Hamilton, ON [43.stations.xmltv.tvmedia.ca]
+- CHCH Hamilton, ON HD [5870.stations.xmltv.tvmedia.ca]
+- CHEK Vancouver Island, BC [183.stations.xmltv.tvmedia.ca]
+- Cinépop HD [9156.stations.xmltv.tvmedia.ca]
+- CITY Montreal, QC [1171.stations.xmltv.tvmedia.ca]
+- CITY Montreal, QC HD [6603.stations.xmltv.tvmedia.ca]
+- CITY Toronto, ON [42.stations.xmltv.tvmedia.ca]
+- CITY Toronto, ON HD [2825.stations.xmltv.tvmedia.ca]
+- CITY Vancouver, BC [187.stations.xmltv.tvmedia.ca]
+- CITY Vancouver, BC HD [3936.stations.xmltv.tvmedia.ca]
+- CJON (NTV) St-John, NL [199.stations.xmltv.tvmedia.ca]
+- CMT Canada [120.stations.xmltv.tvmedia.ca]
+- CMT Canada HD [11325.stations.xmltv.tvmedia.ca]
+- CNBC Canada [3561.stations.xmltv.tvmedia.ca]
+- CNN HD [4724.stations.xmltv.tvmedia.ca]
+- Cottage Life [455.stations.xmltv.tvmedia.ca]
+- Cottage Life HD [6791.stations.xmltv.tvmedia.ca]
+- CP24 (CablePulse 24) [321.stations.xmltv.tvmedia.ca]
+- CP24 (CablePulse 24) HD [10809.stations.xmltv.tvmedia.ca]
+- Crave1 - East [72.stations.xmltv.tvmedia.ca]
+- Crave1 - East HD [2820.stations.xmltv.tvmedia.ca]
+- Crave2 - East [86.stations.xmltv.tvmedia.ca]
+- Crave2 - East HD [7139.stations.xmltv.tvmedia.ca]
+- Crave3 - East [85.stations.xmltv.tvmedia.ca]
+- Crave3 - East HD [7137.stations.xmltv.tvmedia.ca]
+- Crave4 [320.stations.xmltv.tvmedia.ca]
+- Crave4 HD [10781.stations.xmltv.tvmedia.ca]
+- Crime + Investigation Canada [451.stations.xmltv.tvmedia.ca]
+- Crime + Investigation Canada HD [13784.stations.xmltv.tvmedia.ca]
+- CTV (CFCN) Calgary, AB [258.stations.xmltv.tvmedia.ca]
+- CTV (CFCN) Calgary, AB HD [6454.stations.xmltv.tvmedia.ca]
+- CTV (CFTO) Toronto, ON [39.stations.xmltv.tvmedia.ca]
+- CTV (CFTO) Toronto, ON HD [2814.stations.xmltv.tvmedia.ca]
+- CTV (CHBX) Sault Ste. Marie, ON [1634.stations.xmltv.tvmedia.ca]
+- CTV (CICI) Sudbury, ON [1635.stations.xmltv.tvmedia.ca]
+- CTV (CICI) Sudbury, ON HD [31846.stations.xmltv.tvmedia.ca]
+- CTV (CITO) Timmins, ON [1633.stations.xmltv.tvmedia.ca]
+- CTV (CJCB) Sydney/ Cape Breton, NS [3318.stations.xmltv.tvmedia.ca]
+- CTV (CJCH) Halifax [3316.stations.xmltv.tvmedia.ca]
+- CTV (CJCH) Halifax HD [6812.stations.xmltv.tvmedia.ca]
+- CTV (CKCK) Regina, SK [537.stations.xmltv.tvmedia.ca]
+- CTV (CKCK) Regina, SK HD [9660.stations.xmltv.tvmedia.ca]
+- CTV (CKCO) Kitchener, ON [69.stations.xmltv.tvmedia.ca]
+- CTV (CKCO) Kitchener, ON HD [9690.stations.xmltv.tvmedia.ca]
+- CTV (CKCW) Moncton [3317.stations.xmltv.tvmedia.ca]
+- CTV (CKCW) Moncton HD [6814.stations.xmltv.tvmedia.ca]
+- CTV (CKNY) North Bay, ON [1632.stations.xmltv.tvmedia.ca]
+- CTV (CKY) Winnipeg, MB [143.stations.xmltv.tvmedia.ca]
+- CTV (CKY) Winnipeg, MB HD [7950.stations.xmltv.tvmedia.ca]
+- CTV Comedy - East [159.stations.xmltv.tvmedia.ca]
+- CTV Comedy - East HD [10771.stations.xmltv.tvmedia.ca]
+- CTV Comedy - West [1019.stations.xmltv.tvmedia.ca]
+- CTV Comedy - West HD [10772.stations.xmltv.tvmedia.ca]
+- CTV Drama [59.stations.xmltv.tvmedia.ca]
+- CTV Drama HD [6797.stations.xmltv.tvmedia.ca]
+- CTV Life [309.stations.xmltv.tvmedia.ca]
+- CTV Life HD [11293.stations.xmltv.tvmedia.ca]
+- CTV Montreal (CFCF), QC [50.stations.xmltv.tvmedia.ca]
+- CTV Montreal (CFCF), QC HD [7176.stations.xmltv.tvmedia.ca]
+- CTV Nature Canada [1188.stations.xmltv.tvmedia.ca]
+- CTV Nature Canada HD [10769.stations.xmltv.tvmedia.ca]
+- CTV News Channel [416.stations.xmltv.tvmedia.ca]
+- CTV News Channel HD [10770.stations.xmltv.tvmedia.ca]
+- CTV Ottawa (CJOH), ON [38.stations.xmltv.tvmedia.ca]
+- CTV Ottawa (CJOH), ON HD [7174.stations.xmltv.tvmedia.ca]
+- CTV Sci-Fi [153.stations.xmltv.tvmedia.ca]
+- CTV Sci-Fi HD [10042.stations.xmltv.tvmedia.ca]
+- CTV Speed HD [3887.stations.xmltv.tvmedia.ca]
+- CTV Vancouver, BC [185.stations.xmltv.tvmedia.ca]
+- CTV Vancouver, BC HD [3905.stations.xmltv.tvmedia.ca]
+- CTV Wild Canada [472.stations.xmltv.tvmedia.ca]
+- CTV Wild Canada HD [10044.stations.xmltv.tvmedia.ca]
+- CTV2 (CIVI-DT2) Vancouver, BC [13841.stations.xmltv.tvmedia.ca]
+- CTV2 Atlantic Region [116.stations.xmltv.tvmedia.ca]
+- CTV2 Atlantic Region HD [8383.stations.xmltv.tvmedia.ca]
+- CTV2 Barrie, ON (CKVR) [14229.stations.xmltv.tvmedia.ca]
+- CTV2 Vancouver Island. BC HD [8379.stations.xmltv.tvmedia.ca]
+- CTV2 Windsor, ON [3401.stations.xmltv.tvmedia.ca]
+- Deja View [448.stations.xmltv.tvmedia.ca]
+- Disney Channel Canada HD - East [16683.stations.xmltv.tvmedia.ca]
+- Documentary Channel (Canada) [462.stations.xmltv.tvmedia.ca]
+- Documentary Channel (Canada) HD [9116.stations.xmltv.tvmedia.ca]
+- DTOUR [11143.stations.xmltv.tvmedia.ca]
+- E! Canada [295.stations.xmltv.tvmedia.ca]
+- E! Canada HD [8558.stations.xmltv.tvmedia.ca]
+- EWTN Canada [619.stations.xmltv.tvmedia.ca]
+- Explora HD [10299.stations.xmltv.tvmedia.ca]
+- Family Channel Canada - East HD [8777.stations.xmltv.tvmedia.ca]
+- Family Channel on Demand [5629.stations.xmltv.tvmedia.ca]
+- Flavour Network [169.stations.xmltv.tvmedia.ca]
+- Flavour Network HD [8389.stations.xmltv.tvmedia.ca]
+- FOX (KCPQ) Tacoma, WA - Canada [189.stations.xmltv.tvmedia.ca]
+- FOX (KCPQ) Tacoma, WA HD - Canada [2832.stations.xmltv.tvmedia.ca]
+- FOX (WJBK) Detroit, MI HD [2815.stations.xmltv.tvmedia.ca]
+- FOX (WUTV) Buffalo, NY [45.stations.xmltv.tvmedia.ca]
+- FX Networks Canada [10026.stations.xmltv.tvmedia.ca]
+- FX Networks Canada HD [10027.stations.xmltv.tvmedia.ca]
+- FXX Canada [13400.stations.xmltv.tvmedia.ca]
+- FXX Canada HD [13401.stations.xmltv.tvmedia.ca]
+- Global (CHEX) Peterborough, ON [37.stations.xmltv.tvmedia.ca]
+- Global (CHEX) Peterborough, ON HD [9697.stations.xmltv.tvmedia.ca]
+- Global (CHEX-TV-2) Durham, ON [1882.stations.xmltv.tvmedia.ca]
+- Global (CHEX-TV-2) Durham, ON HD [9696.stations.xmltv.tvmedia.ca]
+- Global (CIHF) Dartmouth [115.stations.xmltv.tvmedia.ca]
+- Global (CIII) Ontario HD [4021.stations.xmltv.tvmedia.ca]
+- Global (CIII-DT-41) Toronto [13585.stations.xmltv.tvmedia.ca]
+- Global (CKMI) Quebec [318.stations.xmltv.tvmedia.ca]
+- Global (CKMI) Quebec HD [6437.stations.xmltv.tvmedia.ca]
+- Global (CKWS) Kingston, ON [24.stations.xmltv.tvmedia.ca]
+- Global (CKWS) Kingston, ON HD [9694.stations.xmltv.tvmedia.ca]
+- Global BC [31.stations.xmltv.tvmedia.ca]
+- Global BC HD [4194.stations.xmltv.tvmedia.ca]
+- HBO Canada 2 - West [292.stations.xmltv.tvmedia.ca]
+- HBO On Demand [3479.stations.xmltv.tvmedia.ca]
+- HBO1 [84.stations.xmltv.tvmedia.ca]
+- HBO1 HD [4230.stations.xmltv.tvmedia.ca]
+- History 2 Canada [461.stations.xmltv.tvmedia.ca]
+- History 2 Canada HD [8457.stations.xmltv.tvmedia.ca]
+- History Canada East [164.stations.xmltv.tvmedia.ca]
+- History Canada HD East [6822.stations.xmltv.tvmedia.ca]
+- HLN HD [6994.stations.xmltv.tvmedia.ca]
+- Hollywood Suite 2000s HD [20019.stations.xmltv.tvmedia.ca]
+- Hollywood Suite 2010s+ HD [20016.stations.xmltv.tvmedia.ca]
+- Hollywood Suite 70s+ HD [20017.stations.xmltv.tvmedia.ca]
+- Hollywood Suite 80s & 90s HD [20018.stations.xmltv.tvmedia.ca]
+- Hollywood Suite On Demand [11320.stations.xmltv.tvmedia.ca]
+- Home Network [167.stations.xmltv.tvmedia.ca]
+- ICI (CBAFT) Moncton, NB [118.stations.xmltv.tvmedia.ca]
+- ICI (CBAFT) Moncton, NB HD [6816.stations.xmltv.tvmedia.ca]
+- ICI (CBFT) Montreal, QC [196.stations.xmltv.tvmedia.ca]
+- ICI (CBLFT) Toronto [14.stations.xmltv.tvmedia.ca]
+- ICI (CBOFT) Ottawa, ON [463.stations.xmltv.tvmedia.ca]
+- ICI (CBOFT) Ottawa, ON HD [6768.stations.xmltv.tvmedia.ca]
+- ICI (CBUFT) Vancouver, BC [188.stations.xmltv.tvmedia.ca]
+- ICI (CBUFT) Vancouver, BC HD [6769.stations.xmltv.tvmedia.ca]
+- Investigation HD [11345.stations.xmltv.tvmedia.ca]
+- KTLA Los Angeles, CA [90.stations.xmltv.tvmedia.ca]
+- KTLA Los Angeles, CA HD [5682.stations.xmltv.tvmedia.ca]
+- Lifetime TV - Canada [1148.stations.xmltv.tvmedia.ca]
+- Lifetime TV - Canada HD [11044.stations.xmltv.tvmedia.ca]
+- MAX HD [9112.stations.xmltv.tvmedia.ca]
+- MNT (WNYO) Buffalo, NY HD [7167.stations.xmltv.tvmedia.ca]
+- MovieTime HD [7807.stations.xmltv.tvmedia.ca]
+- MS NOW HD [8430.stations.xmltv.tvmedia.ca]
+- MTV 2 Canada [478.stations.xmltv.tvmedia.ca]
+- MTV Canada [414.stations.xmltv.tvmedia.ca]
+- Much Music [73.stations.xmltv.tvmedia.ca]
+- Much Music HD [9396.stations.xmltv.tvmedia.ca]
+- Music On Demand HD [7647.stations.xmltv.tvmedia.ca]
+- National Geographic Canada [475.stations.xmltv.tvmedia.ca]
+- National Geographic Canada HD [4162.stations.xmltv.tvmedia.ca]
+- National Geographic Wild Canada HD [11012.stations.xmltv.tvmedia.ca]
+- Natyf TV HD [37711.stations.xmltv.tvmedia.ca]
+- NBC (KING) Seattle, WA [182.stations.xmltv.tvmedia.ca]
+- NBC (KING) Seattle, WA HD [2831.stations.xmltv.tvmedia.ca]
+- NBC (WDIV) Detroit, MI HD [2816.stations.xmltv.tvmedia.ca]
+- NBC (WGRZ) Buffalo, NY [91.stations.xmltv.tvmedia.ca]
+- OMNI Vancouver [1174.stations.xmltv.tvmedia.ca]
+- OMNI.1 (CFMT-DT-1) London [13572.stations.xmltv.tvmedia.ca]
+- OMNI.1 HD [6484.stations.xmltv.tvmedia.ca]
+- OMNI.1 Television [41.stations.xmltv.tvmedia.ca]
+- OMNI.2 [613.stations.xmltv.tvmedia.ca]
+- OMNI.2 HD [3624.stations.xmltv.tvmedia.ca]
+- ONE TV HD [3958.stations.xmltv.tvmedia.ca]
+- Oprah Winfrey Network Canada [296.stations.xmltv.tvmedia.ca]
+- OUTtv [2729.stations.xmltv.tvmedia.ca]
+- OUTtv HD [9309.stations.xmltv.tvmedia.ca]
+- Oxygen True Crime Canada [1120.stations.xmltv.tvmedia.ca]
+- Oxygen True Crime Canada HD [8458.stations.xmltv.tvmedia.ca]
+- PBS (KCTS) Seattle, WA [190.stations.xmltv.tvmedia.ca]
+- PBS (KCTS) Seattle, WA HD [10686.stations.xmltv.tvmedia.ca]
+- PBS (WNED) Buffalo, NY [92.stations.xmltv.tvmedia.ca]
+- PBS (WTVS) Detroit, MI HD [4282.stations.xmltv.tvmedia.ca]
+- Peachtree TV (Canada) [4179.stations.xmltv.tvmedia.ca]
+- Peachtree TV (WPCH-TV) Atlanta, GA [1716.stations.xmltv.tvmedia.ca]
+- Showcase Canada [62.stations.xmltv.tvmedia.ca]
+- Showcase Canada HD [4161.stations.xmltv.tvmedia.ca]
+- Slice [60.stations.xmltv.tvmedia.ca]
+- Slice HD [9632.stations.xmltv.tvmedia.ca]
+- Smithsonian Channel Canada HD [11405.stations.xmltv.tvmedia.ca]
+- STARZ1 - East [55.stations.xmltv.tvmedia.ca]
+- STARZ1 - East HD [3613.stations.xmltv.tvmedia.ca]
+- Starz1 onDemand [4180.stations.xmltv.tvmedia.ca]
+- STARZ2 - East [438.stations.xmltv.tvmedia.ca]
+- STARZ2 - East HD [10783.stations.xmltv.tvmedia.ca]
+- Super Channel Fuse [4833.stations.xmltv.tvmedia.ca]
+- Super Channel Fuse HD [4838.stations.xmltv.tvmedia.ca]
+- Super Channel Heart & Home [4834.stations.xmltv.tvmedia.ca]
+- Super Channel Heart & Home	 HD [4839.stations.xmltv.tvmedia.ca]
+- Super Channel on Demand [5598.stations.xmltv.tvmedia.ca]
+- Super Channel Quest [4836.stations.xmltv.tvmedia.ca]
+- Super Channel Quest HD [10894.stations.xmltv.tvmedia.ca]
+- Super Channel Vault [4835.stations.xmltv.tvmedia.ca]
+- Super Channel Vault HD [10893.stations.xmltv.tvmedia.ca]
+- TLC Canada [1204.stations.xmltv.tvmedia.ca]
+- TLC Canada HD [6779.stations.xmltv.tvmedia.ca]
+- Treehouse HD [11285.stations.xmltv.tvmedia.ca]
+- Treehouse On Demand [3633.stations.xmltv.tvmedia.ca]
+- TSC [359.stations.xmltv.tvmedia.ca]
+- TSC HD [12662.stations.xmltv.tvmedia.ca]
+- TVO (CICA-DT) Toronto, ON [13887.stations.xmltv.tvmedia.ca]
+- TVO (TV Ontario) HD [8399.stations.xmltv.tvmedia.ca]
+- Univision Canada [13625.stations.xmltv.tvmedia.ca]
+- USA Network (CAN) HD [8451.stations.xmltv.tvmedia.ca]
+- W (WTN) - East [64.stations.xmltv.tvmedia.ca]
+- W (WTN) - East HD [9652.stations.xmltv.tvmedia.ca]
+- WGN Canada [4202.stations.xmltv.tvmedia.ca]
+- WGN Canada HD [9530.stations.xmltv.tvmedia.ca]
+- WSBK (TV-38) Boston [58.stations.xmltv.tvmedia.ca]
+- WSBK (TV-38) Boston HD [3662.stations.xmltv.tvmedia.ca]
+
+REMOVE (DUPLICATES): 8
+------------------------------------------------------------------------
+- American Heroes Channel [2035.stations.xmltv.tvmedia.ca]
+- BBC News - North America [527.stations.xmltv.tvmedia.ca]
+- BBC News - North America HD [10294.stations.xmltv.tvmedia.ca]
+- CNN [70.stations.xmltv.tvmedia.ca]
+- CNN International North America [3008.stations.xmltv.tvmedia.ca]
+- HLN [425.stations.xmltv.tvmedia.ca]
+- WPIX New York (SUPERSTATION) [63.stations.xmltv.tvmedia.ca]
+- WPIX New York (SUPERSTATION) HD [4794.stations.xmltv.tvmedia.ca]
+
+
+
+
+i have a few exception and error handlng concernts; 
+if the file are downloaded downloaded and result is  "You have reached your limit of 5 downloads per day." which the recently did,how does taht impact my Tivimate  IPTV App when it goes to load my TV channel lineup?
+so i am wondering if there a way we can build in some smart handling there is ther is not data returned of this message is retruned, or there is a crach the existing data files are not wipped out.
+can we also add in som human understadable label and chagne the code to refernece
+xmltv-9329.xml as DirectTV[US]-xmltv-9329.xml
+and xmltv-9331.xml as Bell_Fibe]CA]-xmltv-9331.xml
+and xmltv-9330.xml as Spectrum_NY[US]-xmltv-9330.xml
+
+
+#1 is how the html page looks now.  and #2 (green) is how I owudl like it to look 
+first tehr is some weird whote box in teh bottom left corner of the page
+second the epiaosw alidwe ashouls be the focusa for episode not eh extra episode section unfer the season header, remove that one as redundent as per my mockup
+then in the episodes slider make the ipiside boxes 25% wider and onh engouth so all teh data and contents can be seen withohg cuttin anyof is off as it is now.
+also move teh Season 1 info infger the show deaisl so both as left of the poster, remobe teh season 1 over stamp on the psoter, remove Limited Run as it is renewd dor a second season and the cast is signed for a thoird season
+repleasti crafe in tehr line 6 episodes · Premiered Nov 28, 2025 · Crave - is redundetn as is it noted above and change Premiered Nov 28, 2025 to Season premired, in teh show shoudl the the sown premire and in teh season shoudl be season premire
+also removew my manul mock up for my hopoe of waht the page sill look like when updated.
+
+
+
+
+
+
+
+these conflifts are my trying to sovle the problemsn ans issues base don waht we have not, ansd based on what wasnt intprested or dont as requetd.
+so I am workgin with what I see and tygint o dtermin how to ge to a palce i like.
+so please read this and anaslye it as it is chaed and i hafge proivied a new moack up base don you questions as you questio dont align wi what i wanted and it therby make me think i have to change waht i asked for . 
+so this reponse will be a challagne to intpretes unloess oyu but on the nerodivegernt reader lenses and understnd hwo this is commin from.
+i am problem solvin on the fly drive my your questions and the naswer yes ort no to you question isnt what i was trying to get and trying to have desigend and programmed so i thenberyhave to chante what i am suaing and cahnge waht iam askgin for.
+
+1. HERO SECTION
+[Y] Keep the hero exactly as in your screenshot, but remove “Limited Run”, u thingk so be u dont 100% know what teh defiuntion of HERO is
+[Y] Move Season 1 info (season premiere date, episode count) into the hero, under the show metadata
+[Y] Remove the Season 1 tag on the poster
+[Y] Keep TMDB + RT buttons, but i asked for them to be probelerly branted and using teh websites logs / icon 
+[Y] Keep the poster on the right
+
+2. SEASON SECTION
+[N] Remove the Season header block entirely (since season info moves to hero), move the Season section so the balnk space in the Show/Hero left hand colmn
+No this seem too difficult for you to intpretn, so i am gogin to scre this all up and be contratidcotry bases opn wahy we curretnly have. now move the posrt tot the left hald side of thr HERO sectio and redive the poster to the heighter of the HERO contetns
+Also move the TMDB and the Rotton TAmporoes button and lins inger the HERO Serrices info so is save height space in tehpsoter colmn and giove a little more hoehter to the non poster HERO contents. the make the Season Secction unde the hrepo secion. 
+[ ] Keep the Season Overview text
+[ ] Keep the Episode Detail panel on the right
+[Y] Keep rotating stills in the epiode slider, as we arew removing the epiosde block in teh season seciohn
+[ ] Remove the redundant “Episodes” header, no odea wath this means the only Epidoes header I see is the text Epidoes in the Epiods slider. 
+
+3. EPISODE SLIDER
+[Y] Make each episode card 25% wider
+[Y] Ensure no text is clipped
+[Y] Keep Watch + Download buttons, but they are hard to read and the contrast is bad
+[Y] Keep auto‑detected thumbnails
+[Y] Slider should be full‑width edge‑to‑edge
+[Y] Slider should appear below the merged Season Overview + Episode Detail
+
+4. TEXT CHANGES
+[N] Change “Premiered Nov 28, 2025” → “Show premiered Nov 28, 2025”, leave as it "Premiered Nov 28, 2025", as Show is implied
+[Y] Change Season header text to “Season premiered Nov 28, 2025”
+[Y] Remove “Crave” from the Season metadata (since it’s already in hero)
+[Y] Remove all references to “Limited Run”
+
+5. CLEANUP
+[N/A ] Remove your manual mockup block, this make no senece as this is not part og teh page i provi it to for you comparisin and anlsysi and to show my vision
+[no idea ] Remove the redundant episode list under the season header, there is not redundent eipside list, there is the episode box disp0laying teh episoe infomion based on teh episode selected in the episode slider, that is redendetn, but ther is not list per say.
+[Y] Fix the weird white box (caused by mismatched divs — I’ll fix in final file)
+
+
+Set-Location "C:\Users\andrew\PROJECTS\GitHub\my_TV_Movie"
+powershell -ExecutionPolicy Bypass -File .\scripts\inspect_image_key_paths.ps1
+Get-Content .\reports\image_key_paths.txt -TotalCount 220
+
+
+
+
+
+
+
+
+
+
+
+
+
+

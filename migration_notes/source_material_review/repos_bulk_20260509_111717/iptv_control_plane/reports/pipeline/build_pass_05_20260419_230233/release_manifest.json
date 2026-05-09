@@ -1,0 +1,56 @@
+﻿[
+    {
+        "target_label":  "tivimate",
+        "role":  "playlist",
+        "source_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\tivimate\\final\\master_playlist.m3u",
+        "target_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\release\\current\\tivimate\\playlist.m3u",
+        "file_name":  "playlist.m3u",
+        "size_bytes":  5662343,
+        "sha256":  "F77C291D5F6987539B905A3E381ADCE10093372F62B6FDFCFA7633DC0B0D4E62"
+    },
+    {
+        "target_label":  "tivimate",
+        "role":  "epg_xml",
+        "source_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\tivimate\\final\\master_epg.xml",
+        "target_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\release\\current\\tivimate\\epg.xml",
+        "file_name":  "epg.xml",
+        "size_bytes":  768615036,
+        "sha256":  "4230D3A8C7D05BAD43FBECFB2D8314FE9922FE13B84483EA3A7E38558DD66C31"
+    },
+    {
+        "target_label":  "tivimate",
+        "role":  "epg_gz",
+        "source_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\tivimate\\final\\master_epg.xml.gz",
+        "target_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\release\\current\\tivimate\\epg.xml.gz",
+        "file_name":  "epg.xml.gz",
+        "size_bytes":  92836155,
+        "sha256":  "11ED56BBEAD2DBC60E883E53CF903DE60395F9A320A09AEDBB813C6F71B6BD4E"
+    },
+    {
+        "target_label":  "runtime_hp",
+        "role":  "playlist",
+        "source_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\runtime_hp\\final\\master_playlist.m3u",
+        "target_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\release\\current\\runtime_hp\\playlist.m3u",
+        "file_name":  "playlist.m3u",
+        "size_bytes":  5662343,
+        "sha256":  "F77C291D5F6987539B905A3E381ADCE10093372F62B6FDFCFA7633DC0B0D4E62"
+    },
+    {
+        "target_label":  "runtime_hp",
+        "role":  "epg_xml",
+        "source_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\runtime_hp\\final\\master_epg.xml",
+        "target_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\release\\current\\runtime_hp\\epg.xml",
+        "file_name":  "epg.xml",
+        "size_bytes":  768615036,
+        "sha256":  "4230D3A8C7D05BAD43FBECFB2D8314FE9922FE13B84483EA3A7E38558DD66C31"
+    },
+    {
+        "target_label":  "runtime_hp",
+        "role":  "epg_gz",
+        "source_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\runtime_hp\\final\\master_epg.xml.gz",
+        "target_path":  "C:\\Users\\andrew\\PROJECTS\\iptv\\publish\\release\\current\\runtime_hp\\epg.xml.gz",
+        "file_name":  "epg.xml.gz",
+        "size_bytes":  92836155,
+        "sha256":  "11ED56BBEAD2DBC60E883E53CF903DE60395F9A320A09AEDBB813C6F71B6BD4E"
+    }
+]

@@ -1,0 +1,1186 @@
+{
+  "used": "https://raw.githubusercontent.com/AJPnKW/IPTV_Data_Harmonization_System/refs/heads/main/docs/show_and_movie_data.tile.txt",
+  "tried": [
+    "https://raw.githubusercontent.com/AJPnKW/IPTV_Data_Harmonization_System/refs/heads/main/docs/show_and_movie_data.tile.txt [200] (52 ms)"
+  ],
+  "shows": [
+    {
+      "id": "107113",
+      "name": "Only Murders in the Building",
+      "overview": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
+      "numSeasons": "5",
+      "firstAirDate": "2021-08-31",
+      "status": "Running",
+      "source": "Hulu",
+      "schedule": "Tuesdays"
+    },
+    {
+      "id": "127235",
+      "name": "Invasion",
+      "overview": "Multiple perspectives explore an alien invasion across the globe.",
+      "numSeasons": "2",
+      "firstAirDate": "2021-10-22",
+      "status": "Returning Series",
+      "source": "Apple TV+",
+      "schedule": "Wednesdays"
+    },
+    {
+      "id": "157239",
+      "name": "Alien: Earth",
+      "overview": "After a space vessel crashes on Earth, a young woman and soldiers face a planetary threat.",
+      "numSeasons": "1",
+      "firstAirDate": "2025-08-12",
+      "status": "Returning Series",
+      "source": "Hulu",
+      "schedule": "Tuesdays"
+    },
+    {
+      "id": "18650",
+      "name": "I'm a Celebrity...Get Me Out of Here! (US)",
+      "overview": "Celebrities face survival challenges in the jungle.",
+      "numSeasons": "2",
+      "firstAirDate": "2003-02-19",
+      "status": "Ended",
+      "source": "ABC",
+      "schedule": "N/A"
+    },
+    {
+      "id": "197449",
+      "name": "Loot",
+      "overview": "A billionaire divorcée rediscovers purpose through her charitable foundation.",
+      "numSeasons": "2",
+      "firstAirDate": "2022-06-24",
+      "status": "Returning Series",
+      "source": "Apple TV+",
+      "schedule": "Tuesdays"
+    },
+    {
+      "id": "203857",
+      "name": "The Diplomat",
+      "overview": "In the midst of an international crisis, a career diplomat lands in a high-profile job she’s unsuited for, with tectonic implications for her marriage and her political future.",
+      "numSeasons": "2",
+      "firstAirDate": "2023-04-20",
+      "status": "Running",
+      "source": "Netflix",
+      "schedule": ""
+    },
+    {
+      "id": "205272",
+      "name": "Reasonable Doubt",
+      "overview": "A brilliant but ethically flexible defense attorney navigates LA’s justice system.",
+      "numSeasons": "2",
+      "firstAirDate": "2022-09-27",
+      "status": "Returning Series",
+      "source": "Hulu",
+      "schedule": "Thursdays"
+    },
+    {
+      "id": "205715",
+      "name": "Gen V",
+      "overview": "College-aged superheroes train at Godolkin University in this spinoff of The Boys.",
+      "numSeasons": "1",
+      "firstAirDate": "2023-09-29",
+      "status": "Returning Series",
+      "source": "Prime Video",
+      "schedule": "Fridays"
+    },
+    {
+      "id": "211288",
+      "name": "Tracker",
+      "overview": "A survivalist helps solve missing persons cases across the U.S.",
+      "numSeasons": "1",
+      "firstAirDate": "2024-02-11",
+      "status": "Returning Series",
+      "source": "CBS",
+      "schedule": "Sundays"
+    },
+    {
+      "id": "226637",
+      "name": "High Potential",
+      "overview": "Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.",
+      "numSeasons": "1",
+      "firstAirDate": "2024-09-17",
+      "status": "Running",
+      "source": "ABC",
+      "schedule": ""
+    },
+    {
+      "id": "237748",
+      "name": "Brilliant Minds",
+      "overview": "A neurologist with face blindness leads a team solving psychological mysteries.",
+      "numSeasons": "1",
+      "firstAirDate": "2024-09-23",
+      "status": "Returning Series",
+      "source": "NBC",
+      "schedule": "Mondays"
+    },
+    {
+      "id": "242867",
+      "name": "Watson",
+      "overview": "After Holmes' death, Dr. Watson runs a rare disorders clinic while facing new mysteries.",
+      "numSeasons": "1",
+      "firstAirDate": "2025",
+      "status": "Returning Series",
+      "source": "CBS",
+      "schedule": "TBD"
+    },
+    {
+      "id": "258902",
+      "name": "English Teacher",
+      "overview": "A high school teacher in Austin tries to balance the competing demands of the students and their parents in a world where the rules seem to change every day.",
+      "numSeasons": "1",
+      "firstAirDate": "2024-09-02",
+      "status": "Running",
+      "source": "FX",
+      "schedule": ""
+    },
+    {
+      "id": "260471",
+      "name": "Shifting Gears",
+      "overview": "A widowed car shop owner adjusts to life with his estranged daughter and grandkids.",
+      "numSeasons": "1",
+      "firstAirDate": "2025-01-08",
+      "status": "Returning Series",
+      "source": "Hulu",
+      "schedule": "Wednesdays"
+    },
+    {
+      "id": "27097",
+      "name": "I'm a Celebrity Get Me Out of Here Now (UK)",
+      "overview": "Companion show with behind-the-scenes content and interviews.",
+      "numSeasons": "1",
+      "firstAirDate": "2003",
+      "status": "Ended",
+      "source": "ITV2",
+      "schedule": "N/A"
+    },
+    {
+      "id": "30901",
+      "name": "I'm a Celebrity...Get Me Out of Here! UK",
+      "overview": "British celebrities endure jungle trials for charity.",
+      "numSeasons": "23",
+      "firstAirDate": "2002-08-25",
+      "status": "Returning Series",
+      "source": "ITV",
+      "schedule": "November annually"
+    },
+    {
+      "id": "38409",
+      "name": "RuPaul's Drag Race: Untucked!",
+      "overview": "Behind-the-scenes companion to the main Drag Race series.",
+      "numSeasons": "15",
+      "firstAirDate": "2010-02-01",
+      "status": "Returning Series",
+      "source": "MTV / WOW Presents Plus",
+      "schedule": "Fridays"
+    },
+    {
+      "id": "61913",
+      "name": "I'm a Celebrity: Get Me Out of Here! AU",
+      "overview": "Australian version of the jungle survival reality show.",
+      "numSeasons": "10",
+      "firstAirDate": "2015-02-01",
+      "status": "Returning Series",
+      "source": "Network 10",
+      "schedule": "January annually"
+    },
+    {
+      "id": "67482",
+      "name": "RuPaul's Drag Race All Stars",
+      "overview": "Past contestants return to compete for a spot in the Drag Race Hall of Fame.",
+      "numSeasons": "9",
+      "firstAirDate": "2012-10-22",
+      "status": "Returning Series",
+      "source": "Paramount+",
+      "schedule": "N/A"
+    },
+    {
+      "id": "67564",
+      "name": "RuPaul's Drag Race All Stars: Untucked",
+      "overview": "Companion series to All Stars, offering behind-the-scenes drama.",
+      "numSeasons": "1",
+      "firstAirDate": "2021",
+      "status": "Ended",
+      "source": "Paramount+",
+      "schedule": ""
+    },
+    {
+      "id": "70",
+      "name": "This Hour Has 22 Minutes",
+      "overview": "Canadian satirical news show blending sketch comedy and current events.",
+      "numSeasons": "31",
+      "firstAirDate": "1993-10-11",
+      "status": "Returning Series",
+      "source": "CBC",
+      "schedule": "Tuesdays"
+    },
+    {
+      "id": "8514",
+      "name": "RuPaul's Drag Race",
+      "overview": "Drag queens compete in fashion, performance, and lip-sync challenges to be crowned America's next drag superstar.",
+      "numSeasons": "16",
+      "firstAirDate": "2009-02-02",
+      "status": "Returning Series",
+      "source": "MTV / WOW Presents Plus",
+      "schedule": "Fridays"
+    },
+    {
+      "id": "92611",
+      "name": "RuPaul's Drag Race UK",
+      "overview": "RuPaul has made the trip across the pond in search of a queen with the most charisma, uniqueness, nerve and talent in all the land.",
+      "numSeasons": "5",
+      "firstAirDate": "2019-10-03",
+      "status": "Running",
+      "source": "BBC iPlayer",
+      "schedule": "Thursdays"
+    },
+    {
+      "id": "94038",
+      "name": "Canada's Drag Race",
+      "overview": "Canadian queens compete to become Canada's next drag superstar.",
+      "numSeasons": "5",
+      "firstAirDate": "2020-07-02",
+      "status": "Returning Series",
+      "source": "Crave / WOW Presents Plus",
+      "schedule": "Thursdays"
+    }
+  ],
+  "seasons": {
+    "92611": [
+      {
+        "showId": "92611",
+        "seasonNum": "7",
+        "year": "7",
+        "overview": "2025",
+        "episodes": [
+          {
+            "showId": "92611",
+            "seasonNum": "7",
+            "epNum": "1",
+            "name": "Episode 1",
+            "airDate": "A hot new cast of queens enter the werk room as RuPaul kicks off his legendary race. Joel Dommett joins Michelle Visage and Alan Carr on the judging panel.",
+            "desc": "2025-09-25",
+            "runtime": "1h 14m",
+            "source": "BBC iPlayer"
+          }
+        ]
+      }
+    ],
+    "107113": [
+      {
+        "showId": "107113",
+        "seasonNum": "1",
+        "year": "1",
+        "overview": "2021",
+        "episodes": [
+          {
+            "showId": "107113",
+            "seasonNum": "1",
+            "epNum": "1",
+            "name": "True Crime",
+            "airDate": "Charles, Oliver, and Mabel bond over true crime podcast after Tim Kono's suspicious death; start their own podcast while investigating clues.",
+            "desc": "Aug 31, 2021",
+            "runtime": "33 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "1",
+            "epNum": "2",
+            "name": "Who Is Tim Kono?",
+            "airDate": "Trio attends Tim's memorial, searches his apartment; Mabel reveals childhood connection to Tim and past mysteries.",
+            "desc": "Aug 31, 2021",
+            "runtime": "29 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "1",
+            "epNum": "3",
+            "name": "How Well Do You Know Your Neighbors?",
+            "airDate": "Suspect Howard after cat paw prints in blood; Oliver secures sponsorship; threats emerge including poisoned dog.",
+            "desc": "Sep 7, 2021",
+            "runtime": "32 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "1",
+            "epNum": "4",
+            "name": "The Sting",
+            "airDate": "Suspect Sting after consulting podcast host; Charles dates Jan; link jewelry to Oliver's son.",
+            "desc": "Sep 14, 2021",
+            "runtime": "31 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "1",
+            "epNum": "5",
+            "name": "Twist",
+            "airDate": "Mabel reunites with old friend Oscar; track victim's final days to tattoo parlor.",
+            "desc": "Sep 21, 2021",
+            "runtime": "30 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "1",
+            "epNum": "6",
+            "name": "To Protect and Serve",
+            "airDate": "Oscar and Mabel connect; Detective aids with phone; Teddy pays from suspicious account.",
+            "desc": "Sep 28, 2021",
+            "runtime": "31 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "1",
+            "epNum": "7",
+            "name": "The Boy from 6B",
+            "airDate": "Discover Dimas family crimes; Theo kidnaps Oliver and Mabel.",
+            "desc": "Oct 5, 2021",
+            "runtime": "33 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "1",
+            "epNum": "8",
+            "name": "Fan Fiction",
+            "airDate": "Accuse Dimases publicly; autopsy reveals poisoning, clearing them.",
+            "desc": "Oct 12, 2021",
+            "runtime": "30 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "1",
+            "epNum": "9",
+            "name": "Double Time",
+            "airDate": "Retract accusation; suspect secret girlfriend; find bassoon clue.",
+            "desc": "Oct 19, 2021",
+            "runtime": "31 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "1",
+            "epNum": "10",
+            "name": "Open and Shut",
+            "airDate": "Reveal Jan as killer; arrest her; discover Bunny's body.",
+            "desc": "Oct 19, 2021",
+            "runtime": "34 min",
+            "source": "Hulu"
+          }
+        ]
+      },
+      {
+        "showId": "107113",
+        "seasonNum": "2",
+        "year": "2",
+        "overview": "2022",
+        "episodes": [
+          {
+            "showId": "107113",
+            "seasonNum": "2",
+            "epNum": "1",
+            "name": "Persons of Interest",
+            "airDate": "Arrested for Bunny's murder; new podcast; find suspicious painting.",
+            "desc": "Jun 28, 2022",
+            "runtime": "33 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "2",
+            "epNum": "2",
+            "name": "Framed",
+            "airDate": "Painting fake; parrot knows killer's name.",
+            "desc": "Jun 28, 2022",
+            "runtime": "32 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "2",
+            "epNum": "3",
+            "name": "The Last Day of Bunny Folger",
+            "airDate": "Flashbacks to Bunny's last day; suspect Nina Lin.",
+            "desc": "Jul 5, 2022",
+            "runtime": "31 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "2",
+            "epNum": "4",
+            "name": "Here's Looking at You",
+            "airDate": "Explore secret tunnels; Lucy warns of danger.",
+            "desc": "Jul 12, 2022",
+            "runtime": "30 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "2",
+            "epNum": "5",
+            "name": "The Tell",
+            "airDate": "Suspect Alice; learn Bunny's diner meeting.",
+            "desc": "Jul 19, 2022",
+            "runtime": "32 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "2",
+            "epNum": "6",
+            "name": "Performance Review",
+            "airDate": "Glitter bomb fails; Mabel attacked, framed on video.",
+            "desc": "Jul 26, 2022",
+            "runtime": "33 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "2",
+            "epNum": "7",
+            "name": "Flipping the Pieces",
+            "airDate": "Flashbacks to Mabel's past; subway attack, blackout.",
+            "desc": "Aug 2, 2022",
+            "runtime": "31 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "2",
+            "epNum": "8",
+            "name": "Hello, Darkness",
+            "airDate": "Race to save Lucy; suspect Kreps after glitter clue.",
+            "desc": "Aug 9, 2022",
+            "runtime": "30 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "2",
+            "epNum": "9",
+            "name": "Sparring Partners",
+            "airDate": "Confront Kreps; reveal Rose Cooper connection.",
+            "desc": "Aug 16, 2022",
+            "runtime": "32 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "2",
+            "epNum": "10",
+            "name": "I Know Who Did It",
+            "airDate": "Expose Becky as killer at reveal party.",
+            "desc": "Aug 23, 2022",
+            "runtime": "34 min",
+            "source": "Hulu"
+          }
+        ]
+      },
+      {
+        "showId": "107113",
+        "seasonNum": "3",
+        "year": "2024",
+        "overview": "Season three finds Charles, Oliver & Mabel investigating a murder behind the scenes of a Broadway show. Ben Glenroy is a Hollywood action star whose Broadway debut is cut short by his untimely death. Aided by co-star Loretta Durkin, our trio embarks on their toughest case yet, all while director Oliver desperately attempts to put his show back together. Curtain up!",
+        "episodes": [
+          {
+            "showId": "107113",
+            "seasonNum": "3",
+            "epNum": "1",
+            "name": "The Show Must...",
+            "airDate": "Ben collapses on stage, revives, then falls dead from elevator.",
+            "desc": "Aug 8, 2023",
+            "runtime": "33 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "3",
+            "epNum": "2",
+            "name": "The Beat Goes On",
+            "airDate": "Kidnapped by fan; restart podcast on Ben's murder.",
+            "desc": "Aug 8, 2023",
+            "runtime": "32 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "3",
+            "epNum": "3",
+            "name": "Grab Your Hankies",
+            "airDate": "Investigate handkerchief; footage from Ben's dressing room.",
+            "desc": "Aug 15, 2023",
+            "runtime": "31 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "3",
+            "epNum": "4",
+            "name": "The White Room",
+            "airDate": "Suspect Kimber; Charles proposes to Joy accidentally.",
+            "desc": "Aug 22, 2023",
+            "runtime": "30 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "3",
+            "epNum": "5",
+            "name": "Ah, Love!",
+            "airDate": "Loretta's secret fight with Ben; Joy breaks up with Charles.",
+            "desc": "Aug 29, 2023",
+            "runtime": "32 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "3",
+            "epNum": "6",
+            "name": "Ghost Light",
+            "airDate": "Ghost in theater; trio argues over investigation.",
+            "desc": "Sep 5, 2023",
+            "runtime": "33 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "3",
+            "epNum": "7",
+            "name": "CoBro",
+            "airDate": "Suspect Dickie; Mabel starts solo podcast.",
+            "desc": "Sep 12, 2023",
+            "runtime": "31 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "3",
+            "epNum": "8",
+            "name": "Sitzprobe",
+            "airDate": "Loretta confesses to save Dickie; Oliver has heart attack.",
+            "desc": "Sep 19, 2023",
+            "runtime": "30 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "3",
+            "epNum": "9",
+            "name": "Thirty",
+            "airDate": "Recreate timeline; suspect Donna and Cliff.",
+            "desc": "Sep 26, 2023",
+            "runtime": "32 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "3",
+            "epNum": "10",
+            "name": "Opening Night",
+            "airDate": "Expose Donna and Cliff; Sazz shot in Charles's apartment.",
+            "desc": "Oct 3, 2023",
+            "runtime": "34 min",
+            "source": "Hulu"
+          }
+        ]
+      },
+      {
+        "showId": "107113",
+        "seasonNum": "4",
+        "year": "2022",
+        "overview": "After their beloved doorman, Lester, dies under suspicious circumstances, Charles, Oliver, and Mabel refuse to believe it was an accident. Their investigation plunges them into the shadowy corners of New York and beyond - where the trio uncovers a dangerous web of secrets connecting powerful billionaires, old-school mobsters, and the mysterious residents of the Arconia. The trio discovers a deeper divide between their storied city they thought they knew and the new New York evolving around them - one where the old mob fights to hold on as newer, even more dangerous players emerge.",
+        "episodes": [
+          {
+            "showId": "107113",
+            "seasonNum": "4",
+            "epNum": "1",
+            "name": "Once Upon a Time in the West",
+            "airDate": "Trio to LA for movie deal; discover Sazz murdered.",
+            "desc": "Aug 27, 2024",
+            "runtime": "33 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "4",
+            "epNum": "2",
+            "name": "Gates of Heaven",
+            "airDate": "Investigate west side residents; find Oh Hell code and ham radio.",
+            "desc": "Sep 3, 2024",
+            "runtime": "32 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "4",
+            "epNum": "3",
+            "name": "Two for the Road",
+            "airDate": "Pair with actors Eugene, Zach, Eva; contact via ham radio.",
+            "desc": "Sep 10, 2024",
+            "runtime": "31 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "4",
+            "epNum": "4",
+            "name": "The Stunt Man",
+            "airDate": "Delve into stunt world; encounter familiar-faced suspect.",
+            "desc": "Sep 17, 2024",
+            "runtime": "30 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "4",
+            "epNum": "5",
+            "name": "Adaptation",
+            "airDate": "Face off against deceptive Hollywood cast and crew.",
+            "desc": "Sep 24, 2024",
+            "runtime": "32 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "4",
+            "epNum": "6",
+            "name": "Blow-Up",
+            "airDate": "Documentary by The Brothers Sisters reveals clues.",
+            "desc": "Oct 1, 2024",
+            "runtime": "33 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "4",
+            "epNum": "7",
+            "name": "Valley of the Dolls",
+            "airDate": "Flee to safe house; family refuge proves unsafe.",
+            "desc": "Oct 8, 2024",
+            "runtime": "31 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "4",
+            "epNum": "8",
+            "name": "Lifeboat",
+            "airDate": "Epic showdown with Westies alongside film actors.",
+            "desc": "Oct 15, 2024",
+            "runtime": "30 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "4",
+            "epNum": "9",
+            "name": "Escape From Planet Klongo",
+            "airDate": "Infiltrate film set for Sazz murder background.",
+            "desc": "Oct 22, 2024",
+            "runtime": "32 min",
+            "source": "Hulu"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "4",
+            "epNum": "10",
+            "name": "My Best Friend's Wedding",
+            "airDate": "Reveal final answers amid mortal danger and Arconia wedding.",
+            "desc": "Oct 29, 2024",
+            "runtime": "34 min",
+            "source": "Hulu"
+          }
+        ]
+      },
+      {
+        "showId": "107113",
+        "seasonNum": "5",
+        "year": "2025",
+        "overview": "After their beloved doorman, Lester, dies under suspicious circumstances, Charles, Oliver, and Mabel refuse to believe it was an accident. Their investigation plunges them into the shadowy corners of New York and beyond - where the trio uncovers a dangerous web of secrets connecting powerful billionaires, old-school mobsters, and the mysterious residents of the Arconia.",
+        "episodes": [
+          {
+            "showId": "107113",
+            "seasonNum": "5",
+            "epNum": "1",
+            "name": "Nail in the Coffin",
+            "airDate": "Investigating Lester's death lures trio out of Manhattan into dangerous territory.",
+            "desc": "Sep 9, 2025",
+            "runtime": "33 min",
+            "source": "Nail in the Coffin"
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "5",
+            "epNum": "2",
+            "name": "After You",
+            "airDate": "Flashback to Lester's early days at Arconia, sacrificing future for building secrets.",
+            "desc": "Sep 9, 2025",
+            "runtime": "32 min",
+            "source": ""
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "5",
+            "epNum": "3",
+            "name": "Rigor",
+            "airDate": "Stumble on crucial evidence but compromise it; scramble before police close in.",
+            "desc": "Sep 9, 2025",
+            "runtime": "31 min",
+            "source": ""
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "5",
+            "epNum": "4",
+            "name": "Dirty Birds",
+            "airDate": "Snooping caught by billionaire suspects; invited to Oliver's for evening.",
+            "desc": "Sep 16, 2025",
+            "runtime": "30 min",
+            "source": ""
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "5",
+            "epNum": "5",
+            "name": "Tongue Tied",
+            "airDate": "Thwarted podcast plans; seek help from staff; Charles dines with suspect.",
+            "desc": "Sep 23, 2025",
+            "runtime": "32 min",
+            "source": ""
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "5",
+            "epNum": "6",
+            "name": "Flatbush",
+            "airDate": "Investigation takes Oliver and Loretta to childhood streets; break-in leads.",
+            "desc": "Sep 30, 2025",
+            "runtime": "33 min",
+            "source": ""
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "5",
+            "epNum": "7",
+            "name": "Silver Alert",
+            "airDate": "Mayor warns of billionaires; investigate upstate lair; Oliver's escape attempt.",
+            "desc": "Oct 7, 2025",
+            "runtime": "31 min",
+            "source": ""
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "5",
+            "epNum": "8",
+            "name": "Cuckoo Chicks",
+            "airDate": "Mabel crashes ladies night; Charles and Oliver in couples therapy accidentally.",
+            "desc": "Oct 14, 2025",
+            "runtime": "30 min",
+            "source": ""
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "5",
+            "epNum": "9",
+            "name": "LESTR",
+            "airDate": "Told through annoying robot's lens; Arconia party reveals killer may remain.",
+            "desc": "Oct 21, 2025",
+            "runtime": "32 min",
+            "source": ""
+          },
+          {
+            "showId": "107113",
+            "seasonNum": "5",
+            "epNum": "10",
+            "name": "The House Always",
+            "airDate": "Trio rushes to solve amid life-threatening peril.",
+            "desc": "Oct 28, 2025",
+            "runtime": "34 min",
+            "source": ""
+          }
+        ]
+      }
+    ],
+    "203857": [
+      {
+        "showId": "203857",
+        "seasonNum": "3",
+        "year": "3",
+        "overview": "2025",
+        "episodes": [
+          {
+            "showId": "203857",
+            "seasonNum": "3",
+            "epNum": "1",
+            "name": "Emperor Dead",
+            "airDate": "Amid a growing constitutional crisis, the staff scrambles to stage an impromptu inauguration, while Hal exploits the chaos behind the scenes.",
+            "desc": "16-Oct-25",
+            "runtime": "41m",
+            "source": "Netflix"
+          },
+          {
+            "showId": "203857",
+            "seasonNum": "3",
+            "epNum": "2",
+            "name": "Last Dance at the Country Club",
+            "airDate": "Kate weighs a compelling offer. Eidra faces scrutiny over fallout from the Roylin debacle. Stuart pitches a proposal that goes far deeper than policy.",
+            "desc": "16-Oct-25",
+            "runtime": "46m",
+            "source": "Netflix"
+          },
+          {
+            "showId": "203857",
+            "seasonNum": "3",
+            "epNum": "3",
+            "name": "The Riderless Horse",
+            "airDate": "As the nation pauses to mourn, Grace considers the framework of her administration. Private strain threatens Kate and Hal's polished public image.",
+            "desc": "16-Oct-25",
+            "runtime": "51m",
+            "source": "Netflix"
+          },
+          {
+            "showId": "203857",
+            "seasonNum": "3",
+            "epNum": "4",
+            "name": "Arden",
+            "airDate": "Kate's unique role grants her access to anyone she wants — except the one person she needs. Dennison puts actionable intelligence to personal use.",
+            "desc": "16-Oct-25",
+            "runtime": "50m",
+            "source": "Netflix"
+          },
+          {
+            "showId": "203857",
+            "seasonNum": "3",
+            "epNum": "5",
+            "name": "Birdwatchers",
+            "airDate": "Forced to play the perfect couple, Kate and Hal confront a looming problem in international waters and a development that could torpedo U.S. credibility.",
+            "desc": "16-Oct-25",
+            "runtime": "42m",
+            "source": "Netflix"
+          },
+          {
+            "showId": "203857",
+            "seasonNum": "3",
+            "epNum": "6",
+            "name": "Amagansett",
+            "airDate": "At an emergency strategy session, Grace weighs unthinkable choices, while Kate rolls the dice on a gamble that could alter the course of history.",
+            "desc": "16-Oct-25",
+            "runtime": "49m",
+            "source": "Netflix"
+          },
+          {
+            "showId": "203857",
+            "seasonNum": "3",
+            "epNum": "7",
+            "name": "PNG",
+            "airDate": "Sequestered inside Winfield House as embassies go on alert and allies fall silent, Kate and Callum race to contain a potential disaster.",
+            "desc": "16-Oct-25",
+            "runtime": "51m",
+            "source": "Netflix"
+          },
+          {
+            "showId": "203857",
+            "seasonNum": "3",
+            "epNum": "8",
+            "name": "Schrodinger's Wife (Season Finale)",
+            "airDate": "Kate must use all her leverage and political instincts to avert a catastrophe at a high-stakes summit — with the fate of nations hanging in the balance.",
+            "desc": "16-Oct-25",
+            "runtime": "54m",
+            "source": "Netflix"
+          }
+        ]
+      }
+    ],
+    "226637": [
+      {
+        "showId": "226637",
+        "seasonNum": "2",
+        "year": "2",
+        "overview": "2025",
+        "episodes": [
+          {
+            "showId": "226637",
+            "seasonNum": "2",
+            "epNum": "1",
+            "name": "Pawns",
+            "airDate": "September 16, 2025",
+            "desc": "While working tirelessly to shield her family from the Game Maker's threats, another crime drags Morgan back into his game and the LAPD must decide whether to trust her instincts before the next move turns fatal.",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "2",
+            "epNum": "2",
+            "name": "Checkmate",
+            "airDate": "September 23, 2025",
+            "desc": "As the Major Crimes team desperately seek answers amidst a string of unresolved crimes, Morgan suspects the Game Maker is responsible. Meanwhile, Daphne and Oz set out to find Roman, and Elliot prepares a surprise act for his school’s talent show.",
+            "runtime": "44m",
+            "source": "ABC"
+          }
+        ]
+      },
+      {
+        "showId": "226637",
+        "seasonNum": "3",
+        "year": "3",
+        "overview": "2025",
+        "episodes": [
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "1",
+            "name": "Checkmate",
+            "airDate": "As the Major Crimes team desperately seek answers amidst a string of unresolved crimes, Morgan suspects the Game Maker is responsible. Meanwhile, Daphne and Oz set out to find Roman, and Elliot prepares a surprise act for his school’s talent show.",
+            "desc": "23-Sep-25",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "3",
+            "name": "How Well Do You Know Your Neighbors?",
+            "airDate": "Oliver employs his theater director skills to analyze the case. Charles & Mabel question an obsessive cat lover.",
+            "desc": "31-Aug-21",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "4",
+            "name": "The Sting",
+            "airDate": "Believing the murderer might be a famous resident whom is difficult to access, the group seeks advice from a renowned podcasting host.",
+            "desc": "07-Sep-21",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "5",
+            "name": "",
+            "airDate": "",
+            "desc": "",
+            "runtime": "",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "6",
+            "name": "",
+            "airDate": "",
+            "desc": "",
+            "runtime": "",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "7",
+            "name": "Twist",
+            "airDate": "Mabel slips away on a solo mission tracking the victim's final days. Suspicious, Charles & Oliver follow her.",
+            "desc": "14-Sep-21",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "8",
+            "name": "To Protect and Serve",
+            "airDate": "Mabel brings her new friends (and an old one) to her childhood home to meet her mother. Meanwhile, Detective Williams starts to have her own doubts about the case as she prepares for motherhood.",
+            "desc": "21-Sep-21",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "9",
+            "name": "The Boy from 6B",
+            "airDate": "With the investigation scratching at a web of old crimes originating inside the building, a mysterious young man turns the tables to spy on Charles, Oliver & Mabel.",
+            "desc": "28-Sep-21",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "10",
+            "name": "Placeholder",
+            "airDate": "Placeholder",
+            "desc": "Placeholder",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "11",
+            "name": "Placeholder",
+            "airDate": "Placeholder",
+            "desc": "Placeholder",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "12",
+            "name": "Placeholder",
+            "airDate": "Placeholder",
+            "desc": "Placeholder",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "13",
+            "name": "Placeholder",
+            "airDate": "Placeholder",
+            "desc": "Placeholder",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "14",
+            "name": "Placeholder",
+            "airDate": "Placeholder",
+            "desc": "Placeholder",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "15",
+            "name": "Placeholder",
+            "airDate": "Placeholder",
+            "desc": "Placeholder",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "16",
+            "name": "Placeholder",
+            "airDate": "Placeholder",
+            "desc": "Placeholder",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "17",
+            "name": "Placeholder",
+            "airDate": "Placeholder",
+            "desc": "Placeholder",
+            "runtime": "44m",
+            "source": "ABC"
+          },
+          {
+            "showId": "226637",
+            "seasonNum": "3",
+            "epNum": "18",
+            "name": "Placeholder",
+            "airDate": "Placeholder",
+            "desc": "Placeholder",
+            "runtime": "44m",
+            "source": "ABC"
+          }
+        ]
+      }
+    ],
+    "258902": [
+      {
+        "showId": "258902",
+        "seasonNum": "2",
+        "year": "2",
+        "overview": "2025",
+        "episodes": [
+          {
+            "showId": "258902",
+            "seasonNum": "2",
+            "epNum": "1",
+            "name": "Covid in America",
+            "airDate": "Evan pushes back against the students as they try to modernize the school play.",
+            "desc": "2025-09-25",
+            "runtime": "22m",
+            "source": "FX"
+          }
+        ]
+      }
+    ]
+  },
+  "movies": [
+    {
+      "id": "1035259",
+      "name": "The Naked Gun (2025)",
+      "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.",
+      "releaseDate": "2025-09-30",
+      "rating": "N/A",
+      "runtime": "1h 25m",
+      "source": "N/A"
+    },
+    {
+      "id": "1038392",
+      "name": "The Conjuring: Last Rites (2025)",
+      "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+      "releaseDate": "2025-09-05",
+      "rating": "N/A",
+      "runtime": "2h 15m",
+      "source": "Max"
+    },
+    {
+      "id": "1071585",
+      "name": "M3GAN 2.0 (2025)",
+      "overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
+      "releaseDate": "2025-06-27",
+      "rating": "14A",
+      "runtime": "2h",
+      "source": "N/A"
+    },
+    {
+      "id": "1125257",
+      "name": "Freakier Friday (2025)",
+      "overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+      "releaseDate": "2025-08-08",
+      "rating": "PG",
+      "runtime": "1h 51m",
+      "source": "Disney+"
+    },
+    {
+      "id": "1290879",
+      "name": "The Woman in Cabin 10 (2025)",
+      "overview": "On a lavish yacht for an assignment, a journalist sees a passenger go overboard. But when no one believes her, she risks her life to uncover the truth.",
+      "releaseDate": "2025-10-10",
+      "rating": "R",
+      "runtime": "1h 35m",
+      "source": "N/A"
+    },
+    {
+      "id": "533533",
+      "name": "TRON: Ares (2025)",
+      "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+      "releaseDate": "2025-10-10",
+      "rating": "PG-13",
+      "runtime": "1h 59m",
+      "source": "N/A"
+    }
+  ]
+}

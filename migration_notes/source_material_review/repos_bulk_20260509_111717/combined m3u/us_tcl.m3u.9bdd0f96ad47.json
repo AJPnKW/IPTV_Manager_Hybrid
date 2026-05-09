@@ -1,0 +1,141 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\processed\\20251226_123649\\us_tcl.m3u",
+  "provider": "Ustcl",
+  "country": "US",
+  "region": null,
+  "channels": [
+    {
+      "canonical_name": "Bloody Disgusting (Ustcl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Bloody Disgusting (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "BloodyDisgusting.us",
+        "xmltv_display_name": "Bloody Disgusting (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Comedy Dynamics (Ustcl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Comedy Dynamics (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://comedydynamics-tcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "ComedyDynamics.us",
+        "xmltv_display_name": "Comedy Dynamics (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Docurama (Ustcl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Docurama (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://docurama-tcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Docurama.us",
+        "xmltv_display_name": "Docurama (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Dove Channel (Ustcl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dove Channel (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://dovenow-tcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "DoveChannel.us",
+        "xmltv_display_name": "Dove Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "So Real (Ustcl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "So... Real (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://soreal-tcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "SoReal.us",
+        "xmltv_display_name": "So... Real (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Unbeaten (Ustcl) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Unbeaten (1080p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "Unbeaten.us",
+        "xmltv_display_name": "Unbeaten (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    },
+    {
+      "canonical_name": "Young Hollywood (Ustcl) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": null,
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Young Hollywood (720p)",
+        "group_title_raw": null,
+        "logo_raw": null,
+        "stream_url": "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
+        "xmltv_id": "YoungHollywood.us",
+        "xmltv_display_name": "Young Hollywood (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": null
+      }
+    }
+  ]
+}

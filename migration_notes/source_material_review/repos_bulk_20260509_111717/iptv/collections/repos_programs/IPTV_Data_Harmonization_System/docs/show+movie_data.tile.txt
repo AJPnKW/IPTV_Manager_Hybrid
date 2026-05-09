@@ -1,0 +1,60 @@
+# show|tmdb_id|name|overview|numSeasons|firstAirDate|status|source|schedule
+# season|tmdb_id|seasonNum|year|overview|watchStatus
+# episode|tmdb_id|seasonNum|epNum|name|airDate|desc|runtime|source|watchStatus
+# movie|tmdb_id|name|overview|releaseDate|rating|runtime|source|watchStatus
+
+show|107113|Only Murders in the Building|Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.|5|2021-08-31|Running|Hulu|Tuesdays| (generated)
+season|107113|1|2021|The trio of Charles, Oliver, and Mabel investigate a murder in their Upper West Side apartment building, recording a podcast as they uncover secrets.|watched
+episode|107113|1|True Crime|2021-08-31|Upper West Side neighbors Charles, Oliver & Mabel bond over a shared love of true crime. When a fellow resident dies in their building, the trio determine to solve the mystery and record an accompanying podcast.|34m|Hulu|N/A|N/A|N/A|N/A|watched
+episode|107113|2|Who Is Tim Kono?|2021-08-31|The group begins researching the victim. Meanwhile, Mabel's secretive past starts to be unraveled.|30m|Hulu|N/A|N/A|N/A|N/A|none
+season|107113|2|2022|The investigation continues with new mysteries and deeper secrets within the Arconia.|none
+episode|107113|1|Framed|2022-06-28|Charles, Oliver, and Mabel search for a missing B-movie star who previously lived in the Arconia.|33m|Hulu|N/A|N/A|N/A|N/A|none
+season|107113|3|2023|The trio tackles a Broadway-related murder, blending theater and crime-solving.|none
+episode|107113|1|The Show Must...|2023-08-08|Charles, Oliver, and Mabel investigate a murder during a Broadway production.|34m|Hulu|N/A|N/A|N/A|N/A|none
+season|107113|4|2024|The group explores a murder tied to a podcast fan convention.|none
+episode|107113|1|Once Upon a Time in the West|2024-08-27|The trio delves into a murder case linked to a fan convention at the Arconia.|35m|Hulu|N/A|N/A|N/A|N/A|none
+season|107113|5|2025|After their beloved doorman, Lester, dies under suspicious circumstances, Charles, Oliver, and Mabel refuse to believe it was an accident. Their investigation plunges them into the shadowy corners of New York and beyond - where the trio uncovers a dangerous web of secrets connecting powerful billionaires, old-school mobsters, and the mysterious residents of the Arconia.|watching
+episode|107113|1|Nail in the Coffin|2025-09-09|A look back at Lester's early days at the Arconia reveals how a young dreamer became a steadfast doorman — sacrificing his future to protect the residents from the building's secrets.|34m|Hulu|N/A|N/A|N/A|N/A|watched
+episode|107113|2|After You|2025-09-09|While investigating Lester's mysterious "accidental" death, the clues lure Charles, Oliver, and Mabel out of Manhattan — and straight into some dangerous new "old" territory.|30m|Hulu|N/A|N/A|N/A|N/A|watching
+show|226637|High Potential|Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.|1|2024-09-17|Running|ABC|N/A| (generated)
+season|226637|2|2025|Morgan and the LAPD tackle a series of complex crimes orchestrated by the Game Maker, testing their partnership and family dynamics.|none
+episode|226637|1|Pawns|2025-09-16|While working tirelessly to shield her family from the Game Maker's threats, another crime drags Morgan back into his game and the LAPD must decide whether to trust her instincts before the next move turns fatal.|44m|ABC|N/A|N/A|N/A|N/A|none
+episode|226637|2|Checkmate|2025-09-23|As the Major Crimes team desperately seek answers amidst a string of unresolved crimes, Morgan suspects the Game Maker is responsible. Meanwhile, Daphne and Oz set out to find Roman, and Elliot prepares a surprise act for his school’s talent show.|44m|ABC|N/A|N/A|N/A|N/A|none
+show|203857|The Diplomat|In the midst of an international crisis, a career diplomat lands in a high-profile job she’s unsuited for, with tectonic implications for her marriage and her political future.|2|2023-04-20|Running|Netflix|N/A| (generated)
+season|203857|3|2025|Ambassador Kate Wyler navigates the aftermath of the President's death and her husband’s potential involvement, aiming for the vice presidency.|none
+episode|203857|1|Episode 1|2025-10-16|TBD|TBD|Netflix|N/A|N/A|N/A|N/A|none
+show|258902|English Teacher|A high school teacher in Austin tries to balance the competing demands of the students and their parents in a world where the rules seem to change every day.|1|2024-09-02|Running|FX|N/A| (generated)
+season|258902|2|2025|Evan faces new controversies at school, impacting his personal life with Malcolm.|none
+episode|258902|1|Covid in America|2025-09-25|Evan pushes back against the students as they try to modernize the school play.|22m|FX|N/A|N/A|N/A|N/A|none
+show|92611|RuPaul's Drag Race UK|RuPaul has made the trip across the pond in search of a queen with the most charisma, uniqueness, nerve and talent in all the land.|5|2019-10-03|Running|BBC iPlayer|N/A| (generated)
+season|92611|7|2025|A new cast of queens competes for RuPaul's approval and the crown.|none
+episode|92611|1|Episode 1|2025-09-25|A hot new cast of queens enter the werk room as RuPaul kicks off his legendary race. Joel Dommett joins Michelle Visage and Alan Carr on the judging panel.|1h 14m|BBC iPlayer|N/A|N/A|N/A|N/A|none
+show|8514|RuPaul's Drag Race|Drag queens compete in fashion, performance, and lip-sync challenges to be crowned America's next drag superstar.|16|2009-02-02|Returning Series|MTV / WOW Presents Plus|Fridays| (generated)
+show|67482|RuPaul's Drag Race All Stars|Past contestants return to compete for a spot in the Drag Race Hall of Fame.|9|2012-10-22|Returning Series|Paramount+|Fridays| (generated)
+show|67564|RuPaul's Drag Race All Stars: Untucked|Companion series to All Stars, offering behind-the-scenes drama.|1|2021|Ended|Paramount+|N/A| (generated)
+show|38409|RuPaul's Drag Race: Untucked!|Behind-the-scenes companion to the main Drag Race series.|15|2010-02-01|Returning Series|MTV / WOW Presents Plus|Fridays| (generated)
+show|94038|Canada's Drag Race|Canadian queens compete to become Canada's next drag superstar.|5|2020-07-02|Returning Series|Crave / WOW Presents Plus|Thursdays| (generated)
+show|157239|Alien: Earth|After a space vessel crashes on Earth, a young woman and soldiers face a planetary threat.|1|2025-08-12|Returning Series|Hulu|Tuesdays| (generated)
+show|18650|I'm a Celebrity...Get Me Out of Here! (US)|Celebrities face survival challenges in the jungle.|2|2003-02-19|Ended|ABC|N/A| (generated)
+show|27097|I'm a Celebrity Get Me Out of Here Now (UK)|Companion show with behind-the-scenes content and interviews.|1|2003|Ended|ITV2|N/A| (generated)
+show|30901|I'm a Celebrity...Get Me Out of Here! UK|British celebrities endure jungle trials for charity.|23|2002-08-25|Returning Series|ITV|November annually| (generated)
+show|61913|I'm a Celebrity: Get Me Out of Here! AU|Australian version of the jungle survival reality show.|10|2015-02-01|Returning Series|Network 10|November annually| (generated)
+show|70|This Hour Has 22 Minutes|Canadian satirical news show blending sketch comedy and current events.|31|1993-10-11|Returning Series|CBC|Tuesdays| (generated)
+show|205715|Gen V|College-aged superheroes train at Godolkin University in this spinoff of The Boys.|1|2023-09-29|Returning Series|Prime Video|Fridays| (generated)
+show|260471|Shifting Gears|A widowed car shop owner adjusts to life with his estranged daughter and grandkids.|1|2025-01-08|Returning Series|Hulu|Wednesdays| (generated)
+show|237748|Brilliant Minds|A neurologist with face blindness leads a team solving psychological mysteries.|1|2024-09-23|Returning Series|NBC|Mondays| (generated)
+show|197449|Loot|A billionaire divorcée rediscovers purpose through her charitable foundation.|2|2022-06-24|Returning Series|Apple TV+|Tuesdays| (generated)
+show|205272|Reasonable Doubt|A brilliant but ethically flexible defense attorney navigates LA’s justice system.|2|2022-09-27|Returning Series|Hulu|Thursdays| (generated)
+show|211288|Tracker|A survivalist helps solve missing persons cases across the U.S.|1|2024-02-11|Returning Series|CBS|Sundays| (generated)
+show|242867|Watson|After Holmes' death, Dr. Watson runs a rare disorders clinic while facing new mysteries.|1|2025|Returning Series|CBS|TBD| (generated)
+show|127235|Invasion|Multiple perspectives explore an alien invasion across the globe.|2|2021-10-22|Returning Series|Apple TV+|Wednesdays| (generated)
+
+MOVIES
+# MOVIES Header Format
+# MOVIES section header: movie|tmdb_id|name|overview|releaseDate|rating|runtime|source|vidSrc|mapple|nunFlix|tbd|watchStatus
+movie|1038392|The Conjuring: Last Rites (2025)|Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.|2025-09-05|N/A|2h 15m|Max|N/A|N/A|N/A|N/A|none
+movie|1035259|The Naked Gun (2025)|Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.|2025-09-30|N/A|1h 25m|N/A|N/A|N/A|N/A|N/A|none
+movie|533533|TRON: Ares (2025)|A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.|2025-10-10|PG-13|1h 59m|N/A|N/A|N/A|N/A|N/A|none
+movie|1125257|Freakier Friday (2025)|Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.|2025-08-08|PG|1h 51m|Disney+|N/A|N/A|N/A|N/A|none
+movie|1290879|The Woman in Cabin 10 (2025)|On a lavish yacht for an assignment, a journalist sees a passenger go overboard. But when no one believes her, she risks her life to uncover the truth.|2025-10-10|R|1h 35m|N/A|N/A|N/A|N/A|N/A|none
+movie|1071585|M3GAN 2.0 (2025)|After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.|2025-06-27|14A|2h|N/A|N/A|N/A|N/A|N/A|none

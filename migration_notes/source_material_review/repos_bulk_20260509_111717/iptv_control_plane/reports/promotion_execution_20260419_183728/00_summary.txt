@@ -1,0 +1,21 @@
+﻿execute_promotion_copy
+run_ts=20260419_183728
+plan_path=C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\promotion_move_plan.csv
+total_rows=651
+copied_count=651
+copied_bytes=416681870
+source_missing_count=0
+target_conflict_count=0
+error_count=0
+
+by_mapping
+
+source_root                                                                     target_root                                                                 total_rows copied source_missing target_conflict errors
+-----------                                                                     -----------                                                                 ---------- ------ -------------- --------------- ------
+C:\Users\andrew\PROJECTS\iptv\collections\repos_programs\iptv__C42511BE\streams C:\Users\andrew\PROJECTS\iptv\inputs\m3u_sources\review_from_iptv__C42511BE        304    304              0               0      0
+C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\m3u               C:\Users\andrew\PROJECTS\iptv\inputs\m3u_sources                                   200    200              0               0      0
+C:\Users\andrew\PROJECTS\iptv\collections\inputs_for_tivimate\epg               C:\Users\andrew\PROJECTS\iptv\inputs\free_epg                                      102    102              0               0      0
+C:\X1_Share\IPTV_load_files                                                     C:\Users\andrew\PROJECTS\iptv\inputs\review_from_legacy_load_files                  45     45              0               0      0
+
+
+

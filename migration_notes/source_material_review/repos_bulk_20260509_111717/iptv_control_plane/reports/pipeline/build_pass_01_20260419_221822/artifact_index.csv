@@ -1,0 +1,7 @@
+﻿"category","path"
+"config","C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\config\pipeline_sources.json"
+"index","C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\pipeline\build_pass_01_20260419_221822\canonical_inputs_index.csv"
+"m3u","C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\pipeline\build_pass_01_20260419_221822\m3u_candidates.csv"
+"epg","C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\pipeline\build_pass_01_20260419_221822\epg_candidates.csv"
+"reference","C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\pipeline\build_pass_01_20260419_221822\reference_candidates.csv"
+"summary","C:\Users\andrew\PROJECTS\GitHub\iptv_control_plane\reports\pipeline\build_pass_01_20260419_221822\00_build_pass_01_summary.txt"

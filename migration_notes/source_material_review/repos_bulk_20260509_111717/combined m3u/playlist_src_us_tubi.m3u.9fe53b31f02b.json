@@ -1,0 +1,3474 @@
+{
+  "source_file": "C:\\X1_Share\\Tivimate\\m3u temp files\\playlist_src_us_tubi.m3u",
+  "provider": "Playlistsrc",
+  "country": "US",
+  "region": "Tubi",
+  "channels": [
+    {
+      "canonical_name": "Wbtv All Together Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV All Together [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-all-together-now.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV All Together [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv At The Movies Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV At the Movies [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-at-the-movies.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV At the Movies [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Chasing Criminals Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Chasing Criminals [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-chasing-criminals.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Chasing Criminals [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Classic Cinema Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Classic Cinema [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-classic-cinema.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Classic Cinema [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Crime Scenes Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Crime scenes [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-crime-scenes.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Crime scenes [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Family Rules Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Family Rules [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-family-rules.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Family Rules [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Generation Drama Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Generation Drama [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-generation-drama.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Generation Drama [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv How To Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV How To [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-how-to.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV How To [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv In The Garage Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV In The Garage [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-in-the-garage.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV In The Garage [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Keeping It Real Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Keeping It Real [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-keeping-it-real.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Keeping It Real [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Living With Evil Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Living With Evil [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-living-with-evil.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Living With Evil [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Love And Marriage Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Love and Marriage [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-love-marriage.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Love and Marriage [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Mysteries Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Mysteries [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-mysteries.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Mysteries [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Nikita Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Nikita [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-nikita.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Nikita [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv On The Telly Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV On The Telly [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-on-the-telly.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV On The Telly [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Paws And Claws Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Paws and Claws [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-paws-claws.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Paws and Claws [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Slice Of Life Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Slice of Life [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-slice-life.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Slice of Life [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Supernatural Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Supernatural [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-supernatural.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Supernatural [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Sweet Escapes Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Sweet Escapes [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-sweet-escapes.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Sweet Escapes [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv The Fbi Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV The FBI [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-the-fbi.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV The FBI [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Travel And Adventure Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Travel and Adventure [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-travel-and-adventure.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Travel and Adventure [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Watchlist Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Watchlist [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-watch-list.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Watchlist [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv Welcome Home Geo Blocked Undefined (Playlistsrc) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": null,
+      "raw_entries": {
+        "channel_name_raw": "WBTV Welcome Home [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-welcome-home.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV Welcome Home [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Big 12 Studios Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Big 12 Studios (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/d61265ac-4c98-4243-8e23-31fff4d399e1/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Big 12 Studios (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Her Sphere Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Her Sphere (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/134d66e4-9382-4f51-85a0-c47717a3b037/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Her Sphere (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nash Bridges Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Nash Bridges (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/9d75d44d-30f4-4b50-8a54-1d03c21bb052/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nash Bridges (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Conners Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Conners (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/b29092cd-e0e1-404f-8d84-f797633e26f4/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Conners (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tubi Originals Geo Blocked Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Tubi Originals (720p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/tubi-originals.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Tubi Originals (720p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Silent Witness New Tricks Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Silent Witness New Tricks (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/3723e418-8627-4a29-96fd-bcfebfccb004/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Silent Witness New Tricks (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "BBC Top Gear Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "BBC Top Gear (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "BBC Top Gear (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cinevault Classics Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cinevault Classics (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cinevault-classics.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cinevault Classics (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cosmos Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Cosmos (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cosmos.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cosmos (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Def Jam Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Def Jam (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Def Jam (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dr G Medical Examiner Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Dr. G Medical Examiner (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-dr-g-filmrise.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dr. G Medical Examiner (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fanduel Tv Extra Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fanduel TV Extra (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/fdd93041-1042-41bf-9200-8f9efe38ace5/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fanduel TV Extra (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Black Tv Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise Black TV (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Filmrise Black TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Black Tv Canada Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Black TV Canada (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Black TV Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Cheaters Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise Cheaters (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cheaters.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Filmrise Cheaters (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Horror Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise Horror (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Filmrise Horror (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Horror Canada Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Horror Canada (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Horror Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise True Crime Canada Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise True Crime Canada (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise True Crime Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Unsolved Mysteries Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FilmRise Unsolved Mysteries (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "FilmRise Unsolved Mysteries (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise World S Most Evil Killers Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise World's Most Evil Killers (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Filmrise World's Most Evil Killers (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox Sports Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/fox-sports.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Fox Sports (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gardening With Monty Don Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Gardening With Monty Don (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-gardening-monty-don.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Gardening With Monty Don (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Gvtv Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "GVTV (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/358eebe5-75f6-42dc-96b3-c6ddf5a46698/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "GVTV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Super Channel Hearties Canada Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Super Channel Hearties Canada (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-super-channel-hearties-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Super Channel Hearties Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Super Channel Uncovered Canada Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Super Channel Uncovered Canada (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-super-channel-uncovered-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Super Channel Uncovered Canada (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Masked Singer Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "The Masked Singer (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-masked-singer.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Masked Singer (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nascar Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Nascar (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Nascar (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Supermarket Sweep Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Supermarket Sweep (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-supermarket.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Supermarket Sweep (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wbtv HBO Boxing Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "WBTV HBO Boxing (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "WBTV HBO Boxing (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Womens Sports Network Canada Geo Blocked Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Womens Sports Network Canada (1080p) [Geo-blocked]",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-womens-sports-network-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Womens Sports Network Canada (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Alien Nation Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Alien Nation (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/alien-nation/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Alien Nation (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Alien Nation Canada Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Alien Nation Canada (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/alien-nation-canada/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Alien Nation Canada (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Alter Horror Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Alter Horror (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/alter/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Alter Horror (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "American Pickers Channel Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "American Pickers Channel (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "American Pickers Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Anger Management En Espanol Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Anger Management en Espanol (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/anger-management-espanol2/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Anger Management en Espanol (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cine Estrella Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cine Estrella (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Cine Estrella (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crime Thrillher Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Crime ThrillHer (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-crime-thrillher.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crime ThrillHer (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Crime Time Canada Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Crime Time Canada (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-crimetime-canada.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Crime Time Canada (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dance Moms Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dance Moms (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-dance-moms.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dance Moms (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dazn Ringside Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dazn Ringside (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dazn Ringside (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Dazn Womens Football Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Dazn Womens Football (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/dazn-womens-football.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Dazn Womens Football (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ebony Tv Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ebony TV (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/22574bab-8a1f-44f4-b62f-ae2963c6a875/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ebony TV (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Haunt Tv Canada Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Haunt TV Canada (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/62f59fa9-7923-47ae-8c71-5446cf927f7e/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Haunt TV Canada (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Homeful Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Homeful (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/36785f5f-4e63-4cca-a16a-c8b309af0287/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Homeful (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ice Road Truckers Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Ice Road Truckers (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ice-road-truckers.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Ice Road Truckers (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ion Mystery Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ION Mystery (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ION Mystery (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Ion Mystery Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "ION Mystery (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "ION Mystery (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Love Quest Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Love Quest (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-all-real.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Love Quest (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Moviesphere Canada Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "MovieSphere Canada (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "MovieSphere Canada (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Mr Beast Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Mr. Beast (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Mr. Beast (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Outersphere Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Outersphere (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://livetv-fa.tubi.video/outersphere2/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Outersphere (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Property Brothers Channel Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Property Brothers Channel (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-property-brothers.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Property Brothers Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Biggest Loser Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Biggest Loser (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-biggest-loser.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Biggest Loser (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "The Jack Hanna Channel Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "The Jack Hanna Channel (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/fee88745-76df-428f-ad7e-1766f91e2098/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "The Jack Hanna Channel (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Top Rank Classics Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Top Rank Classics (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-top-rank.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Top Rank Classics (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Total Crime Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Total Crime (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/0c770ac6-72a3-4618-aed4-4518a19df0d5/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "Total Crime (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tv One Crime Justice Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "TV One Crime & Justice (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "TV One Crime & Justice (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "UFC Undefined (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "UFC (1080p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": null,
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8",
+        "xmltv_id": null,
+        "xmltv_display_name": "UFC (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": null,
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Caught In Providence Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Caught in Providence (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/rbhvVL3.png",
+        "stream_url": "https://livetv-fa.tubi.video/caught-in-providence2/playlist.m3u8",
+        "xmltv_id": "CaughtinProvidence.us",
+        "xmltv_display_name": "Caught in Providence (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/rbhvVL3.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Cold Case Files Series (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Cold Case Files (1080p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/mowSfj6.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8",
+        "xmltv_id": "ColdCaseFiles.us",
+        "xmltv_display_name": "Cold Case Files (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/mowSfj6.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Duck Dynasty Series (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Duck Dynasty (1080p)",
+        "group_title_raw": "Series",
+        "logo_raw": "https://i.imgur.com/vMcSlwm.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-duck-dynasty.m3u8",
+        "xmltv_id": "DuckDynasty.us@US",
+        "xmltv_display_name": "Duck Dynasty (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vMcSlwm.png",
+        "xmltv_categories": [
+          "Series"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fbi Files Documentary (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FBI Files (720p)",
+        "group_title_raw": "Documentary",
+        "logo_raw": "https://i.imgur.com/vzYDSLo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8",
+        "xmltv_id": "FBIFiles.us@US",
+        "xmltv_display_name": "FBI Files (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/vzYDSLo.png",
+        "xmltv_categories": [
+          "Documentary"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise Forensic Files Movies (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise Forensic Files (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/8j2npVc.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8",
+        "xmltv_id": "FilmRiseForensicFiles.us",
+        "xmltv_display_name": "Filmrise Forensic Files (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/8j2npVc.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Filmrise True Crime Movies (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Filmrise True Crime (720p)",
+        "group_title_raw": "Movies",
+        "logo_raw": "https://i.imgur.com/8j2npVc.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8",
+        "xmltv_id": "FilmRiseTrueCrime.us",
+        "xmltv_display_name": "Filmrise True Crime (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/8j2npVc.png",
+        "xmltv_categories": [
+          "Movies"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox Sports En Espanol Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Fox Sports en Espanol (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8",
+        "xmltv_id": "FoxDeportes.us",
+        "xmltv_display_name": "Fox Sports en Espanol (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fubo Sports Network Geo Blocked Sports (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Fubo Sports Network (1080p) [Geo-blocked]",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/qFNRJLb.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-fubo.m3u8",
+        "xmltv_id": "FuboSportsNetwork.us",
+        "xmltv_display_name": "Fubo Sports Network (1080p) [Geo-blocked]",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qFNRJLb.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Grit Xtra Entertainment (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "Grit Xtra (1080p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://pbs.twimg.com/profile_images/1587656647803113472/tANAElTS_400x400.jpg",
+        "stream_url": "https://livetv-fa.tubi.video/grit-extra/playlist.m3u8",
+        "xmltv_id": "GritXtra.us",
+        "xmltv_display_name": "Grit Xtra (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://pbs.twimg.com/profile_images/1587656647803113472/tANAElTS_400x400.jpg",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 3 Lafayette La Katc General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 3 Lafayette LA (KATC) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/28467730-4b65-4c85-8151-4c7d162c0896/playlist.m3u8",
+        "xmltv_id": "KATCDT1.us",
+        "xmltv_display_name": "ABC 3 Lafayette LA (KATC) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 7 Bozeman Mt Kbzk General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 7 Bozeman MT (KBZK) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kbzk.m3u8",
+        "xmltv_id": "KBZKDT1.us",
+        "xmltv_display_name": "CBS 7 Bozeman MT (KBZK) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 8 Des Moines Ia Kcci General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 8 Des Moines IA (KCCI) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/6xjshQj.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kcci.m3u8",
+        "xmltv_id": "KCCIDT1.us",
+        "xmltv_display_name": "CBS 8 Des Moines IA (KCCI) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/6xjshQj.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 13 Wa Kcpq General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 13 Seattle WA (KCPQ) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8",
+        "xmltv_id": "KCPQDT1.us",
+        "xmltv_display_name": "FOX 13 Seattle WA (KCPQ) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 3 Sacramento Kcra General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 3 Sacramento CA (KCRA) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kcra.m3u8",
+        "xmltv_id": "KCRADT1.us",
+        "xmltv_display_name": "NBC 3 Sacramento CA (KCRA) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 4 Fort Worth Tx Kdfw General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 4 Dallas / Fort Worth TX (KDFW) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kdfw.m3u8",
+        "xmltv_id": "KDFWDT1.us",
+        "xmltv_display_name": "FOX 4 Dallas / Fort Worth TX (KDFW) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Omaha Ne Ketv General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Omaha NE (KETV) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/CWZtYNi.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ketv.m3u8",
+        "xmltv_id": "KETVDT1.us",
+        "xmltv_display_name": "ABC 7 Omaha NE (KETV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/CWZtYNi.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 10 Kgtv General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 10 San Diego CA (KGTV) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kgtv2.m3u8",
+        "xmltv_id": "KGTVDT1.us",
+        "xmltv_display_name": "ABC 10 San Diego CA (KGTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 9 Tucson Az Kgun General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Tucson AZ (KGUN) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kgun.m3u8",
+        "xmltv_id": "KGUNDT1.us",
+        "xmltv_display_name": "ABC 9 Tucson AZ (KGUN) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 40 29 Fort Smith Ar Khbs General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 40/29 Fort Smith AR (KHBS) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-khbs.m3u8",
+        "xmltv_id": "KHBSDT1.us",
+        "xmltv_display_name": "ABC 40/29 Fort Smith AR (KHBS) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 6 Boise Id Kivi General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 6 Boise ID (KIVI) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/e/e5/KIVI-TV_Idaho_News_6_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kivi.m3u8",
+        "xmltv_id": "KIVIDT1.us",
+        "xmltv_display_name": "ABC 6 Boise ID (KIVI) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/KIVI-TV_Idaho_News_6_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 2 Tulsa Ok Kjrh General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 2 Tulsa OK (KJRH) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8",
+        "xmltv_id": "KJRHDT1.us",
+        "xmltv_display_name": "NBC 2 Tulsa OK (KJRH) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 9 St Paul Mn Kmsp General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 9 ST Paul Minneapolis MN (KMSP) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/HCfd9BV.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kmsp.m3u8",
+        "xmltv_id": "KMSPDT1.us",
+        "xmltv_display_name": "FOX 9 ST Paul Minneapolis MN (KMSP) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/HCfd9BV.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 5 Colorado Springs Co Koaa General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 Colorado Springs CO (KOAA) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-koaa.m3u8",
+        "xmltv_id": "KOAADT1.us",
+        "xmltv_display_name": "NBC 5 Colorado Springs CO (KOAA) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Albuquerque Nm Koat General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Albuquerque NM (KOAT) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-koat.m3u8",
+        "xmltv_id": "KOATDT1.us",
+        "xmltv_display_name": "ABC 7 Albuquerque NM (KOAT) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 5 Oklahoma City Ok Koco General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 5 Oklahoma City OK (KOCO) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/yxEbZqn.jpg",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-koco.m3u8",
+        "xmltv_id": "KOCODT1.us",
+        "xmltv_display_name": "ABC 5 Oklahoma City OK (KOCO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/yxEbZqn.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 8 Missoula Mt Kpax General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 8 Missoula MT (KPAX) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kpax.m3u8",
+        "xmltv_id": "KPAXDT1.us",
+        "xmltv_display_name": "CBS 8 Missoula MT (KPAX) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 26 Tx Kriv General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 26 Houston TX (KRIV) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://i.imgur.com/AZ8MWRp.jpg",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kriv.m3u8",
+        "xmltv_id": "KRIVDT1.us",
+        "xmltv_display_name": "FOX 26 Houston TX (KRIV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/AZ8MWRp.jpg",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 3 Great Falls Mt Krtv General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 3 Great Falls MT (KRTV) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-krtv.m3u8",
+        "xmltv_id": "KRTVDT1.us",
+        "xmltv_display_name": "CBS 3 Great Falls MT (KRTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 10 Az Ksaz General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 10 Phoenix AZ (KSAZ) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ksaz.m3u8",
+        "xmltv_id": "KSAZDT1.us",
+        "xmltv_display_name": "FOX 10 Phoenix AZ (KSAZ) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 8 Salinas Ksbw General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 8 Salinas CA (KSBW) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ksbw.m3u8",
+        "xmltv_id": "KSBWDT1.us",
+        "xmltv_display_name": "NBC 8 Salinas CA (KSBW) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 13 Salt Lake City Ut Kstu General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 13 Salt Lake City UT (KSTU) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8",
+        "xmltv_id": "KSTUDT1.us",
+        "xmltv_display_name": "FOX 13 Salt Lake City UT (KSTU) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 7 Tx Ktbc General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 7 Austin TX (KTBC) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ktbc.m3u8",
+        "xmltv_id": "KTBCDT1.us",
+        "xmltv_display_name": "FOX 7 Austin TX (KTBC) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 11 Kttv General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 11 Los Angeles CA (KTTV) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-kttv.m3u8",
+        "xmltv_id": "KTTVDT1.us",
+        "xmltv_display_name": "FOX 11 Los Angeles CA (KTTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 12 Helena Mt Ktvh General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 12 Helena MT (KTVH) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ktvh.m3u8",
+        "xmltv_id": "KTVHDT1.us",
+        "xmltv_display_name": "NBC 12 Helena MT (KTVH) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 2 Billings Mt Ktvq General (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 2 Billings MT (KTVQ) (1080p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/16dca551-7e18-4599-b235-395d5044099b/playlist.m3u8",
+        "xmltv_id": "KTVQDT1.us",
+        "xmltv_display_name": "CBS 2 Billings MT (KTVQ) (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 2 Ktvu General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 2 San Francisco CA (KTVU) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-ktvu.m3u8",
+        "xmltv_id": "KTVUDT1.us",
+        "xmltv_display_name": "FOX 2 San Francisco CA (KTVU) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Localish Lifestyle (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Localish (720p)",
+        "group_title_raw": "Lifestyle",
+        "logo_raw": "https://i.imgur.com/ACEbGD5.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-localish.m3u8",
+        "xmltv_id": "Localish.us",
+        "xmltv_display_name": "Localish (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ACEbGD5.png",
+        "xmltv_categories": [
+          "Lifestyle"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Lol Standup Comedy (Playlistsrc) (1080p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "1080p",
+      "raw_entries": {
+        "channel_name_raw": "LOL Standup (1080p)",
+        "group_title_raw": "Comedy",
+        "logo_raw": "https://i.imgur.com/qgsyzW4.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8",
+        "xmltv_id": "LOLStandUp.us",
+        "xmltv_display_name": "LOL Standup (1080p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/qgsyzW4.png",
+        "xmltv_categories": [
+          "Comedy"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Nhra Tv Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NHRA TV (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/jZgcm4k.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-nhra.m3u8",
+        "xmltv_id": "NHRATV.us",
+        "xmltv_display_name": "NHRA TV (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/jZgcm4k.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Racing America Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Racing America (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://i.imgur.com/Eufk8rl.png",
+        "stream_url": "https://livetv-fa.tubi.video/racing-america/playlist.m3u8",
+        "xmltv_id": "RacingAmerica.us",
+        "xmltv_display_name": "Racing America (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Eufk8rl.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Stadium Sports (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Stadium (720p)",
+        "group_title_raw": "Sports",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8",
+        "xmltv_id": "Stadium.us",
+        "xmltv_display_name": "Stadium (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png",
+        "xmltv_categories": [
+          "Sports"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Tmz Entertainment (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "TMZ (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/eLIe7Va.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-tmz.m3u8",
+        "xmltv_id": "TMZ.us",
+        "xmltv_display_name": "TMZ (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/eLIe7Va.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 16 Jackson Ms Wapt News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 16 Jackson MS (WAPT) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wapt.m3u8",
+        "xmltv_id": "WAPTDT1.us",
+        "xmltv_display_name": "ABC 16 Jackson MS (WAPT) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 11 Baltimore Md Wbal Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 11 Baltimore MD (WBAL) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/5/54/WBAL_Horizontal_Logo_2013.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wbal.m3u8",
+        "xmltv_id": "WBALDT1.us",
+        "xmltv_display_name": "NBC 11 Baltimore MD (WBAL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/5/54/WBAL_Horizontal_Logo_2013.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 9 Oh Wcpo News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Cincinnati OH (WCPO) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WCPO-TV_logo_2020.png/512px-WCPO-TV_logo_2020.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wcpo.m3u8",
+        "xmltv_id": "WCPODT1.us",
+        "xmltv_display_name": "ABC 9 Cincinnati OH (WCPO) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WCPO-TV_logo_2020.png/512px-WCPO-TV_logo_2020.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 5 Ma Wcvb General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 5 Boston MA (WCVB) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wcvb.m3u8",
+        "xmltv_id": "WCVBDT1.us",
+        "xmltv_display_name": "ABC 5 Boston MA (WCVB) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 6 New Orleans La Wdsu Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 6 New Orleans LA (WDSU) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wdsu.m3u8",
+        "xmltv_id": "WDSUDT1.us",
+        "xmltv_display_name": "NBC 6 New Orleans LA (WDSU) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 2 Fl Wesh News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 2 Orlando FL (WESH) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wesh.m3u8",
+        "xmltv_id": "WESHDT1.us",
+        "xmltv_display_name": "NBC 2 Orlando FL (WESH) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 5 Oh Wews News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 5 Cleveland OH (WEWS) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/sUonBr6.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wews2.m3u8",
+        "xmltv_id": "WEWSDT1.us",
+        "xmltv_display_name": "ABC 5 Cleveland OH (WEWS) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/sUonBr6.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 32 Il Wfld Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 32 Chicago IL (WFLD) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wfld.m3u8",
+        "xmltv_id": "WFLDDT1.us",
+        "xmltv_display_name": "FOX 32 Chicago IL (WFLD) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 28 Bay Fl Wfts News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 28 Tampa Bay FL (WFTS) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wfts2.m3u8",
+        "xmltv_id": "WFTSDT1.us",
+        "xmltv_display_name": "ABC 28 Tampa Bay FL (WFTS) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 8 Lancaster Pa Wgal News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 8 Lancaster PA (WGAL) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wgal.m3u8",
+        "xmltv_id": "WGALDT1.us",
+        "xmltv_display_name": "NBC 8 Lancaster PA (WGAL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wipeout Xtra Entertainment (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Wipeout Xtra (720p)",
+        "group_title_raw": "Entertainment",
+        "logo_raw": "https://i.imgur.com/UDeCRW1.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8",
+        "xmltv_id": "WipeoutXtra.us",
+        "xmltv_display_name": "Wipeout Xtra (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/UDeCRW1.png",
+        "xmltv_categories": [
+          "Entertainment"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 12 Milwaukee Wi Wisn General (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 12 Milwaukee WI (WISN) (720p)",
+        "group_title_raw": "General",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wisn.m3u8",
+        "xmltv_id": "WISNDT1.us",
+        "xmltv_display_name": "ABC 12 Milwaukee WI (WISN) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "General"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 6 Milwaukee Wi Witi Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 6 Milwaukee WI (WITI) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/WITI_2020_Logo.svg/512px-WITI_2020_Logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-witi.m3u8",
+        "xmltv_id": "WITIDT1.us",
+        "xmltv_display_name": "FOX 6 Milwaukee WI (WITI) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/WITI_2020_Logo.svg/512px-WITI_2020_Logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 2 Mi Wjbk News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 2 Detroit MI (WJBK) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/EL9Bwtf.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8",
+        "xmltv_id": "WJBKDT1.us",
+        "xmltv_display_name": "FOX 2 Detroit MI (WJBK) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/EL9Bwtf.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 22 Savannah Ga Wjcl News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 22 Savannah GA (WJCL) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/Q4B9h5L.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wjcl.m3u8",
+        "xmltv_id": "WJCLDT1.us",
+        "xmltv_display_name": "ABC 22 Savannah GA (WJCL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/Q4B9h5L.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Buffalo Ny Wkbw News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Buffalo NY (WKBW) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://i.imgur.com/dtzR3Y1.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wkbw.m3u8",
+        "xmltv_id": "WKBWDT1.us",
+        "xmltv_display_name": "ABC 7 Buffalo NY (WKBW) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/dtzR3Y1.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 18 Lexington Ky Wlex Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 18 Lexington KY (WLEX) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wlex.m3u8",
+        "xmltv_id": "WLEXDT1.us",
+        "xmltv_display_name": "NBC 18 Lexington KY (WLEX) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 32 Louisville Ky Wlky News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 32 Louisville KY (WLKY) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wlky.m3u8",
+        "xmltv_id": "WLKYDT1.us",
+        "xmltv_display_name": "CBS 32 Louisville KY (WLKY) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 5 Oh Wlwt Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 Cincinnati OH (WLWT) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wlwt.m3u8",
+        "xmltv_id": "WLWTDT1.us",
+        "xmltv_display_name": "NBC 5 Cincinnati OH (WLWT) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 2 Baltimore Md Wmar News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 2 Baltimore MD (WMAR) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wmar.m3u8",
+        "xmltv_id": "WMARDT1.us",
+        "xmltv_display_name": "ABC 2 Baltimore MD (WMAR) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Wmor Tv News Lakeland Fl Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "WMOR-TV News Lakeland FL (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/WMOR.svg/512px-WMOR.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wmor.m3u8",
+        "xmltv_id": "WMORDT1.us",
+        "xmltv_display_name": "WMOR-TV News Lakeland FL (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/WMOR.svg/512px-WMOR.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 8 Me Wmtw News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 8 Portland ME (WMTW) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wmtw.m3u8",
+        "xmltv_id": "WMTWDT1.us",
+        "xmltv_display_name": "ABC 8 Portland ME (WMTW) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 9 Nh Wmur Tv News Weather (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 9 Manchester NH (WMUR-TV) (720p)",
+        "group_title_raw": "News;Weather",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/7/72/WMURCurrentLogo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wmur.m3u8",
+        "xmltv_id": "WMURDT1.us",
+        "xmltv_display_name": "ABC 9 Manchester NH (WMUR-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/7/72/WMURCurrentLogo.png",
+        "xmltv_categories": [
+          "News",
+          "Weather"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 35 Fl Wofl Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 35 Orlando FL (WOFL) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wofl.m3u8",
+        "xmltv_id": "WOFLDT1.us",
+        "xmltv_display_name": "FOX 35 Orlando FL (WOFL) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Women S Sports Network Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "Women's Sports Network (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/rhIwUcQ.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8",
+        "xmltv_id": "WomensSportsNetwork.us",
+        "xmltv_display_name": "Women's Sports Network (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/rhIwUcQ.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 25 Palm Beach Fl Wpbf News (Playlistsrc) (West) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": "West",
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 25 West Palm Beach FL (WPBF) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wpbf.m3u8",
+        "xmltv_id": "WPBFDT1.us",
+        "xmltv_display_name": "ABC 25 West Palm Beach FL (WPBF) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 5 Plattsburgh Ny Wptz News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 5 Plattsburgh NY (WPTZ) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wptz.m3u8",
+        "xmltv_id": "WPTZDT1.us",
+        "xmltv_display_name": "NBC 5 Plattsburgh NY (WPTZ) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 6 In Wrtv News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 6 Indianapolis IN (WRTV) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wrtv.m3u8",
+        "xmltv_id": "WRTVDT1.us",
+        "xmltv_display_name": "ABC 6 Indianapolis IN (WRTV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 47 Lansing Mi Wsym Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 47 Lansing MI (WSYM) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wsym.m3u8",
+        "xmltv_id": "WSYMDT1.us",
+        "xmltv_display_name": "FOX 47 Lansing MI (WSYM) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 4 Pittsburg Pa Wtae News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 4 Pittsburg PA (WTAE) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/en/8/8f/WTAE-TV_logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtae.m3u8",
+        "xmltv_id": "WTAEDT1.us",
+        "xmltv_display_name": "ABC 4 Pittsburg PA (WTAE) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/WTAE-TV_logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 3 Norfolk Va Wtkr Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 3 Norfolk VA (WTKR) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtkr.m3u8",
+        "xmltv_id": "WTKRDT1.us",
+        "xmltv_display_name": "CBS 3 Norfolk VA (WTKR) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 4 Milwaukee Wi Wtmj Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 4 Milwaukee WI (WTMJ) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/HC85eBq.png",
+        "stream_url": "https://aegis-cloudfront-1.tubi.video/558113f6-9f55-41d3-83e0-8d6102a9f0ea/playlist.m3u8",
+        "xmltv_id": "WTMJDT1.us",
+        "xmltv_display_name": "NBC 4 Milwaukee WI (WTMJ) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/HC85eBq.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 5 Dc Wttg Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 5 Washington DC (WTTG) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/ktLKla7.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wttg.m3u8",
+        "xmltv_id": "WTTGDT1.us",
+        "xmltv_display_name": "FOX 5 Washington DC (WTTG) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/ktLKla7.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 5 Tn Wtvf Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 5 Nashville TN (WTVF) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtvf2.m3u8",
+        "xmltv_id": "WTVFDT1.us",
+        "xmltv_display_name": "CBS 5 Nashville TN (WTVF) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "CBS 6 Richmond Va Wtvr Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "CBS 6 Richmond VA (WTVR) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8",
+        "xmltv_id": "WTVRDT1.us",
+        "xmltv_display_name": "CBS 6 Richmond VA (WTVR) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 13 Bay Fl Wtvt Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 13 Tampa Bay FL (WTVT) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtvt.m3u8",
+        "xmltv_id": "WTVTDT1.us",
+        "xmltv_display_name": "FOX 13 Tampa Bay FL (WTVT) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 29 Pa Wtxf Tv Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 29 Philadelphia PA (WTXF-TV) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://i.imgur.com/fRjmk5r.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8",
+        "xmltv_id": "WTXFDT1.us",
+        "xmltv_display_name": "FOX 29 Philadelphia PA (WTXF-TV) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://i.imgur.com/fRjmk5r.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 13 Al Wvtm Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 13 Birmingham Al (WVTM) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wvtm.m3u8",
+        "xmltv_id": "WVTMDT1.us",
+        "xmltv_display_name": "NBC 13 Birmingham Al (WVTM) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 12 Winston Salem Nc Wxii News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 12 Winston-Salem NC (WXII) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wxii.m3u8",
+        "xmltv_id": "WXIIDT1.us",
+        "xmltv_display_name": "NBC 12 Winston-Salem NC (WXII) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Fox 17 Grand Rapids Mi Wxmi Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "FOX 17 Grand Rapids MI (WXMI) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wxmi.m3u8",
+        "xmltv_id": "WXMIDT1.us",
+        "xmltv_display_name": "FOX 17 Grand Rapids MI (WXMI) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    },
+    {
+      "canonical_name": "ABC 7 Mi Wxyz News (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "ABC 7 Detroit MI (WXYZ) (720p)",
+        "group_title_raw": "News",
+        "logo_raw": "https://ewscripps.brightspotcdn.com/f7/ba/53c4c0b14d649fb08d19e76d3fc2/main-logo.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wxyz2.m3u8",
+        "xmltv_id": "WXYZDT1.us",
+        "xmltv_display_name": "ABC 7 Detroit MI (WXYZ) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://ewscripps.brightspotcdn.com/f7/ba/53c4c0b14d649fb08d19e76d3fc2/main-logo.png",
+        "xmltv_categories": [
+          "News"
+        ]
+      }
+    },
+    {
+      "canonical_name": "NBC 4 Greenville Sc Wyff Undefined (Playlistsrc) (720p) [US]",
+      "canonical_network": null,
+      "canonical_country": "US",
+      "canonical_region": "Tubi",
+      "canonical_feed_type": null,
+      "canonical_resolution": "720p",
+      "raw_entries": {
+        "channel_name_raw": "NBC 4 Greenville SC (WYFF) (720p)",
+        "group_title_raw": "Undefined",
+        "logo_raw": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "stream_url": "https://apollo.production-public.tubi.io/live/ac-wyff.m3u8",
+        "xmltv_id": "WYFFDT1.us",
+        "xmltv_display_name": "NBC 4 Greenville SC (WYFF) (720p)",
+        "xmltv_network": null,
+        "xmltv_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
+        "xmltv_categories": [
+          "Undefined"
+        ]
+      }
+    }
+  ]
+}
