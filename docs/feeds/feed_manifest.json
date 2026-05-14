@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-14T23:22:01Z",
+  "generated_at_utc": "2026-05-14T23:43:23Z",
   "app_name": "M3U + EPG Focused Scope Publisher",
   "app_version": "3.0.0",
   "repo_root": "C:\\Users\\andrew\\PROJECTS\\GitHub\\IPTV_Manager_Hybrid",
@@ -44,13 +44,13 @@
     },
     {
       "label": "timestamped_m3u",
-      "file": "focused_playlist_20260514_232142.m3u8",
+      "file": "focused_playlist_20260514_234302.m3u8",
       "bytes": 29519,
       "sha256": "c4131fc4085055a8ee390d086c2f63c68213abc0f6cb01355bf13597e8206c99"
     },
     {
       "label": "timestamped_epg",
-      "file": "focused_epg_20260514_232142.xml",
+      "file": "focused_epg_20260514_234302.xml",
       "bytes": 4426002,
       "sha256": "3ff590a95c257a61735738fffaaae9b08a594d7c5243d9078591aa69c257b7b6"
     }
