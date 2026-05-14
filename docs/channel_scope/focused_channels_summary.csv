@@ -1,0 +1,79 @@
+﻿segment_type,segment_value,focused_channels
+network,HBO,13
+network,Starz,13
+network,USA,12
+network,Cinemax,7
+network,Showtime,7
+network,CBS,6
+network,ABC,5
+network,FOX,5
+network,Comedy Central,4
+network,MTV,4
+network,TNT,4
+network,Unclassified,4
+network,Discovery,3
+network,FXX,3
+network,Food Network,3
+network,National Geographic,3
+network,Paramount,3
+network,TBS,3
+network,AMC,2
+network,Animal Planet,2
+network,Bravo,2
+network,CMT,2
+network,E! Entertainment,2
+network,FX,2
+network,Freeform,2
+network,HGTV,2
+network,MTV2,2
+network,NBC,2
+network,Syfy,2
+network,TLC,2
+network,Univision,2
+network,VH1,2
+network,A&E,1
+network,CNN,1
+network,Cooking,1
+network,Disney,1
+network,FX Movie,1
+network,FYI,1
+network,Fuse,1
+network,HLN,1
+network,History,1
+network,Investigation Discovery,1
+network,Ion,1
+network,Lifetime,1
+network,PBS,1
+network,Science,1
+network,Smithsonian,1
+network,TV Land,1
+network,The CW,1
+network,TruTV,1
+feed,Unclassified,76
+feed,East,38
+feed,West,33
+feed,Plus,1
+location,"Ultra, HD",65
+location,Unclassified,59
+location,"New York, NY",9
+location,"San Diego, CA",8
+location,"Buffalo, NY",4
+location,United States,2
+location,"KusiNews KUSI San Diego, CA",1
+group,Ultra HD,65
+group,Entertainment,45
+group,Movies,14
+group,Local Channels,12
+group,CBS - LOCAL,4
+group,ABC - LOCAL,3
+group,FOX - LOCAL,3
+group,Documentaries,2
+category,Entertainment,46
+category,Movies,46
+category,Local,22
+category,Unclassified,22
+category,Documentary,6
+category,Lifestyle,2
+category,Music,2
+category,Kids,1
+category,News,1
