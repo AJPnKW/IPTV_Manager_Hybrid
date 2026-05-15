@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>IPTV All-In-One M3U + EPG Update</title>
+<style>
+body{font-family:Arial,sans-serif;margin:24px;line-height:1.35;color:#111827}h1,h2{margin:0.75rem 0}.card{border:1px solid #d1d5db;border-radius:10px;padding:14px;margin:14px 0;background:#f9fafb}table{border-collapse:collapse;width:100%;margin:12px 0}th,td{border:1px solid #d1d5db;padding:8px;text-align:left;vertical-align:top}th{background:#e5e7eb}code{white-space:pre-wrap;overflow-wrap:anywhere}</style>
+</head>
+<body>
+<h1>IPTV All-In-One M3U + EPG Update</h1>
+<div class="card">
+<strong>Current rule:</strong> keep the existing feed folder and filenames under <code>outputs\feeds</code>. The primary playlist remains <code>latest_focused_playlist.m3u</code>, and the EPG remains <code>latest_focused_epg.xml</code>.
+</div>
+<h2>Published Files</h2>
+<table>
+<thead><tr><th>File</th><th>Purpose</th></tr></thead>
+<tbody>
+<tr><td><code>outputs\feeds\latest_focused_playlist.m3u</code></td><td>Single TiviMate playlist containing focused live TV channels plus detected movie/show/VOD entries from the source M3U.</td></tr>
+<tr><td><code>outputs\feeds\latest_focused_playlist.m3u8</code></td><td>Alias copy of the same playlist for app compatibility testing.</td></tr>
+<tr><td><code>outputs\feeds\latest_focused_epg.xml</code></td><td>Single XMLTV EPG file filtered to the EPG channel IDs referenced by the published playlist when EPG rows exist.</td></tr>
+<tr><td><code>outputs\feeds\feed_manifest.json</code></td><td>Machine-readable manifest with counts, hashes, and generated file metadata.</td></tr>
+<tr><td><code>outputs\feeds\index.html</code></td><td>Human-readable feed index for local/GitHub review.</td></tr>
+</tbody>
+</table>
+<h2>Selection Logic</h2>
+<table>
+<thead><tr><th>Content type</th><th>How included</th></tr></thead>
+<tbody>
+<tr><td>Focused live TV</td><td>Included from <code>data\channel_scope\focused_channels.csv</code>.</td></tr>
+<tr><td>Movies / shows / series / VOD</td><td>Passed through from the source M3U when detected by VOD group keywords, stream path patterns such as <code>/movie/</code> or <code>/series/</code>, episode patterns, or VOD file extensions such as <code>.mp4</code> and <code>.mkv</code>.</td></tr>
+<tr><td>Other live TV</td><td>Still excluded unless selected in the focused channel datasource.</td></tr>
+</tbody>
+</table>
+<h2>Validation</h2>
+<p>After publishing, run <code>scripts\validate_tivimate_feeds.py</code>. It validates the local M3U, M3U8, EPG, URL targets, and reports detected VOD entries in the single playlist.</p>
+</body>
+</html>
