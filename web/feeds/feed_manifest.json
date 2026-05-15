@@ -1,0 +1,34 @@
+{
+  "generated_at_utc": "2026-05-15T02:26:04Z",
+  "app_name": "SmartCDN Web Feed Publisher",
+  "app_version": "1.0.0",
+  "repo_root": "C:\\Users\\andrew\\PROJECTS\\GitHub\\IPTV_Manager_Hybrid",
+  "web_feed_folder": "C:\\Users\\andrew\\PROJECTS\\GitHub\\IPTV_Manager_Hybrid\\web\\feeds",
+  "github_pages_base": "https://ajpnkw.github.io/IPTV_Manager_Hybrid/web/feeds/",
+  "files": [
+    {
+      "file": "smartcdn.m3u",
+      "bytes": 43372,
+      "sha256": "b71682b4d6df4f5acc30b97f8377ca4952034552a12c22255482afd5fa3c4e04",
+      "url": "https://ajpnkw.github.io/IPTV_Manager_Hybrid/web/feeds/smartcdn.m3u"
+    },
+    {
+      "file": "smartcdn.m3u8",
+      "bytes": 43372,
+      "sha256": "b71682b4d6df4f5acc30b97f8377ca4952034552a12c22255482afd5fa3c4e04",
+      "url": "https://ajpnkw.github.io/IPTV_Manager_Hybrid/web/feeds/smartcdn.m3u8"
+    },
+    {
+      "file": "smartcdn.xml",
+      "bytes": 4594318,
+      "sha256": "e91dac15ab84f00774d363a729b64177adf76a5b1ed5f1502942fbe892ba46d7",
+      "url": "https://ajpnkw.github.io/IPTV_Manager_Hybrid/web/feeds/smartcdn.xml"
+    },
+    {
+      "file": "smartcdn.eml",
+      "bytes": 4594318,
+      "sha256": "e91dac15ab84f00774d363a729b64177adf76a5b1ed5f1502942fbe892ba46d7",
+      "url": "https://ajpnkw.github.io/IPTV_Manager_Hybrid/web/feeds/smartcdn.eml"
+    }
+  ]
+}

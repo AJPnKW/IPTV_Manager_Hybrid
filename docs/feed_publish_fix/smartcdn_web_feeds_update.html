@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SmartCDN Web Feed Publishing Update</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 24px; line-height: 1.4; color: #222; }
+h1, h2 { margin-bottom: 6px; }
+code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
+table { border-collapse: collapse; width: 100%; margin: 12px 0 20px; }
+th, td { border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top; }
+th { background: #eee; }
+.notice { background: #fff8d7; border: 1px solid #e5cf6a; padding: 12px; border-radius: 8px; }
+</style>
+</head>
+<body>
+<h1>SmartCDN Web Feed Publishing Update</h1>
+<p>The canonical IPTV app feed location is now <code>web/feeds</code>.</p>
+<table>
+<thead><tr><th>Purpose</th><th>Path</th><th>Public GitHub Pages URL</th></tr></thead>
+<tbody>
+<tr><td>M3U playlist</td><td><code>web/feeds/smartcdn.m3u</code></td><td><code>https://ajpnkw.github.io/IPTV_Manager_Hybrid/web/feeds/smartcdn.m3u</code></td></tr>
+<tr><td>M3U8 alias</td><td><code>web/feeds/smartcdn.m3u8</code></td><td><code>https://ajpnkw.github.io/IPTV_Manager_Hybrid/web/feeds/smartcdn.m3u8</code></td></tr>
+<tr><td>XMLTV EPG</td><td><code>web/feeds/smartcdn.xml</code></td><td><code>https://ajpnkw.github.io/IPTV_Manager_Hybrid/web/feeds/smartcdn.xml</code></td></tr>
+<tr><td>EPG compatibility alias</td><td><code>web/feeds/smartcdn.eml</code></td><td><code>https://ajpnkw.github.io/IPTV_Manager_Hybrid/web/feeds/smartcdn.eml</code></td></tr>
+</tbody>
+</table>
+<h2>Publishing rule</h2>
+<p>The GUI publishes feed files into <code>web/feeds</code>. The publish helper archives old feed variants from <code>outputs/feeds</code>, <code>docs/feeds</code>, and non-current files in <code>web/feeds</code> into each folder's local <code>.archived</code> folder. Archived files are ignored by Git.</p>
+<h2>TiviMate URLs</h2>
+<p>Use the GitHub Pages URLs. Do not use tokenized raw GitHub URLs.</p>
+<div class="notice">
+<strong>Security:</strong> Feed files can contain provider stream URLs. Keep repository and GitHub Pages exposure aligned to intended access.
+</div>
+</body>
+</html>

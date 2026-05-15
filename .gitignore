@@ -92,3 +92,15 @@ outputs/feeds/*
 outputs/feeds/.archived/
 outputs/feeds/.archived/**
 # --- end IPTV published feed outputs ---
+
+# --- IPTV SmartCDN web-served feeds ---
+!web/
+!web/feeds/
+!web/feeds/**
+web/feeds/.archived/
+web/feeds/.archived/**
+outputs/feeds/.archived/
+outputs/feeds/.archived/**
+docs/feeds/.archived/
+docs/feeds/.archived/**
+# --- end IPTV SmartCDN web-served feeds ---
