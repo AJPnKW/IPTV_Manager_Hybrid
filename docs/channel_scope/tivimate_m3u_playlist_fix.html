@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>TiviMate M3U Playlist Compatibility Fix</title>
+<style>
+body{font-family:Arial,sans-serif;margin:24px;line-height:1.35;max-width:1100px}
+table{border-collapse:collapse;width:100%;margin:16px 0}th,td{border:1px solid #ccc;padding:8px;vertical-align:top}th{background:#f2f2f2}code{overflow-wrap:anywhere}.ok{font-weight:bold}
+</style>
+</head>
+<body>
+<h1>TiviMate M3U Playlist Compatibility Fix</h1>
+<p>This update changes the focused playlist output to a cleaner TiviMate-compatible M3U format while keeping the EPG output unchanged.</p>
+<table>
+<thead><tr><th>Area</th><th>Change</th></tr></thead>
+<tbody>
+<tr><td>Primary playlist filename</td><td><code>outputs/feeds/latest_focused_playlist.m3u</code></td></tr>
+<tr><td>Compatibility alias</td><td><code>outputs/feeds/latest_focused_playlist.m3u8</code></td></tr>
+<tr><td>Playlist header</td><td>First line is now exactly <code>#EXTM3U</code></td></tr>
+<tr><td>Channel rows</td><td><code>#EXTINF</code> lines are rebuilt with normalized <code>tvg-id</code>, <code>tvg-name</code>, <code>tvg-logo</code>, and <code>group-title</code></td></tr>
+<tr><td>Stream rows</td><td>Stream URLs are cleaned for line breaks and HTML entity encoding before publishing</td></tr>
+<tr><td>Validation</td><td><code>scripts/validate_tivimate_feeds.py</code> verifies local M3U, M3U8 alias, and XMLTV files and writes a zipped report</td></tr>
+</tbody>
+</table>
+<h2>TiviMate URL Priority</h2>
+<ol>
+<li>Use the raw GitHub <code>.m3u</code> URL first.</li>
+<li>Use the raw GitHub EPG URL as the XMLTV source.</li>
+<li>Use the <code>.m3u8</code> alias only as fallback.</li>
+<li>Use GitHub Pages URLs only after Pages is intentionally configured to publish from the repository root.</li>
+</ol>
+</body>
+</html>
