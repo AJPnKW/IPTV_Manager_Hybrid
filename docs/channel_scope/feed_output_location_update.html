@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IPTV Feed Output Location Update</title>
+<style>
+body{font-family:Arial,sans-serif;margin:24px;line-height:1.35;color:#222}code{background:#f4f4f4;padding:2px 5px;border-radius:4px}table{border-collapse:collapse;width:100%;margin-top:16px}th,td{border:1px solid #ccc;padding:8px;text-align:left;vertical-align:top}th{background:#eee}.box{background:#f8f8f8;border:1px solid #ddd;border-radius:8px;padding:12px;margin:12px 0;overflow-wrap:anywhere}</style>
+</head>
+<body>
+<h1>IPTV Feed Output Location Update</h1>
+<div class="box">
+<strong>Canonical generated feed folder:</strong><br>
+<code>C:\Users\andrew\PROJECTS\GitHub\IPTV_Manager_Hybrid\outputs\feeds</code>
+</div>
+<table>
+<thead><tr><th>File</th><th>Purpose</th></tr></thead>
+<tbody>
+<tr><td><code>latest_focused_playlist.m3u8</code></td><td>Stable M3U playlist URL target for TiviMate.</td></tr>
+<tr><td><code>latest_focused_epg.xml</code></td><td>Stable XMLTV EPG URL target for TiviMate.</td></tr>
+<tr><td><code>latest_scoped_playlist.m3u8</code></td><td>Compatibility copy for older scoped-feed naming.</td></tr>
+<tr><td><code>latest_scoped_epg.xml</code></td><td>Compatibility copy for older scoped EPG naming.</td></tr>
+<tr><td><code>feed_manifest.json</code></td><td>Machine-readable publish manifest with hashes, counts, and links.</td></tr>
+<tr><td><code>index.html</code></td><td>Human-readable feed index generated during publish.</td></tr>
+</tbody>
+</table>
+<h2>Git staging rule</h2>
+<p>The publish scripts force-stage <code>outputs/feeds</code> so the feed files can be committed even when repo cleanup rules ignore generated output folders.</p>
+<h2>App URL targets</h2>
+<p>Use raw GitHub URLs for direct file access, or GitHub Pages URLs only when Pages is configured to publish from the repository root.</p>
+</body>
+</html>

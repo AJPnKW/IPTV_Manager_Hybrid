@@ -1,0 +1,58 @@
+{
+  "generated_at_utc": "2026-05-14T23:43:23Z",
+  "app_name": "M3U + EPG Focused Scope Publisher",
+  "app_version": "3.0.0",
+  "repo_root": "C:\\Users\\andrew\\PROJECTS\\GitHub\\IPTV_Manager_Hybrid",
+  "published_folder": "C:\\Users\\andrew\\PROJECTS\\GitHub\\IPTV_Manager_Hybrid\\docs\\feeds",
+  "focused_scope_source": "C:\\Users\\andrew\\PROJECTS\\GitHub\\IPTV_Manager_Hybrid\\data\\channel_scope\\focused_channels.csv",
+  "focused_channels": 148,
+  "m3u_source": "C:\\Users\\andrew\\PROJECTS\\GitHub\\IPTV_Manager_Hybrid\\data\\m3u_feeds\\latest_playlist.m3u",
+  "epg_source": "C:\\Users\\andrew\\PROJECTS\\GitHub\\IPTV_Manager_Hybrid\\data\\epg_feeds\\latest_epg.xml",
+  "total_m3u_channels": 4718,
+  "included_m3u_channels": 148,
+  "excluded_m3u_channels": 4570,
+  "focused_records_not_matched": 0,
+  "included_epg_channels": 148,
+  "included_epg_programmes": 13537,
+  "github_remote": "https://github.com/AJPnKW/IPTV_Manager_Hybrid.git",
+  "github_pages_base": "https://AJPnKW.github.io/IPTV_Manager_Hybrid/feeds/",
+  "github_raw_base": "https://raw.githubusercontent.com/AJPnKW/IPTV_Manager_Hybrid/main/docs/feeds/",
+  "files": [
+    {
+      "label": "latest_focused_m3u",
+      "file": "latest_focused_playlist.m3u8",
+      "bytes": 29519,
+      "sha256": "c4131fc4085055a8ee390d086c2f63c68213abc0f6cb01355bf13597e8206c99"
+    },
+    {
+      "label": "latest_focused_epg",
+      "file": "latest_focused_epg.xml",
+      "bytes": 4426002,
+      "sha256": "3ff590a95c257a61735738fffaaae9b08a594d7c5243d9078591aa69c257b7b6"
+    },
+    {
+      "label": "latest_scoped_m3u_compatibility",
+      "file": "latest_scoped_playlist.m3u8",
+      "bytes": 29519,
+      "sha256": "c4131fc4085055a8ee390d086c2f63c68213abc0f6cb01355bf13597e8206c99"
+    },
+    {
+      "label": "latest_scoped_epg_compatibility",
+      "file": "latest_scoped_epg.xml",
+      "bytes": 4426002,
+      "sha256": "3ff590a95c257a61735738fffaaae9b08a594d7c5243d9078591aa69c257b7b6"
+    },
+    {
+      "label": "timestamped_m3u",
+      "file": "focused_playlist_20260514_234302.m3u8",
+      "bytes": 29519,
+      "sha256": "c4131fc4085055a8ee390d086c2f63c68213abc0f6cb01355bf13597e8206c99"
+    },
+    {
+      "label": "timestamped_epg",
+      "file": "focused_epg_20260514_234302.xml",
+      "bytes": 4426002,
+      "sha256": "3ff590a95c257a61735738fffaaae9b08a594d7c5243d9078591aa69c257b7b6"
+    }
+  ]
+}
