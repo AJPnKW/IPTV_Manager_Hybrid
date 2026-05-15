@@ -78,3 +78,17 @@ ouput/
 
 # Generated review-scale data
 data/m3u_scope_candidates.records.json
+
+# --- IPTV published feed outputs: stable files tracked ---
+!outputs/
+outputs/*
+!outputs/feeds/
+outputs/feeds/*
+!outputs/feeds/latest_focused_playlist.m3u
+!outputs/feeds/latest_focused_playlist.m3u8
+!outputs/feeds/latest_focused_epg.xml
+!outputs/feeds/feed_manifest.json
+!outputs/feeds/index.html
+outputs/feeds/.archived/
+outputs/feeds/.archived/**
+# --- end IPTV published feed outputs ---
