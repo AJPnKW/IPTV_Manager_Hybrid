@@ -1,0 +1,149 @@
+﻿data_key,scope_order,selected_channel_name,tvg_id,network,feed,location,group_title,match_status,matched_channel_count,matched_channel_names,matched_tvg_ids
+tvg_id::1,1,A&E (East),1,A&E,East,,Entertainment,matched,1,A&E (East),1
+tvg_id::2,2,ABC 7 WABC NEW YORK,2,ABC,,"New York, NY",Local Channels,matched,1,ABC 7 WABC NEW YORK,2
+tvg_id::3301,3,ABC KGTV San Diego CA,3301,ABC,,"San Diego, CA",Local Channels,matched,1,ABC KGTV San Diego CA,3301
+tvg_id::6,4,AMC (East),6,AMC,East,,Entertainment,matched,1,AMC (East),6
+tvg_id::7,5,AMC (West),7,AMC,West,,Entertainment,matched,1,AMC (West),7
+tvg_id::9,6,Animal Planet (East),9,Animal Planet,East,,Entertainment,matched,1,Animal Planet (East),9
+tvg_id::10,7,Animal Planet (West),10,Animal Planet,West,,Entertainment,matched,1,Animal Planet (West),10
+tvg_id::39,8,Bravo (East),39,Bravo,East,,Entertainment,matched,1,Bravo (East),39
+tvg_id::40,9,Bravo (West),40,Bravo,West,,Entertainment,matched,1,Bravo (West),40
+tvg_id::5100,10,CA | San Diego | ABC KGTV,5100,ABC,,"San Diego, CA",ABC - LOCAL,matched,1,CA | San Diego | ABC KGTV,5100
+tvg_id::5581,11,CA | San Diego | CBS KFMB,5581,CBS,,"San Diego, CA",CBS - LOCAL,matched,1,CA | San Diego | CBS KFMB,5581
+tvg_id::5677,12,CA | San Diego | FOX KSWB,5677,FOX,,"San Diego, CA",FOX - LOCAL,matched,1,CA | San Diego | FOX KSWB,5677
+tvg_id::44,13,CBS 2 (WCBS) New York,44,CBS,,"New York, NY",Local Channels,matched,1,CBS 2 (WCBS) New York,44
+tvg_id::3300,14,CBS KFMB San Diego CA,3300,CBS,,"San Diego, CA",Local Channels,matched,1,CBS KFMB San Diego CA,3300
+tvg_id::47,15,Cinemax East,47,Cinemax,East,,Movies,matched,1,Cinemax East,47
+tvg_id::48,16,Cinemax West,48,Cinemax,West,,Movies,matched,1,Cinemax West,48
+tvg_id::49,17,CMT,49,CMT,,,Entertainment,matched,1,CMT,49
+tvg_id::51,18,Comedy Central (East),51,Comedy Central,East,,Entertainment,matched,1,Comedy Central (East),51
+tvg_id::52,19,Comedy Central (West),52,Comedy Central,West,,Entertainment,matched,1,Comedy Central (West),52
+tvg_id::54,20,CW PIX11 (WPIX) New York,54,The CW,,"New York, NY",Local Channels,matched,1,CW PIX11 (WPIX) New York,54
+tvg_id::56,21,Discovery Channel (East),56,Discovery,East,,Entertainment,matched,1,Discovery Channel (East),56
+tvg_id::57,22,Discovery Channel (West),57,Discovery,West,,Entertainment,matched,1,Discovery Channel (West),57
+tvg_id::66,23,E! (East),66,E! Entertainment,East,,Entertainment,matched,1,E! (East),66
+tvg_id::67,24,E! (West),67,E! Entertainment,West,,Entertainment,matched,1,E! (West),67
+tvg_id::83,25,Food Network (East),83,Food Network,East,,Entertainment,matched,1,Food Network (East),83
+tvg_id::84,26,Food Network (West),84,Food Network,West,,Entertainment,matched,1,Food Network (West),84
+tvg_id::86,27,FOX 5 (WNYW) New York,86,FOX,,"New York, NY",Local Channels,matched,1,FOX 5 (WNYW) New York,86
+tvg_id::3303,28,FOX KSWB San Diego CA,3303,FOX,,"San Diego, CA",Local Channels,matched,1,FOX KSWB San Diego CA,3303
+tvg_id::89,29,Freeform (West),89,Freeform,West,,Entertainment,matched,1,Freeform (West),89
+tvg_id::88,30,Freeform East,88,Freeform,East,,Entertainment,matched,1,Freeform East,88
+tvg_id::32,31,FX (East),32,FX,East,,Entertainment,matched,1,FX (East),32
+tvg_id::33,32,FX (West),33,FX,West,,Entertainment,matched,1,FX (West),33
+tvg_id::36,33,FX Movie Channel (FXM),36,FX Movie,,,Entertainment,matched,1,FX Movie Channel (FXM),36
+tvg_id::34,34,FXX (East),34,FXX,East,,Entertainment,matched,1,FXX (East),34
+tvg_id::35,35,FXX (West),35,FXX,West,,Entertainment,matched,1,FXX (West),35
+tvg_id::98,36,HBO (East),98,HBO,East,,Movies,matched,1,HBO (East),98
+tvg_id::99,37,HBO (West),99,HBO,West,,Movies,matched,1,HBO (West),99
+tvg_id::102,38,HBO Comedy (East),102,HBO,East,,Movies,matched,1,HBO Comedy (East),102
+tvg_id::103,39,HBO Comedy (West),103,HBO,West,,Movies,matched,1,HBO Comedy (West),103
+tvg_id::100,40,HBO Hits (East),100,HBO,East,,Movies,matched,1,HBO Hits (East),100
+tvg_id::101,41,HBO Hits (West),101,HBO,West,,Movies,matched,1,HBO Hits (West),101
+tvg_id::104,42,HGTV (East),104,HGTV,East,,Entertainment,matched,1,HGTV (East),104
+tvg_id::106,43,Investigation Discovery (East),106,Investigation Discovery,East,,Documentaries,matched,1,Investigation Discovery (East),106
+tvg_id::6389,44,ION Television,6389,Ion,,,Entertainment,matched,1,ION Television,6389
+tvg_id::3762,45,KusiNews KUSI San Diego CA,3762,,,"KusiNews KUSI San Diego, CA",Local Channels,matched,1,KusiNews KUSI San Diego CA,3762
+tvg_id::108,46,Lifetime Television (East),108,Lifetime,East,,Entertainment,matched,1,Lifetime Television (East),108
+tvg_id::109,47,Logo (East),109,,East,,Entertainment,matched,1,Logo (East),109
+tvg_id::20,48,MTV (East),20,MTV,East,,Entertainment,matched,1,MTV (East),20
+tvg_id::21,49,MTV (West),21,MTV,West,,Entertainment,matched,1,MTV (West),21
+tvg_id::22,50,MTV2 (East),22,MTV2,East,,Entertainment,matched,1,MTV2 (East),22
+tvg_id::23,51,MTV2 (West),23,MTV2,West,,Entertainment,matched,1,MTV2 (West),23
+tvg_id::3281,52,MY 9 (WWOR) New York,3281,,,"New York, NY",Local Channels,matched,1,MY 9 (WWOR) New York,3281
+tvg_id::111,53,National Geographic (East),111,National Geographic,East,,Documentaries,matched,1,National Geographic (East),111
+tvg_id::114,54,NBC 4 (WNBC) New York,114,NBC,,"New York, NY",Local Channels,matched,1,NBC 4 (WNBC) New York,114
+tvg_id::3302,55,NBC KNSD San Diego CA,3302,NBC,,"San Diego, CA",Local Channels,matched,1,NBC KNSD San Diego CA,3302
+tvg_id::5050,56,NY | Buffalo | ABC 7 WKBW,5050,ABC,,"Buffalo, NY",ABC - LOCAL,matched,1,NY | Buffalo | ABC 7 WKBW,5050
+tvg_id::5518,57,NY | Buffalo | CBS 4 WIVB,5518,CBS,,"Buffalo, NY",CBS - LOCAL,matched,1,NY | Buffalo | CBS 4 WIVB,5518
+tvg_id::5568,58,NY | Buffalo | CBS WIVB,5568,CBS,,"Buffalo, NY",CBS - LOCAL,matched,1,NY | Buffalo | CBS WIVB,5568
+tvg_id::5752,59,NY | Buffalo | FOX WUTV,5752,FOX,,"Buffalo, NY",FOX - LOCAL,matched,1,NY | Buffalo | FOX WUTV,5752
+tvg_id::5045,60,NY | New York | ABC 7 WABC,5045,ABC,,"New York, NY",ABC - LOCAL,matched,1,NY | New York | ABC 7 WABC,5045
+tvg_id::5519,61,NY | New York | CBS WCBS,5519,CBS,,"New York, NY",CBS - LOCAL,matched,1,NY | New York | CBS WCBS,5519
+tvg_id::5753,62,NY | New York | FOX WNYW,5753,FOX,,"New York, NY",FOX - LOCAL,matched,1,NY | New York | FOX WNYW,5753
+tvg_id::3760,63,PBS KPBS San Diego CA,3760,PBS,,"San Diego, CA",Local Channels,matched,1,PBS KPBS San Diego CA,3760
+tvg_id::125,64,Showtime (East),125,Showtime,East,,Movies,matched,1,Showtime (East),125
+tvg_id::126,65,Showtime (West),126,Showtime,West,,Movies,matched,1,Showtime (West),126
+tvg_id::127,66,Showtime 2 (East),127,Showtime,East,,Movies,matched,1,Showtime 2 (East),127
+tvg_id::130,67,Starz (East),130,Starz,East,,Movies,matched,1,Starz (East),130
+tvg_id::131,68,Starz (West),131,Starz,West,,Movies,matched,1,Starz (West),131
+tvg_id::133,69,Syfy (East),133,Syfy,East,,Entertainment,matched,1,Syfy (East),133
+tvg_id::134,70,TBS Superstation (East),134,TBS,East,,Entertainment,matched,1,TBS Superstation (East),134
+tvg_id::135,71,TBS Superstation (West),135,TBS,West,,Entertainment,matched,1,TBS Superstation (West),135
+tvg_id::144,72,TCM (East),144,,East,,Movies,matched,1,TCM (East),144
+tvg_id::139,73,The Learning Channel TLC (East),139,TLC,East,,Entertainment,matched,1,The Learning Channel TLC (East),139
+tvg_id::143,74,TruTV (East),143,TruTV,East,,Entertainment,matched,1,TruTV (East),143
+tvg_id::140,75,Turner Network Television TNT (East),140,TNT,East,,Entertainment,matched,1,Turner Network Television TNT (East),140
+tvg_id::141,76,Turner Network Television TNT (West),141,TNT,West,,Entertainment,matched,1,Turner Network Television TNT (West),141
+tvg_id::145,77,TV Land (East),145,TV Land,East,,Entertainment,matched,1,TV Land (East),145
+tvg_id::146,78,Univision (East),146,Univision,East,,Entertainment,matched,1,Univision (East),146
+tvg_id::147,79,Univision (West),147,Univision,West,,Entertainment,matched,1,Univision (West),147
+tvg_id::6070,80,USA Cinemax Action UHD,6070,Cinemax,,"Ultra, HD",Ultra HD,matched,1,USA Cinemax Action UHD,6070
+tvg_id::6069,81,USA Cinemax Classics UHD,6069,Cinemax,,"Ultra, HD",Ultra HD,matched,1,USA Cinemax Classics UHD,6069
+tvg_id::6071,82,USA Cinemax East UHD,6071,Cinemax,East,"Ultra, HD",Ultra HD,matched,1,USA Cinemax East UHD,6071
+tvg_id::6073,83,USA Cinemax Hits UHD,6073,Cinemax,,"Ultra, HD",Ultra HD,matched,1,USA Cinemax Hits UHD,6073
+tvg_id::6076,84,USA Cinemax West UHD,6076,Cinemax,West,"Ultra, HD",Ultra HD,matched,1,USA Cinemax West UHD,6076
+tvg_id::6078,85,USA CMT UHD,6078,CMT,,"Ultra, HD",Ultra HD,matched,1,USA CMT UHD,6078
+tvg_id::6080,86,USA CNN UHD,6080,CNN,,"Ultra, HD",Ultra HD,matched,1,USA CNN UHD,6080
+tvg_id::6081,87,USA Comedy Central UHD,6081,Comedy Central,,"Ultra, HD",Ultra HD,matched,1,USA Comedy Central UHD,6081
+tvg_id::6082,88,USA Comedy Central West UHD,6082,Comedy Central,West,"Ultra, HD",Ultra HD,matched,1,USA Comedy Central West UHD,6082
+tvg_id::6084,89,USA Cooking Channel UHD,6084,Cooking,,"Ultra, HD",Ultra HD,matched,1,USA Cooking Channel UHD,6084
+tvg_id::6087,90,USA Discovery UHD,6087,Discovery,,"Ultra, HD",Ultra HD,matched,1,USA Discovery UHD,6087
+tvg_id::6088,91,USA Disney channel UHD,6088,Disney,,"Ultra, HD",Ultra HD,matched,1,USA Disney channel UHD,6088
+tvg_id::6091,92,USA E! UHD,6091,USA,,"Ultra, HD",Ultra HD,matched,1,USA E! UHD,6091
+tvg_id::6098,93,USA Food Network UHD,6098,Food Network,,"Ultra, HD",Ultra HD,matched,1,USA Food Network UHD,6098
+tvg_id::6104,94,USA Fuse UHD,6104,Fuse,,"Ultra, HD",Ultra HD,matched,1,USA Fuse UHD,6104
+tvg_id::6106,95,USA FX UHD,6106,USA,,"Ultra, HD",Ultra HD,matched,1,USA FX UHD,6106
+tvg_id::6105,96,USA FXM UHD,6105,USA,,"Ultra, HD",Ultra HD,matched,1,USA FXM UHD,6105
+tvg_id::6107,97,USA FXX UHD,6107,FXX,,"Ultra, HD",Ultra HD,matched,1,USA FXX UHD,6107
+tvg_id::6108,98,USA FYI UHD,6108,FYI,,"Ultra, HD",Ultra HD,matched,1,USA FYI UHD,6108
+tvg_id::6116,99,USA HBO Comedy UHD,6116,HBO,,"Ultra, HD",Ultra HD,matched,1,USA HBO Comedy UHD,6116
+tvg_id::6120,100,USA HBO Drama East UHD,6120,HBO,East,"Ultra, HD",Ultra HD,matched,1,USA HBO Drama East UHD,6120
+tvg_id::6117,101,USA HBO East UHD,6117,HBO,East,"Ultra, HD",Ultra HD,matched,1,USA HBO East UHD,6117
+tvg_id::6114,102,USA HBO Hits UHD,6114,HBO,,"Ultra, HD",Ultra HD,matched,1,USA HBO Hits UHD,6114
+tvg_id::6115,103,USA HBO Hits West UHD,6115,HBO,West,"Ultra, HD",Ultra HD,matched,1,USA HBO Hits West UHD,6115
+tvg_id::6122,104,USA HBO Movies UHD,6122,HBO,,"Ultra, HD",Ultra HD,matched,1,USA HBO Movies UHD,6122
+tvg_id::6121,105,USA HBO West UHD,6121,HBO,West,"Ultra, HD",Ultra HD,matched,1,USA HBO West UHD,6121
+tvg_id::6123,106,USA HGTV UHD,6123,HGTV,,"Ultra, HD",Ultra HD,matched,1,USA HGTV UHD,6123
+tvg_id::6124,107,USA History UHD,6124,History,,"Ultra, HD",Ultra HD,matched,1,USA History UHD,6124
+tvg_id::6125,108,USA HLN UHD,6125,HLN,,"Ultra, HD",Ultra HD,matched,1,USA HLN UHD,6125
+tvg_id::6146,109,USA MTV UHD,6146,MTV,,"Ultra, HD",Ultra HD,matched,1,USA MTV UHD,6146
+tvg_id::6147,110,USA MTV WEST UHD,6147,MTV,West,"Ultra, HD",Ultra HD,matched,1,USA MTV WEST UHD,6147
+tvg_id::6148,111,USA NAT GEO UHD,6148,National Geographic,,"Ultra, HD",Ultra HD,matched,1,USA NAT GEO UHD,6148
+tvg_id::6149,112,USA NAT GEO Wild UHD,6149,National Geographic,,"Ultra, HD",Ultra HD,matched,1,USA NAT GEO Wild UHD,6149
+tvg_id::15,113,USA Network (East),15,USA,East,United States,Entertainment,matched,1,USA Network (East),15
+tvg_id::16,114,USA Network (West),16,USA,West,United States,Entertainment,matched,1,USA Network (West),16
+tvg_id::6164,115,USA Paramount Network UHD,6164,Paramount,,"Ultra, HD",Ultra HD,matched,1,USA Paramount Network UHD,6164
+tvg_id::6178,116,USA Paramount+ with Showtime UHD,6178,Paramount,Plus,"Ultra, HD",Ultra HD,matched,1,USA Paramount+ with Showtime UHD,6178
+tvg_id::6182,117,USA Paramount+ with Showtime West UHD,6182,Paramount,West,"Ultra, HD",Ultra HD,matched,1,USA Paramount+ with Showtime West UHD,6182
+tvg_id::6172,118,USA Science UHD,6172,Science,,"Ultra, HD",Ultra HD,matched,1,USA Science UHD,6172
+tvg_id::6177,119,USA Showtime 2 UHD,6177,Showtime,,"Ultra, HD",Ultra HD,matched,1,USA Showtime 2 UHD,6177
+tvg_id::6179,120,USA Showtime Extreme UHD,6179,Showtime,,"Ultra, HD",Ultra HD,matched,1,USA Showtime Extreme UHD,6179
+tvg_id::6181,121,USA Showtime Next UHD,6181,Showtime,,"Ultra, HD",Ultra HD,matched,1,USA Showtime Next UHD,6181
+tvg_id::6176,122,USA Showtime Showcase UHD,6176,Showtime,,"Ultra, HD",Ultra HD,matched,1,USA Showtime Showcase UHD,6176
+tvg_id::6184,123,USA Smithsonian UHD,6184,Smithsonian,,"Ultra, HD",Ultra HD,matched,1,USA Smithsonian UHD,6184
+tvg_id::6188,124,USA Starz Cinema UHD,6188,Starz,,"Ultra, HD",Ultra HD,matched,1,USA Starz Cinema UHD,6188
+tvg_id::6189,125,USA Starz Comedy UHD,6189,Starz,,"Ultra, HD",Ultra HD,matched,1,USA Starz Comedy UHD,6189
+tvg_id::6190,126,USA Starz Edge UHD,6190,Starz,,"Ultra, HD",Ultra HD,matched,1,USA Starz Edge UHD,6190
+tvg_id::6191,127,USA Starz Encore Action UHD,6191,Starz,,"Ultra, HD",Ultra HD,matched,1,USA Starz Encore Action UHD,6191
+tvg_id::6193,128,USA Starz Encore Classic UHD,6193,Starz,,"Ultra, HD",Ultra HD,matched,1,USA Starz Encore Classic UHD,6193
+tvg_id::6195,129,USA Starz Encore Suspense UHD,6195,Starz,,"Ultra, HD",Ultra HD,matched,1,USA Starz Encore Suspense UHD,6195
+tvg_id::6196,130,USA Starz Encore UHD,6196,Starz,,"Ultra, HD",Ultra HD,matched,1,USA Starz Encore UHD,6196
+tvg_id::6198,131,USA Starz Encore West UHD,6198,Starz,West,"Ultra, HD",Ultra HD,matched,1,USA Starz Encore West UHD,6198
+tvg_id::6197,132,USA Starz Encore Westerns UHD,6197,Starz,,"Ultra, HD",Ultra HD,matched,1,USA Starz Encore Westerns UHD,6197
+tvg_id::6201,133,USA Starz UHD,6201,Starz,,"Ultra, HD",Ultra HD,matched,1,USA Starz UHD,6201
+tvg_id::6202,134,USA Starz West UHD,6202,Starz,West,"Ultra, HD",Ultra HD,matched,1,USA Starz West UHD,6202
+tvg_id::6203,135,USA Sundance UHD,6203,USA,,"Ultra, HD",Ultra HD,matched,1,USA Sundance UHD,6203
+tvg_id::6204,136,USA Syfy UHD,6204,Syfy,,"Ultra, HD",Ultra HD,matched,1,USA Syfy UHD,6204
+tvg_id::6206,137,USA TBS West UHD,6206,TBS,West,"Ultra, HD",Ultra HD,matched,1,USA TBS West UHD,6206
+tvg_id::6207,138,USA TCM UHD,6207,USA,,"Ultra, HD",Ultra HD,matched,1,USA TCM UHD,6207
+tvg_id::6211,139,USA The Movie Channel,6211,USA,,"Ultra, HD",Ultra HD,matched,1,USA The Movie Channel,6211
+tvg_id::6212,140,USA The Movie Channel Xtra,6212,USA,,"Ultra, HD",Ultra HD,matched,1,USA The Movie Channel Xtra,6212
+tvg_id::6214,141,USA TLC UHD,6214,TLC,,"Ultra, HD",Ultra HD,matched,1,USA TLC UHD,6214
+tvg_id::6215,142,USA TNT UHD,6215,TNT,,"Ultra, HD",Ultra HD,matched,1,USA TNT UHD,6215
+tvg_id::6216,143,USA TNT West UHD,6216,TNT,West,"Ultra, HD",Ultra HD,matched,1,USA TNT West UHD,6216
+tvg_id::6223,144,USA Univison,6223,USA,,"Ultra, HD",Ultra HD,matched,1,USA Univison,6223
+tvg_id::6225,145,USA VH 1 UHD,6225,USA,,"Ultra, HD",Ultra HD,matched,1,USA VH 1 UHD,6225
+tvg_id::6226,146,USA Vice UHD,6226,USA,,"Ultra, HD",Ultra HD,matched,1,USA Vice UHD,6226
+tvg_id::148,147,VH1 (East),148,VH1,East,,Entertainment,matched,1,VH1 (East),148
+tvg_id::149,148,VH1 (West),149,VH1,West,,Entertainment,matched,1,VH1 (West),149
