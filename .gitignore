@@ -46,6 +46,16 @@ Thumbs.db
 
 # Local IPTV provider credentials/private URLs
 data/source_profiles/source_profiles.private.json
+data/provider_feeds/
+reports/provider_inventory/
+data/channel_scope/*/scope_candidates.tsv
+data/channel_scope/*/focused_channels.tsv
+data/channel_scope/*/scope_rules.tsv
+web/feeds/*/playlist.m3u
+web/feeds/*/playlist.m3u8
+web/feeds/*/epg.xml
+web/feeds/*/index.html
+web/feeds/*/manifest.json
 
 # Cleanup quarantine
 _cleanup_quarantine/
@@ -115,3 +125,7 @@ outputs/feeds/**
 outputs/feeds/.archived/**
 web/feeds/.archived/**
 # --- end IPTV feed publishing rules ---
+
+# Source-specific filtered feeds are local outputs; keep root SmartCDN files tracked.
+web/feeds/*/
+web/feeds/*/**

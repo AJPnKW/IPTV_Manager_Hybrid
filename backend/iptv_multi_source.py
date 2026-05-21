@@ -438,6 +438,36 @@ def update_profile_status(repo_root: Path, source_key: str, **updates: Any) -> N
     save_public_profiles(repo_root, profiles)
 
 
+def archive_source_profile(repo_root: Path, source_key: str) -> dict[str, Any]:
+    profiles = load_public_profiles(repo_root)
+    key = clean_source_key(source_key)
+    if key not in profiles:
+        raise ValueError(f"Unknown source profile: {key}")
+    profiles[key]["source_status"] = "archived"
+    profiles[key]["notes"] = normalize_space(f"{profiles[key].get('notes', '')} Archived at {utc_iso()}.")
+    save_public_profiles(repo_root, profiles)
+    return profiles[key]
+
+
+def delete_source_profile(repo_root: Path, source_key: str, delete_private: bool = True) -> dict[str, Any]:
+    profiles = load_public_profiles(repo_root)
+    private_profiles = load_private_profiles(repo_root)
+    key = clean_source_key(source_key)
+    removed_public = profiles.pop(key, None)
+    removed_private = private_profiles.pop(key, None) if delete_private else None
+    if removed_public is None and removed_private is None:
+        raise ValueError(f"Unknown source profile: {key}")
+    save_public_profiles(repo_root, profiles)
+    if delete_private:
+        save_private_profiles(repo_root, private_profiles)
+    return {
+        "source_key": key,
+        "removed_public_profile": bool(removed_public),
+        "removed_private_profile": bool(removed_private),
+        "datasets_preserved": True,
+    }
+
+
 def configure_logger(repo_root: Path, name: str, file_name: str) -> logging.Logger:
     logger = logging.getLogger(name)
     logger.setLevel(logging.INFO)
@@ -530,8 +560,26 @@ def fetch_source(repo_root: Path, source_key: str, fetch_m3u: bool = True, fetch
         manifest_rows.append(item)
     write_tsv(paths.latest_report / "source_fetch_manifest.tsv", manifest_rows, FETCH_MANIFEST_FIELDS)
     write_tsv(paths.snapshot_report / "source_fetch_manifest.tsv", manifest_rows, FETCH_MANIFEST_FIELDS)
-    update_profile_status(repo_root, key, last_fetch_at=utc_iso(), source_status="fetched" if all(row.get("status") in {"ok", "skipped"} for row in rows) else "fetch_error")
-    return {"source_key": key, "dataset_timestamp": stamp, "manifest_rows": manifest_rows, "latest_report": str(paths.latest_report)}
+    failed = [row for row in manifest_rows if row.get("status") == "error"]
+    skipped = [row for row in manifest_rows if row.get("status") == "skipped"]
+    ok_rows = [row for row in manifest_rows if row.get("status") == "ok"]
+    if failed:
+        source_status = "fetch_error" if not ok_rows else "partial_fetch"
+    elif skipped:
+        source_status = "partial_fetch"
+    else:
+        source_status = "fetched"
+    update_profile_status(repo_root, key, last_fetch_at=utc_iso(), source_status=source_status)
+    return {
+        "source_key": key,
+        "dataset_timestamp": stamp,
+        "manifest_rows": manifest_rows,
+        "latest_report": str(paths.latest_report),
+        "overall_status": source_status,
+        "ok_files": len(ok_rows),
+        "failed_files": len(failed),
+        "skipped_files": len(skipped),
+    }
 
 
 def detect_encoding(path: Path) -> str:
@@ -769,10 +817,124 @@ def load_xtream_metadata(latest_raw: Path) -> dict[str, Any]:
     return {"categories": categories, "stream_by_id": stream_by_id}
 
 
-def parse_m3u_inventory(repo_root: Path, profile: dict[str, Any], dataset_timestamp: str, latest_raw: Path, refs: dict[str, dict[str, str]]) -> list[dict[str, str]]:
+def build_xtream_stream_url(urls: dict[str, str], item: dict[str, Any], item_type: str) -> str:
+    api_base = urls.get("api_base", "")
+    parsed = urllib.parse.urlsplit(api_base)
+    query = dict(urllib.parse.parse_qsl(parsed.query, keep_blank_values=True))
+    username = query.get("username", "")
+    password = query.get("password", "")
+    if not parsed.scheme or not parsed.netloc or not username or not password:
+        return ""
+    server = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, "", "", "")).rstrip("/")
+    if item_type == "live_tv":
+        return f"{server}/live/{urllib.parse.quote(username)}/{urllib.parse.quote(password)}/{item.get('stream_id')}.m3u8"
+    if item_type == "vod_movie":
+        extension = normalize_space(item.get("container_extension", "")) or "mp4"
+        return f"{server}/movie/{urllib.parse.quote(username)}/{urllib.parse.quote(password)}/{item.get('stream_id')}.{extension}"
+    return ""
+
+
+def xtream_api_rows(repo_root: Path, profile: dict[str, Any], dataset_timestamp: str, latest_raw: Path, refs: dict[str, dict[str, str]]) -> list[dict[str, str]]:
+    xtream = load_xtream_metadata(latest_raw)
+    categories = xtream["categories"]
+    urls = resolve_source_urls(repo_root, profile["source_key"])
+    inputs = [
+        ("player_api_live_streams.json", "live_tv", "stream_id"),
+        ("player_api_vod_streams.json", "vod_movie", "stream_id"),
+        ("player_api_series.json", "series", "series_id"),
+    ]
+    rows: list[dict[str, str]] = []
+    for file_name, item_type, id_field in inputs:
+        path = latest_raw / file_name
+        if not path.exists():
+            continue
+        payload = load_json(path, [])
+        if not isinstance(payload, list):
+            continue
+        for item in payload:
+            source_number = len(rows) + 1
+            name = normalize_space(item.get("name", ""))
+            category_id = str(item.get("category_id") or "")
+            category_name = categories.get(category_id, "")
+            stream_url = build_xtream_stream_url(urls, item, item_type)
+            stream = parse_stream_url(stream_url) if stream_url else {"scheme": "", "host": "", "path": "", "extension": "", "stream_id_candidate": "", "redacted_url": ""}
+            network = match_network(refs, [name, category_name])
+            country_raw, country_norm, country_method, country_conf = deterministic_country(" ".join([name, category_name]))
+            if not country_norm and network.get("country"):
+                country_raw = network.get("country", "")
+                country_norm = country_raw
+                country_method = "repo_reference_network_country"
+                country_conf = network.get("confidence", "0")
+            lang_raw, lang_norm, lang_method, lang_conf = deterministic_language(" ".join([name, category_name]))
+            row = {field: "" for field in ALL_STREAM_FIELDS}
+            row.update(
+                {
+                    "source_key": profile["source_key"],
+                    "source_display_name": profile.get("source_display_name", ""),
+                    "source_type": profile.get("source_type", ""),
+                    "dataset_timestamp": dataset_timestamp,
+                    "record_key": f"{profile['source_key']}:{dataset_timestamp}:api:{source_number:08d}",
+                    "source_record_number": str(source_number),
+                    "raw_title": name,
+                    "normalized_title": name,
+                    "item_type": item_type,
+                    "item_type_reason": "xtream_api_metadata",
+                    "tvg_id": normalize_space(item.get("epg_channel_id", "")),
+                    "tvg_name": name,
+                    "tvg_logo": normalize_space(item.get("stream_icon") or item.get("cover") or ""),
+                    "group_title": category_name,
+                    "group_path": category_name,
+                    "group_content_token": category_name,
+                    "stream_url_private": stream_url,
+                    "stream_url_redacted": stream.get("redacted_url", ""),
+                    "stream_scheme": stream.get("scheme", ""),
+                    "stream_host": stream.get("host", ""),
+                    "stream_path": stream.get("path", ""),
+                    "stream_extension": stream.get("extension", ""),
+                    "stream_id_candidate": stream.get("stream_id_candidate", ""),
+                    "xtream_category_id": category_id,
+                    "xtream_category_name": category_name,
+                    "xtream_stream_id": str(item.get("stream_id", "")),
+                    "xtream_series_id": str(item.get("series_id", "")),
+                    "network_raw": network["raw"],
+                    "network_normalized": network["normalized"],
+                    "network_country": network["country"],
+                    "network_match_method": network["method"],
+                    "network_match_confidence": network["confidence"],
+                    "country_raw": country_raw,
+                    "country_normalized": country_norm,
+                    "country_derivation_method": country_method,
+                    "language_raw": lang_raw,
+                    "language_normalized": lang_norm,
+                    "language_derivation_method": lang_method,
+                    "is_hd": bool_flag(f"{name} {category_name}", [r"\bhd\b"]),
+                    "is_fhd": bool_flag(f"{name} {category_name}", [r"\bfhd\b", r"1080p"]),
+                    "is_uhd": bool_flag(f"{name} {category_name}", [r"\buhd\b"]),
+                    "is_4k": bool_flag(f"{name} {category_name}", [r"\b4k\b"]),
+                    "is_backup": bool_flag(f"{name} {category_name}", [r"\bbackup\b", r"\bbak\b"]),
+                    "is_hevc": bool_flag(f"{name} {category_name}", [r"\bhevc\b", r"\bh265\b", r"\bx265\b"]),
+                    "is_catchup": "Y" if str(item.get("tv_archive", "")) in {"1", "true", "True"} else "",
+                    "is_adult": "Y" if str(item.get("is_adult", "")) in {"1", "true", "True"} else "",
+                    "is_sports": bool_flag(f"{name} {category_name}", [r"\bsport", r"\bnfl\b", r"\bnhl\b", r"\bnba\b", r"\bmlb\b"]),
+                    "include_candidate": "Y",
+                    "notes": f"source_api_file={file_name}; country_confidence={country_conf}; language_confidence={lang_conf}",
+                }
+            )
+            rows.append(row)
+    return rows
+
+
+def parse_m3u_inventory(
+    repo_root: Path,
+    profile: dict[str, Any],
+    dataset_timestamp: str,
+    latest_raw: Path,
+    refs: dict[str, dict[str, str]],
+    allow_xtream_fallback: bool = True,
+) -> list[dict[str, str]]:
     path = latest_raw / "playlist.m3u"
     if not path.exists():
-        return []
+        return xtream_api_rows(repo_root, profile, dataset_timestamp, latest_raw, refs) if allow_xtream_fallback else []
     encoding = detect_encoding(path)
     xtream = load_xtream_metadata(latest_raw)
     stream_metadata = xtream["stream_by_id"]
@@ -1028,14 +1190,15 @@ def parse_epg_inventory(profile: dict[str, Any], dataset_timestamp: str, latest_
                 "subtitles": "; ".join(subtitle_values),
             }
         )
+    channel_by_record_key = {channel["matched_m3u_record_key"]: channel for channel in channel_rows if channel.get("matched_m3u_record_key")}
     for row in m3u_rows:
-        for channel in channel_rows:
-            if channel["matched_m3u_record_key"] == row["record_key"]:
-                row["epg_channel_id_match"] = channel["epg_channel_id"]
-                row["epg_display_name_match"] = channel["display_name_primary"]
-                row["epg_match_method"] = channel["match_method"]
-                row["epg_match_confidence"] = channel["match_confidence"]
-                break
+        channel = channel_by_record_key.get(row["record_key"])
+        if not channel:
+            continue
+        row["epg_channel_id_match"] = channel["epg_channel_id"]
+        row["epg_display_name_match"] = channel["display_name_primary"]
+        row["epg_match_method"] = channel["match_method"]
+        row["epg_match_confidence"] = channel["match_confidence"]
     return channel_rows, programme_rows
 
 
@@ -1173,7 +1336,15 @@ def export_filtered_feeds(latest_raw: Path, web_dir: Path, scoped_rows: list[dic
     return manifest
 
 
-def parse_source(repo_root: Path, source_key: str, export_xlsx: bool = True) -> dict[str, Any]:
+def parse_source(
+    repo_root: Path,
+    source_key: str,
+    export_xlsx: bool = True,
+    export_feeds: bool = True,
+    parse_m3u: bool = True,
+    parse_epg: bool = True,
+    parse_xtream: bool = True,
+) -> dict[str, Any]:
     key = clean_source_key(source_key)
     stamp = utc_stamp()
     paths = source_paths(repo_root, key, stamp)
@@ -1181,10 +1352,25 @@ def parse_source(repo_root: Path, source_key: str, export_xlsx: bool = True) -> 
     profile = load_public_profiles(repo_root).get(key)
     if not profile:
         raise ValueError(f"Unknown source profile: {key}")
-    logger.info("parse_start source_key=%s timestamp=%s", key, stamp)
+    logger.info(
+        "parse_start source_key=%s timestamp=%s parse_m3u=%s parse_epg=%s parse_xtream=%s",
+        key,
+        stamp,
+        parse_m3u,
+        parse_epg,
+        parse_xtream,
+    )
     refs = load_reference_networks(repo_root)
-    m3u_rows = parse_m3u_inventory(repo_root, profile, stamp, paths.latest_raw, refs)
-    epg_channels, epg_programmes = parse_epg_inventory(profile, stamp, paths.latest_raw, m3u_rows)
+    if parse_m3u:
+        m3u_rows = parse_m3u_inventory(repo_root, profile, stamp, paths.latest_raw, refs, allow_xtream_fallback=parse_xtream)
+    elif parse_xtream:
+        m3u_rows = xtream_api_rows(repo_root, profile, stamp, paths.latest_raw, refs)
+    else:
+        m3u_rows = []
+    if parse_epg:
+        epg_channels, epg_programmes = parse_epg_inventory(profile, stamp, paths.latest_raw, m3u_rows)
+    else:
+        epg_channels, epg_programmes = [], []
     scope_rules = load_scope_rules(paths.scope_dir)
     scoped_rows = apply_scope_rules(m3u_rows, scope_rules)
     group_counts = Counter((row.get("group_title", ""), row.get("item_type", "")) for row in m3u_rows)
@@ -1259,12 +1445,26 @@ def parse_source(repo_root: Path, source_key: str, export_xlsx: bool = True) -> 
         for file_name, (rows, columns) in outputs.items():
             out_path = folder / file_name
             write_tsv(out_path, rows, columns)
-            parse_manifest.append({"source_key": key, "dataset_timestamp": stamp, "artifact": file_name, "path": str(out_path), "rows": str(len(rows)), "status": "ok", "notes": ""})
+            parse_manifest.append(
+                {
+                    "source_key": key,
+                    "dataset_timestamp": stamp,
+                    "artifact": file_name,
+                    "path": str(out_path),
+                    "rows": str(len(rows)),
+                    "status": "ok",
+                    "notes": f"parse_m3u={parse_m3u}; parse_epg={parse_epg}; parse_xtream={parse_xtream}",
+                }
+            )
     write_tsv(paths.scope_dir / "scope_candidates.tsv", scoped_rows, SCOPE_CANDIDATE_FIELDS)
     if not (paths.scope_dir / "focused_channels.tsv").exists():
         write_tsv(paths.scope_dir / "focused_channels.tsv", [row for row in scoped_rows if row.get("scope_action") == "include"], SCOPE_CANDIDATE_FIELDS)
-    feed_manifest = export_filtered_feeds(paths.latest_raw, paths.web_feed_dir, scoped_rows, epg_channels)
-    parse_manifest.append({"source_key": key, "dataset_timestamp": stamp, "artifact": "source_specific_feeds", "path": str(paths.web_feed_dir), "rows": str(feed_manifest.get("included_records", 0)), "status": "ok", "notes": "SmartCDN files untouched"})
+    feed_manifest = {"included_records": 0}
+    if export_feeds:
+        feed_manifest = export_filtered_feeds(paths.latest_raw, paths.web_feed_dir, scoped_rows, epg_channels)
+        parse_manifest.append({"source_key": key, "dataset_timestamp": stamp, "artifact": "source_specific_feeds", "path": str(paths.web_feed_dir), "rows": str(feed_manifest.get("included_records", 0)), "status": "ok", "notes": "SmartCDN files untouched"})
+    else:
+        parse_manifest.append({"source_key": key, "dataset_timestamp": stamp, "artifact": "source_specific_feeds", "path": str(paths.web_feed_dir), "rows": "0", "status": "skipped", "notes": "Feed export skipped by user"})
     for folder in (paths.latest_report, paths.snapshot_report):
         write_tsv(folder / "source_parse_manifest.tsv", parse_manifest, PARSE_MANIFEST_FIELDS)
     xlsx_path = paths.latest_report / "iptv_inventory_review.xlsx"
@@ -1302,6 +1502,7 @@ def parse_source(repo_root: Path, source_key: str, export_xlsx: bool = True) -> 
         "epg_programmes": len(epg_programmes),
         "latest_report": str(paths.latest_report),
         "web_feed_dir": str(paths.web_feed_dir),
+        "feed_exported": export_feeds,
         "xlsx_path": str(xlsx_path) if xlsx_created else "",
     }
 

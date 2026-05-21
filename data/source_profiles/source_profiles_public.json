@@ -1,4 +1,35 @@
 {
   "version": 1,
-  "profiles": []
+  "profiles": [
+    {
+      "source_key": "iptvmeezzy",
+      "source_display_name": "iptvmeezzy",
+      "source_type": "direct_urls",
+      "provider_label": "",
+      "created_at": "2026-05-21T13:22:44Z",
+      "last_fetch_at": "2026-05-21T13:28:39Z",
+      "last_parse_at": "",
+      "server_host": "cf.iptvmeezzy.shop",
+      "m3u_url_redacted": "http://cf.iptvmeezzy.shop/get.php?username=ecf%2A%2A%2A70&password=36b%2A%2A%2Ac2&type=m3u_plus&output=ts",
+      "epg_url_redacted": "",
+      "has_credentials_local": true,
+      "source_status": "archived",
+      "notes": "Archived failed direct-url attempt. Use iptvmeezzy_trial for the captured Xtream API and EPG baseline."
+    },
+    {
+      "source_key": "iptvmeezzy_trial",
+      "source_display_name": "IPTV Meezzy Trial",
+      "source_type": "xtream_codes",
+      "provider_label": "IPTV Meezzy",
+      "created_at": "2026-05-21T13:21:58Z",
+      "last_fetch_at": "2026-05-21T13:24:24Z",
+      "last_parse_at": "2026-05-21T13:38:29Z",
+      "server_host": "cf.iptvmeezzy.shop",
+      "m3u_url_redacted": "http://cf.iptvmeezzy.shop/get.php?username=ecf%2A%2A%2A70&password=36b%2A%2A%2Ac2&type=m3u_plus&output=hls",
+      "epg_url_redacted": "http://cf.iptvmeezzy.shop/xmltv.php?username=ecf%2A%2A%2A70&password=36b%2A%2A%2Ac2",
+      "has_credentials_local": true,
+      "source_status": "parsed",
+      "notes": "Trial provider baseline captured from user-provided Xtream M3U URL. Public metadata is redacted; credentials are local/private only."
+    }
+  ]
 }
