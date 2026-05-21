@@ -44,6 +44,9 @@ temp/
 .DS_Store
 Thumbs.db
 
+# Local IPTV provider credentials/private URLs
+data/source_profiles/source_profiles.private.json
+
 # Cleanup quarantine
 _cleanup_quarantine/
 

@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IPTV Multi-Source Parser Workflow</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.45; margin: 24px; max-width: 1180px; }
+    code, pre { background: #f3f3f3; }
+    code { padding: 1px 4px; }
+    pre { padding: 12px; overflow: auto; }
+    table { border-collapse: collapse; width: 100%; margin: 12px 0 22px; }
+    th, td { border: 1px solid #ccc; padding: 7px; vertical-align: top; text-align: left; }
+    th { background: #eee; }
+  </style>
+</head>
+<body>
+  <h1>IPTV Multi-Source Parser Workflow</h1>
+
+  <h2>Purpose</h2>
+  <p>This workflow extends the existing M3U and XMLTV tooling into a source-profile based IPTV inventory system. Each provider is fetched, parsed, reviewed, scoped, and published in its own folder so one provider cannot overwrite another provider or the existing SmartCDN feed outputs.</p>
+
+  <h2>Supported Source Types</h2>
+  <table>
+    <tr><th>Type</th><th>Inputs</th><th>Derived values</th></tr>
+    <tr><td><code>direct_urls</code></td><td>M3U URL and optional XMLTV URL</td><td>Redacted public URL metadata only</td></tr>
+    <tr><td><code>xtream_codes</code></td><td>Display name, source key, server URL, username, password</td><td><code>/get.php</code> M3U URL, <code>/xmltv.php</code> EPG URL, and <code>/player_api.php</code> API base</td></tr>
+  </table>
+
+  <h2>Source Profile Model</h2>
+  <p>Public source profiles are stored in <code>data/source_profiles/source_profiles_public.json</code>. The public file contains only sanitized metadata: <code>source_key</code>, <code>source_display_name</code>, <code>source_type</code>, <code>provider_label</code>, timestamps, <code>server_host</code>, redacted URLs, credential presence, status, and notes.</p>
+  <p>Private source values are stored locally in <code>data/source_profiles/source_profiles.private.json</code>. That file is gitignored and is created by the GUI when credentials or raw feed URLs are saved.</p>
+
+  <h2>Folder Structure</h2>
+  <pre><code>data/provider_feeds/{source_key}/raw/latest/
+data/provider_feeds/{source_key}/raw/snapshots/{timestamp}/
+reports/provider_inventory/{source_key}/latest/
+reports/provider_inventory/{source_key}/snapshots/{timestamp}/
+data/channel_scope/{source_key}/
+web/feeds/{source_key}/</code></pre>
+  <p>The stable SmartCDN files under <code>web/feeds/smartcdn.*</code> remain separate and are not overwritten by this workflow.</p>
+
+  <h2>Private Credential Handling</h2>
+  <ul>
+    <li>Do not commit raw M3U URLs that include usernames, passwords, tokens, or API keys.</li>
+    <li>Use the GUI to save provider credentials into the gitignored private profile file.</li>
+    <li>Public reports and manifests use redacted URLs.</li>
+    <li>Local parser TSVs may contain raw stream URLs because they are local review outputs under provider-specific folders.</li>
+  </ul>
+
+  <h2>Fetch Workflow</h2>
+  <ol>
+    <li>Open <code>scripts/iptv_multi_source_gui.py</code>.</li>
+    <li>Add or select a source profile.</li>
+    <li>Save the source so public metadata and local private values are split correctly.</li>
+    <li>Use Fetch M3U, Fetch EPG, Fetch Xtream API metadata, or Fetch all.</li>
+    <li>Review <code>source_fetch_manifest.tsv</code> in the latest report folder.</li>
+  </ol>
+
+  <h2>Parse Workflow</h2>
+  <ol>
+    <li>Fetch source data or place local files in <code>data/provider_feeds/{source_key}/raw/latest/</code>.</li>
+    <li>Run Parse all in the GUI or <code>python -m backend.iptv_multi_source parse --source-key {source_key}</code>.</li>
+    <li>Review TSV outputs under <code>reports/provider_inventory/{source_key}/latest/</code>.</li>
+    <li>Apply or edit scope rules in <code>data/channel_scope/{source_key}/scope_rules.tsv</code>.</li>
+    <li>Parse again to refresh <code>scope_candidates.tsv</code> and source-specific filtered feeds.</li>
+  </ol>
+
+  <h2>TSV Output Dictionary</h2>
+  <table>
+    <tr><th>TSV</th><th>Purpose</th></tr>
+    <tr><td><code>all_stream_records.tsv</code></td><td>Every parsed M3U stream record with source, EXTINF, URL, classification, EPG match, network, country, language, and scope candidate fields.</td></tr>
+    <tr><td><code>live_tv_channels.tsv</code></td><td>Rows classified as live TV.</td></tr>
+    <tr><td><code>vod_movies.tsv</code></td><td>Rows classified as VOD movies.</td></tr>
+    <tr><td><code>series.tsv</code></td><td>Rows classified as series.</td></tr>
+    <tr><td><code>series_episodes.tsv</code></td><td>Rows classified as series episodes.</td></tr>
+    <tr><td><code>epg_channels.tsv</code></td><td>XMLTV channel records and M3U match status.</td></tr>
+    <tr><td><code>epg_programmes.tsv</code></td><td>XMLTV programme records, dates, categories, credits, ratings, audio, subtitle, and event flags.</td></tr>
+    <tr><td><code>m3u_group_summary.tsv</code></td><td>Counts by group and item type.</td></tr>
+    <tr><td><code>network_match_audit.tsv</code></td><td>Network candidate text and repo-reference match method.</td></tr>
+    <tr><td><code>country_language_audit.tsv</code></td><td>Raw and normalized country/language values with derivation method and confidence.</td></tr>
+    <tr><td><code>source_fetch_manifest.tsv</code></td><td>Fetched files, redacted URLs, bytes, hash, and status.</td></tr>
+    <tr><td><code>source_parse_manifest.tsv</code></td><td>Parser outputs, row counts, status, and notes.</td></tr>
+    <tr><td><code>scope_candidates.tsv</code></td><td>All stream records plus scope action and reason.</td></tr>
+  </table>
+
+  <h2>Network, Country, and Language Derivation Rules</h2>
+  <p>Network matching uses existing repo reference data from <code>data/channel_scope/focused_channels.csv</code> and <code>data/channel_scope/focused_channels.json</code> when present. The matching order is exact alias, normalized alias, then no match. If no reference match exists, <code>network_normalized</code> is blank, <code>network_match_method</code> is <code>none</code>, and confidence is <code>0</code>.</p>
+  <p>Country and language values are populated only from deterministic source tokens, XMLTV fields, Xtream metadata, repo reference network-country values, or an explicitly configured future source default. The audit TSV records raw value, normalized value, method, and confidence.</p>
+
+  <h2>Scoping and Filtering Model</h2>
+  <p>Rules live in <code>data/channel_scope/{source_key}/scope_rules.tsv</code> and support <code>include</code> or <code>exclude</code>, field name, operator, value, case sensitivity, enabled state, and notes. Operators are <code>equals</code>, <code>contains</code>, <code>starts_with</code>, <code>ends_with</code>, <code>regex</code>, <code>in_list</code>, and <code>not_equals</code>.</p>
+
+  <h2>Source-Specific Feed Publishing</h2>
+  <p>Filtered outputs are written only to <code>web/feeds/{source_key}/playlist.m3u</code>, <code>playlist.m3u8</code>, <code>epg.xml</code>, <code>index.html</code>, and <code>manifest.json</code>. SmartCDN files are intentionally not touched by this source-specific parser.</p>
+
+  <h2>Validation Commands</h2>
+  <pre><code>python -m py_compile backend/iptv_multi_source.py scripts/iptv_multi_source_gui.py scripts/validate_iptv_multi_source.py
+python scripts/validate_iptv_multi_source.py
+python -m backend.iptv_multi_source validate --source-key {source_key}</code></pre>
+
+  <h2>Troubleshooting</h2>
+  <ul>
+    <li>If a fetch fails, check <code>logs/source_fetch.log.txt</code> and confirm the private profile has the real server, username, and password.</li>
+    <li>If XMLTV parsing fails, validate that <code>data/provider_feeds/{source_key}/raw/latest/epg.xml</code> is XMLTV and not an HTML error page.</li>
+    <li>If network matches are blank, review <code>network_match_audit.tsv</code>; blank matches mean no repo reference matched.</li>
+    <li>If filtered output is too broad, add exclude rules or include rules and parse again.</li>
+  </ul>
+
+  <h2>Manual Workflow for Adding a New Trial Provider</h2>
+  <ol>
+    <li>Launch <code>python scripts/iptv_multi_source_gui.py</code>.</li>
+    <li>Click Add source.</li>
+    <li>Set Source type to <code>xtream_codes</code>.</li>
+    <li>Enter source display name, source key, server URL, username, and password from the provider when available.</li>
+    <li>Click Save source, then Show redacted URLs.</li>
+    <li>Click Fetch all, then Parse all.</li>
+    <li>Review the TSVs under <code>reports/provider_inventory/{source_key}/latest/</code>.</li>
+  </ol>
+</body>
+</html>
