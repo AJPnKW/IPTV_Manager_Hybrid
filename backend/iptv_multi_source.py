@@ -10,6 +10,7 @@ import re
 import shutil
 import urllib.parse
 import urllib.request
+import zipfile
 import xml.etree.ElementTree as ET
 from collections import Counter
 from dataclasses import dataclass
@@ -213,6 +214,21 @@ COUNTRY_LANGUAGE_AUDIT_FIELDS = [
 ]
 SCOPE_RULE_FIELDS = ["action", "field_name", "operator", "value", "case_sensitive", "enabled", "notes"]
 SCOPE_CANDIDATE_FIELDS = ALL_STREAM_FIELDS + ["scope_action", "scope_reason"]
+REQUIRED_TSV_OUTPUTS = {
+    "all_stream_records.tsv": ALL_STREAM_FIELDS,
+    "live_tv_channels.tsv": ALL_STREAM_FIELDS,
+    "vod_movies.tsv": ALL_STREAM_FIELDS,
+    "series.tsv": ALL_STREAM_FIELDS,
+    "series_episodes.tsv": ALL_STREAM_FIELDS,
+    "epg_channels.tsv": EPG_CHANNEL_FIELDS,
+    "epg_programmes.tsv": EPG_PROGRAMME_FIELDS,
+    "m3u_group_summary.tsv": GROUP_SUMMARY_FIELDS,
+    "network_match_audit.tsv": NETWORK_AUDIT_FIELDS,
+    "country_language_audit.tsv": COUNTRY_LANGUAGE_AUDIT_FIELDS,
+    "source_fetch_manifest.tsv": FETCH_MANIFEST_FIELDS,
+    "source_parse_manifest.tsv": PARSE_MANIFEST_FIELDS,
+    "scope_candidates.tsv": SCOPE_CANDIDATE_FIELDS,
+}
 
 
 @dataclass(frozen=True)
@@ -243,6 +259,38 @@ def clean_source_key(value: str) -> str:
     if not key:
         raise ValueError("source_key is required")
     return key
+
+
+def clean_pasted_url(value: str) -> str:
+    return normalize_space(value).strip().strip('"').strip("'").strip("<>").strip()
+
+
+def human_label_from_host(host: str) -> str:
+    host = (host or "").lower().strip(".")
+    parts = [part for part in host.split(".") if part]
+    if not parts:
+        return ""
+    ignored = {"www", "cf", "cdn", "api", "panel", "portal", "server", "iptv"}
+    name_part = next((part for part in parts if part not in ignored), parts[0])
+    words: list[str] = []
+    if name_part.startswith("iptv") and len(name_part) > 4:
+        words.append("IPTV")
+        remainder = name_part[4:]
+    else:
+        remainder = name_part
+        if name_part == "iptv":
+            words.append("IPTV")
+            remainder = ""
+    words.extend(part for part in re.split(r"[-_]+", remainder) if part)
+    return " ".join(word.upper() if word.lower() == "iptv" else word.capitalize() for word in words).strip()
+
+
+def source_key_from_host(host: str) -> str:
+    host = (host or "").lower().strip(".")
+    parts = [part for part in host.split(".") if part]
+    ignored = {"www", "cf", "cdn", "api", "panel", "portal", "server"}
+    candidate = next((part for part in parts if part not in ignored), parts[0] if parts else "")
+    return clean_source_key(candidate)
 
 
 def normalize_space(value: Any) -> str:
@@ -373,6 +421,47 @@ def derive_xtream_urls(server_url: str, username: str, password: str) -> dict[st
     }
 
 
+def analyze_source_url(url: str) -> dict[str, str]:
+    cleaned = clean_pasted_url(url)
+    if not cleaned:
+        raise ValueError("Paste a playlist, TV guide, or Xtream API URL first.")
+    parsed = urllib.parse.urlsplit(cleaned)
+    if parsed.scheme not in {"http", "https"} or not parsed.netloc:
+        raise ValueError("The pasted value is not a valid http or https URL.")
+    query_pairs = urllib.parse.parse_qsl(parsed.query, keep_blank_values=True)
+    query = dict(query_pairs)
+    username = query.get("username", "")
+    password = query.get("password", "")
+    server = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, "", "", "")).rstrip("/")
+    derived = derive_xtream_urls(server, username, password) if username or password else {"m3u_url": "", "epg_url": "", "api_base": ""}
+    path = parsed.path.lower()
+    source_type = "xtream_codes" if username and password and path.endswith(("/get.php", "/xmltv.php", "/player_api.php")) else "direct_urls"
+    m3u_url = cleaned if path.endswith("/get.php") else derived.get("m3u_url", "")
+    epg_url = cleaned if path.endswith("/xmltv.php") else derived.get("epg_url", "")
+    api_base = cleaned if path.endswith("/player_api.php") else derived.get("api_base", "")
+    if path.endswith("/player_api.php") and query:
+        base_query = urllib.parse.urlencode([(key, value) for key, value in query_pairs if key.lower() not in {"action"}])
+        api_base = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, parsed.path, base_query, ""))
+    host = parsed.hostname or ""
+    display_name = human_label_from_host(host) or host
+    return {
+        "source_display_name": display_name,
+        "source_key": source_key_from_host(host),
+        "source_type": source_type,
+        "provider_label": display_name,
+        "server_url": server,
+        "server_host": host,
+        "username": username,
+        "password": password,
+        "m3u_url": m3u_url,
+        "epg_url": epg_url,
+        "api_base": api_base,
+        "m3u_url_redacted": redact_url(m3u_url),
+        "epg_url_redacted": redact_url(epg_url),
+        "api_base_redacted": redact_url(api_base),
+    }
+
+
 def resolve_source_urls(repo_root: Path, source_key: str) -> dict[str, str]:
     key = clean_source_key(source_key)
     public = load_public_profiles(repo_root).get(key, {})
@@ -466,6 +555,35 @@ def delete_source_profile(repo_root: Path, source_key: str, delete_private: bool
         "removed_private_profile": bool(removed_private),
         "datasets_preserved": True,
     }
+
+
+def duplicate_source_profile(repo_root: Path, source_key: str, new_source_key: str | None = None) -> dict[str, Any]:
+    profiles = load_public_profiles(repo_root)
+    private_profiles = load_private_profiles(repo_root)
+    key = clean_source_key(source_key)
+    if key not in profiles:
+        raise ValueError(f"Unknown source profile: {key}")
+    target = clean_source_key(new_source_key or f"{key}_copy")
+    suffix = 2
+    base = target
+    while target in profiles:
+        target = clean_source_key(f"{base}_{suffix}")
+        suffix += 1
+    public = dict(profiles[key])
+    public["source_key"] = target
+    public["source_display_name"] = normalize_space(f"{public.get('source_display_name', key)} Copy")
+    public["created_at"] = utc_iso()
+    public["last_fetch_at"] = ""
+    public["last_parse_at"] = ""
+    public["source_status"] = "configured"
+    profiles[target] = public
+    if key in private_profiles:
+        private = dict(private_profiles[key])
+        private["source_key"] = target
+        private_profiles[target] = private
+        save_private_profiles(repo_root, private_profiles)
+    save_public_profiles(repo_root, profiles)
+    return public
 
 
 def configure_logger(repo_root: Path, name: str, file_name: str) -> logging.Logger:
@@ -1525,12 +1643,147 @@ def local_dataset_status(repo_root: Path, source_key: str) -> dict[str, Any]:
     }
 
 
+def read_tsv_rows(path: Path) -> list[dict[str, str]]:
+    if not path.exists():
+        return []
+    with path.open("r", encoding="utf-8-sig", newline="") as handle:
+        return [dict(row) for row in csv.DictReader(handle, delimiter="\t")]
+
+
+def tsv_row_count(path: Path) -> int:
+    if not path.exists() or path.stat().st_size == 0:
+        return 0
+    with path.open("r", encoding="utf-8-sig", errors="replace") as handle:
+        return max(sum(1 for _line in handle) - 1, 0)
+
+
+def latest_report_counts(repo_root: Path, source_key: str) -> dict[str, Any]:
+    key = clean_source_key(source_key)
+    paths = source_paths(repo_root, key, "summary")
+    manifest_rows = read_tsv_rows(paths.latest_report / "source_parse_manifest.tsv")
+    counts = {row.get("artifact", ""): int(row.get("rows") or 0) for row in manifest_rows if row.get("artifact")}
+    fetch_rows = read_tsv_rows(paths.latest_report / "source_fetch_manifest.tsv")
+    return {
+        "source_key": key,
+        "report_exists": paths.latest_report.exists(),
+        "latest_report": str(paths.latest_report),
+        "m3u_records": counts.get("all_stream_records.tsv", 0),
+        "live_tv": counts.get("live_tv_channels.tsv", 0),
+        "movies": counts.get("vod_movies.tsv", 0),
+        "series": counts.get("series.tsv", 0),
+        "series_episodes": counts.get("series_episodes.tsv", 0),
+        "epg_channels": counts.get("epg_channels.tsv", 0),
+        "epg_programmes": counts.get("epg_programmes.tsv", 0),
+        "groups": counts.get("m3u_group_summary.tsv", 0),
+        "fetch_ok": sum(1 for row in fetch_rows if row.get("status") in {"ok", "local_existing_file"}),
+        "fetch_errors": sum(1 for row in fetch_rows if row.get("status") == "error"),
+        "fetch_skipped": sum(1 for row in fetch_rows if row.get("status") == "skipped"),
+    }
+
+
+def scope_value_counts(repo_root: Path, source_key: str, field_name: str, search: str = "", limit: int = 1000) -> list[dict[str, Any]]:
+    key = clean_source_key(source_key)
+    field = field_name if field_name in SCOPE_CANDIDATE_FIELDS else "group_title"
+    rows = read_tsv_rows(source_paths(repo_root, key, "values").latest_report / "scope_candidates.tsv")
+    counter: Counter[str] = Counter()
+    search_key = normalize_token(search)
+    for row in rows:
+        value = normalize_space(row.get(field, ""))
+        display = value if value else "(blank / unknown)"
+        if search_key and search_key not in normalize_token(display):
+            continue
+        counter[display] += 1
+    return [{"value": value, "count": count} for value, count in counter.most_common(limit)]
+
+
+def preview_scope_rule_count(repo_root: Path, source_key: str, field_name: str, operator: str, values: list[str], case_sensitive: bool = False) -> int:
+    key = clean_source_key(source_key)
+    rows = read_tsv_rows(source_paths(repo_root, key, "preview").latest_report / "scope_candidates.tsv")
+    if not values:
+        return 0
+    value = ",".join("" if item == "(blank / unknown)" else item for item in values)
+    rule = {
+        "field_name": field_name,
+        "operator": "in_list" if len(values) > 1 else operator,
+        "value": value,
+        "case_sensitive": "Y" if case_sensitive else "N",
+        "enabled": "Y",
+    }
+    return sum(1 for row in rows if rule_matches(row, rule))
+
+
+def validate_reports(repo_root: Path, source_key: str) -> dict[str, Any]:
+    key = clean_source_key(source_key)
+    paths = source_paths(repo_root, key, "reports")
+    errors: list[str] = []
+    warnings: list[str] = []
+    manifest = {row.get("artifact", ""): row for row in read_tsv_rows(paths.latest_report / "source_parse_manifest.tsv")}
+    if not paths.latest_report.exists():
+        errors.append(f"latest_report_folder_missing:{key}")
+    for file_name, expected_headers in REQUIRED_TSV_OUTPUTS.items():
+        path = paths.latest_report / file_name
+        if not path.exists():
+            errors.append(f"required_tsv_missing:{key}:{file_name}")
+            continue
+        with path.open("r", encoding="utf-8-sig", errors="replace") as handle:
+            header = handle.readline().rstrip("\n\r").split("\t") if path.stat().st_size else []
+        if header != expected_headers:
+            errors.append(f"required_headers_mismatch:{key}:{file_name}")
+        if file_name in manifest:
+            actual = tsv_row_count(path)
+            expected = int(manifest[file_name].get("rows") or 0)
+            if actual != expected:
+                errors.append(f"row_count_mismatch:{key}:{file_name}:{actual}:{expected}")
+    return {"ok": not errors, "errors": errors, "warnings": warnings, "latest_report": str(paths.latest_report)}
+
+
+def export_tsv_package(repo_root: Path, source_key: str) -> dict[str, Any]:
+    key = clean_source_key(source_key)
+    paths = source_paths(repo_root, key, utc_stamp())
+    package_dir = repo_root / "reports" / "provider_inventory" / key / "packages"
+    package_dir.mkdir(parents=True, exist_ok=True)
+    package_path = package_dir / f"{key}_tsv_package_{utc_stamp()}.zip"
+    files = [paths.latest_report / name for name in REQUIRED_TSV_OUTPUTS]
+    with zipfile.ZipFile(package_path, "w", compression=zipfile.ZIP_DEFLATED) as bundle:
+        for path in files:
+            if path.exists():
+                bundle.write(path, arcname=path.name)
+    return {"source_key": key, "package_path": str(package_path), "file_count": len(files)}
+
+
+def run_full_inventory(repo_root: Path, source_key: str) -> dict[str, Any]:
+    key = clean_source_key(source_key)
+    preflight = validate_source_workflow(repo_root, key)
+    fetch_result = fetch_source(repo_root, key, True, True, True)
+    parse_result = parse_source(repo_root, key, True, True, True, True, True)
+    report_validation = validate_reports(repo_root, key)
+    final_validation = validate_source_workflow(repo_root, key)
+    return {
+        "source_key": key,
+        "preflight": preflight,
+        "fetch": fetch_result,
+        "parse": parse_result,
+        "report_validation": report_validation,
+        "validation": final_validation,
+        "latest_report": parse_result.get("latest_report", ""),
+        "ok": report_validation.get("ok", False) and final_validation.get("ok", False),
+    }
+
+
 def validate_source_workflow(repo_root: Path, source_key: str | None = None) -> dict[str, Any]:
     ensure_base_files(repo_root)
     profiles = load_public_profiles(repo_root)
-    keys = [clean_source_key(source_key)] if source_key else sorted(profiles)
+    keys = [clean_source_key(source_key)] if source_key else sorted(key for key, profile in profiles.items() if profile.get("source_status") != "archived")
     errors: list[str] = []
     warnings: list[str] = []
+    try:
+        sample = analyze_source_url("https://cf.example-provider.test/get.php?username=user%40mail&password=pass%2Bword&type=m3u_plus&output=ts")
+        if sample.get("source_key") != "example-provider" or sample.get("username") != "user@mail" or sample.get("password") != "pass+word":
+            errors.append("url_analysis_self_test_failed")
+        if not sample.get("epg_url") or not sample.get("api_base"):
+            errors.append("url_analysis_missing_derived_urls")
+    except Exception as exc:
+        errors.append(f"url_analysis_self_test_error:{exc}")
     public_path = profile_public_path(repo_root)
     try:
         load_json(public_path, {})
@@ -1569,25 +1822,12 @@ def validate_source_workflow(repo_root: Path, source_key: str | None = None) -> 
                     warnings.append(f"epg_programme_count_zero:{key}")
             except ET.ParseError as exc:
                 errors.append(f"epg_xml_parse_error:{key}:{exc}")
-        required = [
-            "all_stream_records.tsv",
-            "live_tv_channels.tsv",
-            "vod_movies.tsv",
-            "series.tsv",
-            "series_episodes.tsv",
-            "epg_channels.tsv",
-            "epg_programmes.tsv",
-            "m3u_group_summary.tsv",
-            "network_match_audit.tsv",
-            "country_language_audit.tsv",
-            "source_fetch_manifest.tsv",
-            "source_parse_manifest.tsv",
-            "scope_candidates.tsv",
-        ]
-        for file_name in required:
+        report_result = validate_reports(repo_root, key)
+        errors.extend(report_result["errors"])
+        warnings.extend(report_result["warnings"])
+        for file_name in REQUIRED_TSV_OUTPUTS:
             path = paths.latest_report / file_name
             if not path.exists():
-                warnings.append(f"required_tsv_missing:{key}:{file_name}")
                 continue
             first = path.read_text(encoding="utf-8-sig", errors="replace").splitlines()[0] if path.stat().st_size else ""
             if "\t" not in first and file_name not in {"source_fetch_manifest.tsv", "source_parse_manifest.tsv"}:
@@ -1603,9 +1843,10 @@ def main(argv: list[str] | None = None) -> int:
     import argparse
 
     parser = argparse.ArgumentParser(description="Multi-source IPTV inventory workflow")
-    parser.add_argument("command", choices=["init", "fetch", "parse", "validate", "status"])
+    parser.add_argument("command", choices=["init", "fetch", "parse", "validate", "validate-reports", "status", "analyze-url", "package", "full"])
     parser.add_argument("--repo-root", type=Path, default=repo_root_from_here())
     parser.add_argument("--source-key", default="")
+    parser.add_argument("--url", default="")
     args = parser.parse_args(argv)
     repo_root = args.repo_root.resolve()
     if args.command == "init":
@@ -1621,6 +1862,20 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "status":
         print(json.dumps(local_dataset_status(repo_root, args.source_key), indent=2))
         return 0
+    if args.command == "analyze-url":
+        print(json.dumps(analyze_source_url(args.url), indent=2))
+        return 0
+    if args.command == "validate-reports":
+        result = validate_reports(repo_root, args.source_key)
+        print(json.dumps(result, indent=2))
+        return 0 if result["ok"] else 1
+    if args.command == "package":
+        print(json.dumps(export_tsv_package(repo_root, args.source_key), indent=2))
+        return 0
+    if args.command == "full":
+        result = run_full_inventory(repo_root, args.source_key)
+        print(json.dumps(result, indent=2))
+        return 0 if result["ok"] else 1
     if args.command == "validate":
         result = validate_source_workflow(repo_root, args.source_key or None)
         print(json.dumps(result, indent=2))
